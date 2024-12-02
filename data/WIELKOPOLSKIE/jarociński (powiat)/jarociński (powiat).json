@@ -1,0 +1,51 @@
+[
+  {
+    "idtech": "014",
+    "idgmina": "01",
+    "nazwa": "Jaraczewo",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "015",
+    "idgmina": "01",
+    "nazwa": "Jaraczewo",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "024",
+    "idgmina": "02",
+    "nazwa": "Jarocin",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "025",
+    "idgmina": "02",
+    "nazwa": "Jarocin",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Kotlin",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "044",
+    "idgmina": "04",
+    "nazwa": "Żerków",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "045",
+    "idgmina": "04",
+    "nazwa": "Żerków",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  }
+]

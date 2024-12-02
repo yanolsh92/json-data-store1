@@ -1,0 +1,79 @@
+[
+  {
+    "idtech": "024",
+    "idgmina": "02",
+    "nazwa": "Jastrowie",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "025",
+    "idgmina": "02",
+    "nazwa": "Jastrowie",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "034",
+    "idgmina": "03",
+    "nazwa": "Krajenka",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "035",
+    "idgmina": "03",
+    "nazwa": "Krajenka",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Lipka",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Okonek",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Okonek",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Tarnówka",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "072",
+    "idgmina": "07",
+    "nazwa": "Zakrzewo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Złotów",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "082",
+    "idgmina": "08",
+    "nazwa": "Złotów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

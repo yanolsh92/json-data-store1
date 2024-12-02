@@ -1,0 +1,86 @@
+[
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Brzeźnica",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Gozdnica",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "044",
+    "idgmina": "04",
+    "nazwa": "Iłowa",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "045",
+    "idgmina": "04",
+    "nazwa": "Iłowa",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Małomice",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Małomice",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Niegosławice",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "074",
+    "idgmina": "07",
+    "nazwa": "Szprotawa",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "075",
+    "idgmina": "07",
+    "nazwa": "Szprotawa",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "082",
+    "idgmina": "08",
+    "nazwa": "Wymiarki",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "021",
+    "idgmina": "02",
+    "nazwa": "Żagań",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "092",
+    "idgmina": "09",
+    "nazwa": "Żagań",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

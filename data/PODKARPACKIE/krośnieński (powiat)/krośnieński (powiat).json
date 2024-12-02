@@ -1,0 +1,100 @@
+[
+  {
+    "idtech": "012",
+    "idgmina": "01",
+    "nazwa": "Chorkówka",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "024",
+    "idgmina": "02",
+    "nazwa": "Dukla",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "025",
+    "idgmina": "02",
+    "nazwa": "Dukla",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "034",
+    "idgmina": "03",
+    "nazwa": "Iwonicz-Zdrój",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "035",
+    "idgmina": "03",
+    "nazwa": "Iwonicz-Zdrój",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "102",
+    "idgmina": "10",
+    "nazwa": "Jaśliska",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "044",
+    "idgmina": "04",
+    "nazwa": "Jedlicze",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "045",
+    "idgmina": "04",
+    "nazwa": "Jedlicze",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Korczyna",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Krościenko Wyżne",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "072",
+    "idgmina": "07",
+    "nazwa": "Miejsce Piastowe",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "084",
+    "idgmina": "08",
+    "nazwa": "Rymanów",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "085",
+    "idgmina": "08",
+    "nazwa": "Rymanów",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "092",
+    "idgmina": "09",
+    "nazwa": "Wojaszówka",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

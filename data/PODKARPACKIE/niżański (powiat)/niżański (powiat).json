@@ -1,0 +1,72 @@
+[
+  {
+    "idtech": "012",
+    "idgmina": "01",
+    "nazwa": "Harasiuki",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Jarocin",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Jeżowe",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Krzeszów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Nisko",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Nisko",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "064",
+    "idgmina": "06",
+    "nazwa": "Rudnik nad Sanem",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "065",
+    "idgmina": "06",
+    "nazwa": "Rudnik nad Sanem",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "074",
+    "idgmina": "07",
+    "nazwa": "Ulanów",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "075",
+    "idgmina": "07",
+    "nazwa": "Ulanów",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  }
+]

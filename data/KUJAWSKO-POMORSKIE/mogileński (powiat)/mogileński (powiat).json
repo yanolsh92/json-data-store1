@@ -1,0 +1,44 @@
+[
+  {
+    "idtech": "012",
+    "idgmina": "01",
+    "nazwa": "Dąbrowa",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Jeziora Wielkie",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "034",
+    "idgmina": "03",
+    "nazwa": "Mogilno",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "035",
+    "idgmina": "03",
+    "nazwa": "Mogilno",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "044",
+    "idgmina": "04",
+    "nazwa": "Strzelno",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "045",
+    "idgmina": "04",
+    "nazwa": "Strzelno",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  }
+]

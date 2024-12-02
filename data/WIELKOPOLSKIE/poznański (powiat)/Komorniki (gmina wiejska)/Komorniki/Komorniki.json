@@ -1,0 +1,672 @@
+[
+  {
+    "idulica": "00157",
+    "nazwa": "Akacjowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00518",
+    "nazwa": "Azaliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00569",
+    "nazwa": "Krzysztofa Kamila Baczyńskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01528",
+    "nazwa": "Boczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01874",
+    "nazwa": "Borówkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02225",
+    "nazwa": "Jana Brzechwy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02264",
+    "nazwa": "Brzoskwiniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02657",
+    "nazwa": "Chabrowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03114",
+    "nazwa": "Cmentarna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03191",
+    "nazwa": "Cyprysowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03371",
+    "nazwa": "Czeremchowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "37367",
+    "nazwa": "Stefanii Czubryj",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36137",
+    "nazwa": "Gottlieba Daimlera",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03826",
+    "nazwa": "Diamentowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04314",
+    "nazwa": "Drzymały",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04858",
+    "nazwa": "Fabianowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05027",
+    "nazwa": "Fiołkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "30908",
+    "nazwa": "Forsycjowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05466",
+    "nazwa": "Gerwazego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32048",
+    "nazwa": "ks. Gładysza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32819",
+    "nazwa": "Horeszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07059",
+    "nazwa": "Jagodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07097",
+    "nazwa": "Jałowcowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07178",
+    "nazwa": "Jankiela",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07380",
+    "nazwa": "Jaśminowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07506",
+    "nazwa": "Jesionowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07535",
+    "nazwa": "Jeziorna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07562",
+    "nazwa": "Jeżynowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "38970",
+    "nazwa": "Ignacego D. Kaczmarka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07804",
+    "nazwa": "Kalinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08171",
+    "nazwa": "Kasztanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08574",
+    "nazwa": "Klonowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08828",
+    "nazwa": "Kolejowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08979",
+    "nazwa": "Kolorowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08986",
+    "nazwa": "Krzysztofa Kolumba",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09070",
+    "nazwa": "Komornicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09223",
+    "nazwa": "Konwaliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09325",
+    "nazwa": "Korczaka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09546",
+    "nazwa": "Kościelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09869",
+    "nazwa": "Kraszewskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09946",
+    "nazwa": "Krokusowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10009",
+    "nazwa": "Krótka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10081",
+    "nazwa": "Kryształowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10562",
+    "nazwa": "Kwiatowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "61116",
+    "nazwa": "Leśnej Aury",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11067",
+    "nazwa": "Liliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11139",
+    "nazwa": "Lipowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11347",
+    "nazwa": "Lubońska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11843",
+    "nazwa": "Maciejkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11891",
+    "nazwa": "Magazynowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11908",
+    "nazwa": "Magnoliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11937",
+    "nazwa": "3 Maja",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12065",
+    "nazwa": "Malinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12072",
+    "nazwa": "ks. Malinowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12096",
+    "nazwa": "Malwowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12505",
+    "nazwa": "Matowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12765",
+    "nazwa": "Miedziana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "54059",
+    "nazwa": "Mieszka I i Dobrawy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12964",
+    "nazwa": "Czesława Miłosza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12991",
+    "nazwa": "Miodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13132",
+    "nazwa": "Młyńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13285",
+    "nazwa": "Morenowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36088",
+    "nazwa": "Nad Wirynką",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14281",
+    "nazwa": "Nizinna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14330",
+    "nazwa": "Nowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "41249",
+    "nazwa": "Stanisława Nowaka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35473",
+    "nazwa": "Ognikowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15463",
+    "nazwa": "Otwarta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15611",
+    "nazwa": "Pana Tadeusza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "55482",
+    "nazwa": "Panny Zosi",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15648",
+    "nazwa": "Pańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "44671",
+    "nazwa": "Park Strażaka",
+    "rodzaj": "park"
+  },
+  {
+    "idulica": "15765",
+    "nazwa": "Pasieki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16033",
+    "nazwa": "Piaskowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16046",
+    "nazwa": "Piastowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16455",
+    "nazwa": "Platynowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16579",
+    "nazwa": "Pocztowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16799",
+    "nazwa": "Podleśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16900",
+    "nazwa": "Pogodna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17011",
+    "nazwa": "Polna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17261",
+    "nazwa": "Haliny Poświatowskiej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17390",
+    "nazwa": "Poziomkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17394",
+    "nazwa": "Poznańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17557",
+    "nazwa": "Protazego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17742",
+    "nazwa": "Przemysłowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39250",
+    "nazwa": "Księdza Robaka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "48221",
+    "nazwa": "Św. Rocha",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "55458",
+    "nazwa": "Rondo 100-lecia Powstania Wielkopolskiego",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "54061",
+    "nazwa": "Rondo Biskupa Jordana",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "44726",
+    "nazwa": "Rondo Wielkiej Orkiestry Świątecznej Pomocy",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "18876",
+    "nazwa": "Rosnowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19404",
+    "nazwa": "Sadowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19830",
+    "nazwa": "Sienkiewicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20060",
+    "nazwa": "Składowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20598",
+    "nazwa": "Sosnowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20641",
+    "nazwa": "Spacerowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20677",
+    "nazwa": "Spokojna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20697",
+    "nazwa": "Spółdzielcze",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "20732",
+    "nazwa": "Srebrna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20798",
+    "nazwa": "Leopolda Staffa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21065",
+    "nazwa": "Staszica",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21099",
+    "nazwa": "Stawna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21246",
+    "nazwa": "Storczykowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29356",
+    "nazwa": "Wisławy Szymborskiej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22739",
+    "nazwa": "Telimeny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22880",
+    "nazwa": "Topolowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22907",
+    "nazwa": "Towarowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23033",
+    "nazwa": "Truskawkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23129",
+    "nazwa": "Tulipanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23196",
+    "nazwa": "Juliana Tuwima",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23695",
+    "nazwa": "Warsztatowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23795",
+    "nazwa": "Wąska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23758",
+    "nazwa": "ks. Piotra Wawrzyniaka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23989",
+    "nazwa": "Wichrowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24012",
+    "nazwa": "Widokowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "48207",
+    "nazwa": "Benedykta Wielocha",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24170",
+    "nazwa": "Wierzbowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24364",
+    "nazwa": "Wiosenna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24378",
+    "nazwa": "Wirowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24412",
+    "nazwa": "Wiśniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24870",
+    "nazwa": "Wrzosowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24885",
+    "nazwa": "Wspólna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "53756",
+    "nazwa": "Za lasem",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26375",
+    "nazwa": "Żabikowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25449",
+    "nazwa": "Zakładowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25910",
+    "nazwa": "Zbożowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26091",
+    "nazwa": "Zielone Wzgórze",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "26188",
+    "nazwa": "Złota",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26611",
+    "nazwa": "Żwirowa",
+    "rodzaj": "ul."
+  }
+]

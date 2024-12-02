@@ -1,0 +1,237 @@
+[
+  {
+    "idulica": "00421",
+    "nazwa": "Armii \"Kraków\"",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01196",
+    "nazwa": "Biały Krzyż",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01213",
+    "nazwa": "Jerzego Biechońskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10000",
+    "nazwa": "Królowej Bony",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02104",
+    "nazwa": "Kazimierza Brodzińskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03815",
+    "nazwa": "Dębowiec",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05627",
+    "nazwa": "Bartosza Głowackiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06350",
+    "nazwa": "Adama Grzymały-Siedleckiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10003",
+    "nazwa": "Królowej Jadwigi",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20427",
+    "nazwa": "Jana Sobieskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08265",
+    "nazwa": "Kazimierza Wielkiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08435",
+    "nazwa": "Jana Kilińskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08527",
+    "nazwa": "Bogusława Kleszczyńskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08828",
+    "nazwa": "Kolejowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09282",
+    "nazwa": "Mikołaja Kopernika",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09582",
+    "nazwa": "Tadeusza Kościuszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09501",
+    "nazwa": "Kosynierów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09796",
+    "nazwa": "Krakowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09987",
+    "nazwa": "Królewska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11937",
+    "nazwa": "3 Maja",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12840",
+    "nazwa": "ks. Bronisława Mieszkowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14330",
+    "nazwa": "Nowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14929",
+    "nazwa": "gen. Leopolda Okulickiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15710",
+    "nazwa": "Parkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15733",
+    "nazwa": "Partyzantów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31747",
+    "nazwa": "bł. ks. Józefa Pawłowskiego",
+    "rodzaj": "skwer"
+  },
+  {
+    "idulica": "37540",
+    "nazwa": "Po Torach",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16745",
+    "nazwa": "Podgórze",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18273",
+    "nazwa": "Racławicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18380",
+    "nazwa": "o. Rafała",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18565",
+    "nazwa": "Mikołaja Reja",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19252",
+    "nazwa": "Rynek",
+    "rodzaj": "rynek"
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35500",
+    "nazwa": "Stary Dębowiec",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22539",
+    "nazwa": "Świętej Trójcy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22073",
+    "nazwa": "Szpitalna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23884",
+    "nazwa": "Wesoła",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24398",
+    "nazwa": "Wiślana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24494",
+    "nazwa": "Władysława Jagiełły",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24687",
+    "nazwa": "Wolności",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25314",
+    "nazwa": "Zacisze",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29625",
+    "nazwa": "Zagrody Królewskie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25547",
+    "nazwa": "Zamkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26081",
+    "nazwa": "Zielona",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26359",
+    "nazwa": "Źródlana",
+    "rodzaj": "ul."
+  }
+]

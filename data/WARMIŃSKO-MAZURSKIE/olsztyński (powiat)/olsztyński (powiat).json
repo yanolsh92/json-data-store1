@@ -1,0 +1,121 @@
+[
+  {
+    "idtech": "014",
+    "idgmina": "01",
+    "nazwa": "Barczewo",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "015",
+    "idgmina": "01",
+    "nazwa": "Barczewo",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "024",
+    "idgmina": "02",
+    "nazwa": "Biskupiec",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "025",
+    "idgmina": "02",
+    "nazwa": "Biskupiec",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "034",
+    "idgmina": "03",
+    "nazwa": "Dobre Miasto",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "035",
+    "idgmina": "03",
+    "nazwa": "Dobre Miasto",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Dywity",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Gietrzwałd",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "064",
+    "idgmina": "06",
+    "nazwa": "Jeziorany",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "065",
+    "idgmina": "06",
+    "nazwa": "Jeziorany",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "072",
+    "idgmina": "07",
+    "nazwa": "Jonkowo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "082",
+    "idgmina": "08",
+    "nazwa": "Kolno",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "094",
+    "idgmina": "09",
+    "nazwa": "Olsztynek",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "095",
+    "idgmina": "09",
+    "nazwa": "Olsztynek",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "102",
+    "idgmina": "10",
+    "nazwa": "Purda",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "112",
+    "idgmina": "11",
+    "nazwa": "Stawiguda",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "122",
+    "idgmina": "12",
+    "nazwa": "Świątki",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

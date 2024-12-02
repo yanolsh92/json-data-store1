@@ -1,0 +1,58 @@
+[
+  {
+    "idtech": "012",
+    "idgmina": "01",
+    "nazwa": "Krzeszyce",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "024",
+    "idgmina": "02",
+    "nazwa": "Lubniewice",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "025",
+    "idgmina": "02",
+    "nazwa": "Lubniewice",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Słońsk",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "044",
+    "idgmina": "04",
+    "nazwa": "Sulęcin",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "045",
+    "idgmina": "04",
+    "nazwa": "Sulęcin",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Torzym",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Torzym",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  }
+]

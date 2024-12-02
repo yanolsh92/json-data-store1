@@ -1,0 +1,107 @@
+[
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Irządze",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Kroczyce",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Łazy",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Łazy",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "064",
+    "idgmina": "06",
+    "nazwa": "Ogrodzieniec",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "065",
+    "idgmina": "06",
+    "nazwa": "Ogrodzieniec",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "074",
+    "idgmina": "07",
+    "nazwa": "Pilica",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "075",
+    "idgmina": "07",
+    "nazwa": "Pilica",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Poręba",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "084",
+    "idgmina": "08",
+    "nazwa": "Szczekociny",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "085",
+    "idgmina": "08",
+    "nazwa": "Szczekociny",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "094",
+    "idgmina": "09",
+    "nazwa": "Włodowice",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "095",
+    "idgmina": "09",
+    "nazwa": "Włodowice",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "021",
+    "idgmina": "02",
+    "nazwa": "Zawiercie",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "102",
+    "idgmina": "10",
+    "nazwa": "Żarnowiec",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

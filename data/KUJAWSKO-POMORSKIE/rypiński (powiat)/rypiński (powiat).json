@@ -1,0 +1,44 @@
+[
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Brzuze",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Rogowo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Rypin",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Rypin",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Skrwilno",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Wąpielsk",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

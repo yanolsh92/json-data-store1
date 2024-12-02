@@ -1,0 +1,37 @@
+[
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Łaziska Górne",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "021",
+    "idgmina": "02",
+    "nazwa": "Mikołów",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Ornontowice",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "031",
+    "idgmina": "03",
+    "nazwa": "Orzesze",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Wyry",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

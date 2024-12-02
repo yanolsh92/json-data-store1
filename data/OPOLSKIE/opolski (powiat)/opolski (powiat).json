@@ -1,0 +1,121 @@
+[
+  {
+    "idtech": "012",
+    "idgmina": "01",
+    "nazwa": "Chrząstowice",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Dąbrowa",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Dobrzeń Wielki",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Komprachcice",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Łubniany",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Murów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "074",
+    "idgmina": "07",
+    "nazwa": "Niemodlin",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "075",
+    "idgmina": "07",
+    "nazwa": "Niemodlin",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "084",
+    "idgmina": "08",
+    "nazwa": "Ozimek",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "085",
+    "idgmina": "08",
+    "nazwa": "Ozimek",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "092",
+    "idgmina": "09",
+    "nazwa": "Popielów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "104",
+    "idgmina": "10",
+    "nazwa": "Prószków",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "105",
+    "idgmina": "10",
+    "nazwa": "Prószków",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "112",
+    "idgmina": "11",
+    "nazwa": "Tarnów Opolski",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "124",
+    "idgmina": "12",
+    "nazwa": "Tułowice",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "125",
+    "idgmina": "12",
+    "nazwa": "Tułowice",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "132",
+    "idgmina": "13",
+    "nazwa": "Turawa",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

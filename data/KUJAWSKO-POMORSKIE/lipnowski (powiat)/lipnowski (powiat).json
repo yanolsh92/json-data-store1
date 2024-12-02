@@ -1,0 +1,93 @@
+[
+  {
+    "idtech": "024",
+    "idgmina": "02",
+    "nazwa": "Bobrowniki",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "025",
+    "idgmina": "02",
+    "nazwa": "Bobrowniki",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Chrostkowo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "044",
+    "idgmina": "04",
+    "nazwa": "Dobrzyń nad Wisłą",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "045",
+    "idgmina": "04",
+    "nazwa": "Dobrzyń nad Wisłą",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Kikół",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Kikół",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Lipno",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Lipno",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "074",
+    "idgmina": "07",
+    "nazwa": "Skępe",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "075",
+    "idgmina": "07",
+    "nazwa": "Skępe",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "082",
+    "idgmina": "08",
+    "nazwa": "Tłuchowo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "092",
+    "idgmina": "09",
+    "nazwa": "Wielgie",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

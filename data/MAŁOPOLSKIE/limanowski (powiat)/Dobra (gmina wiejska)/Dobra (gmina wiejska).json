@@ -1,0 +1,858 @@
+[
+  {
+    "idmiejscowosc": "0425060",
+    "nazwa": "Antoniów"
+  },
+  {
+    "idmiejscowosc": "0422959",
+    "nazwa": "Biedówka"
+  },
+  {
+    "idmiejscowosc": "0424272",
+    "nazwa": "Bocony"
+  },
+  {
+    "idmiejscowosc": "0424289",
+    "nazwa": "Bolsęgi"
+  },
+  {
+    "idmiejscowosc": "0423189",
+    "nazwa": "Brzegi"
+  },
+  {
+    "idmiejscowosc": "0424295",
+    "nazwa": "Bulaki"
+  },
+  {
+    "idmiejscowosc": "0424071",
+    "nazwa": "Butorówka"
+  },
+  {
+    "idmiejscowosc": "0424303",
+    "nazwa": "Chomy"
+  },
+  {
+    "idmiejscowosc": "0422942",
+    "nazwa": "Chyszówki"
+  },
+  {
+    "idmiejscowosc": "0424310",
+    "nazwa": "Cyrla"
+  },
+  {
+    "idmiejscowosc": "0424846",
+    "nazwa": "Czechy"
+  },
+  {
+    "idmiejscowosc": "0424852",
+    "nazwa": "Czernki"
+  },
+  {
+    "idmiejscowosc": "0423864",
+    "nazwa": "Czernki"
+  },
+  {
+    "idmiejscowosc": "0424088",
+    "nazwa": "Do Białonia"
+  },
+  {
+    "idmiejscowosc": "0423195",
+    "nazwa": "Do Biernata"
+  },
+  {
+    "idmiejscowosc": "0423717",
+    "nazwa": "Do Broga"
+  },
+  {
+    "idmiejscowosc": "0423203",
+    "nazwa": "Do Chochoła"
+  },
+  {
+    "idmiejscowosc": "0424094",
+    "nazwa": "Do Cygali"
+  },
+  {
+    "idmiejscowosc": "0423210",
+    "nazwa": "Do Ćwiecia"
+  },
+  {
+    "idmiejscowosc": "0423226",
+    "nazwa": "Do Drożdża"
+  },
+  {
+    "idmiejscowosc": "0423232",
+    "nazwa": "Do Flisara"
+  },
+  {
+    "idmiejscowosc": "0423723",
+    "nazwa": "Do Galasa"
+  },
+  {
+    "idmiejscowosc": "0423249",
+    "nazwa": "Do Gorli"
+  },
+  {
+    "idmiejscowosc": "0423730",
+    "nazwa": "Do Jakubca"
+  },
+  {
+    "idmiejscowosc": "0422965",
+    "nazwa": "Do Jani"
+  },
+  {
+    "idmiejscowosc": "0424102",
+    "nazwa": "Do Judki"
+  },
+  {
+    "idmiejscowosc": "0423255",
+    "nazwa": "Do Judy"
+  },
+  {
+    "idmiejscowosc": "0423261",
+    "nazwa": "Do Kaima"
+  },
+  {
+    "idmiejscowosc": "0423746",
+    "nazwa": "Do Kaszy"
+  },
+  {
+    "idmiejscowosc": "0423278",
+    "nazwa": "Do Kiwaja"
+  },
+  {
+    "idmiejscowosc": "0423284",
+    "nazwa": "Do Kurka"
+  },
+  {
+    "idmiejscowosc": "0423290",
+    "nazwa": "Do Kutry"
+  },
+  {
+    "idmiejscowosc": "0423752",
+    "nazwa": "Do Kuźli"
+  },
+  {
+    "idmiejscowosc": "0423309",
+    "nazwa": "Do Lacha pod Fabryką"
+  },
+  {
+    "idmiejscowosc": "0423315",
+    "nazwa": "Do Lacha pod Kościołem"
+  },
+  {
+    "idmiejscowosc": "0423321",
+    "nazwa": "Do Lacha pod Krzyżową"
+  },
+  {
+    "idmiejscowosc": "0424119",
+    "nazwa": "Do Liszki"
+  },
+  {
+    "idmiejscowosc": "0423769",
+    "nazwa": "Do Łukaszki"
+  },
+  {
+    "idmiejscowosc": "0423870",
+    "nazwa": "Do Maludego"
+  },
+  {
+    "idmiejscowosc": "0423338",
+    "nazwa": "Do Masłonia"
+  },
+  {
+    "idmiejscowosc": "0423775",
+    "nazwa": "Do Miśkowca"
+  },
+  {
+    "idmiejscowosc": "0423781",
+    "nazwa": "Do Myszy"
+  },
+  {
+    "idmiejscowosc": "0424125",
+    "nazwa": "Do Nawieśniaka"
+  },
+  {
+    "idmiejscowosc": "0423344",
+    "nazwa": "Do Noworolnika"
+  },
+  {
+    "idmiejscowosc": "0423350",
+    "nazwa": "Do Ogryzka"
+  },
+  {
+    "idmiejscowosc": "0423367",
+    "nazwa": "Do Olejarza"
+  },
+  {
+    "idmiejscowosc": "0423373",
+    "nazwa": "Do Palacza"
+  },
+  {
+    "idmiejscowosc": "0424131",
+    "nazwa": "Do Pali"
+  },
+  {
+    "idmiejscowosc": "0423380",
+    "nazwa": "Do Palki"
+  },
+  {
+    "idmiejscowosc": "0423396",
+    "nazwa": "Do Palkija"
+  },
+  {
+    "idmiejscowosc": "0423404",
+    "nazwa": "Do Pawlaka"
+  },
+  {
+    "idmiejscowosc": "0424148",
+    "nazwa": "Do Piechówki"
+  },
+  {
+    "idmiejscowosc": "0423410",
+    "nazwa": "Do Plaskonia"
+  },
+  {
+    "idmiejscowosc": "0423427",
+    "nazwa": "Do Plenia"
+  },
+  {
+    "idmiejscowosc": "0423798",
+    "nazwa": "Do Płoszczycy"
+  },
+  {
+    "idmiejscowosc": "0423806",
+    "nazwa": "Do Porucznika"
+  },
+  {
+    "idmiejscowosc": "0423433",
+    "nazwa": "Do Przybytka"
+  },
+  {
+    "idmiejscowosc": "0424326",
+    "nazwa": "Do Rakoczego"
+  },
+  {
+    "idmiejscowosc": "0423440",
+    "nazwa": "Do Rybki"
+  },
+  {
+    "idmiejscowosc": "0423812",
+    "nazwa": "Do Sabury"
+  },
+  {
+    "idmiejscowosc": "0422971",
+    "nazwa": "Do Sarysza"
+  },
+  {
+    "idmiejscowosc": "0423456",
+    "nazwa": "Do Sendyka"
+  },
+  {
+    "idmiejscowosc": "0423829",
+    "nazwa": "Do Szerszenia"
+  },
+  {
+    "idmiejscowosc": "0423462",
+    "nazwa": "Do Świdra"
+  },
+  {
+    "idmiejscowosc": "0423479",
+    "nazwa": "Do Wątora"
+  },
+  {
+    "idmiejscowosc": "0423835",
+    "nazwa": "Do Żołądka"
+  },
+  {
+    "idmiejscowosc": "0423172",
+    "nazwa": "Dobra"
+  },
+  {
+    "idmiejscowosc": "0424585",
+    "nazwa": "Dolna Przenosza"
+  },
+  {
+    "idmiejscowosc": "1049416",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0424645",
+    "nazwa": "Drągówka"
+  },
+  {
+    "idmiejscowosc": "0422988",
+    "nazwa": "Drzyzgi"
+  },
+  {
+    "idmiejscowosc": "0424869",
+    "nazwa": "Dudziki"
+  },
+  {
+    "idmiejscowosc": "0424651",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0424668",
+    "nazwa": "Działy"
+  },
+  {
+    "idmiejscowosc": "0423887",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0424154",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0424332",
+    "nazwa": "Fudaleje"
+  },
+  {
+    "idmiejscowosc": "0422994",
+    "nazwa": "Gąsiory"
+  },
+  {
+    "idmiejscowosc": "0423893",
+    "nazwa": "Gdowicze"
+  },
+  {
+    "idmiejscowosc": "0424591",
+    "nazwa": "Glińce"
+  },
+  {
+    "idmiejscowosc": "0425076",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0424674",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0424349",
+    "nazwa": "Gronie"
+  },
+  {
+    "idmiejscowosc": "0423700",
+    "nazwa": "Gruszowiec"
+  },
+  {
+    "idmiejscowosc": "0424875",
+    "nazwa": "Janiki"
+  },
+  {
+    "idmiejscowosc": "0423002",
+    "nazwa": "Jany"
+  },
+  {
+    "idmiejscowosc": "0424355",
+    "nazwa": "Jarosze"
+  },
+  {
+    "idmiejscowosc": "0424763",
+    "nazwa": "Jaz"
+  },
+  {
+    "idmiejscowosc": "0424160",
+    "nazwa": "Jopły"
+  },
+  {
+    "idmiejscowosc": "0423901",
+    "nazwa": "Judy"
+  },
+  {
+    "idmiejscowosc": "0423858",
+    "nazwa": "Jurków"
+  },
+  {
+    "idmiejscowosc": "0424361",
+    "nazwa": "Kaczory"
+  },
+  {
+    "idmiejscowosc": "0424177",
+    "nazwa": "Kalety"
+  },
+  {
+    "idmiejscowosc": "0423485",
+    "nazwa": "Klimkówka"
+  },
+  {
+    "idmiejscowosc": "0424600",
+    "nazwa": "Klimkówka"
+  },
+  {
+    "idmiejscowosc": "0424680",
+    "nazwa": "Kliny"
+  },
+  {
+    "idmiejscowosc": "0424898",
+    "nazwa": "Kołodzieje"
+  },
+  {
+    "idmiejscowosc": "0424906",
+    "nazwa": "Kosmale"
+  },
+  {
+    "idmiejscowosc": "0423491",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0424183",
+    "nazwa": "Kozy"
+  },
+  {
+    "idmiejscowosc": "0423019",
+    "nazwa": "Krawce"
+  },
+  {
+    "idmiejscowosc": "0423918",
+    "nazwa": "Krawce"
+  },
+  {
+    "idmiejscowosc": "0424912",
+    "nazwa": "Krawce"
+  },
+  {
+    "idmiejscowosc": "0423500",
+    "nazwa": "Kretówki"
+  },
+  {
+    "idmiejscowosc": "0424378",
+    "nazwa": "Króle"
+  },
+  {
+    "idmiejscowosc": "0424190",
+    "nazwa": "Krzaki"
+  },
+  {
+    "idmiejscowosc": "0424697",
+    "nazwa": "Krzenowiska"
+  },
+  {
+    "idmiejscowosc": "0424929",
+    "nazwa": "Krzysztofy"
+  },
+  {
+    "idmiejscowosc": "0424384",
+    "nazwa": "Kuchty"
+  },
+  {
+    "idmiejscowosc": "0423924",
+    "nazwa": "Kuligi"
+  },
+  {
+    "idmiejscowosc": "0423025",
+    "nazwa": "Lachy"
+  },
+  {
+    "idmiejscowosc": "0424770",
+    "nazwa": "Lęckosiówka"
+  },
+  {
+    "idmiejscowosc": "0423516",
+    "nazwa": "Łagodówka"
+  },
+  {
+    "idmiejscowosc": "0424705",
+    "nazwa": "Ługowina"
+  },
+  {
+    "idmiejscowosc": "0424208",
+    "nazwa": "Łysarzówka"
+  },
+  {
+    "idmiejscowosc": "0424941",
+    "nazwa": "Maćkowce"
+  },
+  {
+    "idmiejscowosc": "0424390",
+    "nazwa": "Matacze"
+  },
+  {
+    "idmiejscowosc": "0423031",
+    "nazwa": "Michałki"
+  },
+  {
+    "idmiejscowosc": "0424958",
+    "nazwa": "Miłki"
+  },
+  {
+    "idmiejscowosc": "0424409",
+    "nazwa": "Miśki"
+  },
+  {
+    "idmiejscowosc": "0423522",
+    "nazwa": "Mocarze"
+  },
+  {
+    "idmiejscowosc": "0423048",
+    "nazwa": "Moczarniki"
+  },
+  {
+    "idmiejscowosc": "0424415",
+    "nazwa": "Mordele"
+  },
+  {
+    "idmiejscowosc": "0423539",
+    "nazwa": "Morgi"
+  },
+  {
+    "idmiejscowosc": "0424421",
+    "nazwa": "Mrózki"
+  },
+  {
+    "idmiejscowosc": "0424438",
+    "nazwa": "Mysze"
+  },
+  {
+    "idmiejscowosc": "0423545",
+    "nazwa": "Na Dziale"
+  },
+  {
+    "idmiejscowosc": "0423841",
+    "nazwa": "Na Granice"
+  },
+  {
+    "idmiejscowosc": "0423551",
+    "nazwa": "Na Potoku"
+  },
+  {
+    "idmiejscowosc": "0423568",
+    "nazwa": "Na Wesołą"
+  },
+  {
+    "idmiejscowosc": "0424964",
+    "nazwa": "Oszczędy"
+  },
+  {
+    "idmiejscowosc": "0423574",
+    "nazwa": "Pająkówka"
+  },
+  {
+    "idmiejscowosc": "0424444",
+    "nazwa": "Palenica"
+  },
+  {
+    "idmiejscowosc": "0424970",
+    "nazwa": "Palkije"
+  },
+  {
+    "idmiejscowosc": "0423930",
+    "nazwa": "Parużniki"
+  },
+  {
+    "idmiejscowosc": "0424987",
+    "nazwa": "Pietrzki"
+  },
+  {
+    "idmiejscowosc": "0424214",
+    "nazwa": "Piwkówka"
+  },
+  {
+    "idmiejscowosc": "0423580",
+    "nazwa": "Plebańskie"
+  },
+  {
+    "idmiejscowosc": "0423597",
+    "nazwa": "Pod Działem"
+  },
+  {
+    "idmiejscowosc": "0423605",
+    "nazwa": "Pod Góry"
+  },
+  {
+    "idmiejscowosc": "0423611",
+    "nazwa": "Pod Groń"
+  },
+  {
+    "idmiejscowosc": "0424450",
+    "nazwa": "Pod Kuchtą"
+  },
+  {
+    "idmiejscowosc": "0423628",
+    "nazwa": "Podedwór"
+  },
+  {
+    "idmiejscowosc": "0424220",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0425082",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0424786",
+    "nazwa": "Podwale"
+  },
+  {
+    "idmiejscowosc": "0424467",
+    "nazwa": "Polana"
+  },
+  {
+    "idmiejscowosc": "0424065",
+    "nazwa": "Porąbka"
+  },
+  {
+    "idmiejscowosc": "0424473",
+    "nazwa": "Potaśnia"
+  },
+  {
+    "idmiejscowosc": "0423947",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0424480",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0425099",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0424993",
+    "nazwa": "Pólki"
+  },
+  {
+    "idmiejscowosc": "0423953",
+    "nazwa": "Pólkówka"
+  },
+  {
+    "idmiejscowosc": "0424266",
+    "nazwa": "Półrzeczki"
+  },
+  {
+    "idmiejscowosc": "0424579",
+    "nazwa": "Przenosza"
+  },
+  {
+    "idmiejscowosc": "0424792",
+    "nazwa": "Przylasek"
+  },
+  {
+    "idmiejscowosc": "0424496",
+    "nazwa": "Rola"
+  },
+  {
+    "idmiejscowosc": "0423634",
+    "nazwa": "Rola"
+  },
+  {
+    "idmiejscowosc": "0424237",
+    "nazwa": "Rola"
+  },
+  {
+    "idmiejscowosc": "0423960",
+    "nazwa": "Rubisie"
+  },
+  {
+    "idmiejscowosc": "0424711",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0423640",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0424504",
+    "nazwa": "Rzepki"
+  },
+  {
+    "idmiejscowosc": "0424510",
+    "nazwa": "Sakta"
+  },
+  {
+    "idmiejscowosc": "0424728",
+    "nazwa": "Sermakówka"
+  },
+  {
+    "idmiejscowosc": "0423976",
+    "nazwa": "Siciarze"
+  },
+  {
+    "idmiejscowosc": "0424639",
+    "nazwa": "Skrzydlna"
+  },
+  {
+    "idmiejscowosc": "0423054",
+    "nazwa": "Słuchanki"
+  },
+  {
+    "idmiejscowosc": "0423060",
+    "nazwa": "Słuchany"
+  },
+  {
+    "idmiejscowosc": "0423982",
+    "nazwa": "Słuchany"
+  },
+  {
+    "idmiejscowosc": "0423077",
+    "nazwa": "Smolenie"
+  },
+  {
+    "idmiejscowosc": "0425001",
+    "nazwa": "Sroki"
+  },
+  {
+    "idmiejscowosc": "0424527",
+    "nazwa": "Stefany"
+  },
+  {
+    "idmiejscowosc": "0424533",
+    "nazwa": "Stóse"
+  },
+  {
+    "idmiejscowosc": "0424757",
+    "nazwa": "Stróża"
+  },
+  {
+    "idmiejscowosc": "0423657",
+    "nazwa": "Stysiówka"
+  },
+  {
+    "idmiejscowosc": "0423999",
+    "nazwa": "Szerszenie"
+  },
+  {
+    "idmiejscowosc": "0424007",
+    "nazwa": "Szlagi"
+  },
+  {
+    "idmiejscowosc": "0424616",
+    "nazwa": "Szlagówka"
+  },
+  {
+    "idmiejscowosc": "0423083",
+    "nazwa": "Ślimaki"
+  },
+  {
+    "idmiejscowosc": "0424013",
+    "nazwa": "Śliwówka"
+  },
+  {
+    "idmiejscowosc": "0424540",
+    "nazwa": "Świstaki"
+  },
+  {
+    "idmiejscowosc": "0423090",
+    "nazwa": "Tokarzówka"
+  },
+  {
+    "idmiejscowosc": "0425018",
+    "nazwa": "Tomery"
+  },
+  {
+    "idmiejscowosc": "0423108",
+    "nazwa": "Tracze"
+  },
+  {
+    "idmiejscowosc": "0424020",
+    "nazwa": "Trzopki"
+  },
+  {
+    "idmiejscowosc": "0423114",
+    "nazwa": "Trzopki"
+  },
+  {
+    "idmiejscowosc": "0423120",
+    "nazwa": "Turki"
+  },
+  {
+    "idmiejscowosc": "0424243",
+    "nazwa": "U Czarnego"
+  },
+  {
+    "idmiejscowosc": "0423670",
+    "nazwa": "U Polowego"
+  },
+  {
+    "idmiejscowosc": "0424036",
+    "nazwa": "Urbasie"
+  },
+  {
+    "idmiejscowosc": "0424556",
+    "nazwa": "Walczaki"
+  },
+  {
+    "idmiejscowosc": "0425024",
+    "nazwa": "Węgrzyny"
+  },
+  {
+    "idmiejscowosc": "0425107",
+    "nazwa": "Wielka Droga"
+  },
+  {
+    "idmiejscowosc": "0424622",
+    "nazwa": "Więcygóra"
+  },
+  {
+    "idmiejscowosc": "0424830",
+    "nazwa": "Wilczyce"
+  },
+  {
+    "idmiejscowosc": "0423137",
+    "nazwa": "Wilki"
+  },
+  {
+    "idmiejscowosc": "0424734",
+    "nazwa": "Wilkówka"
+  },
+  {
+    "idmiejscowosc": "0424800",
+    "nazwa": "Wisielnice"
+  },
+  {
+    "idmiejscowosc": "0423143",
+    "nazwa": "Wojtówka"
+  },
+  {
+    "idmiejscowosc": "0425053",
+    "nazwa": "Wola Skrzydlańska"
+  },
+  {
+    "idmiejscowosc": "0424042",
+    "nazwa": "Wróblówka"
+  },
+  {
+    "idmiejscowosc": "0423150",
+    "nazwa": "Wyrwichy"
+  },
+  {
+    "idmiejscowosc": "0424740",
+    "nazwa": "Za Działem"
+  },
+  {
+    "idmiejscowosc": "0424562",
+    "nazwa": "Za Górką"
+  },
+  {
+    "idmiejscowosc": "0424250",
+    "nazwa": "Za Ulicą"
+  },
+  {
+    "idmiejscowosc": "0423686",
+    "nazwa": "Zadziele"
+  },
+  {
+    "idmiejscowosc": "0425030",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0424817",
+    "nazwa": "Zakopiec"
+  },
+  {
+    "idmiejscowosc": "0424823",
+    "nazwa": "Zalasek"
+  },
+  {
+    "idmiejscowosc": "0423166",
+    "nazwa": "Zaświercze"
+  },
+  {
+    "idmiejscowosc": "0424059",
+    "nazwa": "Zawady"
+  },
+  {
+    "idmiejscowosc": "0425047",
+    "nazwa": "Żaki"
+  }
+]

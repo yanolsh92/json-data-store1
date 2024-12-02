@@ -1,0 +1,65 @@
+[
+  {
+    "idtech": "012",
+    "idgmina": "01",
+    "nazwa": "Baranów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Bralin",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "034",
+    "idgmina": "03",
+    "nazwa": "Kępno",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "035",
+    "idgmina": "03",
+    "nazwa": "Kępno",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Łęka Opatowska",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Perzów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "064",
+    "idgmina": "06",
+    "nazwa": "Rychtal",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "065",
+    "idgmina": "06",
+    "nazwa": "Rychtal",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "072",
+    "idgmina": "07",
+    "nazwa": "Trzcinica",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

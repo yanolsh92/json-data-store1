@@ -1,0 +1,282 @@
+[
+  {
+    "idulica": "34783",
+    "nazwa": "Akwariowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00272",
+    "nazwa": "Amurowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00518",
+    "nazwa": "Azaliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01528",
+    "nazwa": "Boczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02387",
+    "nazwa": "Bukowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02498",
+    "nazwa": "Bydgoska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03734",
+    "nazwa": "Delfinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04434",
+    "nazwa": "Dworcowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05027",
+    "nazwa": "Fiołkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05761",
+    "nazwa": "Gołębia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06341",
+    "nazwa": "Grzybowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06424",
+    "nazwa": "Gwiezdna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06650",
+    "nazwa": "Hiacyntowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07059",
+    "nazwa": "Jagodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07290",
+    "nazwa": "Jarzębinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07511",
+    "nazwa": "Jesiotrowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08109",
+    "nazwa": "Karpiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08574",
+    "nazwa": "Klonowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09223",
+    "nazwa": "Konwaliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09361",
+    "nazwa": "Kormoranów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10268",
+    "nazwa": "Księżycowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11681",
+    "nazwa": "Łososiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "34782",
+    "nazwa": "Merlina",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13184",
+    "nazwa": "Modrzewiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14945",
+    "nazwa": "Olchowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "34781",
+    "nazwa": "Orki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15300",
+    "nazwa": "Osiedlowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16191",
+    "nazwa": "Piękna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17011",
+    "nazwa": "Polna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17171",
+    "nazwa": "Poprzeczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17394",
+    "nazwa": "Poznańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17742",
+    "nazwa": "Przemysłowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18056",
+    "nazwa": "Ptasia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18578",
+    "nazwa": "Rekinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19000",
+    "nazwa": "Różana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19163",
+    "nazwa": "Rybia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19326",
+    "nazwa": "Rzeczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19335",
+    "nazwa": "Rzemieślnicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20060",
+    "nazwa": "Składowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20598",
+    "nazwa": "Sosnowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21325",
+    "nazwa": "Strumykowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22508",
+    "nazwa": "Świerkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22706",
+    "nazwa": "Tatarakowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23061",
+    "nazwa": "Trzcinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23129",
+    "nazwa": "Tulipanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23406",
+    "nazwa": "Urocza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24113",
+    "nazwa": "Wielorybia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24170",
+    "nazwa": "Wierzbowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24550",
+    "nazwa": "Wodna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25316",
+    "nazwa": "Zaciszna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26579",
+    "nazwa": "Żurawia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26611",
+    "nazwa": "Żwirowa",
+    "rodzaj": "ul."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "idtech": "014",
+    "idgmina": "01",
+    "nazwa": "Dobra",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "015",
+    "idgmina": "01",
+    "nazwa": "Dobra",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "024",
+    "idgmina": "02",
+    "nazwa": "Łobez",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "025",
+    "idgmina": "02",
+    "nazwa": "Łobez",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Radowo Małe",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "044",
+    "idgmina": "04",
+    "nazwa": "Resko",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "045",
+    "idgmina": "04",
+    "nazwa": "Resko",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Węgorzyno",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Węgorzyno",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  }
+]

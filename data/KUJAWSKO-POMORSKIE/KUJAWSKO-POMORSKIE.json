@@ -1,0 +1,117 @@
+[
+  {
+    "idpowiat": "01",
+    "nazwa": "aleksandrowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "02",
+    "nazwa": "brodnicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "03",
+    "nazwa": "bydgoski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "04",
+    "nazwa": "chełmiński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "05",
+    "nazwa": "golubsko-dobrzyński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "06",
+    "nazwa": "grudziądzki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "07",
+    "nazwa": "inowrocławski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "08",
+    "nazwa": "lipnowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "09",
+    "nazwa": "mogileński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "10",
+    "nazwa": "nakielski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "11",
+    "nazwa": "radziejowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "12",
+    "nazwa": "rypiński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "13",
+    "nazwa": "sępoleński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "14",
+    "nazwa": "świecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "15",
+    "nazwa": "toruński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "16",
+    "nazwa": "tucholski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "17",
+    "nazwa": "wąbrzeski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "18",
+    "nazwa": "włocławski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "19",
+    "nazwa": "żniński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "61",
+    "nazwa": "Bydgoszcz",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "62",
+    "nazwa": "Grudziądz",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "63",
+    "nazwa": "Toruń",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "64",
+    "nazwa": "Włocławek",
+    "nazwadod": "miasto na prawach powiatu"
+  }
+]

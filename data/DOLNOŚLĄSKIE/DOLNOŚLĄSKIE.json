@@ -1,0 +1,152 @@
+[
+  {
+    "idpowiat": "01",
+    "nazwa": "bolesławiecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "02",
+    "nazwa": "dzierżoniowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "03",
+    "nazwa": "głogowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "04",
+    "nazwa": "górowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "05",
+    "nazwa": "jaworski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "07",
+    "nazwa": "kamiennogórski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "06",
+    "nazwa": "karkonoski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "08",
+    "nazwa": "kłodzki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "09",
+    "nazwa": "legnicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "10",
+    "nazwa": "lubański",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "11",
+    "nazwa": "lubiński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "12",
+    "nazwa": "lwówecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "13",
+    "nazwa": "milicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "14",
+    "nazwa": "oleśnicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "15",
+    "nazwa": "oławski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "16",
+    "nazwa": "polkowicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "17",
+    "nazwa": "strzeliński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "18",
+    "nazwa": "średzki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "19",
+    "nazwa": "świdnicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "20",
+    "nazwa": "trzebnicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "21",
+    "nazwa": "wałbrzyski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "22",
+    "nazwa": "wołowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "23",
+    "nazwa": "wrocławski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "24",
+    "nazwa": "ząbkowicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "25",
+    "nazwa": "zgorzelecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "26",
+    "nazwa": "złotoryjski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "61",
+    "nazwa": "Jelenia Góra",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "62",
+    "nazwa": "Legnica",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "65",
+    "nazwa": "Wałbrzych",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "64",
+    "nazwa": "Wrocław",
+    "nazwadod": "miasto na prawach powiatu"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "idtech": "014",
+    "idgmina": "01",
+    "nazwa": "Andrychów",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "015",
+    "idgmina": "01",
+    "nazwa": "Andrychów",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Brzeźnica",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "034",
+    "idgmina": "03",
+    "nazwa": "Kalwaria Zebrzydowska",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "035",
+    "idgmina": "03",
+    "nazwa": "Kalwaria Zebrzydowska",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Lanckorona",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Mucharz",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Spytkowice",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "072",
+    "idgmina": "07",
+    "nazwa": "Stryszów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "082",
+    "idgmina": "08",
+    "nazwa": "Tomice",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "094",
+    "idgmina": "09",
+    "nazwa": "Wadowice",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "095",
+    "idgmina": "09",
+    "nazwa": "Wadowice",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "102",
+    "idgmina": "10",
+    "nazwa": "Wieprz",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

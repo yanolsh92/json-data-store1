@@ -1,0 +1,65 @@
+[
+  {
+    "idtech": "014",
+    "idgmina": "01",
+    "nazwa": "Chocz",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "015",
+    "idgmina": "01",
+    "nazwa": "Chocz",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Czermin",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "034",
+    "idgmina": "03",
+    "nazwa": "Dobrzyca",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "035",
+    "idgmina": "03",
+    "nazwa": "Dobrzyca",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Gizałki",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Gołuchów",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "064",
+    "idgmina": "06",
+    "nazwa": "Pleszew",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "065",
+    "idgmina": "06",
+    "nazwa": "Pleszew",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  }
+]

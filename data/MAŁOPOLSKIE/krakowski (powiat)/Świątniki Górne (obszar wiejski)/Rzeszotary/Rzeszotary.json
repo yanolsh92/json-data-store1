@@ -1,0 +1,242 @@
+[
+  {
+    "idulica": "29297",
+    "nazwa": "Franciszka Bielowicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02245",
+    "nazwa": "Brzeziny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45598",
+    "nazwa": "Chmielnice",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04446",
+    "nazwa": "Dworska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "28141",
+    "nazwa": "Galicyjska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45595",
+    "nazwa": "Górny Rynek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05989",
+    "nazwa": "Górska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05876",
+    "nazwa": "Gościnna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06127",
+    "nazwa": "Groble",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06613",
+    "nazwa": "Herbowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07582",
+    "nazwa": "Jodłowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08171",
+    "nazwa": "Kasztanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45596",
+    "nazwa": "Kluszyna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45599",
+    "nazwa": "Astronoma Jana Kowalczyka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36845",
+    "nazwa": "Leśny Zakątek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13132",
+    "nazwa": "Młyńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13551",
+    "nazwa": "Myślenicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45592",
+    "nazwa": "Oświęcimskich",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45593",
+    "nazwa": "Panciawa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15741",
+    "nazwa": "Paryska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45591",
+    "nazwa": "Piasna Górka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16046",
+    "nazwa": "Piastowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "34584",
+    "nazwa": "Pod Dębiną",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16795",
+    "nazwa": "Podlesie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16974",
+    "nazwa": "Polanki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18648",
+    "nazwa": "Władysława Reymonta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "57274",
+    "nazwa": "Rondo św. Floriana",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "45544",
+    "nazwa": "Rostoki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20598",
+    "nazwa": "Sosnowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21231",
+    "nazwa": "Stolarska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22508",
+    "nazwa": "Świerkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22548",
+    "nazwa": "Świętojańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21947",
+    "nazwa": "Szewska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21985",
+    "nazwa": "Szlachecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22880",
+    "nazwa": "Topolowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45615",
+    "nazwa": "Świętego Walentego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07043",
+    "nazwa": "Króla Władysława Jagiełły",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25377",
+    "nazwa": "Zagórze",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25393",
+    "nazwa": "Zagrody",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25438",
+    "nazwa": "Zakątek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25479",
+    "nazwa": "Zalas",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25687",
+    "nazwa": "Zarzecze",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45963",
+    "nazwa": "Zastawiec",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45594",
+    "nazwa": "Żelechowskich",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45606",
+    "nazwa": "Generała Zygmunta Zielińskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26491",
+    "nazwa": "Żniwiarzy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26359",
+    "nazwa": "Źródlana",
+    "rodzaj": "ul."
+  }
+]

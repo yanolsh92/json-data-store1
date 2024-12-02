@@ -1,0 +1,86 @@
+[
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Bartniczka",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "022",
+    "idgmina": "02",
+    "nazwa": "Bobrowo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Brodnica",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "032",
+    "idgmina": "03",
+    "nazwa": "Brodnica",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Brzozie",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "054",
+    "idgmina": "05",
+    "nazwa": "Górzno",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "055",
+    "idgmina": "05",
+    "nazwa": "Górzno",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "074",
+    "idgmina": "07",
+    "nazwa": "Jabłonowo Pomorskie",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "075",
+    "idgmina": "07",
+    "nazwa": "Jabłonowo Pomorskie",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "082",
+    "idgmina": "08",
+    "nazwa": "Osiek",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "092",
+    "idgmina": "09",
+    "nazwa": "Świedziebnia",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "102",
+    "idgmina": "10",
+    "nazwa": "Zbiczno",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

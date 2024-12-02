@@ -1,0 +1,618 @@
+[
+  {
+    "idmiejscowosc": "0422497",
+    "nazwa": "Babice"
+  },
+  {
+    "idmiejscowosc": "1048003",
+    "nazwa": "Balidza"
+  },
+  {
+    "idmiejscowosc": "1048010",
+    "nazwa": "Bałkówka"
+  },
+  {
+    "idmiejscowosc": "1048032",
+    "nazwa": "Bednarze"
+  },
+  {
+    "idmiejscowosc": "0421888",
+    "nazwa": "Beskid"
+  },
+  {
+    "idmiejscowosc": "0422155",
+    "nazwa": "Biekieszówka"
+  },
+  {
+    "idmiejscowosc": "0422505",
+    "nazwa": "Bielańscy"
+  },
+  {
+    "idmiejscowosc": "1048055",
+    "nazwa": "Biernaty"
+  },
+  {
+    "idmiejscowosc": "0421753",
+    "nazwa": "Bobkówka"
+  },
+  {
+    "idmiejscowosc": "0421641",
+    "nazwa": "Bojasi"
+  },
+  {
+    "idmiejscowosc": "0421530",
+    "nazwa": "Borek"
+  },
+  {
+    "idmiejscowosc": "0421983",
+    "nazwa": "Bryjowa"
+  },
+  {
+    "idmiejscowosc": "0421894",
+    "nazwa": "Brzeźniaki"
+  },
+  {
+    "idmiejscowosc": "0422327",
+    "nazwa": "Brzuchacze"
+  },
+  {
+    "idmiejscowosc": "0422215",
+    "nazwa": "Bugaj"
+  },
+  {
+    "idmiejscowosc": "0422221",
+    "nazwa": "Bukowińska"
+  },
+  {
+    "idmiejscowosc": "0421517",
+    "nazwa": "Chochołów"
+  },
+  {
+    "idmiejscowosc": "0421760",
+    "nazwa": "Cholewówka"
+  },
+  {
+    "idmiejscowosc": "1048090",
+    "nazwa": "Chosanowa"
+  },
+  {
+    "idmiejscowosc": "0422474",
+    "nazwa": "Chraca"
+  },
+  {
+    "idmiejscowosc": "1048109",
+    "nazwa": "Chuda"
+  },
+  {
+    "idmiejscowosc": "0421658",
+    "nazwa": "Ciągwy"
+  },
+  {
+    "idmiejscowosc": "0421523",
+    "nazwa": "Ciche"
+  },
+  {
+    "idmiejscowosc": "0421635",
+    "nazwa": "Czerwienne"
+  },
+  {
+    "idmiejscowosc": "0422103",
+    "nazwa": "Czopy"
+  },
+  {
+    "idmiejscowosc": "1048121",
+    "nazwa": "Czyżowa"
+  },
+  {
+    "idmiejscowosc": "1048144",
+    "nazwa": "Dolańska"
+  },
+  {
+    "idmiejscowosc": "1048167",
+    "nazwa": "Dolina"
+  },
+  {
+    "idmiejscowosc": "1048180",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0422362",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0421747",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0422161",
+    "nazwa": "Gądkówka"
+  },
+  {
+    "idmiejscowosc": "0421664",
+    "nazwa": "Goczali"
+  },
+  {
+    "idmiejscowosc": "1048204",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0422238",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0422379",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0422340",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "1048227",
+    "nazwa": "Górzańska"
+  },
+  {
+    "idmiejscowosc": "0421954",
+    "nazwa": "Gruszkowie"
+  },
+  {
+    "idmiejscowosc": "0421820",
+    "nazwa": "Gwizdówka"
+  },
+  {
+    "idmiejscowosc": "0421836",
+    "nazwa": "Habernówka"
+  },
+  {
+    "idmiejscowosc": "1048233",
+    "nazwa": "Habryla"
+  },
+  {
+    "idmiejscowosc": "1048240",
+    "nazwa": "Hurchocia"
+  },
+  {
+    "idmiejscowosc": "1048256",
+    "nazwa": "Iwańcza"
+  },
+  {
+    "idmiejscowosc": "1048291",
+    "nazwa": "Jacki"
+  },
+  {
+    "idmiejscowosc": "0421776",
+    "nazwa": "Jantołówka"
+  },
+  {
+    "idmiejscowosc": "0422511",
+    "nazwa": "Jasienie"
+  },
+  {
+    "idmiejscowosc": "0422244",
+    "nazwa": "Jędraszkowa"
+  },
+  {
+    "idmiejscowosc": "0421782",
+    "nazwa": "Jędrzejówka"
+  },
+  {
+    "idmiejscowosc": "0421902",
+    "nazwa": "Kadłubowa"
+  },
+  {
+    "idmiejscowosc": "0421546",
+    "nazwa": "Kalety"
+  },
+  {
+    "idmiejscowosc": "1048300",
+    "nazwa": "Karwacki"
+  },
+  {
+    "idmiejscowosc": "0422385",
+    "nazwa": "Kiety"
+  },
+  {
+    "idmiejscowosc": "0422528",
+    "nazwa": "Kocańdy"
+  },
+  {
+    "idmiejscowosc": "1048322",
+    "nazwa": "Kojsia"
+  },
+  {
+    "idmiejscowosc": "0422439",
+    "nazwa": "Komperdówka"
+  },
+  {
+    "idmiejscowosc": "0421813",
+    "nazwa": "Koniówka"
+  },
+  {
+    "idmiejscowosc": "1048345",
+    "nazwa": "Koryciarze"
+  },
+  {
+    "idmiejscowosc": "0421552",
+    "nazwa": "Kościaki"
+  },
+  {
+    "idmiejscowosc": "1048368",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "1048374",
+    "nazwa": "Krowiarki"
+  },
+  {
+    "idmiejscowosc": "0421990",
+    "nazwa": "Królowa"
+  },
+  {
+    "idmiejscowosc": "0422445",
+    "nazwa": "Krużlacka"
+  },
+  {
+    "idmiejscowosc": "1048380",
+    "nazwa": "Kubaki"
+  },
+  {
+    "idmiejscowosc": "1048411",
+    "nazwa": "Kubaniowa"
+  },
+  {
+    "idmiejscowosc": "0422451",
+    "nazwa": "Kuczkowa"
+  },
+  {
+    "idmiejscowosc": "0422178",
+    "nazwa": "Lejowska"
+  },
+  {
+    "idmiejscowosc": "0422008",
+    "nazwa": "Leligdonowa"
+  },
+  {
+    "idmiejscowosc": "0422534",
+    "nazwa": "Lenarty"
+  },
+  {
+    "idmiejscowosc": "1048434",
+    "nazwa": "Łopaty"
+  },
+  {
+    "idmiejscowosc": "0422014",
+    "nazwa": "Malatowa"
+  },
+  {
+    "idmiejscowosc": "0421842",
+    "nazwa": "Mardułówka"
+  },
+  {
+    "idmiejscowosc": "1048463",
+    "nazwa": "Masna"
+  },
+  {
+    "idmiejscowosc": "0422540",
+    "nazwa": "Maślnice"
+  },
+  {
+    "idmiejscowosc": "0422184",
+    "nazwa": "Matułówka"
+  },
+  {
+    "idmiejscowosc": "0421569",
+    "nazwa": "Miętustwo"
+  },
+  {
+    "idmiejscowosc": "0421730",
+    "nazwa": "Morawy"
+  },
+  {
+    "idmiejscowosc": "1048486",
+    "nazwa": "Motycy"
+  },
+  {
+    "idmiejscowosc": "0422190",
+    "nazwa": "Mrózkówka"
+  },
+  {
+    "idmiejscowosc": "0422333",
+    "nazwa": "Mulice"
+  },
+  {
+    "idmiejscowosc": "0422250",
+    "nazwa": "Na Dół"
+  },
+  {
+    "idmiejscowosc": "1048517",
+    "nazwa": "Naciaskowa"
+  },
+  {
+    "idmiejscowosc": "0421670",
+    "nazwa": "Nędze"
+  },
+  {
+    "idmiejscowosc": "1048546",
+    "nazwa": "Niedźwiedzie"
+  },
+  {
+    "idmiejscowosc": "0421871",
+    "nazwa": "Odrowąż"
+  },
+  {
+    "idmiejscowosc": "0421919",
+    "nazwa": "Osie"
+  },
+  {
+    "idmiejscowosc": "1048575",
+    "nazwa": "Paksimowa"
+  },
+  {
+    "idmiejscowosc": "1048598",
+    "nazwa": "Pałki"
+  },
+  {
+    "idmiejscowosc": "1048606",
+    "nazwa": "Piaskówka"
+  },
+  {
+    "idmiejscowosc": "0421977",
+    "nazwa": "Piekielnik"
+  },
+  {
+    "idmiejscowosc": "0422095",
+    "nazwa": "Pieniążkowice"
+  },
+  {
+    "idmiejscowosc": "0422267",
+    "nazwa": "Pikujdowa"
+  },
+  {
+    "idmiejscowosc": "1048747",
+    "nazwa": "Piotry"
+  },
+  {
+    "idmiejscowosc": "0421859",
+    "nazwa": "Płazówka"
+  },
+  {
+    "idmiejscowosc": "0421575",
+    "nazwa": "Pod Grapą"
+  },
+  {
+    "idmiejscowosc": "1048760",
+    "nazwa": "Podczerwieńska"
+  },
+  {
+    "idmiejscowosc": "0422149",
+    "nazwa": "Podczerwone"
+  },
+  {
+    "idmiejscowosc": "0422209",
+    "nazwa": "Podszkle"
+  },
+  {
+    "idmiejscowosc": "0422304",
+    "nazwa": "Ratułów"
+  },
+  {
+    "idmiejscowosc": "0422020",
+    "nazwa": "Rokicka"
+  },
+  {
+    "idmiejscowosc": "1048782",
+    "nazwa": "Rychlikowa"
+  },
+  {
+    "idmiejscowosc": "0422037",
+    "nazwa": "Rzepkowa"
+  },
+  {
+    "idmiejscowosc": "0421687",
+    "nazwa": "Sabały"
+  },
+  {
+    "idmiejscowosc": "0422391",
+    "nazwa": "Skałka"
+  },
+  {
+    "idmiejscowosc": "1048799",
+    "nazwa": "Skorusia"
+  },
+  {
+    "idmiejscowosc": "0421693",
+    "nazwa": "Skubisy"
+  },
+  {
+    "idmiejscowosc": "0422110",
+    "nazwa": "Skupnie"
+  },
+  {
+    "idmiejscowosc": "0422043",
+    "nazwa": "Smutkowa"
+  },
+  {
+    "idmiejscowosc": "0422468",
+    "nazwa": "Solarska"
+  },
+  {
+    "idmiejscowosc": "0421799",
+    "nazwa": "Sołtysia"
+  },
+  {
+    "idmiejscowosc": "0421925",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "1048807",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0422126",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0422310",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "1048820",
+    "nazwa": "Sołtystwo Niżnie"
+  },
+  {
+    "idmiejscowosc": "1048842",
+    "nazwa": "Sołtystwo Wyżnie"
+  },
+  {
+    "idmiejscowosc": "0422400",
+    "nazwa": "Sroki"
+  },
+  {
+    "idmiejscowosc": "0422356",
+    "nazwa": "Stare Bystre"
+  },
+  {
+    "idmiejscowosc": "0421807",
+    "nazwa": "Stary Jaz"
+  },
+  {
+    "idmiejscowosc": "1048865",
+    "nazwa": "Stochy"
+  },
+  {
+    "idmiejscowosc": "1048894",
+    "nazwa": "Stopkowa"
+  },
+  {
+    "idmiejscowosc": "0422296",
+    "nazwa": "Studzianki"
+  },
+  {
+    "idmiejscowosc": "1048919",
+    "nazwa": "Szczurkowa"
+  },
+  {
+    "idmiejscowosc": "1048931",
+    "nazwa": "Szczurówki"
+  },
+  {
+    "idmiejscowosc": "0422416",
+    "nazwa": "Szeligówka"
+  },
+  {
+    "idmiejscowosc": "0422557",
+    "nazwa": "Szepty"
+  },
+  {
+    "idmiejscowosc": "0421865",
+    "nazwa": "Szewcówka"
+  },
+  {
+    "idmiejscowosc": "1048954",
+    "nazwa": "Szlachtowa"
+  },
+  {
+    "idmiejscowosc": "0422563",
+    "nazwa": "Szymusiaki"
+  },
+  {
+    "idmiejscowosc": "1049037",
+    "nazwa": "Świńskie Miasto"
+  },
+  {
+    "idmiejscowosc": "0421701",
+    "nazwa": "Takuśki"
+  },
+  {
+    "idmiejscowosc": "1049050",
+    "nazwa": "Tylkowa"
+  },
+  {
+    "idmiejscowosc": "0421718",
+    "nazwa": "Ubocz"
+  },
+  {
+    "idmiejscowosc": "0422132",
+    "nazwa": "Wesołe"
+  },
+  {
+    "idmiejscowosc": "0421581",
+    "nazwa": "Wierch-Ciche"
+  },
+  {
+    "idmiejscowosc": "1049072",
+    "nazwa": "Wojcieszaki"
+  },
+  {
+    "idmiejscowosc": "0422066",
+    "nazwa": "Wójcikowa"
+  },
+  {
+    "idmiejscowosc": "0422072",
+    "nazwa": "Wójtowa"
+  },
+  {
+    "idmiejscowosc": "1049095",
+    "nazwa": "Wrony"
+  },
+  {
+    "idmiejscowosc": "0422422",
+    "nazwa": "Wróblówka"
+  },
+  {
+    "idmiejscowosc": "0421931",
+    "nazwa": "Za Górę"
+  },
+  {
+    "idmiejscowosc": "0421598",
+    "nazwa": "Za Grapą"
+  },
+  {
+    "idmiejscowosc": "0421948",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "1049110",
+    "nazwa": "Zagrody"
+  },
+  {
+    "idmiejscowosc": "0422480",
+    "nazwa": "Załuczne"
+  },
+  {
+    "idmiejscowosc": "0421724",
+    "nazwa": "Zatłoki"
+  },
+  {
+    "idmiejscowosc": "0421606",
+    "nazwa": "Zawodzianie"
+  },
+  {
+    "idmiejscowosc": "1049126",
+    "nazwa": "Zawodzie"
+  },
+  {
+    "idmiejscowosc": "0422273",
+    "nazwa": "Zązelowa"
+  },
+  {
+    "idmiejscowosc": "1049132",
+    "nazwa": "Zązelówka"
+  },
+  {
+    "idmiejscowosc": "0422280",
+    "nazwa": "Ziemiaństwo"
+  },
+  {
+    "idmiejscowosc": "0421612",
+    "nazwa": "Zoki"
+  },
+  {
+    "idmiejscowosc": "0421960",
+    "nazwa": "Żary"
+  },
+  {
+    "idmiejscowosc": "0422089",
+    "nazwa": "Żydowa"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "idmiejscowosc": "0564091",
+    "nazwa": "Aleksandrynów"
+  },
+  {
+    "idmiejscowosc": "0564100",
+    "nazwa": "Anielin"
+  },
+  {
+    "idmiejscowosc": "0564122",
+    "nazwa": "Antoninów"
+  },
+  {
+    "idmiejscowosc": "0999587",
+    "nazwa": "Anulin"
+  },
+  {
+    "idmiejscowosc": "0564145",
+    "nazwa": "Baby Dolne"
+  },
+  {
+    "idmiejscowosc": "0564151",
+    "nazwa": "Baby Górne"
+  },
+  {
+    "idmiejscowosc": "0564168",
+    "nazwa": "Belno"
+  },
+  {
+    "idmiejscowosc": "0564174",
+    "nazwa": "Białe"
+  },
+  {
+    "idmiejscowosc": "0564180",
+    "nazwa": "Białotarsk"
+  },
+  {
+    "idmiejscowosc": "0564197",
+    "nazwa": "Bielawy"
+  },
+  {
+    "idmiejscowosc": "0564205",
+    "nazwa": "Bierzewice"
+  },
+  {
+    "idmiejscowosc": "0564228",
+    "nazwa": "Bolesławów"
+  },
+  {
+    "idmiejscowosc": "0999475",
+    "nazwa": "Borowie"
+  },
+  {
+    "idmiejscowosc": "0564719",
+    "nazwa": "Brzozówka"
+  },
+  {
+    "idmiejscowosc": "0564234",
+    "nazwa": "Budy Kozickie"
+  },
+  {
+    "idmiejscowosc": "0564464",
+    "nazwa": "Budy Leśniewickie"
+  },
+  {
+    "idmiejscowosc": "0564240",
+    "nazwa": "Budy Lucieńskie"
+  },
+  {
+    "idmiejscowosc": "0564257",
+    "nazwa": "Choinek"
+  },
+  {
+    "idmiejscowosc": "0999570",
+    "nazwa": "Choinek-Leśniczówka"
+  },
+  {
+    "idmiejscowosc": "0564263",
+    "nazwa": "Dąbrówka"
+  },
+  {
+    "idmiejscowosc": "0564731",
+    "nazwa": "Dendyja"
+  },
+  {
+    "idmiejscowosc": "0564270",
+    "nazwa": "Emilianów"
+  },
+  {
+    "idmiejscowosc": "0564286",
+    "nazwa": "Feliksów"
+  },
+  {
+    "idmiejscowosc": "0999564",
+    "nazwa": "Gajówka"
+  },
+  {
+    "idmiejscowosc": "0564872",
+    "nazwa": "Gajówka Sokołowska"
+  },
+  {
+    "idmiejscowosc": "0564300",
+    "nazwa": "Gaśno"
+  },
+  {
+    "idmiejscowosc": "0564292",
+    "nazwa": "Gaśno"
+  },
+  {
+    "idmiejscowosc": "0564317",
+    "nazwa": "Gorzewo"
+  },
+  {
+    "idmiejscowosc": "0564323",
+    "nazwa": "Górki Drugie"
+  },
+  {
+    "idmiejscowosc": "0564330",
+    "nazwa": "Górki Pierwsze"
+  },
+  {
+    "idmiejscowosc": "0564346",
+    "nazwa": "Gulewo"
+  },
+  {
+    "idmiejscowosc": "0564352",
+    "nazwa": "Halinów"
+  },
+  {
+    "idmiejscowosc": "0564369",
+    "nazwa": "Helenów"
+  },
+  {
+    "idmiejscowosc": "0564659",
+    "nazwa": "Huta Nowa"
+  },
+  {
+    "idmiejscowosc": "0564375",
+    "nazwa": "Huta Zaborowska"
+  },
+  {
+    "idmiejscowosc": "0564613",
+    "nazwa": "Janowo"
+  },
+  {
+    "idmiejscowosc": "0564665",
+    "nazwa": "Jastrzębia"
+  },
+  {
+    "idmiejscowosc": "0564381",
+    "nazwa": "Jaworek"
+  },
+  {
+    "idmiejscowosc": "0564398",
+    "nazwa": "Józefków"
+  },
+  {
+    "idmiejscowosc": "0999469",
+    "nazwa": "Julianów"
+  },
+  {
+    "idmiejscowosc": "0564116",
+    "nazwa": "Justynków"
+  },
+  {
+    "idmiejscowosc": "0564139",
+    "nazwa": "Kamienny Kopiec"
+  },
+  {
+    "idmiejscowosc": "0564412",
+    "nazwa": "Kazimierzów"
+  },
+  {
+    "idmiejscowosc": "0564429",
+    "nazwa": "Kiełpieniec"
+  },
+  {
+    "idmiejscowosc": "0564458",
+    "nazwa": "Kleniew"
+  },
+  {
+    "idmiejscowosc": "0564470",
+    "nazwa": "Klusek"
+  },
+  {
+    "idmiejscowosc": "0564487",
+    "nazwa": "Kozice"
+  },
+  {
+    "idmiejscowosc": "0564493",
+    "nazwa": "Kruk"
+  },
+  {
+    "idmiejscowosc": "0999535",
+    "nazwa": "Kruk-Leśniczówka"
+  },
+  {
+    "idmiejscowosc": "0564501",
+    "nazwa": "Krzywie"
+  },
+  {
+    "idmiejscowosc": "0564518",
+    "nazwa": "Legarda"
+  },
+  {
+    "idmiejscowosc": "0564530",
+    "nazwa": "Leśniewice"
+  },
+  {
+    "idmiejscowosc": "0564547",
+    "nazwa": "Lipa"
+  },
+  {
+    "idmiejscowosc": "0564553",
+    "nazwa": "Lisica"
+  },
+  {
+    "idmiejscowosc": "0564560",
+    "nazwa": "Lucień"
+  },
+  {
+    "idmiejscowosc": "0564576",
+    "nazwa": "Łokietnica"
+  },
+  {
+    "idmiejscowosc": "0564599",
+    "nazwa": "Marianka"
+  },
+  {
+    "idmiejscowosc": "0564607",
+    "nazwa": "Marianów"
+  },
+  {
+    "idmiejscowosc": "0564582",
+    "nazwa": "Marianów Sierakowski"
+  },
+  {
+    "idmiejscowosc": "0564620",
+    "nazwa": "Miałkówek"
+  },
+  {
+    "idmiejscowosc": "0564435",
+    "nazwa": "Mniszek"
+  },
+  {
+    "idmiejscowosc": "0999506",
+    "nazwa": "Murowanka-Leśniczówka"
+  },
+  {
+    "idmiejscowosc": "0564671",
+    "nazwa": "Mysłownia Nowa"
+  },
+  {
+    "idmiejscowosc": "0564636",
+    "nazwa": "Nagodów"
+  },
+  {
+    "idmiejscowosc": "0564642",
+    "nazwa": "Niecki"
+  },
+  {
+    "idmiejscowosc": "0564524",
+    "nazwa": "Nowa Legarda"
+  },
+  {
+    "idmiejscowosc": "0564688",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0564702",
+    "nazwa": "Osada"
+  },
+  {
+    "idmiejscowosc": "0564725",
+    "nazwa": "Osiny"
+  },
+  {
+    "idmiejscowosc": "0564211",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0564406",
+    "nazwa": "Piotrów"
+  },
+  {
+    "idmiejscowosc": "0564748",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0564754",
+    "nazwa": "Polesie"
+  },
+  {
+    "idmiejscowosc": "0564760",
+    "nazwa": "Pomarzanki"
+  },
+  {
+    "idmiejscowosc": "0564777",
+    "nazwa": "Rębów"
+  },
+  {
+    "idmiejscowosc": "0999481",
+    "nazwa": "Rogożew"
+  },
+  {
+    "idmiejscowosc": "0564783",
+    "nazwa": "Rogożewek"
+  },
+  {
+    "idmiejscowosc": "0999512",
+    "nazwa": "Ruda"
+  },
+  {
+    "idmiejscowosc": "0564790",
+    "nazwa": "Rumunki"
+  },
+  {
+    "idmiejscowosc": "0564808",
+    "nazwa": "Ruszków"
+  },
+  {
+    "idmiejscowosc": "0564814",
+    "nazwa": "Rybne"
+  },
+  {
+    "idmiejscowosc": "0564820",
+    "nazwa": "Sałki"
+  },
+  {
+    "idmiejscowosc": "0564837",
+    "nazwa": "Sieraków"
+  },
+  {
+    "idmiejscowosc": "0564843",
+    "nazwa": "Sierakówek"
+  },
+  {
+    "idmiejscowosc": "0564441",
+    "nazwa": "Skoki"
+  },
+  {
+    "idmiejscowosc": "0564850",
+    "nazwa": "Skrzany"
+  },
+  {
+    "idmiejscowosc": "0999529",
+    "nazwa": "Smolary-Gajówka"
+  },
+  {
+    "idmiejscowosc": "0564866",
+    "nazwa": "Sokołów"
+  },
+  {
+    "idmiejscowosc": "0564903",
+    "nazwa": "Solec"
+  },
+  {
+    "idmiejscowosc": "0564910",
+    "nazwa": "Stanisławów"
+  },
+  {
+    "idmiejscowosc": "0564926",
+    "nazwa": "Stanisławów Skrzański"
+  },
+  {
+    "idmiejscowosc": "0999558",
+    "nazwa": "Stara Mysłownia"
+  },
+  {
+    "idmiejscowosc": "0564949",
+    "nazwa": "Stefanów"
+  },
+  {
+    "idmiejscowosc": "0564955",
+    "nazwa": "Strzałki"
+  },
+  {
+    "idmiejscowosc": "0999541",
+    "nazwa": "Wąwrowa"
+  },
+  {
+    "idmiejscowosc": "0564978",
+    "nazwa": "Wrząca"
+  },
+  {
+    "idmiejscowosc": "0999498",
+    "nazwa": "Wyrobki"
+  },
+  {
+    "idmiejscowosc": "0564694",
+    "nazwa": "Zaborów Nowy"
+  },
+  {
+    "idmiejscowosc": "0564932",
+    "nazwa": "Zaborów Stary"
+  },
+  {
+    "idmiejscowosc": "0564984",
+    "nazwa": "Zieleniec"
+  },
+  {
+    "idmiejscowosc": "0564990",
+    "nazwa": "Zuzinów"
+  },
+  {
+    "idmiejscowosc": "0565009",
+    "nazwa": "Zwoleń"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "idmiejscowosc": "0416947",
+    "nazwa": "Adolfów"
+  },
+  {
+    "idmiejscowosc": "0416433",
+    "nazwa": "Astachowice"
+  },
+  {
+    "idmiejscowosc": "0416456",
+    "nazwa": "Bądków"
+  },
+  {
+    "idmiejscowosc": "0416462",
+    "nazwa": "Besiekierz Nawojowy"
+  },
+  {
+    "idmiejscowosc": "0416491",
+    "nazwa": "Besiekierz Rudny"
+  },
+  {
+    "idmiejscowosc": "0416516",
+    "nazwa": "Biała"
+  },
+  {
+    "idmiejscowosc": "0417237",
+    "nazwa": "Brachowice"
+  },
+  {
+    "idmiejscowosc": "0416500",
+    "nazwa": "Budy"
+  },
+  {
+    "idmiejscowosc": "0416574",
+    "nazwa": "Ciosny"
+  },
+  {
+    "idmiejscowosc": "0417208",
+    "nazwa": "Ciosny"
+  },
+  {
+    "idmiejscowosc": "0416580",
+    "nazwa": "Ciosny-Parcela"
+  },
+  {
+    "idmiejscowosc": "0416597",
+    "nazwa": "Ciosny-Sady"
+  },
+  {
+    "idmiejscowosc": "0416522",
+    "nazwa": "Cyprianów"
+  },
+  {
+    "idmiejscowosc": "0416605",
+    "nazwa": "Czaplinek"
+  },
+  {
+    "idmiejscowosc": "0416663",
+    "nazwa": "Dąbrówka Wielka"
+  },
+  {
+    "idmiejscowosc": "0416670",
+    "nazwa": "Dąbrówka-Malice"
+  },
+  {
+    "idmiejscowosc": "0416640",
+    "nazwa": "Dąbrówka-Marianka"
+  },
+  {
+    "idmiejscowosc": "0416657",
+    "nazwa": "Dąbrówka-Sowice"
+  },
+  {
+    "idmiejscowosc": "0416634",
+    "nazwa": "Dąbrówka-Strumiany"
+  },
+  {
+    "idmiejscowosc": "0416953",
+    "nazwa": "Dębniak"
+  },
+  {
+    "idmiejscowosc": "0416723",
+    "nazwa": "Duża Swoboda"
+  },
+  {
+    "idmiejscowosc": "0416686",
+    "nazwa": "Dzierżązna"
+  },
+  {
+    "idmiejscowosc": "0416692",
+    "nazwa": "Dzierżązna-Parcela"
+  },
+  {
+    "idmiejscowosc": "0416746",
+    "nazwa": "Emilia"
+  },
+  {
+    "idmiejscowosc": "0416982",
+    "nazwa": "Florianów"
+  },
+  {
+    "idmiejscowosc": "0416752",
+    "nazwa": "Gieczno"
+  },
+  {
+    "idmiejscowosc": "0416769",
+    "nazwa": "Glinnik"
+  },
+  {
+    "idmiejscowosc": "0416479",
+    "nazwa": "Gorzewo"
+  },
+  {
+    "idmiejscowosc": "1042124",
+    "nazwa": "Gozdówek"
+  },
+  {
+    "idmiejscowosc": "0416812",
+    "nazwa": "Grabiszew"
+  },
+  {
+    "idmiejscowosc": "0416829",
+    "nazwa": "Grotniki"
+  },
+  {
+    "idmiejscowosc": "0416893",
+    "nazwa": "Janów"
+  },
+  {
+    "idmiejscowosc": "0416841",
+    "nazwa": "Jasionka"
+  },
+  {
+    "idmiejscowosc": "0416864",
+    "nazwa": "Jedlicze A"
+  },
+  {
+    "idmiejscowosc": "0416870",
+    "nazwa": "Jedlicze B"
+  },
+  {
+    "idmiejscowosc": "0416545",
+    "nazwa": "Jeżewo"
+  },
+  {
+    "idmiejscowosc": "0416887",
+    "nazwa": "Józefów"
+  },
+  {
+    "idmiejscowosc": "0417007",
+    "nazwa": "Julianów"
+  },
+  {
+    "idmiejscowosc": "0416930",
+    "nazwa": "Kania Góra"
+  },
+  {
+    "idmiejscowosc": "0416960",
+    "nazwa": "Kębliny"
+  },
+  {
+    "idmiejscowosc": "0416976",
+    "nazwa": "Kębliny-Olszowiec"
+  },
+  {
+    "idmiejscowosc": "0416539",
+    "nazwa": "Kolonia Głowa"
+  },
+  {
+    "idmiejscowosc": "0416440",
+    "nazwa": "Kotowice"
+  },
+  {
+    "idmiejscowosc": "0416835",
+    "nazwa": "Krzemień"
+  },
+  {
+    "idmiejscowosc": "0417013",
+    "nazwa": "Kwilno"
+  },
+  {
+    "idmiejscowosc": "0416901",
+    "nazwa": "Leonardów"
+  },
+  {
+    "idmiejscowosc": "0416551",
+    "nazwa": "Leonów"
+  },
+  {
+    "idmiejscowosc": "0417042",
+    "nazwa": "Lorenki"
+  },
+  {
+    "idmiejscowosc": "0417065",
+    "nazwa": "Lućmierz"
+  },
+  {
+    "idmiejscowosc": "0417119",
+    "nazwa": "Łagiewniki Nowe"
+  },
+  {
+    "idmiejscowosc": "0417088",
+    "nazwa": "Maciejów"
+  },
+  {
+    "idmiejscowosc": "0416858",
+    "nazwa": "Mała Jasionka"
+  },
+  {
+    "idmiejscowosc": "0416611",
+    "nazwa": "Marcjanka"
+  },
+  {
+    "idmiejscowosc": "0417409",
+    "nazwa": "Michałów"
+  },
+  {
+    "idmiejscowosc": "0416999",
+    "nazwa": "Moszczenica"
+  },
+  {
+    "idmiejscowosc": "0417243",
+    "nazwa": "Nowe Brachowice"
+  },
+  {
+    "idmiejscowosc": "0417332",
+    "nazwa": "Nowe Warszyce"
+  },
+  {
+    "idmiejscowosc": "0416918",
+    "nazwa": "Osmolin"
+  },
+  {
+    "idmiejscowosc": "0416700",
+    "nazwa": "Ostrów"
+  },
+  {
+    "idmiejscowosc": "0416775",
+    "nazwa": "Palestyna"
+  },
+  {
+    "idmiejscowosc": "0416628",
+    "nazwa": "Podole"
+  },
+  {
+    "idmiejscowosc": "0417131",
+    "nazwa": "Rogóźno"
+  },
+  {
+    "idmiejscowosc": "0417148",
+    "nazwa": "Rosanów"
+  },
+  {
+    "idmiejscowosc": "0417154",
+    "nazwa": "Rosanów Dolny"
+  },
+  {
+    "idmiejscowosc": "0417160",
+    "nazwa": "Rosanów Górny"
+  },
+  {
+    "idmiejscowosc": "0417177",
+    "nazwa": "Rosanów Podleśny"
+  },
+  {
+    "idmiejscowosc": "0417183",
+    "nazwa": "Rosanów Rozwlekły"
+  },
+  {
+    "idmiejscowosc": "0417094",
+    "nazwa": "Rozalinów"
+  },
+  {
+    "idmiejscowosc": "0416485",
+    "nazwa": "Rudno"
+  },
+  {
+    "idmiejscowosc": "0416781",
+    "nazwa": "Samotnik"
+  },
+  {
+    "idmiejscowosc": "0416798",
+    "nazwa": "Siedlisko"
+  },
+  {
+    "idmiejscowosc": "0417020",
+    "nazwa": "Silne Błoto"
+  },
+  {
+    "idmiejscowosc": "0417214",
+    "nazwa": "Skotniki"
+  },
+  {
+    "idmiejscowosc": "0417220",
+    "nazwa": "Słowik"
+  },
+  {
+    "idmiejscowosc": "0417102",
+    "nazwa": "Smardzew"
+  },
+  {
+    "idmiejscowosc": "0417059",
+    "nazwa": "Stare Lorenki"
+  },
+  {
+    "idmiejscowosc": "0417125",
+    "nazwa": "Stare Łagiewniki"
+  },
+  {
+    "idmiejscowosc": "0417349",
+    "nazwa": "Stare Warszyce"
+  },
+  {
+    "idmiejscowosc": "0416568",
+    "nazwa": "Stefanów"
+  },
+  {
+    "idmiejscowosc": "0416717",
+    "nazwa": "Swoboda"
+  },
+  {
+    "idmiejscowosc": "0416730",
+    "nazwa": "Swobódka"
+  },
+  {
+    "idmiejscowosc": "0417250",
+    "nazwa": "Szczawin"
+  },
+  {
+    "idmiejscowosc": "0417266",
+    "nazwa": "Szczawin Duży"
+  },
+  {
+    "idmiejscowosc": "0417272",
+    "nazwa": "Szczawin Mały"
+  },
+  {
+    "idmiejscowosc": "0417295",
+    "nazwa": "Szczawin-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0417303",
+    "nazwa": "Śladków Górny"
+  },
+  {
+    "idmiejscowosc": "0416924",
+    "nazwa": "Ukraina"
+  },
+  {
+    "idmiejscowosc": "0417310",
+    "nazwa": "Ustronie"
+  },
+  {
+    "idmiejscowosc": "0417384",
+    "nazwa": "Wały"
+  },
+  {
+    "idmiejscowosc": "0417326",
+    "nazwa": "Warszyce"
+  },
+  {
+    "idmiejscowosc": "0417355",
+    "nazwa": "Wiktorów"
+  },
+  {
+    "idmiejscowosc": "0417378",
+    "nazwa": "Władysławów"
+  },
+  {
+    "idmiejscowosc": "0417390",
+    "nazwa": "Wola Branicka"
+  },
+  {
+    "idmiejscowosc": "0417415",
+    "nazwa": "Wola Branicka-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0417421",
+    "nazwa": "Wola Rogozińska"
+  },
+  {
+    "idmiejscowosc": "0416806",
+    "nazwa": "Wołyń"
+  },
+  {
+    "idmiejscowosc": "0417190",
+    "nazwa": "Wymokłe"
+  },
+  {
+    "idmiejscowosc": "0417438",
+    "nazwa": "Wypychów"
+  },
+  {
+    "idmiejscowosc": "0417036",
+    "nazwa": "Zdzisławów"
+  },
+  {
+    "idmiejscowosc": "0417361",
+    "nazwa": "Zimna Woda"
+  }
+]

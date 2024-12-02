@@ -1,0 +1,62 @@
+[
+  {
+    "idpowiat": "01",
+    "nazwa": "brzeski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "02",
+    "nazwa": "głubczycki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "03",
+    "nazwa": "kędzierzyńsko-kozielski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "04",
+    "nazwa": "kluczborski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "05",
+    "nazwa": "krapkowicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "06",
+    "nazwa": "namysłowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "07",
+    "nazwa": "nyski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "08",
+    "nazwa": "oleski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "09",
+    "nazwa": "opolski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "10",
+    "nazwa": "prudnicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "11",
+    "nazwa": "strzelecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "61",
+    "nazwa": "Opole",
+    "nazwadod": "miasto na prawach powiatu"
+  }
+]

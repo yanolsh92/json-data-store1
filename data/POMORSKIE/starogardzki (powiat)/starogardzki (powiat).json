@@ -1,0 +1,107 @@
+[
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Bobowo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "014",
+    "idgmina": "01",
+    "nazwa": "Czarna Woda",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "015",
+    "idgmina": "01",
+    "nazwa": "Czarna Woda",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Kaliska",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Lubichowo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "072",
+    "idgmina": "07",
+    "nazwa": "Osieczna",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "082",
+    "idgmina": "08",
+    "nazwa": "Osiek",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "094",
+    "idgmina": "09",
+    "nazwa": "Skarszewy",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "095",
+    "idgmina": "09",
+    "nazwa": "Skarszewy",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "021",
+    "idgmina": "02",
+    "nazwa": "Skórcz",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "102",
+    "idgmina": "10",
+    "nazwa": "Skórcz",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "112",
+    "idgmina": "11",
+    "nazwa": "Smętowo Graniczne",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "031",
+    "idgmina": "03",
+    "nazwa": "Starogard Gdański",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "122",
+    "idgmina": "12",
+    "nazwa": "Starogard Gdański",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "132",
+    "idgmina": "13",
+    "nazwa": "Zblewo",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  }
+]

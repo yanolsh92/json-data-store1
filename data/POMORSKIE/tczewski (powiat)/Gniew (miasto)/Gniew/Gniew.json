@@ -1,0 +1,347 @@
+[
+  {
+    "idulica": "00692",
+    "nazwa": "Bankowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "46896",
+    "nazwa": "Behrendta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01528",
+    "nazwa": "Boczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "46898",
+    "nazwa": "Brzozowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02629",
+    "nazwa": "Ceramiczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02661",
+    "nazwa": "Chałubińskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "53347",
+    "nazwa": "Franciszka Czarnowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03526",
+    "nazwa": "Czyżewskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04056",
+    "nazwa": "Dolny Podmur",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04314",
+    "nazwa": "Drzymały",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05431",
+    "nazwa": "Gdańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05623",
+    "nazwa": "Głowackiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05669",
+    "nazwa": "Gniewskie Młyny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05984",
+    "nazwa": "Górny Podmur",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06477",
+    "nazwa": "Hallera",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29576",
+    "nazwa": "Franciszka Jakusz-Gostomskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07123",
+    "nazwa": "Jana Pawła II",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "30845",
+    "nazwa": "Fryderyka Kapinosa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09182",
+    "nazwa": "Konopnickiej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09264",
+    "nazwa": "Kopczyńskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09276",
+    "nazwa": "Kopernika",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09546",
+    "nazwa": "Kościelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09572",
+    "nazwa": "Kościuszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09826",
+    "nazwa": "Krasickiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "46899",
+    "nazwa": "Kremskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10009",
+    "nazwa": "Krótka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39215",
+    "nazwa": "ks. Kursikowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10491",
+    "nazwa": "Kusocińskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11139",
+    "nazwa": "Lipowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12832",
+    "nazwa": "Mieszka I",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "28549",
+    "nazwa": "Świętego Mikołaja",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "61694",
+    "nazwa": "Mostek Światowego Dnia Roweru",
+    "rodzaj": "inne"
+  },
+  {
+    "idulica": "14346",
+    "nazwa": "Nowaka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "46903",
+    "nazwa": "Osiedle Witosa",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "15710",
+    "nazwa": "Parkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15733",
+    "nazwa": "Partyzantów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "37694",
+    "nazwa": "Marszałka Piłsudskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "38491",
+    "nazwa": "Plac Grunwaldzki",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "16579",
+    "nazwa": "Pocztowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16583",
+    "nazwa": "Pod Basztą",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16874",
+    "nazwa": "Podwale",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17070",
+    "nazwa": "Południowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17144",
+    "nazwa": "Popiełuszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17538",
+    "nazwa": "Promowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17742",
+    "nazwa": "Przemysłowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "59717",
+    "nazwa": "Rondo Republiki Gniewskiej",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "19142",
+    "nazwa": "Rybacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19186",
+    "nazwa": "Rycerska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19455",
+    "nazwa": "Sambora",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "46531",
+    "nazwa": "Sidorowicz",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20421",
+    "nazwa": "Sobieskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20641",
+    "nazwa": "Spacerowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20661",
+    "nazwa": "Spichrzowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20696",
+    "nazwa": "Spółdzielcza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21065",
+    "nazwa": "Staszica",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21293",
+    "nazwa": "Stroma",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21461",
+    "nazwa": "27 Stycznia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22907",
+    "nazwa": "Towarowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23795",
+    "nazwa": "Wąska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24048",
+    "nazwa": "Wiejska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24398",
+    "nazwa": "Wiślana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24550",
+    "nazwa": "Wodna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24879",
+    "nazwa": "Wschodnia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25117",
+    "nazwa": "Prymasa Wyszyńskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25547",
+    "nazwa": "Zamkowa",
+    "rodzaj": "ul."
+  }
+]

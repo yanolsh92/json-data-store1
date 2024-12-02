@@ -1,0 +1,346 @@
+[
+  {
+    "idmiejscowosc": "0831400",
+    "nazwa": "Badziski"
+  },
+  {
+    "idmiejscowosc": "0831563",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0831362",
+    "nazwa": "Barczków"
+  },
+  {
+    "idmiejscowosc": "1048049",
+    "nazwa": "Bliższe Łany"
+  },
+  {
+    "idmiejscowosc": "0832031",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0831988",
+    "nazwa": "Brzezinki"
+  },
+  {
+    "idmiejscowosc": "0831570",
+    "nazwa": "Brzeziny"
+  },
+  {
+    "idmiejscowosc": "1048061",
+    "nazwa": "Dalsze Łany"
+  },
+  {
+    "idmiejscowosc": "0831379",
+    "nazwa": "Dąbrówka Morska"
+  },
+  {
+    "idmiejscowosc": "0831876",
+    "nazwa": "Dębnik"
+  },
+  {
+    "idmiejscowosc": "0831391",
+    "nazwa": "Dołęga"
+  },
+  {
+    "idmiejscowosc": "0832203",
+    "nazwa": "Fenedyk"
+  },
+  {
+    "idmiejscowosc": "0832210",
+    "nazwa": "Gać"
+  },
+  {
+    "idmiejscowosc": "0831451",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0832226",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0831617",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0831416",
+    "nazwa": "Jagniówka Dołęska"
+  },
+  {
+    "idmiejscowosc": "0831468",
+    "nazwa": "Kępa"
+  },
+  {
+    "idmiejscowosc": "0831528",
+    "nazwa": "Kopacze Wielkie"
+  },
+  {
+    "idmiejscowosc": "0831534",
+    "nazwa": "Kopalina"
+  },
+  {
+    "idmiejscowosc": "0832108",
+    "nazwa": "Krowodrza"
+  },
+  {
+    "idmiejscowosc": "0831540",
+    "nazwa": "Księże Kopacze"
+  },
+  {
+    "idmiejscowosc": "0831557",
+    "nazwa": "Kwików"
+  },
+  {
+    "idmiejscowosc": "0831586",
+    "nazwa": "Lipie"
+  },
+  {
+    "idmiejscowosc": "0831729",
+    "nazwa": "Małe Rajsko"
+  },
+  {
+    "idmiejscowosc": "0831669",
+    "nazwa": "Mały Pojaw"
+  },
+  {
+    "idmiejscowosc": "0831882",
+    "nazwa": "Michala"
+  },
+  {
+    "idmiejscowosc": "0832172",
+    "nazwa": "Michala"
+  },
+  {
+    "idmiejscowosc": "0831959",
+    "nazwa": "Myślenice"
+  },
+  {
+    "idmiejscowosc": "0831801",
+    "nazwa": "Na Błoniu"
+  },
+  {
+    "idmiejscowosc": "0831623",
+    "nazwa": "Na Błoniu"
+  },
+  {
+    "idmiejscowosc": "0831675",
+    "nazwa": "Na Piasku"
+  },
+  {
+    "idmiejscowosc": "0832143",
+    "nazwa": "Natków"
+  },
+  {
+    "idmiejscowosc": "0831600",
+    "nazwa": "Niedzieliska"
+  },
+  {
+    "idmiejscowosc": "0831422",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0831899",
+    "nazwa": "Osikówki"
+  },
+  {
+    "idmiejscowosc": "0831907",
+    "nazwa": "Pastwiska"
+  },
+  {
+    "idmiejscowosc": "0831630",
+    "nazwa": "Pod Szuminem"
+  },
+  {
+    "idmiejscowosc": "0831474",
+    "nazwa": "Poddębówka"
+  },
+  {
+    "idmiejscowosc": "0831913",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0831480",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0831847",
+    "nazwa": "Podolszynie"
+  },
+  {
+    "idmiejscowosc": "0831920",
+    "nazwa": "Podradziejów"
+  },
+  {
+    "idmiejscowosc": "0831965",
+    "nazwa": "Podrylowa"
+  },
+  {
+    "idmiejscowosc": "0831497",
+    "nazwa": "Podrząchowie"
+  },
+  {
+    "idmiejscowosc": "0831652",
+    "nazwa": "Pojawie"
+  },
+  {
+    "idmiejscowosc": "0831698",
+    "nazwa": "Popędzyna"
+  },
+  {
+    "idmiejscowosc": "0831706",
+    "nazwa": "Popędzynka"
+  },
+  {
+    "idmiejscowosc": "0832189",
+    "nazwa": "Radziejów"
+  },
+  {
+    "idmiejscowosc": "0831712",
+    "nazwa": "Rajsko"
+  },
+  {
+    "idmiejscowosc": "0831758",
+    "nazwa": "Rudy Drugie"
+  },
+  {
+    "idmiejscowosc": "0831764",
+    "nazwa": "Rudy Pierwsze"
+  },
+  {
+    "idmiejscowosc": "0831741",
+    "nazwa": "Rudy-Rysie"
+  },
+  {
+    "idmiejscowosc": "0831793",
+    "nazwa": "Rylowa"
+  },
+  {
+    "idmiejscowosc": "0831439",
+    "nazwa": "Rysie"
+  },
+  {
+    "idmiejscowosc": "0831818",
+    "nazwa": "Rząchowa"
+  },
+  {
+    "idmiejscowosc": "0831505",
+    "nazwa": "Sekułki"
+  },
+  {
+    "idmiejscowosc": "0832054",
+    "nazwa": "Skotnica"
+  },
+  {
+    "idmiejscowosc": "0831592",
+    "nazwa": "Skotnik"
+  },
+  {
+    "idmiejscowosc": "0831824",
+    "nazwa": "Skotnik"
+  },
+  {
+    "idmiejscowosc": "0831787",
+    "nazwa": "Sołtysie"
+  },
+  {
+    "idmiejscowosc": "0832060",
+    "nazwa": "Stare Niedary"
+  },
+  {
+    "idmiejscowosc": "0832077",
+    "nazwa": "Stare Uście"
+  },
+  {
+    "idmiejscowosc": "0831681",
+    "nazwa": "Stary Folwark"
+  },
+  {
+    "idmiejscowosc": "0831385",
+    "nazwa": "Strachorówka"
+  },
+  {
+    "idmiejscowosc": "0831830",
+    "nazwa": "Strzelce Małe"
+  },
+  {
+    "idmiejscowosc": "0831860",
+    "nazwa": "Strzelce Wielkie"
+  },
+  {
+    "idmiejscowosc": "0831942",
+    "nazwa": "Szczurowa"
+  },
+  {
+    "idmiejscowosc": "0831936",
+    "nazwa": "Todorów"
+  },
+  {
+    "idmiejscowosc": "0832019",
+    "nazwa": "Uście Solne"
+  },
+  {
+    "idmiejscowosc": "0831445",
+    "nazwa": "W Podborzu"
+  },
+  {
+    "idmiejscowosc": "0831971",
+    "nazwa": "Wągroda"
+  },
+  {
+    "idmiejscowosc": "0831735",
+    "nazwa": "Wielkie Rajsko"
+  },
+  {
+    "idmiejscowosc": "0831994",
+    "nazwa": "Włoszyn"
+  },
+  {
+    "idmiejscowosc": "0832090",
+    "nazwa": "Wola Przemykowska"
+  },
+  {
+    "idmiejscowosc": "0832114",
+    "nazwa": "Wola Średnia"
+  },
+  {
+    "idmiejscowosc": "0832166",
+    "nazwa": "Wrzępia"
+  },
+  {
+    "idmiejscowosc": "0831646",
+    "nazwa": "Wygoda"
+  },
+  {
+    "idmiejscowosc": "0831511",
+    "nazwa": "Zabełcze"
+  },
+  {
+    "idmiejscowosc": "0832195",
+    "nazwa": "Zaborów"
+  },
+  {
+    "idmiejscowosc": "0832083",
+    "nazwa": "Zagonie"
+  },
+  {
+    "idmiejscowosc": "0832150",
+    "nazwa": "Zajeziorze"
+  },
+  {
+    "idmiejscowosc": "0832002",
+    "nazwa": "Zakręcie"
+  },
+  {
+    "idmiejscowosc": "0832120",
+    "nazwa": "Zamłynie"
+  },
+  {
+    "idmiejscowosc": "0832137",
+    "nazwa": "Zamoście"
+  },
+  {
+    "idmiejscowosc": "0831853",
+    "nazwa": "Zamoście"
+  }
+]

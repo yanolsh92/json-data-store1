@@ -1,0 +1,252 @@
+[
+  {
+    "idulica": "00541",
+    "nazwa": "Babiogórska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32953",
+    "nazwa": "Bielowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01842",
+    "nazwa": "Borowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02229",
+    "nazwa": "Brzegowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36641",
+    "nazwa": "Buławowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36617",
+    "nazwa": "Butorowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03839",
+    "nazwa": "Długa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36622",
+    "nazwa": "Do Dablina",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05610",
+    "nazwa": "Głogowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06075",
+    "nazwa": "Graniczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07123",
+    "nazwa": "Jana Pawła II",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07380",
+    "nazwa": "Jaśminowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07582",
+    "nazwa": "Jodłowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08171",
+    "nazwa": "Kasztanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10009",
+    "nazwa": "Krótka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36619",
+    "nazwa": "Krzepinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11615",
+    "nazwa": "Łęgowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11139",
+    "nazwa": "Lipowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36621",
+    "nazwa": "Majcherków",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36625",
+    "nazwa": "Matejczykowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12991",
+    "nazwa": "Miodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "28208",
+    "nazwa": "Miziowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13184",
+    "nazwa": "Modrzewiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13211",
+    "nazwa": "Mokra",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13379",
+    "nazwa": "Mostowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15481",
+    "nazwa": "Owsiana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "28212",
+    "nazwa": "Pod Kiczorą",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36620",
+    "nazwa": "Przysłop",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19000",
+    "nazwa": "Różana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19326",
+    "nazwa": "Rzeczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22339",
+    "nazwa": "Śliwkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36618",
+    "nazwa": "Smolickich",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20641",
+    "nazwa": "Spacerowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20677",
+    "nazwa": "Spokojna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20683",
+    "nazwa": "Sportowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21101",
+    "nazwa": "Stawowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21271",
+    "nazwa": "Strażacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32117",
+    "nazwa": "Sumakowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21970",
+    "nazwa": "Szkolna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23184",
+    "nazwa": "Turystyczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36623",
+    "nazwa": "Walusiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23795",
+    "nazwa": "Wąska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23884",
+    "nazwa": "Wesoła",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24870",
+    "nazwa": "Wrzosowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25251",
+    "nazwa": "Za Wodą",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25951",
+    "nazwa": "Zdrowotna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26359",
+    "nazwa": "Źródlana",
+    "rodzaj": "ul."
+  }
+]

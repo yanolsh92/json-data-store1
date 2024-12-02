@@ -1,0 +1,490 @@
+[
+  {
+    "idmiejscowosc": "0837130",
+    "nazwa": "Bartnik"
+  },
+  {
+    "idmiejscowosc": "0836804",
+    "nazwa": "Biała Góra"
+  },
+  {
+    "idmiejscowosc": "0837554",
+    "nazwa": "Biała Góra"
+  },
+  {
+    "idmiejscowosc": "0836342",
+    "nazwa": "Bieśnik"
+  },
+  {
+    "idmiejscowosc": "0836359",
+    "nazwa": "Bodziantówka"
+  },
+  {
+    "idmiejscowosc": "0836365",
+    "nazwa": "Borowa"
+  },
+  {
+    "idmiejscowosc": "0837560",
+    "nazwa": "Brzegi"
+  },
+  {
+    "idmiejscowosc": "0836371",
+    "nazwa": "Budzyń"
+  },
+  {
+    "idmiejscowosc": "0837057",
+    "nazwa": "Buniarczyki"
+  },
+  {
+    "idmiejscowosc": "0836419",
+    "nazwa": "Charzewice"
+  },
+  {
+    "idmiejscowosc": "0837198",
+    "nazwa": "Chrapy"
+  },
+  {
+    "idmiejscowosc": "0837146",
+    "nazwa": "Ciepielówka"
+  },
+  {
+    "idmiejscowosc": "0837152",
+    "nazwa": "Czarny Potok"
+  },
+  {
+    "idmiejscowosc": "0836425",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0837063",
+    "nazwa": "Dąbrowy"
+  },
+  {
+    "idmiejscowosc": "0836454",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0836572",
+    "nazwa": "Dogale"
+  },
+  {
+    "idmiejscowosc": "0836388",
+    "nazwa": "Doliny"
+  },
+  {
+    "idmiejscowosc": "0836632",
+    "nazwa": "Dolne"
+  },
+  {
+    "idmiejscowosc": "0836394",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0837070",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0836974",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0836448",
+    "nazwa": "Dzierżaniny"
+  },
+  {
+    "idmiejscowosc": "0836483",
+    "nazwa": "Faliszewice"
+  },
+  {
+    "idmiejscowosc": "0836537",
+    "nazwa": "Faściszowa"
+  },
+  {
+    "idmiejscowosc": "0836566",
+    "nazwa": "Filipowice"
+  },
+  {
+    "idmiejscowosc": "0836649",
+    "nazwa": "Gaj"
+  },
+  {
+    "idmiejscowosc": "0997016",
+    "nazwa": "Gałkówka"
+  },
+  {
+    "idmiejscowosc": "0836810",
+    "nazwa": "Gliniki"
+  },
+  {
+    "idmiejscowosc": "0837028",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0837318",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0836655",
+    "nazwa": "Górne"
+  },
+  {
+    "idmiejscowosc": "0837206",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0837086",
+    "nazwa": "Górzany"
+  },
+  {
+    "idmiejscowosc": "0836661",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0836626",
+    "nazwa": "Gwoździec"
+  },
+  {
+    "idmiejscowosc": "0836744",
+    "nazwa": "Jamna"
+  },
+  {
+    "idmiejscowosc": "0836490",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0837241",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0837324",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0836460",
+    "nazwa": "Kamieńce"
+  },
+  {
+    "idmiejscowosc": "0836678",
+    "nazwa": "Kanada"
+  },
+  {
+    "idmiejscowosc": "0836980",
+    "nazwa": "Kawiory"
+  },
+  {
+    "idmiejscowosc": "0837258",
+    "nazwa": "Kącina"
+  },
+  {
+    "idmiejscowosc": "0837212",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0836945",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0836477",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0836508",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0836750",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0836796",
+    "nazwa": "Kończyska"
+  },
+  {
+    "idmiejscowosc": "0836833",
+    "nazwa": "Lusławice"
+  },
+  {
+    "idmiejscowosc": "0836840",
+    "nazwa": "Lusławice Małe"
+  },
+  {
+    "idmiejscowosc": "0836856",
+    "nazwa": "Lwowska"
+  },
+  {
+    "idmiejscowosc": "0836589",
+    "nazwa": "Łęg"
+  },
+  {
+    "idmiejscowosc": "0836951",
+    "nazwa": "Maciejakówka"
+  },
+  {
+    "idmiejscowosc": "0836862",
+    "nazwa": "Magiel"
+  },
+  {
+    "idmiejscowosc": "0836900",
+    "nazwa": "Melsztyn"
+  },
+  {
+    "idmiejscowosc": "0837502",
+    "nazwa": "Mieścisko"
+  },
+  {
+    "idmiejscowosc": "0836684",
+    "nazwa": "Myszkówka"
+  },
+  {
+    "idmiejscowosc": "0836431",
+    "nazwa": "Na Łące"
+  },
+  {
+    "idmiejscowosc": "0836922",
+    "nazwa": "Na Zamku"
+  },
+  {
+    "idmiejscowosc": "0836402",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0836690",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0836595",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0837169",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0836939",
+    "nazwa": "Olszowa"
+  },
+  {
+    "idmiejscowosc": "0836514",
+    "nazwa": "Osieki"
+  },
+  {
+    "idmiejscowosc": "0837264",
+    "nazwa": "Ostra Góra"
+  },
+  {
+    "idmiejscowosc": "0837092",
+    "nazwa": "Pachotówka"
+  },
+  {
+    "idmiejscowosc": "0836968",
+    "nazwa": "Paleśnica"
+  },
+  {
+    "idmiejscowosc": "0837577",
+    "nazwa": "Pańskie Pola"
+  },
+  {
+    "idmiejscowosc": "0836997",
+    "nazwa": "Pasieki"
+  },
+  {
+    "idmiejscowosc": "0836543",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0836709",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0837175",
+    "nazwa": "Pobrzezie"
+  },
+  {
+    "idmiejscowosc": "0837293",
+    "nazwa": "Pod Wolą"
+  },
+  {
+    "idmiejscowosc": "0837270",
+    "nazwa": "Podbrzeże"
+  },
+  {
+    "idmiejscowosc": "0837583",
+    "nazwa": "Podchybie"
+  },
+  {
+    "idmiejscowosc": "0837100",
+    "nazwa": "Poddębina"
+  },
+  {
+    "idmiejscowosc": "0837287",
+    "nazwa": "Podgóra"
+  },
+  {
+    "idmiejscowosc": "0837519",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0837330",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0836715",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0837590",
+    "nazwa": "Podwale"
+  },
+  {
+    "idmiejscowosc": "0837229",
+    "nazwa": "Podymacz"
+  },
+  {
+    "idmiejscowosc": "0836603",
+    "nazwa": "Podymacz"
+  },
+  {
+    "idmiejscowosc": "0836520",
+    "nazwa": "Pogwizdów"
+  },
+  {
+    "idmiejscowosc": "0836610",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0836767",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0837005",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0837034",
+    "nazwa": "Resztówka"
+  },
+  {
+    "idmiejscowosc": "0837011",
+    "nazwa": "Roztoka"
+  },
+  {
+    "idmiejscowosc": "0836879",
+    "nazwa": "Roztoka"
+  },
+  {
+    "idmiejscowosc": "0837382",
+    "nazwa": "Rożnów"
+  },
+  {
+    "idmiejscowosc": "0837040",
+    "nazwa": "Ruda Kameralna"
+  },
+  {
+    "idmiejscowosc": "0837525",
+    "nazwa": "Satorówka"
+  },
+  {
+    "idmiejscowosc": "0837123",
+    "nazwa": "Słona"
+  },
+  {
+    "idmiejscowosc": "0836773",
+    "nazwa": "Soliska"
+  },
+  {
+    "idmiejscowosc": "0837347",
+    "nazwa": "Stawiska"
+  },
+  {
+    "idmiejscowosc": "0837181",
+    "nazwa": "Stróże"
+  },
+  {
+    "idmiejscowosc": "0836885",
+    "nazwa": "Szczypkówka"
+  },
+  {
+    "idmiejscowosc": "0836891",
+    "nazwa": "Ukraina"
+  },
+  {
+    "idmiejscowosc": "0837235",
+    "nazwa": "Wesołów"
+  },
+  {
+    "idmiejscowosc": "0836721",
+    "nazwa": "Wieleń"
+  },
+  {
+    "idmiejscowosc": "0997022",
+    "nazwa": "Więciorki"
+  },
+  {
+    "idmiejscowosc": "0837301",
+    "nazwa": "Wola Stróska"
+  },
+  {
+    "idmiejscowosc": "0837376",
+    "nazwa": "Wróblowice"
+  },
+  {
+    "idmiejscowosc": "0836738",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0837399",
+    "nazwa": "Zadworze"
+  },
+  {
+    "idmiejscowosc": "0837531",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0837353",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0837608",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0836780",
+    "nazwa": "Zagórzeńskie"
+  },
+  {
+    "idmiejscowosc": "0836550",
+    "nazwa": "Zagrody"
+  },
+  {
+    "idmiejscowosc": "0837360",
+    "nazwa": "Zagumnie"
+  },
+  {
+    "idmiejscowosc": "0837407",
+    "nazwa": "Załawcze"
+  },
+  {
+    "idmiejscowosc": "0836827",
+    "nazwa": "Załawie"
+  },
+  {
+    "idmiejscowosc": "0837413",
+    "nazwa": "Zarzecze"
+  },
+  {
+    "idmiejscowosc": "0837117",
+    "nazwa": "Zaskarpie"
+  },
+  {
+    "idmiejscowosc": "0837494",
+    "nazwa": "Zawada Lanckorońska"
+  },
+  {
+    "idmiejscowosc": "0837420",
+    "nazwa": "Zazborówka"
+  },
+  {
+    "idmiejscowosc": "0837548",
+    "nazwa": "Zdonia"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "idpowiat": "01",
+    "nazwa": "białobrzeski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "02",
+    "nazwa": "ciechanowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "03",
+    "nazwa": "garwoliński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "04",
+    "nazwa": "gostyniński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "05",
+    "nazwa": "grodziski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "06",
+    "nazwa": "grójecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "07",
+    "nazwa": "kozienicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "08",
+    "nazwa": "legionowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "09",
+    "nazwa": "lipski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "10",
+    "nazwa": "łosicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "11",
+    "nazwa": "makowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "12",
+    "nazwa": "miński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "13",
+    "nazwa": "mławski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "14",
+    "nazwa": "nowodworski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "15",
+    "nazwa": "ostrołęcki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "16",
+    "nazwa": "ostrowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "17",
+    "nazwa": "otwocki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "18",
+    "nazwa": "piaseczyński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "19",
+    "nazwa": "płocki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "20",
+    "nazwa": "płoński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "21",
+    "nazwa": "pruszkowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "22",
+    "nazwa": "przasnyski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "23",
+    "nazwa": "przysuski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "24",
+    "nazwa": "pułtuski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "25",
+    "nazwa": "radomski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "26",
+    "nazwa": "siedlecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "27",
+    "nazwa": "sierpecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "28",
+    "nazwa": "sochaczewski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "29",
+    "nazwa": "sokołowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "30",
+    "nazwa": "szydłowiecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "32",
+    "nazwa": "warszawski zachodni",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "33",
+    "nazwa": "węgrowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "34",
+    "nazwa": "wołomiński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "35",
+    "nazwa": "wyszkowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "36",
+    "nazwa": "zwoleński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "37",
+    "nazwa": "żuromiński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "38",
+    "nazwa": "żyrardowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "61",
+    "nazwa": "Ostrołęka",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "62",
+    "nazwa": "Płock",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "63",
+    "nazwa": "Radom",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "64",
+    "nazwa": "Siedlce",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "65",
+    "nazwa": "Warszawa",
+    "nazwadod": "miasto stołeczne, na prawach powiatu"
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "idulica": "00157",
+    "nazwa": "Akacjowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "53887",
+    "nazwa": "Al. Gen. Sikorskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00432",
+    "nazwa": "Armii Krajowej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01742",
+    "nazwa": "Bolesława Chrobrego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01755",
+    "nazwa": "Bolesława Śmiałego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02580",
+    "nazwa": "Cegielniana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03701",
+    "nazwa": "Dąbrówki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03811",
+    "nazwa": "Dębowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26845",
+    "nazwa": "Firanki",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "05083",
+    "nazwa": "św. Floriana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "30529",
+    "nazwa": "Glinów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05934",
+    "nazwa": "Górka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "30528",
+    "nazwa": "Granica",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31858",
+    "nazwa": "św. Jadwigi Królowej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07123",
+    "nazwa": "Jana Pawła II",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08171",
+    "nazwa": "Kasztanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08260",
+    "nazwa": "Kazimierza Odnowiciela",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08265",
+    "nazwa": "Kazimierza Wielkiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08828",
+    "nazwa": "Kolejowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10009",
+    "nazwa": "Krótka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43354",
+    "nazwa": "Machałowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12065",
+    "nazwa": "Malinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12734",
+    "nazwa": "Mickiewicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43351",
+    "nazwa": "Międzywodzie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12784",
+    "nazwa": "Mielecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12832",
+    "nazwa": "Mieszka I",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12833",
+    "nazwa": "Mieszka II",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12947",
+    "nazwa": "Miła",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26844",
+    "nazwa": "Osiedle \"Domki Jednorodzinne\"",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "15710",
+    "nazwa": "Parkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16046",
+    "nazwa": "Piastowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39059",
+    "nazwa": "Rotmistrza Pileckiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "48112",
+    "nazwa": "Ks. Jerzego Popiełuszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17742",
+    "nazwa": "Przemysłowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60702",
+    "nazwa": "Rondo im. Prezydenta Rzeczpospolitej Polskiej prof. Lecha Kaczyńskiego",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20286",
+    "nazwa": "Słowackiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20641",
+    "nazwa": "Spacerowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43352",
+    "nazwa": "Suchorzowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21970",
+    "nazwa": "Szkolna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22675",
+    "nazwa": "Tarnobrzeska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24048",
+    "nazwa": "Wiejska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11653",
+    "nazwa": "Władysława Łokietka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24540",
+    "nazwa": "Włókniarzy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24870",
+    "nazwa": "Wrzosowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24885",
+    "nazwa": "Wspólna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "33784",
+    "nazwa": "Kardynała Wyszyńskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43353",
+    "nazwa": "Załanie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26188",
+    "nazwa": "Złota",
+    "rodzaj": "ul."
+  }
+]

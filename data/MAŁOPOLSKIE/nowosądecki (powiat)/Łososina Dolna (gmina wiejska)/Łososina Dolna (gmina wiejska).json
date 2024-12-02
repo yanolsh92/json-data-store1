@@ -1,0 +1,474 @@
+[
+  {
+    "idmiejscowosc": "0448114",
+    "nazwa": "Babia Góra"
+  },
+  {
+    "idmiejscowosc": "0447681",
+    "nazwa": "Bazówka"
+  },
+  {
+    "idmiejscowosc": "0447758",
+    "nazwa": "Berdychów"
+  },
+  {
+    "idmiejscowosc": "0448019",
+    "nazwa": "Biała"
+  },
+  {
+    "idmiejscowosc": "0447675",
+    "nazwa": "Białawoda"
+  },
+  {
+    "idmiejscowosc": "0447741",
+    "nazwa": "Bilsko"
+  },
+  {
+    "idmiejscowosc": "0447764",
+    "nazwa": "Brzezie"
+  },
+  {
+    "idmiejscowosc": "0448120",
+    "nazwa": "Brzozie"
+  },
+  {
+    "idmiejscowosc": "0448700",
+    "nazwa": "Bucznik"
+  },
+  {
+    "idmiejscowosc": "0447830",
+    "nazwa": "Cichawa"
+  },
+  {
+    "idmiejscowosc": "0448545",
+    "nazwa": "Cisowiec"
+  },
+  {
+    "idmiejscowosc": "0447853",
+    "nazwa": "Cisowiec"
+  },
+  {
+    "idmiejscowosc": "0448060",
+    "nazwa": "Czubica"
+  },
+  {
+    "idmiejscowosc": "0448752",
+    "nazwa": "Doliny"
+  },
+  {
+    "idmiejscowosc": "0448551",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0447770",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0448410",
+    "nazwa": "Głaze"
+  },
+  {
+    "idmiejscowosc": "0448025",
+    "nazwa": "Głobieńszczówka"
+  },
+  {
+    "idmiejscowosc": "0448427",
+    "nazwa": "Gotfrudówka"
+  },
+  {
+    "idmiejscowosc": "0448812",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0448166",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0448717",
+    "nazwa": "Granica"
+  },
+  {
+    "idmiejscowosc": "0448077",
+    "nazwa": "Grochówki"
+  },
+  {
+    "idmiejscowosc": "0448663",
+    "nazwa": "Grodek"
+  },
+  {
+    "idmiejscowosc": "0447899",
+    "nazwa": "Jakubkowice"
+  },
+  {
+    "idmiejscowosc": "0447971",
+    "nazwa": "Jarostowa"
+  },
+  {
+    "idmiejscowosc": "0448433",
+    "nazwa": "Just"
+  },
+  {
+    "idmiejscowosc": "0447907",
+    "nazwa": "Kamyk"
+  },
+  {
+    "idmiejscowosc": "0448440",
+    "nazwa": "Kapłaniec"
+  },
+  {
+    "idmiejscowosc": "0447698",
+    "nazwa": "Kawiory"
+  },
+  {
+    "idmiejscowosc": "1052536",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0448344",
+    "nazwa": "Kępa"
+  },
+  {
+    "idmiejscowosc": "0448670",
+    "nazwa": "Klań"
+  },
+  {
+    "idmiejscowosc": "0447706",
+    "nazwa": "Kokoc"
+  },
+  {
+    "idmiejscowosc": "0448350",
+    "nazwa": "Koszary"
+  },
+  {
+    "idmiejscowosc": "0448829",
+    "nazwa": "Kotasówka"
+  },
+  {
+    "idmiejscowosc": "0448456",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0447787",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0447712",
+    "nazwa": "Lemiesz"
+  },
+  {
+    "idmiejscowosc": "0448172",
+    "nazwa": "Leszcze"
+  },
+  {
+    "idmiejscowosc": "0448083",
+    "nazwa": "Łabuzówka"
+  },
+  {
+    "idmiejscowosc": "0448189",
+    "nazwa": "Łaziska"
+  },
+  {
+    "idmiejscowosc": "0448568",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0447913",
+    "nazwa": "Łączne"
+  },
+  {
+    "idmiejscowosc": "0447847",
+    "nazwa": "Łęki"
+  },
+  {
+    "idmiejscowosc": "0447882",
+    "nazwa": "Łososina Dolna"
+  },
+  {
+    "idmiejscowosc": "0447988",
+    "nazwa": "Łyczanka"
+  },
+  {
+    "idmiejscowosc": "0448002",
+    "nazwa": "Michalczowa"
+  },
+  {
+    "idmiejscowosc": "0447920",
+    "nazwa": "Morsztynówka"
+  },
+  {
+    "idmiejscowosc": "0447729",
+    "nazwa": "Mortkówka"
+  },
+  {
+    "idmiejscowosc": "0448367",
+    "nazwa": "Nawsie"
+  },
+  {
+    "idmiejscowosc": "0448195",
+    "nazwa": "Niwki"
+  },
+  {
+    "idmiejscowosc": "0448462",
+    "nazwa": "Niżne"
+  },
+  {
+    "idmiejscowosc": "0448574",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0447936",
+    "nazwa": "Nowiny"
+  },
+  {
+    "idmiejscowosc": "0448479",
+    "nazwa": "Okrąg"
+  },
+  {
+    "idmiejscowosc": "0447793",
+    "nazwa": "Ostra Góra"
+  },
+  {
+    "idmiejscowosc": "0448769",
+    "nazwa": "Pacany"
+  },
+  {
+    "idmiejscowosc": "0448203",
+    "nazwa": "Pod Miedzą"
+  },
+  {
+    "idmiejscowosc": "0448723",
+    "nazwa": "Podchełmie"
+  },
+  {
+    "idmiejscowosc": "0448485",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0447994",
+    "nazwa": "Podlasie"
+  },
+  {
+    "idmiejscowosc": "0448210",
+    "nazwa": "Podłazie"
+  },
+  {
+    "idmiejscowosc": "0448137",
+    "nazwa": "Pokudłane"
+  },
+  {
+    "idmiejscowosc": "0448226",
+    "nazwa": "Potoczki"
+  },
+  {
+    "idmiejscowosc": "0447801",
+    "nazwa": "Puste"
+  },
+  {
+    "idmiejscowosc": "0448031",
+    "nazwa": "Rabszczówka"
+  },
+  {
+    "idmiejscowosc": "0448054",
+    "nazwa": "Rąbkowa"
+  },
+  {
+    "idmiejscowosc": "0448143",
+    "nazwa": "Rojówka"
+  },
+  {
+    "idmiejscowosc": "0448232",
+    "nazwa": "Rola"
+  },
+  {
+    "idmiejscowosc": "0447860",
+    "nazwa": "Rola"
+  },
+  {
+    "idmiejscowosc": "0447818",
+    "nazwa": "Rośmirowa"
+  },
+  {
+    "idmiejscowosc": "0448730",
+    "nazwa": "Rozdziele"
+  },
+  {
+    "idmiejscowosc": "0447735",
+    "nazwa": "Rozdziele"
+  },
+  {
+    "idmiejscowosc": "0448580",
+    "nazwa": "Równice"
+  },
+  {
+    "idmiejscowosc": "0448249",
+    "nazwa": "Równiczki"
+  },
+  {
+    "idmiejscowosc": "0447942",
+    "nazwa": "Sadowa"
+  },
+  {
+    "idmiejscowosc": "0448775",
+    "nazwa": "Sądków"
+  },
+  {
+    "idmiejscowosc": "0448108",
+    "nazwa": "Skrzętla-Rojówka"
+  },
+  {
+    "idmiejscowosc": "0448255",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0448150",
+    "nazwa": "Stańkowa"
+  },
+  {
+    "idmiejscowosc": "0448491",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0448261",
+    "nazwa": "Stawiska"
+  },
+  {
+    "idmiejscowosc": "0448500",
+    "nazwa": "Stawy"
+  },
+  {
+    "idmiejscowosc": "0448278",
+    "nazwa": "Stroń"
+  },
+  {
+    "idmiejscowosc": "0448284",
+    "nazwa": "Studzianki"
+  },
+  {
+    "idmiejscowosc": "0448090",
+    "nazwa": "Szczołby"
+  },
+  {
+    "idmiejscowosc": "0448338",
+    "nazwa": "Świdnik"
+  },
+  {
+    "idmiejscowosc": "0448373",
+    "nazwa": "Tabaszowa"
+  },
+  {
+    "idmiejscowosc": "0448404",
+    "nazwa": "Tęgoborze"
+  },
+  {
+    "idmiejscowosc": "0447959",
+    "nazwa": "Tłoki"
+  },
+  {
+    "idmiejscowosc": "0448048",
+    "nazwa": "Wierzchowina"
+  },
+  {
+    "idmiejscowosc": "0448380",
+    "nazwa": "Wierzchowina"
+  },
+  {
+    "idmiejscowosc": "0447965",
+    "nazwa": "Wiśnicz"
+  },
+  {
+    "idmiejscowosc": "0448634",
+    "nazwa": "Wiśnicz"
+  },
+  {
+    "idmiejscowosc": "0448396",
+    "nazwa": "Witkówka"
+  },
+  {
+    "idmiejscowosc": "0448539",
+    "nazwa": "Witowice Dolne"
+  },
+  {
+    "idmiejscowosc": "0448628",
+    "nazwa": "Witowice Górne"
+  },
+  {
+    "idmiejscowosc": "0447824",
+    "nazwa": "Wola"
+  },
+  {
+    "idmiejscowosc": "0448597",
+    "nazwa": "Wola"
+  },
+  {
+    "idmiejscowosc": "0448290",
+    "nazwa": "Wola Stańkowska"
+  },
+  {
+    "idmiejscowosc": "0448657",
+    "nazwa": "Wronowice"
+  },
+  {
+    "idmiejscowosc": "0448605",
+    "nazwa": "Za Potokiem"
+  },
+  {
+    "idmiejscowosc": "0448686",
+    "nazwa": "Zadziele"
+  },
+  {
+    "idmiejscowosc": "0448309",
+    "nazwa": "Zadziele Stańkowskie"
+  },
+  {
+    "idmiejscowosc": "0448516",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0448781",
+    "nazwa": "Załęże Niżne"
+  },
+  {
+    "idmiejscowosc": "0448798",
+    "nazwa": "Załęże Wyżne"
+  },
+  {
+    "idmiejscowosc": "0448315",
+    "nazwa": "Zarębki"
+  },
+  {
+    "idmiejscowosc": "0448692",
+    "nazwa": "Zawadka"
+  },
+  {
+    "idmiejscowosc": "0448640",
+    "nazwa": "Zawodzie"
+  },
+  {
+    "idmiejscowosc": "0448611",
+    "nazwa": "Zawodzie"
+  },
+  {
+    "idmiejscowosc": "0448835",
+    "nazwa": "Zawozie"
+  },
+  {
+    "idmiejscowosc": "0448321",
+    "nazwa": "Zimna Woda"
+  },
+  {
+    "idmiejscowosc": "0448746",
+    "nazwa": "Znamirowice"
+  },
+  {
+    "idmiejscowosc": "0448522",
+    "nazwa": "Zychówka"
+  },
+  {
+    "idmiejscowosc": "0448806",
+    "nazwa": "Żbikowice"
+  },
+  {
+    "idmiejscowosc": "0447876",
+    "nazwa": "Żebraczka"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "idmiejscowosc": "0064448",
+    "nazwa": "Aleja Czaniecka"
+  },
+  {
+    "idmiejscowosc": "0064454",
+    "nazwa": "Aleja Fabryczna"
+  },
+  {
+    "idmiejscowosc": "0064780",
+    "nazwa": "Bagienka"
+  },
+  {
+    "idmiejscowosc": "0064388",
+    "nazwa": "Baściki"
+  },
+  {
+    "idmiejscowosc": "1000841",
+    "nazwa": "Bielańskie"
+  },
+  {
+    "idmiejscowosc": "1000858",
+    "nazwa": "Błasiowo"
+  },
+  {
+    "idmiejscowosc": "1000887",
+    "nazwa": "Borsuki"
+  },
+  {
+    "idmiejscowosc": "0064649",
+    "nazwa": "Budziany"
+  },
+  {
+    "idmiejscowosc": "0064371",
+    "nazwa": "Bujaków"
+  },
+  {
+    "idmiejscowosc": "0064394",
+    "nazwa": "Bujaków Dolny"
+  },
+  {
+    "idmiejscowosc": "0064402",
+    "nazwa": "Bujaków Górny"
+  },
+  {
+    "idmiejscowosc": "0064419",
+    "nazwa": "Bujaków-Zachód"
+  },
+  {
+    "idmiejscowosc": "0064460",
+    "nazwa": "Bukowiec"
+  },
+  {
+    "idmiejscowosc": "0064862",
+    "nazwa": "Bukowiec"
+  },
+  {
+    "idmiejscowosc": "0064968",
+    "nazwa": "Bułkowo"
+  },
+  {
+    "idmiejscowosc": "0064974",
+    "nazwa": "Byrdowo"
+  },
+  {
+    "idmiejscowosc": "0064980",
+    "nazwa": "Cieśliska"
+  },
+  {
+    "idmiejscowosc": "0064508",
+    "nazwa": "Cygańskie Miasto"
+  },
+  {
+    "idmiejscowosc": "0064431",
+    "nazwa": "Czaniec"
+  },
+  {
+    "idmiejscowosc": "0064514",
+    "nazwa": "Czaniec Dolny"
+  },
+  {
+    "idmiejscowosc": "0064550",
+    "nazwa": "Czaniec Górny"
+  },
+  {
+    "idmiejscowosc": "0064572",
+    "nazwa": "Czaniec Środkowy"
+  },
+  {
+    "idmiejscowosc": "0065130",
+    "nazwa": "Domaczka"
+  },
+  {
+    "idmiejscowosc": "0064520",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0064879",
+    "nazwa": "Fabiowo"
+  },
+  {
+    "idmiejscowosc": "0064655",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0065146",
+    "nazwa": "Franoszkówki"
+  },
+  {
+    "idmiejscowosc": "0065212",
+    "nazwa": "Gąsiory"
+  },
+  {
+    "idmiejscowosc": "1001059",
+    "nazwa": "Gołuszkowo"
+  },
+  {
+    "idmiejscowosc": "0064796",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0064566",
+    "nazwa": "Granica"
+  },
+  {
+    "idmiejscowosc": "0064885",
+    "nazwa": "Groniki"
+  },
+  {
+    "idmiejscowosc": "0064997",
+    "nazwa": "Groń"
+  },
+  {
+    "idmiejscowosc": "1001065",
+    "nazwa": "Iwanowo"
+  },
+  {
+    "idmiejscowosc": "0064477",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "1001071",
+    "nazwa": "Kasperówka"
+  },
+  {
+    "idmiejscowosc": "0064537",
+    "nazwa": "Kępa"
+  },
+  {
+    "idmiejscowosc": "0064661",
+    "nazwa": "Kobiernice"
+  },
+  {
+    "idmiejscowosc": "0064684",
+    "nazwa": "Kobiernice Dolne"
+  },
+  {
+    "idmiejscowosc": "0064690",
+    "nazwa": "Kobiernice Górne"
+  },
+  {
+    "idmiejscowosc": "0065152",
+    "nazwa": "Kocembowski Groń"
+  },
+  {
+    "idmiejscowosc": "0064543",
+    "nazwa": "Kocimek"
+  },
+  {
+    "idmiejscowosc": "0064804",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0064891",
+    "nazwa": "Kopczysko"
+  },
+  {
+    "idmiejscowosc": "0064951",
+    "nazwa": "Kozubnik"
+  },
+  {
+    "idmiejscowosc": "0064900",
+    "nazwa": "Kulowo"
+  },
+  {
+    "idmiejscowosc": "0065092",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0064603",
+    "nazwa": "Łęg"
+  },
+  {
+    "idmiejscowosc": "1001094",
+    "nazwa": "Malakówka"
+  },
+  {
+    "idmiejscowosc": "0064810",
+    "nazwa": "Mała Puszcza"
+  },
+  {
+    "idmiejscowosc": "0996376",
+    "nazwa": "Micherdówka"
+  },
+  {
+    "idmiejscowosc": "0064709",
+    "nazwa": "Mieszczyńsko"
+  },
+  {
+    "idmiejscowosc": "0064678",
+    "nazwa": "Międzymoście"
+  },
+  {
+    "idmiejscowosc": "0065169",
+    "nazwa": "Milerzyska"
+  },
+  {
+    "idmiejscowosc": "0064827",
+    "nazwa": "Młyny"
+  },
+  {
+    "idmiejscowosc": "1000321",
+    "nazwa": "Morcinki"
+  },
+  {
+    "idmiejscowosc": "0065011",
+    "nazwa": "Ogórkowo"
+  },
+  {
+    "idmiejscowosc": "1001102",
+    "nazwa": "Pagóry"
+  },
+  {
+    "idmiejscowosc": "0064916",
+    "nazwa": "Parciowo"
+  },
+  {
+    "idmiejscowosc": "0064610",
+    "nazwa": "Pasionki"
+  },
+  {
+    "idmiejscowosc": "0064833",
+    "nazwa": "Pod Gajką"
+  },
+  {
+    "idmiejscowosc": "0065117",
+    "nazwa": "Pod Górą"
+  },
+  {
+    "idmiejscowosc": "0064840",
+    "nazwa": "Pod Snozą"
+  },
+  {
+    "idmiejscowosc": "0065100",
+    "nazwa": "Podelniska"
+  },
+  {
+    "idmiejscowosc": "0064750",
+    "nazwa": "Podgrodzie"
+  },
+  {
+    "idmiejscowosc": "0064483",
+    "nazwa": "Podkamienne"
+  },
+  {
+    "idmiejscowosc": "0064922",
+    "nazwa": "Pogorzelica"
+  },
+  {
+    "idmiejscowosc": "0065028",
+    "nazwa": "Polska"
+  },
+  {
+    "idmiejscowosc": "0064773",
+    "nazwa": "Porąbka"
+  },
+  {
+    "idmiejscowosc": "0064490",
+    "nazwa": "Porąbszczak"
+  },
+  {
+    "idmiejscowosc": "0065034",
+    "nazwa": "Potrzykowo"
+  },
+  {
+    "idmiejscowosc": "1001125",
+    "nazwa": "Pryszczowo"
+  },
+  {
+    "idmiejscowosc": "0065175",
+    "nazwa": "Pytlówka"
+  },
+  {
+    "idmiejscowosc": "0065181",
+    "nazwa": "Raztoka"
+  },
+  {
+    "idmiejscowosc": "0064939",
+    "nazwa": "Rozumowo"
+  },
+  {
+    "idmiejscowosc": "0065040",
+    "nazwa": "Rusinowo"
+  },
+  {
+    "idmiejscowosc": "0064945",
+    "nazwa": "Sadlikowo"
+  },
+  {
+    "idmiejscowosc": "0065057",
+    "nazwa": "Stachurowo"
+  },
+  {
+    "idmiejscowosc": "0065063",
+    "nazwa": "Tlałkowo"
+  },
+  {
+    "idmiejscowosc": "0065198",
+    "nazwa": "Trzonka"
+  },
+  {
+    "idmiejscowosc": "1001131",
+    "nazwa": "U Jazu"
+  },
+  {
+    "idmiejscowosc": "1001148",
+    "nazwa": "W Dolinie"
+  },
+  {
+    "idmiejscowosc": "1001154",
+    "nazwa": "W Dołkach"
+  },
+  {
+    "idmiejscowosc": "0065070",
+    "nazwa": "Wawakowo"
+  },
+  {
+    "idmiejscowosc": "0064595",
+    "nazwa": "Wiedeń"
+  },
+  {
+    "idmiejscowosc": "0065086",
+    "nazwa": "Wielgoszowo"
+  },
+  {
+    "idmiejscowosc": "0065123",
+    "nazwa": "Wielka Puszcza"
+  },
+  {
+    "idmiejscowosc": "1001160",
+    "nazwa": "Wilcze"
+  },
+  {
+    "idmiejscowosc": "0064767",
+    "nazwa": "Wołek"
+  },
+  {
+    "idmiejscowosc": "0064626",
+    "nazwa": "Za Dworem"
+  },
+  {
+    "idmiejscowosc": "0064856",
+    "nazwa": "Za Górami"
+  },
+  {
+    "idmiejscowosc": "0064632",
+    "nazwa": "Zagłębocze"
+  },
+  {
+    "idmiejscowosc": "0064738",
+    "nazwa": "Zastruże"
+  },
+  {
+    "idmiejscowosc": "0064744",
+    "nazwa": "Zawodzie"
+  },
+  {
+    "idmiejscowosc": "0065206",
+    "nazwa": "Zawodzie"
+  }
+]

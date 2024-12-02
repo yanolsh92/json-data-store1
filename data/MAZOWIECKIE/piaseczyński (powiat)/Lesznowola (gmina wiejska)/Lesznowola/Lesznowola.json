@@ -1,0 +1,282 @@
+[
+  {
+    "idulica": "59368",
+    "nazwa": "Alpaki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35439",
+    "nazwa": "Antylopy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00692",
+    "nazwa": "Bankowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00905",
+    "nazwa": "Bawełniana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01223",
+    "nazwa": "Biedronki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01842",
+    "nazwa": "Borowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32758",
+    "nazwa": "Borsuka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35900",
+    "nazwa": "Cykady",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03585",
+    "nazwa": "Daniela",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04441",
+    "nazwa": "Dworkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05411",
+    "nazwa": "Gąsek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "50129",
+    "nazwa": "Gazeli",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05654",
+    "nazwa": "Gminna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "46922",
+    "nazwa": "Gronostaja",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "38780",
+    "nazwa": "Jaguara",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07431",
+    "nazwa": "Jedności",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07471",
+    "nazwa": "Jelonka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07547",
+    "nazwa": "Jeża",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09229",
+    "nazwa": "Końcowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09898",
+    "nazwa": "Krecia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10718",
+    "nazwa": "Lawendowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "54967",
+    "nazwa": "Lemura",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11174",
+    "nazwa": "Lisia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60545",
+    "nazwa": "Króla Lwa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09978",
+    "nazwa": "Króla Maciusia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12964",
+    "nazwa": "Czesława Miłosza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13404",
+    "nazwa": "Motyli",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "38012",
+    "nazwa": "Myszki Polnej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14149",
+    "nazwa": "Niedźwiedzia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14806",
+    "nazwa": "Oficerska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14907",
+    "nazwa": "Okrężna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14989",
+    "nazwa": "Olimpijska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "30363",
+    "nazwa": "Pandy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45755",
+    "nazwa": "Pantery",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17011",
+    "nazwa": "Polna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17171",
+    "nazwa": "Poprzeczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "55319",
+    "nazwa": "Renifera Rudolfa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19295",
+    "nazwa": "Rysia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19432",
+    "nazwa": "Salamandry",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19834",
+    "nazwa": "Henryka Sienkiewicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20683",
+    "nazwa": "Sportowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21970",
+    "nazwa": "Szkolna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22880",
+    "nazwa": "Topolowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35437",
+    "nazwa": "Tura",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23232",
+    "nazwa": "Tygrysia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24210",
+    "nazwa": "Wiewiórki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24261",
+    "nazwa": "Wilcza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24628",
+    "nazwa": "Wojska Polskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25413",
+    "nazwa": "Zajączka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31691",
+    "nazwa": "Żbika",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35436",
+    "nazwa": "Zebry",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26077",
+    "nazwa": "Zielna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36860",
+    "nazwa": "Żubra",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26635",
+    "nazwa": "Żytnia",
+    "rodzaj": "ul."
+  }
+]

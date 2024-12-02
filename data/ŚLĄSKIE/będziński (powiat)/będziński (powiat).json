@@ -1,0 +1,65 @@
+[
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Będzin",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "042",
+    "idgmina": "04",
+    "nazwa": "Bobrowniki",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "021",
+    "idgmina": "02",
+    "nazwa": "Czeladź",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "052",
+    "idgmina": "05",
+    "nazwa": "Mierzęcice",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "062",
+    "idgmina": "06",
+    "nazwa": "Psary",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "074",
+    "idgmina": "07",
+    "nazwa": "Siewierz",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "075",
+    "idgmina": "07",
+    "nazwa": "Siewierz",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "081",
+    "idgmina": "08",
+    "nazwa": "Sławków",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "031",
+    "idgmina": "03",
+    "nazwa": "Wojkowice",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  }
+]

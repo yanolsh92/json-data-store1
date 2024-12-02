@@ -1,0 +1,602 @@
+[
+  {
+    "idmiejscowosc": "0052907",
+    "nazwa": "Andziółówka"
+  },
+  {
+    "idmiejscowosc": "0054013",
+    "nazwa": "Bagno"
+  },
+  {
+    "idmiejscowosc": "0054020",
+    "nazwa": "Bąbolówka"
+  },
+  {
+    "idmiejscowosc": "0052913",
+    "nazwa": "Beskid"
+  },
+  {
+    "idmiejscowosc": "0053551",
+    "nazwa": "Bestwiny"
+  },
+  {
+    "idmiejscowosc": "0053568",
+    "nazwa": "Biłki"
+  },
+  {
+    "idmiejscowosc": "0053574",
+    "nazwa": "Bobczonka"
+  },
+  {
+    "idmiejscowosc": "0052920",
+    "nazwa": "Bryjowie"
+  },
+  {
+    "idmiejscowosc": "0052936",
+    "nazwa": "Brzestowy"
+  },
+  {
+    "idmiejscowosc": "0053580",
+    "nazwa": "Buki"
+  },
+  {
+    "idmiejscowosc": "0054036",
+    "nazwa": "Bukowina"
+  },
+  {
+    "idmiejscowosc": "0052942",
+    "nazwa": "Burowie"
+  },
+  {
+    "idmiejscowosc": "0053597",
+    "nazwa": "Byrty"
+  },
+  {
+    "idmiejscowosc": "0052959",
+    "nazwa": "Bystry"
+  },
+  {
+    "idmiejscowosc": "0054042",
+    "nazwa": "Cisowe"
+  },
+  {
+    "idmiejscowosc": "0052965",
+    "nazwa": "Czadeczka"
+  },
+  {
+    "idmiejscowosc": "0053605",
+    "nazwa": "Czadeczka Dolna"
+  },
+  {
+    "idmiejscowosc": "0053611",
+    "nazwa": "Czadeczka Górna"
+  },
+  {
+    "idmiejscowosc": "0053628",
+    "nazwa": "Czepczory"
+  },
+  {
+    "idmiejscowosc": "0053634",
+    "nazwa": "Czerchla"
+  },
+  {
+    "idmiejscowosc": "0053427",
+    "nazwa": "Czostkowa"
+  },
+  {
+    "idmiejscowosc": "0054059",
+    "nazwa": "Dachtony"
+  },
+  {
+    "idmiejscowosc": "0054065",
+    "nazwa": "Deje"
+  },
+  {
+    "idmiejscowosc": "0054071",
+    "nazwa": "Długa Czerchla"
+  },
+  {
+    "idmiejscowosc": "0054088",
+    "nazwa": "Do Jasieniarza"
+  },
+  {
+    "idmiejscowosc": "0053640",
+    "nazwa": "Dragony"
+  },
+  {
+    "idmiejscowosc": "0052971",
+    "nazwa": "Drobniawy"
+  },
+  {
+    "idmiejscowosc": "0052988",
+    "nazwa": "Dupny"
+  },
+  {
+    "idmiejscowosc": "0053657",
+    "nazwa": "Duraje"
+  },
+  {
+    "idmiejscowosc": "0052994",
+    "nazwa": "Dzielec"
+  },
+  {
+    "idmiejscowosc": "0054094",
+    "nazwa": "Fibaczka"
+  },
+  {
+    "idmiejscowosc": "0053002",
+    "nazwa": "Filipionka"
+  },
+  {
+    "idmiejscowosc": "0053019",
+    "nazwa": "Gazurowie"
+  },
+  {
+    "idmiejscowosc": "0053025",
+    "nazwa": "Gliniany"
+  },
+  {
+    "idmiejscowosc": "0054102",
+    "nazwa": "Gołówka"
+  },
+  {
+    "idmiejscowosc": "0053663",
+    "nazwa": "Gorzałki"
+  },
+  {
+    "idmiejscowosc": "0054119",
+    "nazwa": "Gronik"
+  },
+  {
+    "idmiejscowosc": "0053031",
+    "nazwa": "Haratykowie"
+  },
+  {
+    "idmiejscowosc": "0052899",
+    "nazwa": "Istebna"
+  },
+  {
+    "idmiejscowosc": "0053670",
+    "nazwa": "Jasie"
+  },
+  {
+    "idmiejscowosc": "0054125",
+    "nazwa": "Jasiówka"
+  },
+  {
+    "idmiejscowosc": "0053048",
+    "nazwa": "Jasnowice"
+  },
+  {
+    "idmiejscowosc": "0053545",
+    "nazwa": "Jaworzynka"
+  },
+  {
+    "idmiejscowosc": "0054131",
+    "nazwa": "Kadłuby"
+  },
+  {
+    "idmiejscowosc": "0053686",
+    "nazwa": "Kawuloki"
+  },
+  {
+    "idmiejscowosc": "0053054",
+    "nazwa": "Kawulonka"
+  },
+  {
+    "idmiejscowosc": "0053060",
+    "nazwa": "Kawulowie"
+  },
+  {
+    "idmiejscowosc": "0053077",
+    "nazwa": "Kiepkowie"
+  },
+  {
+    "idmiejscowosc": "0053692",
+    "nazwa": "Kikula"
+  },
+  {
+    "idmiejscowosc": "0053700",
+    "nazwa": "Klimasy"
+  },
+  {
+    "idmiejscowosc": "0053717",
+    "nazwa": "Klimki"
+  },
+  {
+    "idmiejscowosc": "0054148",
+    "nazwa": "Kliszówki"
+  },
+  {
+    "idmiejscowosc": "0053083",
+    "nazwa": "Kohutowie"
+  },
+  {
+    "idmiejscowosc": "0054007",
+    "nazwa": "Koniaków"
+  },
+  {
+    "idmiejscowosc": "0053723",
+    "nazwa": "Korbasy"
+  },
+  {
+    "idmiejscowosc": "0054154",
+    "nazwa": "Kosarzyska"
+  },
+  {
+    "idmiejscowosc": "0053090",
+    "nazwa": "Kościanowice"
+  },
+  {
+    "idmiejscowosc": "0053108",
+    "nazwa": "Kościół"
+  },
+  {
+    "idmiejscowosc": "0053730",
+    "nazwa": "Krężelka"
+  },
+  {
+    "idmiejscowosc": "0053746",
+    "nazwa": "Krzyżowa"
+  },
+  {
+    "idmiejscowosc": "0053114",
+    "nazwa": "Kubalonka"
+  },
+  {
+    "idmiejscowosc": "0053120",
+    "nazwa": "Kubalowie"
+  },
+  {
+    "idmiejscowosc": "0053137",
+    "nazwa": "Kulonkowie"
+  },
+  {
+    "idmiejscowosc": "0053143",
+    "nazwa": "Lanckorona"
+  },
+  {
+    "idmiejscowosc": "0054160",
+    "nazwa": "Legiery"
+  },
+  {
+    "idmiejscowosc": "0053150",
+    "nazwa": "Leszczyna"
+  },
+  {
+    "idmiejscowosc": "0053752",
+    "nazwa": "Łabaje"
+  },
+  {
+    "idmiejscowosc": "0053769",
+    "nazwa": "Łacki"
+  },
+  {
+    "idmiejscowosc": "0053166",
+    "nazwa": "Łączyna"
+  },
+  {
+    "idmiejscowosc": "0053775",
+    "nazwa": "Łupienie"
+  },
+  {
+    "idmiejscowosc": "0053781",
+    "nazwa": "Maciejka"
+  },
+  {
+    "idmiejscowosc": "0053172",
+    "nazwa": "Macurzonka"
+  },
+  {
+    "idmiejscowosc": "0054177",
+    "nazwa": "Małączka"
+  },
+  {
+    "idmiejscowosc": "0053798",
+    "nazwa": "Małejurki"
+  },
+  {
+    "idmiejscowosc": "0053806",
+    "nazwa": "Małysze"
+  },
+  {
+    "idmiejscowosc": "0054183",
+    "nazwa": "Matyska"
+  },
+  {
+    "idmiejscowosc": "0053189",
+    "nazwa": "Matyska"
+  },
+  {
+    "idmiejscowosc": "0053195",
+    "nazwa": "Michałkowa Olza"
+  },
+  {
+    "idmiejscowosc": "0053203",
+    "nazwa": "Michałkowie"
+  },
+  {
+    "idmiejscowosc": "0053210",
+    "nazwa": "Mikowa Łąka"
+  },
+  {
+    "idmiejscowosc": "0053226",
+    "nazwa": "Mikowie"
+  },
+  {
+    "idmiejscowosc": "0053232",
+    "nazwa": "Mikszówka"
+  },
+  {
+    "idmiejscowosc": "0053249",
+    "nazwa": "Mlaskawka"
+  },
+  {
+    "idmiejscowosc": "0053255",
+    "nazwa": "Mrażnice"
+  },
+  {
+    "idmiejscowosc": "0053261",
+    "nazwa": "Murzynka"
+  },
+  {
+    "idmiejscowosc": "0053278",
+    "nazwa": "Na Las"
+  },
+  {
+    "idmiejscowosc": "0053812",
+    "nazwa": "Na Potoku"
+  },
+  {
+    "idmiejscowosc": "0053284",
+    "nazwa": "Nowina"
+  },
+  {
+    "idmiejscowosc": "0054190",
+    "nazwa": "Odkrzas"
+  },
+  {
+    "idmiejscowosc": "0053290",
+    "nazwa": "Olecki"
+  },
+  {
+    "idmiejscowosc": "0053829",
+    "nazwa": "Ondrusze"
+  },
+  {
+    "idmiejscowosc": "0054208",
+    "nazwa": "Pańska Łąka"
+  },
+  {
+    "idmiejscowosc": "0054214",
+    "nazwa": "Pietraszyna"
+  },
+  {
+    "idmiejscowosc": "0053309",
+    "nazwa": "Pietroszonka"
+  },
+  {
+    "idmiejscowosc": "0053315",
+    "nazwa": "Piła"
+  },
+  {
+    "idmiejscowosc": "0054220",
+    "nazwa": "Polana"
+  },
+  {
+    "idmiejscowosc": "0053321",
+    "nazwa": "Polanka"
+  },
+  {
+    "idmiejscowosc": "0053338",
+    "nazwa": "Polokowie"
+  },
+  {
+    "idmiejscowosc": "0053344",
+    "nazwa": "Połom"
+  },
+  {
+    "idmiejscowosc": "0053350",
+    "nazwa": "Potoczki"
+  },
+  {
+    "idmiejscowosc": "0054237",
+    "nazwa": "Pustki"
+  },
+  {
+    "idmiejscowosc": "0054243",
+    "nazwa": "Rastoka"
+  },
+  {
+    "idmiejscowosc": "0054272",
+    "nazwa": "Rdżawka"
+  },
+  {
+    "idmiejscowosc": "0053367",
+    "nazwa": "Rechtorzonka"
+  },
+  {
+    "idmiejscowosc": "0054250",
+    "nazwa": "Rozceście"
+  },
+  {
+    "idmiejscowosc": "0053835",
+    "nazwa": "Rozceście"
+  },
+  {
+    "idmiejscowosc": "0054266",
+    "nazwa": "Rupienka"
+  },
+  {
+    "idmiejscowosc": "0053841",
+    "nazwa": "Siwoniowski"
+  },
+  {
+    "idmiejscowosc": "0053373",
+    "nazwa": "Skała"
+  },
+  {
+    "idmiejscowosc": "0053380",
+    "nazwa": "Słowiaczonka"
+  },
+  {
+    "idmiejscowosc": "0053858",
+    "nazwa": "Słowioki"
+  },
+  {
+    "idmiejscowosc": "0053864",
+    "nazwa": "Stańki"
+  },
+  {
+    "idmiejscowosc": "0053396",
+    "nazwa": "Stecówka"
+  },
+  {
+    "idmiejscowosc": "0053870",
+    "nazwa": "Stefanka"
+  },
+  {
+    "idmiejscowosc": "0053404",
+    "nazwa": "Suszkowie"
+  },
+  {
+    "idmiejscowosc": "0054289",
+    "nazwa": "Szańce"
+  },
+  {
+    "idmiejscowosc": "0053410",
+    "nazwa": "Szarcowie"
+  },
+  {
+    "idmiejscowosc": "0053887",
+    "nazwa": "Szeroki"
+  },
+  {
+    "idmiejscowosc": "0054295",
+    "nazwa": "Szkatułka"
+  },
+  {
+    "idmiejscowosc": "0053893",
+    "nazwa": "Szkawlonka"
+  },
+  {
+    "idmiejscowosc": "0053901",
+    "nazwa": "Szkawrany"
+  },
+  {
+    "idmiejscowosc": "0053433",
+    "nazwa": "Szymcze"
+  },
+  {
+    "idmiejscowosc": "1001496",
+    "nazwa": "Szymonkowie"
+  },
+  {
+    "idmiejscowosc": "0054310",
+    "nazwa": "Śliwkowiec"
+  },
+  {
+    "idmiejscowosc": "0053918",
+    "nazwa": "Śliwkula"
+  },
+  {
+    "idmiejscowosc": "0054326",
+    "nazwa": "Tkoczówka"
+  },
+  {
+    "idmiejscowosc": "0053440",
+    "nazwa": "Tokarzonka"
+  },
+  {
+    "idmiejscowosc": "0053456",
+    "nazwa": "U Forotu"
+  },
+  {
+    "idmiejscowosc": "0053462",
+    "nazwa": "U Psujki"
+  },
+  {
+    "idmiejscowosc": "0053479",
+    "nazwa": "U Stawu"
+  },
+  {
+    "idmiejscowosc": "0054332",
+    "nazwa": "Usnobocz"
+  },
+  {
+    "idmiejscowosc": "0053924",
+    "nazwa": "Waszuty"
+  },
+  {
+    "idmiejscowosc": "0053930",
+    "nazwa": "Wawrzacze"
+  },
+  {
+    "idmiejscowosc": "0053947",
+    "nazwa": "Wielki Potok"
+  },
+  {
+    "idmiejscowosc": "0053485",
+    "nazwa": "Wilcze"
+  },
+  {
+    "idmiejscowosc": "0053500",
+    "nazwa": "Wojtaszowie"
+  },
+  {
+    "idmiejscowosc": "0053491",
+    "nazwa": "Wojtkowie"
+  },
+  {
+    "idmiejscowosc": "0054349",
+    "nazwa": "Wołowa"
+  },
+  {
+    "idmiejscowosc": "0053953",
+    "nazwa": "Wyrch-Czadeczka"
+  },
+  {
+    "idmiejscowosc": "0053516",
+    "nazwa": "Wysznie Pole"
+  },
+  {
+    "idmiejscowosc": "0054355",
+    "nazwa": "Wyżrana"
+  },
+  {
+    "idmiejscowosc": "0053522",
+    "nazwa": "Za Doliną"
+  },
+  {
+    "idmiejscowosc": "0053960",
+    "nazwa": "Za Groń"
+  },
+  {
+    "idmiejscowosc": "0053539",
+    "nazwa": "Za Groń"
+  },
+  {
+    "idmiejscowosc": "0054361",
+    "nazwa": "Za Roztoką"
+  },
+  {
+    "idmiejscowosc": "0053976",
+    "nazwa": "Zakikula"
+  },
+  {
+    "idmiejscowosc": "0053982",
+    "nazwa": "Zapasieki Dolne"
+  },
+  {
+    "idmiejscowosc": "0053999",
+    "nazwa": "Zapasieki Górne"
+  },
+  {
+    "idmiejscowosc": "0054378",
+    "nazwa": "Zimna Woda"
+  },
+  {
+    "idmiejscowosc": "0054384",
+    "nazwa": "Żurówka"
+  }
+]

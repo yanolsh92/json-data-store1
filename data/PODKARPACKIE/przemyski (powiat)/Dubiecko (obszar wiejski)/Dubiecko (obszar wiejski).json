@@ -1,0 +1,378 @@
+[
+  {
+    "idmiejscowosc": "0600237",
+    "nazwa": "Bachórzec"
+  },
+  {
+    "idmiejscowosc": "0600728",
+    "nazwa": "Białka"
+  },
+  {
+    "idmiejscowosc": "0600355",
+    "nazwa": "Bircza"
+  },
+  {
+    "idmiejscowosc": "0600881",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0601082",
+    "nazwa": "Brzezina"
+  },
+  {
+    "idmiejscowosc": "0600600",
+    "nazwa": "Buraczkówka"
+  },
+  {
+    "idmiejscowosc": "0600993",
+    "nazwa": "Bylacin"
+  },
+  {
+    "idmiejscowosc": "0601099",
+    "nazwa": "Chełm"
+  },
+  {
+    "idmiejscowosc": "0600616",
+    "nazwa": "Czerna"
+  },
+  {
+    "idmiejscowosc": "0600898",
+    "nazwa": "Czerwonka"
+  },
+  {
+    "idmiejscowosc": "0600906",
+    "nazwa": "Czobot"
+  },
+  {
+    "idmiejscowosc": "0600823",
+    "nazwa": "Dolna Piątkowa"
+  },
+  {
+    "idmiejscowosc": "0600912",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0600510",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0600349",
+    "nazwa": "Drohobyczka"
+  },
+  {
+    "idmiejscowosc": "0600361",
+    "nazwa": "Dudziakówka"
+  },
+  {
+    "idmiejscowosc": "0600929",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0600734",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0600830",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "1043017",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0601060",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0600243",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0600250",
+    "nazwa": "Gamratka"
+  },
+  {
+    "idmiejscowosc": "0600622",
+    "nazwa": "Głębokie"
+  },
+  {
+    "idmiejscowosc": "0600527",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0600935",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0600740",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0600533",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0600846",
+    "nazwa": "Górna Piątkowa"
+  },
+  {
+    "idmiejscowosc": "0600941",
+    "nazwa": "Haliga"
+  },
+  {
+    "idmiejscowosc": "0600378",
+    "nazwa": "Hucisko"
+  },
+  {
+    "idmiejscowosc": "0600504",
+    "nazwa": "Hucisko Nienadowskie"
+  },
+  {
+    "idmiejscowosc": "0600384",
+    "nazwa": "Huta"
+  },
+  {
+    "idmiejscowosc": "0600579",
+    "nazwa": "Iskań"
+  },
+  {
+    "idmiejscowosc": "0600390",
+    "nazwa": "Jastrzębiec"
+  },
+  {
+    "idmiejscowosc": "0601142",
+    "nazwa": "Karczunek"
+  },
+  {
+    "idmiejscowosc": "0600757",
+    "nazwa": "Kąt"
+  },
+  {
+    "idmiejscowosc": "0600763",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0600540",
+    "nazwa": "Kopce"
+  },
+  {
+    "idmiejscowosc": "0600591",
+    "nazwa": "Kosztowa"
+  },
+  {
+    "idmiejscowosc": "0600585",
+    "nazwa": "Kreca"
+  },
+  {
+    "idmiejscowosc": "0601107",
+    "nazwa": "Księża Część"
+  },
+  {
+    "idmiejscowosc": "0600770",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0600639",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0600409",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0600272",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0601001",
+    "nazwa": "Łączki"
+  },
+  {
+    "idmiejscowosc": "0600289",
+    "nazwa": "Makuchowa Góra"
+  },
+  {
+    "idmiejscowosc": "0600295",
+    "nazwa": "Miasteczko"
+  },
+  {
+    "idmiejscowosc": "0600711",
+    "nazwa": "Nienadowa"
+  },
+  {
+    "idmiejscowosc": "0600786",
+    "nazwa": "Nienadowa Górna"
+  },
+  {
+    "idmiejscowosc": "0600415",
+    "nazwa": "Obszar"
+  },
+  {
+    "idmiejscowosc": "0600645",
+    "nazwa": "Obszar"
+  },
+  {
+    "idmiejscowosc": "0600421",
+    "nazwa": "Ogrody"
+  },
+  {
+    "idmiejscowosc": "0600958",
+    "nazwa": "Osz"
+  },
+  {
+    "idmiejscowosc": "0600651",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0600303",
+    "nazwa": "Pasieka"
+  },
+  {
+    "idmiejscowosc": "0600817",
+    "nazwa": "Piątkowa"
+  },
+  {
+    "idmiejscowosc": "0600310",
+    "nazwa": "Podłazie"
+  },
+  {
+    "idmiejscowosc": "0600668",
+    "nazwa": "Pogorzały"
+  },
+  {
+    "idmiejscowosc": "0600326",
+    "nazwa": "Połanki"
+  },
+  {
+    "idmiejscowosc": "0601018",
+    "nazwa": "Poręba"
+  },
+  {
+    "idmiejscowosc": "0600438",
+    "nazwa": "Poręby"
+  },
+  {
+    "idmiejscowosc": "0600964",
+    "nazwa": "Potoczniówka"
+  },
+  {
+    "idmiejscowosc": "0600674",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0600875",
+    "nazwa": "Przedmieście Dubieckie"
+  },
+  {
+    "idmiejscowosc": "0601024",
+    "nazwa": "Przedsielnica"
+  },
+  {
+    "idmiejscowosc": "0600792",
+    "nazwa": "Przydatki"
+  },
+  {
+    "idmiejscowosc": "0601030",
+    "nazwa": "Radonówki"
+  },
+  {
+    "idmiejscowosc": "0600444",
+    "nazwa": "Rędzina"
+  },
+  {
+    "idmiejscowosc": "0600556",
+    "nazwa": "Serwinówka"
+  },
+  {
+    "idmiejscowosc": "0600987",
+    "nazwa": "Sielnica"
+  },
+  {
+    "idmiejscowosc": "0601053",
+    "nazwa": "Słonne"
+  },
+  {
+    "idmiejscowosc": "0600680",
+    "nazwa": "Stawiska"
+  },
+  {
+    "idmiejscowosc": "0600332",
+    "nazwa": "Stawiska"
+  },
+  {
+    "idmiejscowosc": "0601076",
+    "nazwa": "Śliwnica"
+  },
+  {
+    "idmiejscowosc": "0601113",
+    "nazwa": "Śliwnica Dolna"
+  },
+  {
+    "idmiejscowosc": "0601120",
+    "nazwa": "Śliwnica Górna"
+  },
+  {
+    "idmiejscowosc": "0600800",
+    "nazwa": "Świnki"
+  },
+  {
+    "idmiejscowosc": "0601047",
+    "nazwa": "Tarki"
+  },
+  {
+    "idmiejscowosc": "0601159",
+    "nazwa": "Tarnawka"
+  },
+  {
+    "idmiejscowosc": "0600450",
+    "nazwa": "Telegówka"
+  },
+  {
+    "idmiejscowosc": "0600473",
+    "nazwa": "Widne"
+  },
+  {
+    "idmiejscowosc": "0600467",
+    "nazwa": "Wielkie Pole"
+  },
+  {
+    "idmiejscowosc": "1064462",
+    "nazwa": "Winne-Podbukowina"
+  },
+  {
+    "idmiejscowosc": "0600697",
+    "nazwa": "Witryłów"
+  },
+  {
+    "idmiejscowosc": "0600705",
+    "nazwa": "Witryłówka"
+  },
+  {
+    "idmiejscowosc": "0601165",
+    "nazwa": "Wybrzeże"
+  },
+  {
+    "idmiejscowosc": "0600562",
+    "nazwa": "Za Potokiem"
+  },
+  {
+    "idmiejscowosc": "0600970",
+    "nazwa": "Zadział"
+  },
+  {
+    "idmiejscowosc": "1064479",
+    "nazwa": "Załazek"
+  },
+  {
+    "idmiejscowosc": "0600480",
+    "nazwa": "Zapotok"
+  },
+  {
+    "idmiejscowosc": "0601136",
+    "nazwa": "Zarąbki"
+  },
+  {
+    "idmiejscowosc": "0601171",
+    "nazwa": "Zasan"
+  }
+]

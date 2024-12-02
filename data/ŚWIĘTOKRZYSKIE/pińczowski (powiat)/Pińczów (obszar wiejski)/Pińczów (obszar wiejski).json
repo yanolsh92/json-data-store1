@@ -1,0 +1,514 @@
+[
+  {
+    "idmiejscowosc": "0262600",
+    "nazwa": "Aleksandrów"
+  },
+  {
+    "idmiejscowosc": "0263478",
+    "nazwa": "Babi Dół"
+  },
+  {
+    "idmiejscowosc": "0263573",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0262622",
+    "nazwa": "Bogucice"
+  },
+  {
+    "idmiejscowosc": "0262616",
+    "nazwa": "Bogucice Drugie"
+  },
+  {
+    "idmiejscowosc": "0262668",
+    "nazwa": "Bogucice Pierwsze"
+  },
+  {
+    "idmiejscowosc": "0263076",
+    "nazwa": "Bojce"
+  },
+  {
+    "idmiejscowosc": "0262711",
+    "nazwa": "Borków"
+  },
+  {
+    "idmiejscowosc": "0262734",
+    "nazwa": "Brzeście"
+  },
+  {
+    "idmiejscowosc": "0262786",
+    "nazwa": "Bugaj"
+  },
+  {
+    "idmiejscowosc": "0262817",
+    "nazwa": "Byczów"
+  },
+  {
+    "idmiejscowosc": "0262830",
+    "nazwa": "Chrabków"
+  },
+  {
+    "idmiejscowosc": "0262852",
+    "nazwa": "Chruścice"
+  },
+  {
+    "idmiejscowosc": "0262875",
+    "nazwa": "Chwałowice"
+  },
+  {
+    "idmiejscowosc": "0263231",
+    "nazwa": "Czworaki"
+  },
+  {
+    "idmiejscowosc": "0262792",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0263248",
+    "nazwa": "Docółki"
+  },
+  {
+    "idmiejscowosc": "0262823",
+    "nazwa": "Doły"
+  },
+  {
+    "idmiejscowosc": "0263550",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0262898",
+    "nazwa": "Gacki"
+  },
+  {
+    "idmiejscowosc": "0263113",
+    "nazwa": "Gacki-Osiedle"
+  },
+  {
+    "idmiejscowosc": "0263633",
+    "nazwa": "Gaik"
+  },
+  {
+    "idmiejscowosc": "0262800",
+    "nazwa": "Gajówka"
+  },
+  {
+    "idmiejscowosc": "0263188",
+    "nazwa": "Gęsia Ulica"
+  },
+  {
+    "idmiejscowosc": "0263828",
+    "nazwa": "Gołąb"
+  },
+  {
+    "idmiejscowosc": "0263136",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0263834",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0262935",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0263107",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0263640",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0263716",
+    "nazwa": "Granica"
+  },
+  {
+    "idmiejscowosc": "0262912",
+    "nazwa": "Grochowiska"
+  },
+  {
+    "idmiejscowosc": "0263194",
+    "nazwa": "Gródko"
+  },
+  {
+    "idmiejscowosc": "0263580",
+    "nazwa": "Grózda"
+  },
+  {
+    "idmiejscowosc": "0263509",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0262639",
+    "nazwa": "Kamień"
+  },
+  {
+    "idmiejscowosc": "0263202",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0263159",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0262740",
+    "nazwa": "Kolonie"
+  },
+  {
+    "idmiejscowosc": "0263082",
+    "nazwa": "Komorniki"
+  },
+  {
+    "idmiejscowosc": "0262929",
+    "nazwa": "Kopernia"
+  },
+  {
+    "idmiejscowosc": "0262958",
+    "nazwa": "Kowala"
+  },
+  {
+    "idmiejscowosc": "0262964",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0262987",
+    "nazwa": "Kozubów"
+  },
+  {
+    "idmiejscowosc": "0263840",
+    "nazwa": "Krukawa"
+  },
+  {
+    "idmiejscowosc": "0262869",
+    "nazwa": "Krzaki"
+  },
+  {
+    "idmiejscowosc": "0263283",
+    "nazwa": "Krzywda"
+  },
+  {
+    "idmiejscowosc": "0263047",
+    "nazwa": "Krzyżanowice Dolne"
+  },
+  {
+    "idmiejscowosc": "0263060",
+    "nazwa": "Krzyżanowice Średnie"
+  },
+  {
+    "idmiejscowosc": "0263366",
+    "nazwa": "Laskowiec"
+  },
+  {
+    "idmiejscowosc": "0263099",
+    "nazwa": "Leszcze"
+  },
+  {
+    "idmiejscowosc": "0263314",
+    "nazwa": "Łączki"
+  },
+  {
+    "idmiejscowosc": "0263120",
+    "nazwa": "Marzęcin"
+  },
+  {
+    "idmiejscowosc": "0262757",
+    "nazwa": "Miasteczko"
+  },
+  {
+    "idmiejscowosc": "0263142",
+    "nazwa": "Młodzawy Duże"
+  },
+  {
+    "idmiejscowosc": "0263171",
+    "nazwa": "Młodzawy Małe"
+  },
+  {
+    "idmiejscowosc": "0262993",
+    "nazwa": "Mozgawa"
+  },
+  {
+    "idmiejscowosc": "0263225",
+    "nazwa": "Mozgawa"
+  },
+  {
+    "idmiejscowosc": "0263372",
+    "nazwa": "Mysiak"
+  },
+  {
+    "idmiejscowosc": "0263001",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0263254",
+    "nazwa": "Nowa Zagość"
+  },
+  {
+    "idmiejscowosc": "0263432",
+    "nazwa": "Ogrody"
+  },
+  {
+    "idmiejscowosc": "0263722",
+    "nazwa": "Ogrody"
+  },
+  {
+    "idmiejscowosc": "0263389",
+    "nazwa": "Opłotki"
+  },
+  {
+    "idmiejscowosc": "0263260",
+    "nazwa": "Orkanów"
+  },
+  {
+    "idmiejscowosc": "0263290",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0263484",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0262645",
+    "nazwa": "Parcelacja Druga"
+  },
+  {
+    "idmiejscowosc": "0262674",
+    "nazwa": "Parcelacja Pierwsza"
+  },
+  {
+    "idmiejscowosc": "0262941",
+    "nazwa": "Parcele"
+  },
+  {
+    "idmiejscowosc": "0263277",
+    "nazwa": "Pasturka"
+  },
+  {
+    "idmiejscowosc": "0263320",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0263403",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0263165",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0262970",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0263774",
+    "nazwa": "Pod Górami"
+  },
+  {
+    "idmiejscowosc": "0263857",
+    "nazwa": "Podchoinie"
+  },
+  {
+    "idmiejscowosc": "0262906",
+    "nazwa": "Podgórze-Koryta"
+  },
+  {
+    "idmiejscowosc": "0263863",
+    "nazwa": "Podkamieniec"
+  },
+  {
+    "idmiejscowosc": "0262846",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0263337",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0263308",
+    "nazwa": "Podłęże"
+  },
+  {
+    "idmiejscowosc": "0263018",
+    "nazwa": "Podwale"
+  },
+  {
+    "idmiejscowosc": "0263515",
+    "nazwa": "Przymiarki"
+  },
+  {
+    "idmiejscowosc": "0263521",
+    "nazwa": "Rybnik"
+  },
+  {
+    "idmiejscowosc": "0263685",
+    "nazwa": "Sachalin"
+  },
+  {
+    "idmiejscowosc": "0263350",
+    "nazwa": "Sadek"
+  },
+  {
+    "idmiejscowosc": "0262881",
+    "nazwa": "Sadowie"
+  },
+  {
+    "idmiejscowosc": "0263024",
+    "nazwa": "Serwit"
+  },
+  {
+    "idmiejscowosc": "0262680",
+    "nazwa": "Skałki"
+  },
+  {
+    "idmiejscowosc": "0263395",
+    "nazwa": "Skowronno Dolne"
+  },
+  {
+    "idmiejscowosc": "0263426",
+    "nazwa": "Skowronno Górne"
+  },
+  {
+    "idmiejscowosc": "0263449",
+    "nazwa": "Skrzypiów"
+  },
+  {
+    "idmiejscowosc": "0263780",
+    "nazwa": "Smyków"
+  },
+  {
+    "idmiejscowosc": "0263745",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0262697",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0263343",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0263461",
+    "nazwa": "Stara Zagość"
+  },
+  {
+    "idmiejscowosc": "0263490",
+    "nazwa": "Szarbków"
+  },
+  {
+    "idmiejscowosc": "0263544",
+    "nazwa": "Szczypiec"
+  },
+  {
+    "idmiejscowosc": "0263219",
+    "nazwa": "Szkółki"
+  },
+  {
+    "idmiejscowosc": "0262651",
+    "nazwa": "Szosa"
+  },
+  {
+    "idmiejscowosc": "0263030",
+    "nazwa": "Teresów"
+  },
+  {
+    "idmiejscowosc": "0263797",
+    "nazwa": "Teresów"
+  },
+  {
+    "idmiejscowosc": "0262763",
+    "nazwa": "Ulica Ptasia"
+  },
+  {
+    "idmiejscowosc": "0263567",
+    "nazwa": "Uników"
+  },
+  {
+    "idmiejscowosc": "0263627",
+    "nazwa": "Winiary"
+  },
+  {
+    "idmiejscowosc": "0263656",
+    "nazwa": "Winiary-Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0263679",
+    "nazwa": "Włochy"
+  },
+  {
+    "idmiejscowosc": "0263691",
+    "nazwa": "Włochy-Leśniczówka"
+  },
+  {
+    "idmiejscowosc": "0263700",
+    "nazwa": "Wola Zagojska Dolna"
+  },
+  {
+    "idmiejscowosc": "0263739",
+    "nazwa": "Wola Zagojska Górna"
+  },
+  {
+    "idmiejscowosc": "0262770",
+    "nazwa": "Zaborcze"
+  },
+  {
+    "idmiejscowosc": "0263768",
+    "nazwa": "Zagorzyce"
+  },
+  {
+    "idmiejscowosc": "0263538",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0262705",
+    "nazwa": "Zakościele"
+  },
+  {
+    "idmiejscowosc": "0263053",
+    "nazwa": "Zakościele"
+  },
+  {
+    "idmiejscowosc": "0263805",
+    "nazwa": "Zakrzów"
+  },
+  {
+    "idmiejscowosc": "0263596",
+    "nazwa": "Zakupniki"
+  },
+  {
+    "idmiejscowosc": "0263410",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0263604",
+    "nazwa": "Załącze"
+  },
+  {
+    "idmiejscowosc": "0263455",
+    "nazwa": "Zamoście"
+  },
+  {
+    "idmiejscowosc": "0262728",
+    "nazwa": "Zapiaszcza"
+  },
+  {
+    "idmiejscowosc": "0263751",
+    "nazwa": "Zastocze"
+  },
+  {
+    "idmiejscowosc": "0263610",
+    "nazwa": "Zator"
+  },
+  {
+    "idmiejscowosc": "0263870",
+    "nazwa": "Zawarża"
+  },
+  {
+    "idmiejscowosc": "0263811",
+    "nazwa": "Zawarża"
+  },
+  {
+    "idmiejscowosc": "0263662",
+    "nazwa": "Żuków"
+  }
+]

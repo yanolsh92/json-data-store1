@@ -1,0 +1,142 @@
+[
+  {
+    "idtech": "064",
+    "idgmina": "06",
+    "nazwa": "Bystrzyca Kłodzka",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "065",
+    "idgmina": "06",
+    "nazwa": "Bystrzyca Kłodzka",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "011",
+    "idgmina": "01",
+    "nazwa": "Duszniki-Zdrój",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "021",
+    "idgmina": "02",
+    "nazwa": "Kłodzko",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "072",
+    "idgmina": "07",
+    "nazwa": "Kłodzko",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "031",
+    "idgmina": "03",
+    "nazwa": "Kudowa-Zdrój",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "084",
+    "idgmina": "08",
+    "nazwa": "Lądek-Zdrój",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "085",
+    "idgmina": "08",
+    "nazwa": "Lądek-Zdrój",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "092",
+    "idgmina": "09",
+    "nazwa": "Lewin Kłodzki",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "104",
+    "idgmina": "10",
+    "nazwa": "Międzylesie",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "105",
+    "idgmina": "10",
+    "nazwa": "Międzylesie",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "041",
+    "idgmina": "04",
+    "nazwa": "Nowa Ruda",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "112",
+    "idgmina": "11",
+    "nazwa": "Nowa Ruda",
+    "kodrodzajgminy": "2",
+    "rodzajgminy": "gmina wiejska"
+  },
+  {
+    "idtech": "051",
+    "idgmina": "05",
+    "nazwa": "Polanica-Zdrój",
+    "kodrodzajgminy": "1",
+    "rodzajgminy": "gmina miejska"
+  },
+  {
+    "idtech": "124",
+    "idgmina": "12",
+    "nazwa": "Radków",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "125",
+    "idgmina": "12",
+    "nazwa": "Radków",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "134",
+    "idgmina": "13",
+    "nazwa": "Stronie Śląskie",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "135",
+    "idgmina": "13",
+    "nazwa": "Stronie Śląskie",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  },
+  {
+    "idtech": "144",
+    "idgmina": "14",
+    "nazwa": "Szczytna",
+    "kodrodzajgminy": "4",
+    "rodzajgminy": "miasto"
+  },
+  {
+    "idtech": "145",
+    "idgmina": "14",
+    "nazwa": "Szczytna",
+    "kodrodzajgminy": "5",
+    "rodzajgminy": "obszar wiejski"
+  }
+]

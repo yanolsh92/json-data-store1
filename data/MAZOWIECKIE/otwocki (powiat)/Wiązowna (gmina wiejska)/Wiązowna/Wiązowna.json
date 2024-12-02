@@ -1,0 +1,347 @@
+[
+  {
+    "idulica": "41693",
+    "nazwa": "Aleja Kwiatów Polskich",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00925",
+    "nazwa": "Bażantowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01903",
+    "nazwa": "Boryszewska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02213",
+    "nazwa": "Stefana Bryły",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02657",
+    "nazwa": "Chabrowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03811",
+    "nazwa": "Dębowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03868",
+    "nazwa": "Romana Dmowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03928",
+    "nazwa": "Dobra",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04349",
+    "nazwa": "Duchnowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04441",
+    "nazwa": "Dworkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05037",
+    "nazwa": "Firletki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05452",
+    "nazwa": "Geodetów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "52492",
+    "nazwa": "Gminny Park Centrum",
+    "rodzaj": "park"
+  },
+  {
+    "idulica": "05761",
+    "nazwa": "Gołębia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06209",
+    "nazwa": "Gródek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06557",
+    "nazwa": "Hawajska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06933",
+    "nazwa": "Irysowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07059",
+    "nazwa": "Jagodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07506",
+    "nazwa": "Jesionowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08283",
+    "nazwa": "Kącka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08574",
+    "nazwa": "Klonowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09222",
+    "nazwa": "Konwalii",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09546",
+    "nazwa": "Kościelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10562",
+    "nazwa": "Kwiatowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10718",
+    "nazwa": "Lawendowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11139",
+    "nazwa": "Lipowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "61427",
+    "nazwa": "Lobelii",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11307",
+    "nazwa": "Lubelska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12097",
+    "nazwa": "Malwy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12870",
+    "nazwa": "Miętowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13184",
+    "nazwa": "Modrzewiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "38011",
+    "nazwa": "Morwy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13902",
+    "nazwa": "Nadrzeczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14247",
+    "nazwa": "Niezapominajki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15707",
+    "nazwa": "Parkingowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15710",
+    "nazwa": "Parkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15711",
+    "nazwa": "Parkowe",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "15990",
+    "nazwa": "Pęclińska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16225",
+    "nazwa": "rtm. Witolda Pileckiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39246",
+    "nazwa": "Płachta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17011",
+    "nazwa": "Polna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17506",
+    "nazwa": "Projektowana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18403",
+    "nazwa": "Rajska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18654",
+    "nazwa": "Rezedowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19094",
+    "nazwa": "Rumiankowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19404",
+    "nazwa": "Sadowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19536",
+    "nazwa": "Sarnia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "48640",
+    "nazwa": "Skwer gen. Stefana Grota-Roweckiego",
+    "rodzaj": "skwer"
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20677",
+    "nazwa": "Spokojna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20683",
+    "nazwa": "Sportowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21227",
+    "nazwa": "Stokrotki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43074",
+    "nazwa": "Superunek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22508",
+    "nazwa": "Świerkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21721",
+    "nazwa": "Szafranowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21970",
+    "nazwa": "Szkolna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23129",
+    "nazwa": "Tulipanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23184",
+    "nazwa": "Turystyczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35361",
+    "nazwa": "Tymotki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23795",
+    "nazwa": "Wąska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24870",
+    "nazwa": "Wrzosowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "61374",
+    "nazwa": "Wspólnoty Wiejskiej",
+    "rodzaj": "skwer"
+  },
+  {
+    "idulica": "25192",
+    "nazwa": "XXX-lecia",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "26367",
+    "nazwa": "Żabia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25438",
+    "nazwa": "Zakątek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25939",
+    "nazwa": "Zdroje",
+    "rodzaj": "ul."
+  }
+]

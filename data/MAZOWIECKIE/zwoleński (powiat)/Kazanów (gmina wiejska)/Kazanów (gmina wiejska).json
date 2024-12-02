@@ -1,0 +1,334 @@
+[
+  {
+    "idmiejscowosc": "0626165",
+    "nazwa": "Biedów"
+  },
+  {
+    "idmiejscowosc": "0625763",
+    "nazwa": "Bielany"
+  },
+  {
+    "idmiejscowosc": "0625680",
+    "nazwa": "Borów"
+  },
+  {
+    "idmiejscowosc": "0626076",
+    "nazwa": "Brzezówka"
+  },
+  {
+    "idmiejscowosc": "0626260",
+    "nazwa": "Budy"
+  },
+  {
+    "idmiejscowosc": "0625697",
+    "nazwa": "Dębniak"
+  },
+  {
+    "idmiejscowosc": "0625711",
+    "nazwa": "Dębnica"
+  },
+  {
+    "idmiejscowosc": "0626308",
+    "nazwa": "Dobiec"
+  },
+  {
+    "idmiejscowosc": "0625964",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0625869",
+    "nazwa": "Gajówka Dobiec"
+  },
+  {
+    "idmiejscowosc": "0626082",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0625970",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0626372",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0625987",
+    "nazwa": "Grudka"
+  },
+  {
+    "idmiejscowosc": "0626449",
+    "nazwa": "Ignaców"
+  },
+  {
+    "idmiejscowosc": "0626107",
+    "nazwa": "Kapkaz"
+  },
+  {
+    "idmiejscowosc": "0625728",
+    "nazwa": "Kazanów"
+  },
+  {
+    "idmiejscowosc": "0626171",
+    "nazwa": "Kępa"
+  },
+  {
+    "idmiejscowosc": "0625757",
+    "nazwa": "Kopiec"
+  },
+  {
+    "idmiejscowosc": "0625792",
+    "nazwa": "Kowalków"
+  },
+  {
+    "idmiejscowosc": "0625881",
+    "nazwa": "Kowalków-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0626426",
+    "nazwa": "Kresy"
+  },
+  {
+    "idmiejscowosc": "0625929",
+    "nazwa": "Kresy"
+  },
+  {
+    "idmiejscowosc": "0625912",
+    "nazwa": "Kroczów Mniejszy"
+  },
+  {
+    "idmiejscowosc": "0625958",
+    "nazwa": "Kroczów Większy"
+  },
+  {
+    "idmiejscowosc": "0625935",
+    "nazwa": "Kroczów-Dół"
+  },
+  {
+    "idmiejscowosc": "0625941",
+    "nazwa": "Kroczów-Góry"
+  },
+  {
+    "idmiejscowosc": "0625875",
+    "nazwa": "Leśniczówka Ruda"
+  },
+  {
+    "idmiejscowosc": "0626277",
+    "nazwa": "Łęg"
+  },
+  {
+    "idmiejscowosc": "0626024",
+    "nazwa": "Miechów"
+  },
+  {
+    "idmiejscowosc": "0626060",
+    "nazwa": "Miechów-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0626030",
+    "nazwa": "Na Polu"
+  },
+  {
+    "idmiejscowosc": "0626047",
+    "nazwa": "Nad Wodą"
+  },
+  {
+    "idmiejscowosc": "0626099",
+    "nazwa": "Niedarczów Dolny-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0626113",
+    "nazwa": "Niedarczów Dolny-Wieś"
+  },
+  {
+    "idmiejscowosc": "0626120",
+    "nazwa": "Niedarczów Górny-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0626136",
+    "nazwa": "Niedarczów Górny-Wieś"
+  },
+  {
+    "idmiejscowosc": "0625770",
+    "nazwa": "Nowy Kopiec"
+  },
+  {
+    "idmiejscowosc": "0625898",
+    "nazwa": "Nowy Kowalków"
+  },
+  {
+    "idmiejscowosc": "0626389",
+    "nazwa": "Nowy Ranachów"
+  },
+  {
+    "idmiejscowosc": "0626142",
+    "nazwa": "Ostrownica"
+  },
+  {
+    "idmiejscowosc": "0626219",
+    "nazwa": "Ostrownica-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0626254",
+    "nazwa": "Ostrówka"
+  },
+  {
+    "idmiejscowosc": "0626290",
+    "nazwa": "Osuchów"
+  },
+  {
+    "idmiejscowosc": "0626314",
+    "nazwa": "Osuchów-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0626320",
+    "nazwa": "Osuchów-Wieś"
+  },
+  {
+    "idmiejscowosc": "0626337",
+    "nazwa": "Paluch"
+  },
+  {
+    "idmiejscowosc": "0626343",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0625993",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0625705",
+    "nazwa": "Pieńki"
+  },
+  {
+    "idmiejscowosc": "0626283",
+    "nazwa": "Pieńki Kazanowskie"
+  },
+  {
+    "idmiejscowosc": "0626053",
+    "nazwa": "Pod Cmentarzem"
+  },
+  {
+    "idmiejscowosc": "0625734",
+    "nazwa": "Pod Kierkutem"
+  },
+  {
+    "idmiejscowosc": "0625800",
+    "nazwa": "Podchoiny"
+  },
+  {
+    "idmiejscowosc": "0625817",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0625823",
+    "nazwa": "Podgrabowa"
+  },
+  {
+    "idmiejscowosc": "0626188",
+    "nazwa": "Poduchowne"
+  },
+  {
+    "idmiejscowosc": "0626231",
+    "nazwa": "Praga"
+  },
+  {
+    "idmiejscowosc": "0626159",
+    "nazwa": "Przydatki"
+  },
+  {
+    "idmiejscowosc": "0626366",
+    "nazwa": "Ranachów-Wieś"
+  },
+  {
+    "idmiejscowosc": "0626248",
+    "nazwa": "Rochalina"
+  },
+  {
+    "idmiejscowosc": "0625830",
+    "nazwa": "Rogatki"
+  },
+  {
+    "idmiejscowosc": "0626403",
+    "nazwa": "Ruda"
+  },
+  {
+    "idmiejscowosc": "0625740",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0626001",
+    "nazwa": "Stara Dębnica"
+  },
+  {
+    "idmiejscowosc": "0626194",
+    "nazwa": "Stara Ostrownica"
+  },
+  {
+    "idmiejscowosc": "0625846",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0625786",
+    "nazwa": "Stary Kopiec"
+  },
+  {
+    "idmiejscowosc": "0625852",
+    "nazwa": "Stary Kowalków"
+  },
+  {
+    "idmiejscowosc": "0626395",
+    "nazwa": "Stary Ranachów"
+  },
+  {
+    "idmiejscowosc": "0626484",
+    "nazwa": "Stary Zakrzówek"
+  },
+  {
+    "idmiejscowosc": "0625906",
+    "nazwa": "Stoki Kowalkowskie"
+  },
+  {
+    "idmiejscowosc": "0626461",
+    "nazwa": "Szczyna"
+  },
+  {
+    "idmiejscowosc": "0626350",
+    "nazwa": "Szymanówka"
+  },
+  {
+    "idmiejscowosc": "0626018",
+    "nazwa": "Teresin"
+  },
+  {
+    "idmiejscowosc": "0626225",
+    "nazwa": "Warszawka"
+  },
+  {
+    "idmiejscowosc": "0626202",
+    "nazwa": "Władysławów"
+  },
+  {
+    "idmiejscowosc": "0626410",
+    "nazwa": "Wólka Gonciarska"
+  },
+  {
+    "idmiejscowosc": "0626432",
+    "nazwa": "Wólka Maziarska"
+  },
+  {
+    "idmiejscowosc": "0626490",
+    "nazwa": "Zakrzówek-Górki"
+  },
+  {
+    "idmiejscowosc": "0626455",
+    "nazwa": "Zakrzówek-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0626478",
+    "nazwa": "Zakrzówek-Wieś"
+  },
+  {
+    "idmiejscowosc": "0626509",
+    "nazwa": "Zakrzówek-Wyglądała"
+  }
+]

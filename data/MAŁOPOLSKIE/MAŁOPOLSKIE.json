@@ -1,0 +1,112 @@
+[
+  {
+    "idpowiat": "01",
+    "nazwa": "bocheński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "02",
+    "nazwa": "brzeski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "03",
+    "nazwa": "chrzanowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "04",
+    "nazwa": "dąbrowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "05",
+    "nazwa": "gorlicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "06",
+    "nazwa": "krakowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "07",
+    "nazwa": "limanowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "08",
+    "nazwa": "miechowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "09",
+    "nazwa": "myślenicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "10",
+    "nazwa": "nowosądecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "11",
+    "nazwa": "nowotarski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "12",
+    "nazwa": "olkuski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "13",
+    "nazwa": "oświęcimski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "14",
+    "nazwa": "proszowicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "15",
+    "nazwa": "suski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "16",
+    "nazwa": "tarnowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "17",
+    "nazwa": "tatrzański",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "18",
+    "nazwa": "wadowicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "19",
+    "nazwa": "wielicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "61",
+    "nazwa": "Kraków",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "62",
+    "nazwa": "Nowy Sącz",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "63",
+    "nazwa": "Tarnów",
+    "nazwadod": "miasto na prawach powiatu"
+  }
+]

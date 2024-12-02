@@ -1,0 +1,410 @@
+[
+  {
+    "idmiejscowosc": "0601202",
+    "nazwa": "Bachórz"
+  },
+  {
+    "idmiejscowosc": "0602058",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0602064",
+    "nazwa": "Benedykówka"
+  },
+  {
+    "idmiejscowosc": "0601490",
+    "nazwa": "Berlin"
+  },
+  {
+    "idmiejscowosc": "0602070",
+    "nazwa": "Buda"
+  },
+  {
+    "idmiejscowosc": "0601774",
+    "nazwa": "Buda"
+  },
+  {
+    "idmiejscowosc": "0601509",
+    "nazwa": "Budy"
+  },
+  {
+    "idmiejscowosc": "0601343",
+    "nazwa": "Cebakówka"
+  },
+  {
+    "idmiejscowosc": "0601219",
+    "nazwa": "Chodorówka"
+  },
+  {
+    "idmiejscowosc": "0601350",
+    "nazwa": "Chrapkówka"
+  },
+  {
+    "idmiejscowosc": "1000746",
+    "nazwa": "Cichówka"
+  },
+  {
+    "idmiejscowosc": "0601515",
+    "nazwa": "Ciepła Połać"
+  },
+  {
+    "idmiejscowosc": "0601290",
+    "nazwa": "Dąbrówka Starzeńska"
+  },
+  {
+    "idmiejscowosc": "0601780",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0601308",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0602087",
+    "nazwa": "Dydkówka"
+  },
+  {
+    "idmiejscowosc": "0601337",
+    "nazwa": "Dylągowa"
+  },
+  {
+    "idmiejscowosc": "1000752",
+    "nazwa": "Dymitówki"
+  },
+  {
+    "idmiejscowosc": "1000769",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0601366",
+    "nazwa": "Flagówka"
+  },
+  {
+    "idmiejscowosc": "0601372",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0601797",
+    "nazwa": "Fuksówka"
+  },
+  {
+    "idmiejscowosc": "0601314",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0601521",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "1000775",
+    "nazwa": "Górna Wieś"
+  },
+  {
+    "idmiejscowosc": "0601538",
+    "nazwa": "Grzybownia"
+  },
+  {
+    "idmiejscowosc": "0601484",
+    "nazwa": "Harta"
+  },
+  {
+    "idmiejscowosc": "0601544",
+    "nazwa": "Harta Dolna"
+  },
+  {
+    "idmiejscowosc": "0601550",
+    "nazwa": "Harta Górna"
+  },
+  {
+    "idmiejscowosc": "0601805",
+    "nazwa": "Hruniówka"
+  },
+  {
+    "idmiejscowosc": "0601389",
+    "nazwa": "Jamborówka"
+  },
+  {
+    "idmiejscowosc": "0601811",
+    "nazwa": "Jawornik"
+  },
+  {
+    "idmiejscowosc": "0602093",
+    "nazwa": "Jendykówka"
+  },
+  {
+    "idmiejscowosc": "0602012",
+    "nazwa": "Kaczmarówka"
+  },
+  {
+    "idmiejscowosc": "0601662",
+    "nazwa": "Kalwaria"
+  },
+  {
+    "idmiejscowosc": "0601395",
+    "nazwa": "Karasiówka"
+  },
+  {
+    "idmiejscowosc": "0601828",
+    "nazwa": "Kaźmierówka"
+  },
+  {
+    "idmiejscowosc": "0601834",
+    "nazwa": "Kiełbasówka"
+  },
+  {
+    "idmiejscowosc": "0601679",
+    "nazwa": "Kimlina"
+  },
+  {
+    "idmiejscowosc": "0601403",
+    "nazwa": "Kłyżówka"
+  },
+  {
+    "idmiejscowosc": "0601685",
+    "nazwa": "Kocyłówka"
+  },
+  {
+    "idmiejscowosc": "0602029",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0601225",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0601840",
+    "nazwa": "Koniówka"
+  },
+  {
+    "idmiejscowosc": "0601567",
+    "nazwa": "Koszary"
+  },
+  {
+    "idmiejscowosc": "0601410",
+    "nazwa": "Kościelnówka"
+  },
+  {
+    "idmiejscowosc": "0601573",
+    "nazwa": "Krzywda"
+  },
+  {
+    "idmiejscowosc": "0601857",
+    "nazwa": "Kustrówka"
+  },
+  {
+    "idmiejscowosc": "0602182",
+    "nazwa": "Las"
+  },
+  {
+    "idmiejscowosc": "0601656",
+    "nazwa": "Laskówka"
+  },
+  {
+    "idmiejscowosc": "0601580",
+    "nazwa": "Lipnik"
+  },
+  {
+    "idmiejscowosc": "0602101",
+    "nazwa": "Lisówka"
+  },
+  {
+    "idmiejscowosc": "0601691",
+    "nazwa": "Liszki"
+  },
+  {
+    "idmiejscowosc": "0601596",
+    "nazwa": "Luzbarg"
+  },
+  {
+    "idmiejscowosc": "0601863",
+    "nazwa": "Łazek"
+  },
+  {
+    "idmiejscowosc": "0601870",
+    "nazwa": "Łubienka"
+  },
+  {
+    "idmiejscowosc": "0601768",
+    "nazwa": "Łubno"
+  },
+  {
+    "idmiejscowosc": "0601426",
+    "nazwa": "Łukaszówka"
+  },
+  {
+    "idmiejscowosc": "0601700",
+    "nazwa": "Łukawica"
+  },
+  {
+    "idmiejscowosc": "0602118",
+    "nazwa": "Majchrówka"
+  },
+  {
+    "idmiejscowosc": "0602124",
+    "nazwa": "Marszałki"
+  },
+  {
+    "idmiejscowosc": "0601432",
+    "nazwa": "Martowicze"
+  },
+  {
+    "idmiejscowosc": "1000781",
+    "nazwa": "Mątewki"
+  },
+  {
+    "idmiejscowosc": "0602130",
+    "nazwa": "Mędusiówka"
+  },
+  {
+    "idmiejscowosc": "0601604",
+    "nazwa": "Miasteczko"
+  },
+  {
+    "idmiejscowosc": "0601716",
+    "nazwa": "Miasteczko"
+  },
+  {
+    "idmiejscowosc": "0601610",
+    "nazwa": "Osiki"
+  },
+  {
+    "idmiejscowosc": "0601627",
+    "nazwa": "Pasieka"
+  },
+  {
+    "idmiejscowosc": "0602006",
+    "nazwa": "Pawłokoma"
+  },
+  {
+    "idmiejscowosc": "0601886",
+    "nazwa": "Pod Guzem"
+  },
+  {
+    "idmiejscowosc": "0601892",
+    "nazwa": "Pod Magarą"
+  },
+  {
+    "idmiejscowosc": "0601900",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0601722",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0601449",
+    "nazwa": "Podlipa"
+  },
+  {
+    "idmiejscowosc": "1000798",
+    "nazwa": "Podtopole"
+  },
+  {
+    "idmiejscowosc": "0601739",
+    "nazwa": "Pohorysko"
+  },
+  {
+    "idmiejscowosc": "0602147",
+    "nazwa": "Polana"
+  },
+  {
+    "idmiejscowosc": "0601745",
+    "nazwa": "Poręby"
+  },
+  {
+    "idmiejscowosc": "0601917",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0602153",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0601923",
+    "nazwa": "Przygórze"
+  },
+  {
+    "idmiejscowosc": "0601455",
+    "nazwa": "Pustki"
+  },
+  {
+    "idmiejscowosc": "0601633",
+    "nazwa": "Pustki"
+  },
+  {
+    "idmiejscowosc": "1000806",
+    "nazwa": "Radanówki"
+  },
+  {
+    "idmiejscowosc": "0601320",
+    "nazwa": "Reszów"
+  },
+  {
+    "idmiejscowosc": "0601461",
+    "nazwa": "Roztoka"
+  },
+  {
+    "idmiejscowosc": "0601930",
+    "nazwa": "Saulanka"
+  },
+  {
+    "idmiejscowosc": "0601751",
+    "nazwa": "Siemianowskie"
+  },
+  {
+    "idmiejscowosc": "0601478",
+    "nazwa": "Skotnik"
+  },
+  {
+    "idmiejscowosc": "0602199",
+    "nazwa": "Słoniec"
+  },
+  {
+    "idmiejscowosc": "0601946",
+    "nazwa": "Szymanów"
+  },
+  {
+    "idmiejscowosc": "1000812",
+    "nazwa": "Śliwy"
+  },
+  {
+    "idmiejscowosc": "0601952",
+    "nazwa": "Tućkówka"
+  },
+  {
+    "idmiejscowosc": "0602041",
+    "nazwa": "Ulanica"
+  },
+  {
+    "idmiejscowosc": "0601969",
+    "nazwa": "Widłakówka"
+  },
+  {
+    "idmiejscowosc": "0601975",
+    "nazwa": "Wielgosówka"
+  },
+  {
+    "idmiejscowosc": "0601981",
+    "nazwa": "Wierzchowina"
+  },
+  {
+    "idmiejscowosc": "0602160",
+    "nazwa": "Wólka"
+  },
+  {
+    "idmiejscowosc": "0602176",
+    "nazwa": "Wyręby"
+  },
+  {
+    "idmiejscowosc": "0601640",
+    "nazwa": "Wysoka"
+  },
+  {
+    "idmiejscowosc": "0602035",
+    "nazwa": "Zagóra"
+  },
+  {
+    "idmiejscowosc": "0601998",
+    "nazwa": "Zagroda"
+  }
+]

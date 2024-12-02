@@ -1,0 +1,262 @@
+[
+  {
+    "idulica": "00242",
+    "nazwa": "Alpejska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00314",
+    "nazwa": "Andyjska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31214",
+    "nazwa": "Austriacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01103",
+    "nazwa": "Beskidzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01326",
+    "nazwa": "Bieszczadzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01742",
+    "nazwa": "Bolesława Chrobrego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02704",
+    "nazwa": "Chełmońskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02974",
+    "nazwa": "Cicha",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03935",
+    "nazwa": "Dobrawy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58430",
+    "nazwa": "Królowej Elżbiety II",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05154",
+    "nazwa": "Francuska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05441",
+    "nazwa": "Gdyńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05508",
+    "nazwa": "Gierymskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "38963",
+    "nazwa": "Kazimierza Górskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "33191",
+    "nazwa": "Grabiańskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06260",
+    "nazwa": "Grunwaldzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06613",
+    "nazwa": "Herbowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06659",
+    "nazwa": "Himalajska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10003",
+    "nazwa": "Królowej Jadwigi",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08096",
+    "nazwa": "Karpacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08265",
+    "nazwa": "Kazimierza Wielkiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10356",
+    "nazwa": "Jerzego Kukuczki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10726",
+    "nazwa": "Lazurowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10894",
+    "nazwa": "Leśmiana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12832",
+    "nazwa": "Mieszka I",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15648",
+    "nazwa": "Pańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15710",
+    "nazwa": "Parkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36528",
+    "nazwa": "Polskiego Związku Ludowego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00730",
+    "nazwa": "Barbary Radziwiłłówny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19965",
+    "nazwa": "Skalista",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19992",
+    "nazwa": "Skandynawska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39042",
+    "nazwa": "Księdza Skorupki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39043",
+    "nazwa": "Stanisławskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00891",
+    "nazwa": "Stefana Batorego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21525",
+    "nazwa": "Sudecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22552",
+    "nazwa": "Świętokrzyska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22169",
+    "nazwa": "Szwajcarska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22717",
+    "nazwa": "Tatrzańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23165",
+    "nazwa": "Turniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23663",
+    "nazwa": "Warmińska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23682",
+    "nazwa": "Warszawska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24494",
+    "nazwa": "Władysława Jagiełły",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11653",
+    "nazwa": "Władysława Łokietka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24524",
+    "nazwa": "Włoska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24628",
+    "nazwa": "Wojska Polskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39044",
+    "nazwa": "Wojtkiewicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25081",
+    "nazwa": "Wyspiańskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25458",
+    "nazwa": "Zakopiańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26334",
+    "nazwa": "Zygmunta Augusta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26343",
+    "nazwa": "Zygmunta Starego",
+    "rodzaj": "ul."
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "idmiejscowosc": "0331240",
+    "nazwa": "Balinkowa"
+  },
+  {
+    "idmiejscowosc": "0330619",
+    "nazwa": "Balowo"
+  },
+  {
+    "idmiejscowosc": "0330565",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0330625",
+    "nazwa": "Bąkowo"
+  },
+  {
+    "idmiejscowosc": "1067756",
+    "nazwa": "Bieńkowa"
+  },
+  {
+    "idmiejscowosc": "0331257",
+    "nazwa": "Błachutowa"
+  },
+  {
+    "idmiejscowosc": "1067762",
+    "nazwa": "Bochniowa"
+  },
+  {
+    "idmiejscowosc": "1067779",
+    "nazwa": "Bodziochy"
+  },
+  {
+    "idmiejscowosc": "0330482",
+    "nazwa": "Bryle"
+  },
+  {
+    "idmiejscowosc": "0331263",
+    "nazwa": "Burtanowa"
+  },
+  {
+    "idmiejscowosc": "0331270",
+    "nazwa": "Bylicowa"
+  },
+  {
+    "idmiejscowosc": "1067785",
+    "nazwa": "Bystroniowa"
+  },
+  {
+    "idmiejscowosc": "0330571",
+    "nazwa": "Chabiedy"
+  },
+  {
+    "idmiejscowosc": "0329906",
+    "nazwa": "Chałupniki"
+  },
+  {
+    "idmiejscowosc": "0331286",
+    "nazwa": "Chorwatówka"
+  },
+  {
+    "idmiejscowosc": "0331292",
+    "nazwa": "Ciusiowa"
+  },
+  {
+    "idmiejscowosc": "0330631",
+    "nazwa": "Cupiny"
+  },
+  {
+    "idmiejscowosc": "1067791",
+    "nazwa": "Dolina"
+  },
+  {
+    "idmiejscowosc": "0329912",
+    "nazwa": "Druzgały"
+  },
+  {
+    "idmiejscowosc": "1067800",
+    "nazwa": "Dymakowa"
+  },
+  {
+    "idmiejscowosc": "0330298",
+    "nazwa": "Dyrdy"
+  },
+  {
+    "idmiejscowosc": "0329929",
+    "nazwa": "Dziadki"
+  },
+  {
+    "idmiejscowosc": "0330648",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0330200",
+    "nazwa": "Działy"
+  },
+  {
+    "idmiejscowosc": "0331300",
+    "nazwa": "Dziobkowa"
+  },
+  {
+    "idmiejscowosc": "1067816",
+    "nazwa": "Ferdasówka"
+  },
+  {
+    "idmiejscowosc": "0330654",
+    "nazwa": "Firkowo"
+  },
+  {
+    "idmiejscowosc": "0329935",
+    "nazwa": "Folusznikówka"
+  },
+  {
+    "idmiejscowosc": "1067822",
+    "nazwa": "Francuzowa"
+  },
+  {
+    "idmiejscowosc": "0329941",
+    "nazwa": "Gancarze"
+  },
+  {
+    "idmiejscowosc": "1067839",
+    "nazwa": "Garbieniowa"
+  },
+  {
+    "idmiejscowosc": "0330660",
+    "nazwa": "Gierczyno"
+  },
+  {
+    "idmiejscowosc": "0329958",
+    "nazwa": "Godawy"
+  },
+  {
+    "idmiejscowosc": "0331317",
+    "nazwa": "Gorylowa"
+  },
+  {
+    "idmiejscowosc": "1067845",
+    "nazwa": "Góreccy"
+  },
+  {
+    "idmiejscowosc": "0330677",
+    "nazwa": "Górniaki"
+  },
+  {
+    "idmiejscowosc": "0329964",
+    "nazwa": "Górzany"
+  },
+  {
+    "idmiejscowosc": "0331323",
+    "nazwa": "Grabkowa"
+  },
+  {
+    "idmiejscowosc": "0329970",
+    "nazwa": "Gracze"
+  },
+  {
+    "idmiejscowosc": "0329987",
+    "nazwa": "Gromki"
+  },
+  {
+    "idmiejscowosc": "0329993",
+    "nazwa": "Hajdamaki"
+  },
+  {
+    "idmiejscowosc": "0330683",
+    "nazwa": "Hajdukowo"
+  },
+  {
+    "idmiejscowosc": "0331330",
+    "nazwa": "Hodurkowa"
+  },
+  {
+    "idmiejscowosc": "1067851",
+    "nazwa": "Horwacikowa"
+  },
+  {
+    "idmiejscowosc": "0330690",
+    "nazwa": "Jamrozówka"
+  },
+  {
+    "idmiejscowosc": "0331346",
+    "nazwa": "Jaroszowo"
+  },
+  {
+    "idmiejscowosc": "1067868",
+    "nazwa": "Jasubowa"
+  },
+  {
+    "idmiejscowosc": "0330714",
+    "nazwa": "Jeleniowo"
+  },
+  {
+    "idmiejscowosc": "0330000",
+    "nazwa": "Jędrzejaki"
+  },
+  {
+    "idmiejscowosc": "0330720",
+    "nazwa": "Jopkowo"
+  },
+  {
+    "idmiejscowosc": "0330737",
+    "nazwa": "Kępa"
+  },
+  {
+    "idmiejscowosc": "0331352",
+    "nazwa": "Kęsoniowa"
+  },
+  {
+    "idmiejscowosc": "0330743",
+    "nazwa": "Klaklino"
+  },
+  {
+    "idmiejscowosc": "0330750",
+    "nazwa": "Klaklowo"
+  },
+  {
+    "idmiejscowosc": "0330766",
+    "nazwa": "Klimasy"
+  },
+  {
+    "idmiejscowosc": "0330772",
+    "nazwa": "Klubino"
+  },
+  {
+    "idmiejscowosc": "0330789",
+    "nazwa": "Klubowo"
+  },
+  {
+    "idmiejscowosc": "0330499",
+    "nazwa": "Kocury"
+  },
+  {
+    "idmiejscowosc": "0330016",
+    "nazwa": "Kolbiarze"
+  },
+  {
+    "idmiejscowosc": "0330312",
+    "nazwa": "Kolby"
+  },
+  {
+    "idmiejscowosc": "0330424",
+    "nazwa": "Kołki"
+  },
+  {
+    "idmiejscowosc": "0330022",
+    "nazwa": "Korzeniowscy"
+  },
+  {
+    "idmiejscowosc": "0330275",
+    "nazwa": "Kotoń"
+  },
+  {
+    "idmiejscowosc": "1067874",
+    "nazwa": "Kotuńszczówka"
+  },
+  {
+    "idmiejscowosc": "0331369",
+    "nazwa": "Kowalikowa"
+  },
+  {
+    "idmiejscowosc": "0331375",
+    "nazwa": "Kowalowa"
+  },
+  {
+    "idmiejscowosc": "0330795",
+    "nazwa": "Kowalowo"
+  },
+  {
+    "idmiejscowosc": "1067880",
+    "nazwa": "Kozaki za Lipinami"
+  },
+  {
+    "idmiejscowosc": "1067897",
+    "nazwa": "Kozaki za Tartakiem"
+  },
+  {
+    "idmiejscowosc": "0330039",
+    "nazwa": "Kozakówka"
+  },
+  {
+    "idmiejscowosc": "0330329",
+    "nazwa": "Koźmice"
+  },
+  {
+    "idmiejscowosc": "0330045",
+    "nazwa": "Krawcy"
+  },
+  {
+    "idmiejscowosc": "1067905",
+    "nazwa": "Krzystkowa"
+  },
+  {
+    "idmiejscowosc": "0330281",
+    "nazwa": "Krzywica"
+  },
+  {
+    "idmiejscowosc": "0330335",
+    "nazwa": "Kubice"
+  },
+  {
+    "idmiejscowosc": "1067911",
+    "nazwa": "Kubonie"
+  },
+  {
+    "idmiejscowosc": "0330588",
+    "nazwa": "Kuce"
+  },
+  {
+    "idmiejscowosc": "0330507",
+    "nazwa": "Kucharze"
+  },
+  {
+    "idmiejscowosc": "0330217",
+    "nazwa": "Kudłacze"
+  },
+  {
+    "idmiejscowosc": "0331381",
+    "nazwa": "Kuligowo"
+  },
+  {
+    "idmiejscowosc": "0330051",
+    "nazwa": "Kumosie"
+  },
+  {
+    "idmiejscowosc": "0330068",
+    "nazwa": "Leksandry"
+  },
+  {
+    "idmiejscowosc": "0331398",
+    "nazwa": "Leśniczówka"
+  },
+  {
+    "idmiejscowosc": "0331406",
+    "nazwa": "Ligęzy"
+  },
+  {
+    "idmiejscowosc": "0331412",
+    "nazwa": "Łatasowa"
+  },
+  {
+    "idmiejscowosc": "0330341",
+    "nazwa": "Łopaty"
+  },
+  {
+    "idmiejscowosc": "0330513",
+    "nazwa": "Łysina"
+  },
+  {
+    "idmiejscowosc": "0330430",
+    "nazwa": "Łyźniaki"
+  },
+  {
+    "idmiejscowosc": "0330074",
+    "nazwa": "Madoń"
+  },
+  {
+    "idmiejscowosc": "1067928",
+    "nazwa": "Malinowa"
+  },
+  {
+    "idmiejscowosc": "0330803",
+    "nazwa": "Mała Gromada"
+  },
+  {
+    "idmiejscowosc": "0330401",
+    "nazwa": "Mała Sucha"
+  },
+  {
+    "idmiejscowosc": "0330223",
+    "nazwa": "Małe Ulmany"
+  },
+  {
+    "idmiejscowosc": "0330080",
+    "nazwa": "Marchówka"
+  },
+  {
+    "idmiejscowosc": "0330230",
+    "nazwa": "Marszałki"
+  },
+  {
+    "idmiejscowosc": "0330810",
+    "nazwa": "Marytowo"
+  },
+  {
+    "idmiejscowosc": "0330447",
+    "nazwa": "Mastele"
+  },
+  {
+    "idmiejscowosc": "0331429",
+    "nazwa": "Matlakowa"
+  },
+  {
+    "idmiejscowosc": "1067934",
+    "nazwa": "Matysowa"
+  },
+  {
+    "idmiejscowosc": "0330826",
+    "nazwa": "Mądrowo"
+  },
+  {
+    "idmiejscowosc": "0330832",
+    "nazwa": "Mętelowo"
+  },
+  {
+    "idmiejscowosc": "0330849",
+    "nazwa": "Miłogoszcz"
+  },
+  {
+    "idmiejscowosc": "0330855",
+    "nazwa": "Mirkówka"
+  },
+  {
+    "idmiejscowosc": "0330861",
+    "nazwa": "Mirochnowo"
+  },
+  {
+    "idmiejscowosc": "0330358",
+    "nazwa": "Mizery"
+  },
+  {
+    "idmiejscowosc": "0330878",
+    "nazwa": "Mleczkowo"
+  },
+  {
+    "idmiejscowosc": "0331435",
+    "nazwa": "Młynarczykowa"
+  },
+  {
+    "idmiejscowosc": "0330884",
+    "nazwa": "Moskalowo"
+  },
+  {
+    "idmiejscowosc": "0330890",
+    "nazwa": "Mosnowo"
+  },
+  {
+    "idmiejscowosc": "0330909",
+    "nazwa": "Niedźwiedziowo"
+  },
+  {
+    "idmiejscowosc": "0330915",
+    "nazwa": "Niwa"
+  },
+  {
+    "idmiejscowosc": "0330921",
+    "nazwa": "Nychówka"
+  },
+  {
+    "idmiejscowosc": "0330364",
+    "nazwa": "Obajtki"
+  },
+  {
+    "idmiejscowosc": "0330520",
+    "nazwa": "Olejarze"
+  },
+  {
+    "idmiejscowosc": "0331441",
+    "nazwa": "Orawinowa"
+  },
+  {
+    "idmiejscowosc": "0330097",
+    "nazwa": "Ornaty"
+  },
+  {
+    "idmiejscowosc": "1067940",
+    "nazwa": "Oskwarkowa"
+  },
+  {
+    "idmiejscowosc": "1067957",
+    "nazwa": "Ostafinowa"
+  },
+  {
+    "idmiejscowosc": "0330105",
+    "nazwa": "Pabiski"
+  },
+  {
+    "idmiejscowosc": "0331458",
+    "nazwa": "Pabisowa"
+  },
+  {
+    "idmiejscowosc": "0330246",
+    "nazwa": "Padoły"
+  },
+  {
+    "idmiejscowosc": "1067963",
+    "nazwa": "Pańskie Pola"
+  },
+  {
+    "idmiejscowosc": "0330938",
+    "nazwa": "Paszkówka"
+  },
+  {
+    "idmiejscowosc": "0329898",
+    "nazwa": "Pcim"
+  },
+  {
+    "idmiejscowosc": "1067970",
+    "nazwa": "Pierony"
+  },
+  {
+    "idmiejscowosc": "0330111",
+    "nazwa": "Pieruniaki"
+  },
+  {
+    "idmiejscowosc": "0330453",
+    "nazwa": "Piszczki"
+  },
+  {
+    "idmiejscowosc": "0330944",
+    "nazwa": "Piszczkowo"
+  },
+  {
+    "idmiejscowosc": "0330950",
+    "nazwa": "Płaczkowo"
+  },
+  {
+    "idmiejscowosc": "0330967",
+    "nazwa": "Płoszczycowo"
+  },
+  {
+    "idmiejscowosc": "0330973",
+    "nazwa": "Pod Górą"
+  },
+  {
+    "idmiejscowosc": "1067986",
+    "nazwa": "Pod Kotoniem"
+  },
+  {
+    "idmiejscowosc": "0330980",
+    "nazwa": "Poddziele"
+  },
+  {
+    "idmiejscowosc": "1067992",
+    "nazwa": "Podkościół"
+  },
+  {
+    "idmiejscowosc": "0330536",
+    "nazwa": "Podłaty"
+  },
+  {
+    "idmiejscowosc": "1068000",
+    "nazwa": "Proszkówka"
+  },
+  {
+    "idmiejscowosc": "0330996",
+    "nazwa": "Protasowo"
+  },
+  {
+    "idmiejscowosc": "1068017",
+    "nazwa": "Psiarka"
+  },
+  {
+    "idmiejscowosc": "0330128",
+    "nazwa": "Raźniaki"
+  },
+  {
+    "idmiejscowosc": "0330134",
+    "nazwa": "Rejesty"
+  },
+  {
+    "idmiejscowosc": "0330140",
+    "nazwa": "Rogi"
+  },
+  {
+    "idmiejscowosc": "0331004",
+    "nazwa": "Rogowo"
+  },
+  {
+    "idmiejscowosc": "1068023",
+    "nazwa": "Rydzowa"
+  },
+  {
+    "idmiejscowosc": "0331010",
+    "nazwa": "Sekułowo"
+  },
+  {
+    "idmiejscowosc": "0331027",
+    "nazwa": "Siódmowo"
+  },
+  {
+    "idmiejscowosc": "0331464",
+    "nazwa": "Skrzeczkowa"
+  },
+  {
+    "idmiejscowosc": "1068030",
+    "nazwa": "Słowiaki"
+  },
+  {
+    "idmiejscowosc": "0331033",
+    "nazwa": "Słowikowo"
+  },
+  {
+    "idmiejscowosc": "0331040",
+    "nazwa": "Słowikówka"
+  },
+  {
+    "idmiejscowosc": "0330252",
+    "nazwa": "Solawy"
+  },
+  {
+    "idmiejscowosc": "1068046",
+    "nazwa": "Spórny"
+  },
+  {
+    "idmiejscowosc": "0331056",
+    "nazwa": "Spyrowo"
+  },
+  {
+    "idmiejscowosc": "0330157",
+    "nazwa": "Sragi"
+  },
+  {
+    "idmiejscowosc": "0331470",
+    "nazwa": "Stopkowa"
+  },
+  {
+    "idmiejscowosc": "0330163",
+    "nazwa": "Strączki"
+  },
+  {
+    "idmiejscowosc": "0330602",
+    "nazwa": "Stróża"
+  },
+  {
+    "idmiejscowosc": "0331487",
+    "nazwa": "Sufletowa"
+  },
+  {
+    "idmiejscowosc": "1068052",
+    "nazwa": "Sularzowa"
+  },
+  {
+    "idmiejscowosc": "0331062",
+    "nazwa": "Swachtowo"
+  },
+  {
+    "idmiejscowosc": "0330170",
+    "nazwa": "Szewcówka"
+  },
+  {
+    "idmiejscowosc": "0331079",
+    "nazwa": "Szustkowo"
+  },
+  {
+    "idmiejscowosc": "0331085",
+    "nazwa": "Śliwiakowo"
+  },
+  {
+    "idmiejscowosc": "0330476",
+    "nazwa": "Średnia Sucha"
+  },
+  {
+    "idmiejscowosc": "0330186",
+    "nazwa": "Świątki"
+  },
+  {
+    "idmiejscowosc": "0331091",
+    "nazwa": "Totowo"
+  },
+  {
+    "idmiejscowosc": "0331234",
+    "nazwa": "Trzebunia"
+  },
+  {
+    "idmiejscowosc": "0331100",
+    "nazwa": "Trzebunka"
+  },
+  {
+    "idmiejscowosc": "0330269",
+    "nazwa": "Tupty"
+  },
+  {
+    "idmiejscowosc": "0331116",
+    "nazwa": "Tyrpułowo"
+  },
+  {
+    "idmiejscowosc": "0330708",
+    "nazwa": "U Jazu"
+  },
+  {
+    "idmiejscowosc": "0330594",
+    "nazwa": "Uchacze"
+  },
+  {
+    "idmiejscowosc": "1068069",
+    "nazwa": "Waniówka"
+  },
+  {
+    "idmiejscowosc": "0331122",
+    "nazwa": "Wątorowo"
+  },
+  {
+    "idmiejscowosc": "0330559",
+    "nazwa": "Wielka Sucha"
+  },
+  {
+    "idmiejscowosc": "0330370",
+    "nazwa": "Wielkie Ulmany"
+  },
+  {
+    "idmiejscowosc": "0331139",
+    "nazwa": "Wierciakowo"
+  },
+  {
+    "idmiejscowosc": "0330542",
+    "nazwa": "Wincanty"
+  },
+  {
+    "idmiejscowosc": "0331145",
+    "nazwa": "Witkówka"
+  },
+  {
+    "idmiejscowosc": "0331493",
+    "nazwa": "Wnękowa"
+  },
+  {
+    "idmiejscowosc": "0331501",
+    "nazwa": "Woźnicowa"
+  },
+  {
+    "idmiejscowosc": "0331151",
+    "nazwa": "Wójcikowo"
+  },
+  {
+    "idmiejscowosc": "0331518",
+    "nazwa": "Wronowa"
+  },
+  {
+    "idmiejscowosc": "0330387",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0331168",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0331524",
+    "nazwa": "Zagrody Słoneczne"
+  },
+  {
+    "idmiejscowosc": "0331530",
+    "nazwa": "Zagrody Zapaczne"
+  },
+  {
+    "idmiejscowosc": "0331174",
+    "nazwa": "Zarabie"
+  },
+  {
+    "idmiejscowosc": "0330192",
+    "nazwa": "Zarębek Plebański"
+  },
+  {
+    "idmiejscowosc": "0331180",
+    "nazwa": "Zarębki"
+  },
+  {
+    "idmiejscowosc": "1068075",
+    "nazwa": "Ziajowa"
+  },
+  {
+    "idmiejscowosc": "0331197",
+    "nazwa": "Ziębowo"
+  },
+  {
+    "idmiejscowosc": "0330393",
+    "nazwa": "Zięby"
+  },
+  {
+    "idmiejscowosc": "0331205",
+    "nazwa": "Żabowo Dolne"
+  },
+  {
+    "idmiejscowosc": "0331211",
+    "nazwa": "Żabowo Górne"
+  },
+  {
+    "idmiejscowosc": "0331228",
+    "nazwa": "Żołądkowo"
+  }
+]

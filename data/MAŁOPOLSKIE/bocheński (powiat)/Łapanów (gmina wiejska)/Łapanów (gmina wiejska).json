@@ -1,0 +1,466 @@
+[
+  {
+    "idmiejscowosc": "0823575",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0822914",
+    "nazwa": "Boczów"
+  },
+  {
+    "idmiejscowosc": "0823262",
+    "nazwa": "Borówka"
+  },
+  {
+    "idmiejscowosc": "0823581",
+    "nazwa": "Brożkówka"
+  },
+  {
+    "idmiejscowosc": "0822943",
+    "nazwa": "Brzezowa"
+  },
+  {
+    "idmiejscowosc": "0823598",
+    "nazwa": "Budzyń"
+  },
+  {
+    "idmiejscowosc": "0823003",
+    "nazwa": "Chrostowa"
+  },
+  {
+    "idmiejscowosc": "0823055",
+    "nazwa": "Cichawka"
+  },
+  {
+    "idmiejscowosc": "0823606",
+    "nazwa": "Ciemiorka"
+  },
+  {
+    "idmiejscowosc": "0823612",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0823010",
+    "nazwa": "Dąbrowica"
+  },
+  {
+    "idmiejscowosc": "0823782",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0822920",
+    "nazwa": "Dłużyce"
+  },
+  {
+    "idmiejscowosc": "0823977",
+    "nazwa": "Dołki"
+  },
+  {
+    "idmiejscowosc": "0823279",
+    "nazwa": "Dworskie"
+  },
+  {
+    "idmiejscowosc": "0823061",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0823983",
+    "nazwa": "Filipówka"
+  },
+  {
+    "idmiejscowosc": "0823374",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0823865",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0823990",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0823121",
+    "nazwa": "Grabie"
+  },
+  {
+    "idmiejscowosc": "0823285",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0994360",
+    "nazwa": "Grobla"
+  },
+  {
+    "idmiejscowosc": "0823026",
+    "nazwa": "Grobla"
+  },
+  {
+    "idmiejscowosc": "0823629",
+    "nazwa": "Grójec"
+  },
+  {
+    "idmiejscowosc": "0823291",
+    "nazwa": "Janikówka"
+  },
+  {
+    "idmiejscowosc": "0822950",
+    "nazwa": "Jasienie"
+  },
+  {
+    "idmiejscowosc": "0823078",
+    "nazwa": "Kacza Góra"
+  },
+  {
+    "idmiejscowosc": "0823167",
+    "nazwa": "Kamyk"
+  },
+  {
+    "idmiejscowosc": "0823300",
+    "nazwa": "Kanada"
+  },
+  {
+    "idmiejscowosc": "0823210",
+    "nazwa": "Kępanów"
+  },
+  {
+    "idmiejscowosc": "0823256",
+    "nazwa": "Kobylec"
+  },
+  {
+    "idmiejscowosc": "0824008",
+    "nazwa": "Kolawa"
+  },
+  {
+    "idmiejscowosc": "0823635",
+    "nazwa": "Kolawa"
+  },
+  {
+    "idmiejscowosc": "0823032",
+    "nazwa": "Kopaliny"
+  },
+  {
+    "idmiejscowosc": "0823457",
+    "nazwa": "Kotówka"
+  },
+  {
+    "idmiejscowosc": "0823641",
+    "nazwa": "Lanckorona"
+  },
+  {
+    "idmiejscowosc": "0823380",
+    "nazwa": "Lorysówka"
+  },
+  {
+    "idmiejscowosc": "0823368",
+    "nazwa": "Lubomierz"
+  },
+  {
+    "idmiejscowosc": "0823440",
+    "nazwa": "Łapanów"
+  },
+  {
+    "idmiejscowosc": "0823397",
+    "nazwa": "Łąki"
+  },
+  {
+    "idmiejscowosc": "0823925",
+    "nazwa": "Łysa Góra"
+  },
+  {
+    "idmiejscowosc": "0823405",
+    "nazwa": "Mogilany"
+  },
+  {
+    "idmiejscowosc": "0823658",
+    "nazwa": "Mostki"
+  },
+  {
+    "idmiejscowosc": "0824014",
+    "nazwa": "Mostki"
+  },
+  {
+    "idmiejscowosc": "0823871",
+    "nazwa": "Na Dole"
+  },
+  {
+    "idmiejscowosc": "0823084",
+    "nazwa": "Na Dole"
+  },
+  {
+    "idmiejscowosc": "0823138",
+    "nazwa": "Niwa"
+  },
+  {
+    "idmiejscowosc": "0823664",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0823316",
+    "nazwa": "Nowy Świat"
+  },
+  {
+    "idmiejscowosc": "1000456",
+    "nazwa": "Osiedle Szkolne"
+  },
+  {
+    "idmiejscowosc": "0991692",
+    "nazwa": "Osowa"
+  },
+  {
+    "idmiejscowosc": "0991700",
+    "nazwa": "Pasternik"
+  },
+  {
+    "idmiejscowosc": "0823670",
+    "nazwa": "Pasternik"
+  },
+  {
+    "idmiejscowosc": "0822966",
+    "nazwa": "Pod Brzezową"
+  },
+  {
+    "idmiejscowosc": "0822972",
+    "nazwa": "Pod Gradowcem"
+  },
+  {
+    "idmiejscowosc": "0823227",
+    "nazwa": "Pod Lubomierzem"
+  },
+  {
+    "idmiejscowosc": "0991686",
+    "nazwa": "Pod Sikornicą"
+  },
+  {
+    "idmiejscowosc": "0823813",
+    "nazwa": "Pod Wierzchowiną"
+  },
+  {
+    "idmiejscowosc": "0824020",
+    "nazwa": "Podjasień"
+  },
+  {
+    "idmiejscowosc": "0823173",
+    "nazwa": "Podjawor"
+  },
+  {
+    "idmiejscowosc": "0823322",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0823411",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0823820",
+    "nazwa": "Podskale"
+  },
+  {
+    "idmiejscowosc": "0823931",
+    "nazwa": "Podwolica"
+  },
+  {
+    "idmiejscowosc": "0822989",
+    "nazwa": "Podworzec"
+  },
+  {
+    "idmiejscowosc": "0823523",
+    "nazwa": "Polanka"
+  },
+  {
+    "idmiejscowosc": "0823687",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0823049",
+    "nazwa": "Prędka"
+  },
+  {
+    "idmiejscowosc": "0824037",
+    "nazwa": "Przeginia"
+  },
+  {
+    "idmiejscowosc": "0823948",
+    "nazwa": "Przylaski"
+  },
+  {
+    "idmiejscowosc": "1000485",
+    "nazwa": "Pułanki"
+  },
+  {
+    "idmiejscowosc": "0823693",
+    "nazwa": "Pustka"
+  },
+  {
+    "idmiejscowosc": "1000491",
+    "nazwa": "Rogatka"
+  },
+  {
+    "idmiejscowosc": "0823836",
+    "nazwa": "Rogatka"
+  },
+  {
+    "idmiejscowosc": "0823701",
+    "nazwa": "Równie"
+  },
+  {
+    "idmiejscowosc": "0823470",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0823718",
+    "nazwa": "Salamonówka"
+  },
+  {
+    "idmiejscowosc": "0823144",
+    "nazwa": "Sicie"
+  },
+  {
+    "idmiejscowosc": "0823240",
+    "nazwa": "Sicie"
+  },
+  {
+    "idmiejscowosc": "0823546",
+    "nazwa": "Sieradzka"
+  },
+  {
+    "idmiejscowosc": "0823530",
+    "nazwa": "Sikornica"
+  },
+  {
+    "idmiejscowosc": "0822995",
+    "nazwa": "Skałka"
+  },
+  {
+    "idmiejscowosc": "0823724",
+    "nazwa": "Słotwina"
+  },
+  {
+    "idmiejscowosc": "0823492",
+    "nazwa": "Sobolów"
+  },
+  {
+    "idmiejscowosc": "0823730",
+    "nazwa": "Soślina"
+  },
+  {
+    "idmiejscowosc": "0823339",
+    "nazwa": "Syberia"
+  },
+  {
+    "idmiejscowosc": "0823345",
+    "nazwa": "Środek"
+  },
+  {
+    "idmiejscowosc": "0823799",
+    "nazwa": "Tabaki"
+  },
+  {
+    "idmiejscowosc": "0823569",
+    "nazwa": "Tarnawa"
+  },
+  {
+    "idmiejscowosc": "0823747",
+    "nazwa": "Trzecia Góra"
+  },
+  {
+    "idmiejscowosc": "0823776",
+    "nazwa": "Ubrzeż"
+  },
+  {
+    "idmiejscowosc": "0823888",
+    "nazwa": "W Brzezinie"
+  },
+  {
+    "idmiejscowosc": "0824043",
+    "nazwa": "Wapniska"
+  },
+  {
+    "idmiejscowosc": "0823894",
+    "nazwa": "Wesoła"
+  },
+  {
+    "idmiejscowosc": "0823090",
+    "nazwa": "Wichraż"
+  },
+  {
+    "idmiejscowosc": "0823753",
+    "nazwa": "Widermach"
+  },
+  {
+    "idmiejscowosc": "0823807",
+    "nazwa": "Wieruszyce"
+  },
+  {
+    "idmiejscowosc": "0823196",
+    "nazwa": "Wierzchowina"
+  },
+  {
+    "idmiejscowosc": "0823760",
+    "nazwa": "Wola"
+  },
+  {
+    "idmiejscowosc": "0823150",
+    "nazwa": "Wola Grabska"
+  },
+  {
+    "idmiejscowosc": "0823859",
+    "nazwa": "Wola Wieruszycka"
+  },
+  {
+    "idmiejscowosc": "0823902",
+    "nazwa": "Wolica"
+  },
+  {
+    "idmiejscowosc": "0823428",
+    "nazwa": "Wydarte"
+  },
+  {
+    "idmiejscowosc": "0823486",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0823842",
+    "nazwa": "Za Blichem"
+  },
+  {
+    "idmiejscowosc": "0823434",
+    "nazwa": "Za Debrzą"
+  },
+  {
+    "idmiejscowosc": "0823954",
+    "nazwa": "Za Dębiną"
+  },
+  {
+    "idmiejscowosc": "0823109",
+    "nazwa": "Za Działem"
+  },
+  {
+    "idmiejscowosc": "0823115",
+    "nazwa": "Za Folwarkiem"
+  },
+  {
+    "idmiejscowosc": "0824050",
+    "nazwa": "Zapagórcze"
+  },
+  {
+    "idmiejscowosc": "0823351",
+    "nazwa": "Zarębówka"
+  },
+  {
+    "idmiejscowosc": "0823204",
+    "nazwa": "Zarzecze"
+  },
+  {
+    "idmiejscowosc": "0822937",
+    "nazwa": "Zarzeka"
+  },
+  {
+    "idmiejscowosc": "0823960",
+    "nazwa": "Zbydniów"
+  },
+  {
+    "idmiejscowosc": "0823552",
+    "nazwa": "Zonia"
+  }
+]

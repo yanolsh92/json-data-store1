@@ -1,0 +1,434 @@
+[
+  {
+    "idmiejscowosc": "0266057",
+    "nazwa": "Antoniów"
+  },
+  {
+    "idmiejscowosc": "0265891",
+    "nazwa": "Arkuszów"
+  },
+  {
+    "idmiejscowosc": "0265164",
+    "nazwa": "Bardo"
+  },
+  {
+    "idmiejscowosc": "0265170",
+    "nazwa": "Bardo Dolne"
+  },
+  {
+    "idmiejscowosc": "0265187",
+    "nazwa": "Bardo Górne"
+  },
+  {
+    "idmiejscowosc": "0266005",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0265307",
+    "nazwa": "Celiny"
+  },
+  {
+    "idmiejscowosc": "0265313",
+    "nazwa": "Chańcza"
+  },
+  {
+    "idmiejscowosc": "0265827",
+    "nazwa": "Choiny Radostowskie"
+  },
+  {
+    "idmiejscowosc": "0266198",
+    "nazwa": "Czarna"
+  },
+  {
+    "idmiejscowosc": "0265566",
+    "nazwa": "Dąbrówka"
+  },
+  {
+    "idmiejscowosc": "0265359",
+    "nazwa": "Dębno"
+  },
+  {
+    "idmiejscowosc": "0265365",
+    "nazwa": "Drogowle"
+  },
+  {
+    "idmiejscowosc": "1017103",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0266270",
+    "nazwa": "Fąfara"
+  },
+  {
+    "idmiejscowosc": "1017110",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0265997",
+    "nazwa": "Głuchów"
+  },
+  {
+    "idmiejscowosc": "0265394",
+    "nazwa": "Głuchów-Lasy"
+  },
+  {
+    "idmiejscowosc": "0266146",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0265796",
+    "nazwa": "Górki Radostowskie"
+  },
+  {
+    "idmiejscowosc": "0265201",
+    "nazwa": "Grabiec"
+  },
+  {
+    "idmiejscowosc": "0266011",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0265589",
+    "nazwa": "Grodno"
+  },
+  {
+    "idmiejscowosc": "0265939",
+    "nazwa": "Grunwaldów"
+  },
+  {
+    "idmiejscowosc": "0265595",
+    "nazwa": "Igrzycznia"
+  },
+  {
+    "idmiejscowosc": "0265431",
+    "nazwa": "Jamno"
+  },
+  {
+    "idmiejscowosc": "0265900",
+    "nazwa": "Jedlonka"
+  },
+  {
+    "idmiejscowosc": "0265454",
+    "nazwa": "Józefów Rakowski"
+  },
+  {
+    "idmiejscowosc": "0266063",
+    "nazwa": "Kajetanów"
+  },
+  {
+    "idmiejscowosc": "0266152",
+    "nazwa": "Kierdony"
+  },
+  {
+    "idmiejscowosc": "0265916",
+    "nazwa": "Kinia"
+  },
+  {
+    "idmiejscowosc": "0265483",
+    "nazwa": "Korzenno"
+  },
+  {
+    "idmiejscowosc": "0265514",
+    "nazwa": "Koziel"
+  },
+  {
+    "idmiejscowosc": "0265320",
+    "nazwa": "Kresy"
+  },
+  {
+    "idmiejscowosc": "0265508",
+    "nazwa": "Krośle"
+  },
+  {
+    "idmiejscowosc": "0265678",
+    "nazwa": "Krzemionka"
+  },
+  {
+    "idmiejscowosc": "0266070",
+    "nazwa": "Laski"
+  },
+  {
+    "idmiejscowosc": "0266086",
+    "nazwa": "Leonów"
+  },
+  {
+    "idmiejscowosc": "1017126",
+    "nazwa": "Lipica"
+  },
+  {
+    "idmiejscowosc": "0265520",
+    "nazwa": "Lipiny"
+  },
+  {
+    "idmiejscowosc": "0265603",
+    "nazwa": "Łapigrosz"
+  },
+  {
+    "idmiejscowosc": "0265218",
+    "nazwa": "Łysa Góra"
+  },
+  {
+    "idmiejscowosc": "0265684",
+    "nazwa": "Madeje"
+  },
+  {
+    "idmiejscowosc": "0265224",
+    "nazwa": "Marianów"
+  },
+  {
+    "idmiejscowosc": "0265550",
+    "nazwa": "Mędrów"
+  },
+  {
+    "idmiejscowosc": "0265460",
+    "nazwa": "Mocha"
+  },
+  {
+    "idmiejscowosc": "0265230",
+    "nazwa": "Modrzewie"
+  },
+  {
+    "idmiejscowosc": "0266229",
+    "nazwa": "Modrzewina"
+  },
+  {
+    "idmiejscowosc": "0265690",
+    "nazwa": "Mokradle"
+  },
+  {
+    "idmiejscowosc": "0266206",
+    "nazwa": "Mokradle"
+  },
+  {
+    "idmiejscowosc": "0265572",
+    "nazwa": "Nowa Huta"
+  },
+  {
+    "idmiejscowosc": "0265537",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0265709",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0266235",
+    "nazwa": "Nowe Zalesie"
+  },
+  {
+    "idmiejscowosc": "0265371",
+    "nazwa": "Nowiny"
+  },
+  {
+    "idmiejscowosc": "0265945",
+    "nazwa": "Nowy Rembów"
+  },
+  {
+    "idmiejscowosc": "0265649",
+    "nazwa": "Ociesęki"
+  },
+  {
+    "idmiejscowosc": "0265715",
+    "nazwa": "Olszownica"
+  },
+  {
+    "idmiejscowosc": "0265750",
+    "nazwa": "Papiernia"
+  },
+  {
+    "idmiejscowosc": "1017132",
+    "nazwa": "Pastwiska"
+  },
+  {
+    "idmiejscowosc": "0265773",
+    "nazwa": "Pągowiec"
+  },
+  {
+    "idmiejscowosc": "0266028",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "1017149",
+    "nazwa": "Pod Klamką"
+  },
+  {
+    "idmiejscowosc": "0265336",
+    "nazwa": "Pod Łąkami"
+  },
+  {
+    "idmiejscowosc": "0265610",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0265951",
+    "nazwa": "Podgrodzie"
+  },
+  {
+    "idmiejscowosc": "0265490",
+    "nazwa": "Podkorzenno"
+  },
+  {
+    "idmiejscowosc": "0265342",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0265253",
+    "nazwa": "Podsadkowie"
+  },
+  {
+    "idmiejscowosc": "0265402",
+    "nazwa": "Podwale"
+  },
+  {
+    "idmiejscowosc": "0266034",
+    "nazwa": "Podwąsosie"
+  },
+  {
+    "idmiejscowosc": "0266092",
+    "nazwa": "Podzalesie"
+  },
+  {
+    "idmiejscowosc": "0266241",
+    "nazwa": "Poręba"
+  },
+  {
+    "idmiejscowosc": "0265856",
+    "nazwa": "Przedmieście-Radostów"
+  },
+  {
+    "idmiejscowosc": "0265626",
+    "nazwa": "Przymiarek"
+  },
+  {
+    "idmiejscowosc": "0266169",
+    "nazwa": "Przymiarki"
+  },
+  {
+    "idmiejscowosc": "1017155",
+    "nazwa": "Psikora"
+  },
+  {
+    "idmiejscowosc": "0265780",
+    "nazwa": "Pułaczów"
+  },
+  {
+    "idmiejscowosc": "0265810",
+    "nazwa": "Radostów"
+  },
+  {
+    "idmiejscowosc": "0265879",
+    "nazwa": "Raków"
+  },
+  {
+    "idmiejscowosc": "0265885",
+    "nazwa": "Rakówka"
+  },
+  {
+    "idmiejscowosc": "0265477",
+    "nazwa": "Rakówki"
+  },
+  {
+    "idmiejscowosc": "0265922",
+    "nazwa": "Rembów"
+  },
+  {
+    "idmiejscowosc": "0265862",
+    "nazwa": "Rogatka"
+  },
+  {
+    "idmiejscowosc": "0265388",
+    "nazwa": "Ruda"
+  },
+  {
+    "idmiejscowosc": "0265804",
+    "nazwa": "Skrzynki"
+  },
+  {
+    "idmiejscowosc": "0265980",
+    "nazwa": "Smyków"
+  },
+  {
+    "idmiejscowosc": "0265721",
+    "nazwa": "Stara Huta"
+  },
+  {
+    "idmiejscowosc": "0265543",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0266258",
+    "nazwa": "Stare Zalesie"
+  },
+  {
+    "idmiejscowosc": "0265974",
+    "nazwa": "Stary Rembów"
+  },
+  {
+    "idmiejscowosc": "0265419",
+    "nazwa": "Stawki"
+  },
+  {
+    "idmiejscowosc": "0265260",
+    "nazwa": "Stawy"
+  },
+  {
+    "idmiejscowosc": "0265738",
+    "nazwa": "Sterczyzna"
+  },
+  {
+    "idmiejscowosc": "0266040",
+    "nazwa": "Szumsko"
+  },
+  {
+    "idmiejscowosc": "0266123",
+    "nazwa": "Szumsko-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0265276",
+    "nazwa": "Ugory"
+  },
+  {
+    "idmiejscowosc": "0265744",
+    "nazwa": "Wąkopy"
+  },
+  {
+    "idmiejscowosc": "0266117",
+    "nazwa": "Wilcza Góra"
+  },
+  {
+    "idmiejscowosc": "0266175",
+    "nazwa": "Wiszowiec"
+  },
+  {
+    "idmiejscowosc": "0266130",
+    "nazwa": "Wola Wąkopna"
+  },
+  {
+    "idmiejscowosc": "0265425",
+    "nazwa": "Wólka"
+  },
+  {
+    "idmiejscowosc": "0266181",
+    "nazwa": "Wólka Pokłonna"
+  },
+  {
+    "idmiejscowosc": "0265299",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0265632",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0266212",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "1017178",
+    "nazwa": "Zapole"
+  },
+  {
+    "idmiejscowosc": "0266264",
+    "nazwa": "Życiny"
+  }
+]

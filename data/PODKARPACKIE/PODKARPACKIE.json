@@ -1,0 +1,127 @@
+[
+  {
+    "idpowiat": "01",
+    "nazwa": "bieszczadzki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "02",
+    "nazwa": "brzozowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "03",
+    "nazwa": "dębicki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "04",
+    "nazwa": "jarosławski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "05",
+    "nazwa": "jasielski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "06",
+    "nazwa": "kolbuszowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "07",
+    "nazwa": "krośnieński",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "21",
+    "nazwa": "leski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "08",
+    "nazwa": "leżajski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "09",
+    "nazwa": "lubaczowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "10",
+    "nazwa": "łańcucki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "11",
+    "nazwa": "mielecki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "12",
+    "nazwa": "niżański",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "13",
+    "nazwa": "przemyski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "14",
+    "nazwa": "przeworski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "15",
+    "nazwa": "ropczycko-sędziszowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "16",
+    "nazwa": "rzeszowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "17",
+    "nazwa": "sanocki",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "18",
+    "nazwa": "stalowowolski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "19",
+    "nazwa": "strzyżowski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "20",
+    "nazwa": "tarnobrzeski",
+    "nazwadod": "powiat"
+  },
+  {
+    "idpowiat": "61",
+    "nazwa": "Krosno",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "62",
+    "nazwa": "Przemyśl",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "63",
+    "nazwa": "Rzeszów",
+    "nazwadod": "miasto na prawach powiatu"
+  },
+  {
+    "idpowiat": "64",
+    "nazwa": "Tarnobrzeg",
+    "nazwadod": "miasto na prawach powiatu"
+  }
+]

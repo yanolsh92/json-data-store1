@@ -1,0 +1,874 @@
+[
+  {
+    "idmiejscowosc": "0428560",
+    "nazwa": "Babiarzówka"
+  },
+  {
+    "idmiejscowosc": "0426727",
+    "nazwa": "Bajorki"
+  },
+  {
+    "idmiejscowosc": "0428695",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0426905",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0427537",
+    "nazwa": "Barbarzaki"
+  },
+  {
+    "idmiejscowosc": "0426911",
+    "nazwa": "Bąkowiec"
+  },
+  {
+    "idmiejscowosc": "0428873",
+    "nazwa": "Berdechów"
+  },
+  {
+    "idmiejscowosc": "0426710",
+    "nazwa": "Biała Niżna"
+  },
+  {
+    "idmiejscowosc": "0426928",
+    "nazwa": "Bielanka"
+  },
+  {
+    "idmiejscowosc": "0427193",
+    "nazwa": "Binczarki"
+  },
+  {
+    "idmiejscowosc": "0426822",
+    "nazwa": "Binczarowa"
+  },
+  {
+    "idmiejscowosc": "0428117",
+    "nazwa": "Błazkówka"
+  },
+  {
+    "idmiejscowosc": "0428123",
+    "nazwa": "Brzegówka"
+  },
+  {
+    "idmiejscowosc": "0426934",
+    "nazwa": "Brzeski"
+  },
+  {
+    "idmiejscowosc": "0426800",
+    "nazwa": "Brzezie"
+  },
+  {
+    "idmiejscowosc": "0428130",
+    "nazwa": "Bucze Niżne"
+  },
+  {
+    "idmiejscowosc": "0428146",
+    "nazwa": "Bucze Wyżne"
+  },
+  {
+    "idmiejscowosc": "0428880",
+    "nazwa": "Bugaj"
+  },
+  {
+    "idmiejscowosc": "0426851",
+    "nazwa": "Chodorowa"
+  },
+  {
+    "idmiejscowosc": "0426897",
+    "nazwa": "Cieniawa"
+  },
+  {
+    "idmiejscowosc": "0428152",
+    "nazwa": "Cieniawka"
+  },
+  {
+    "idmiejscowosc": "0427543",
+    "nazwa": "Cierniakówka"
+  },
+  {
+    "idmiejscowosc": "0427550",
+    "nazwa": "Czerwonki"
+  },
+  {
+    "idmiejscowosc": "0426940",
+    "nazwa": "Ćwierć"
+  },
+  {
+    "idmiejscowosc": "0427566",
+    "nazwa": "Danielówka"
+  },
+  {
+    "idmiejscowosc": "0428169",
+    "nazwa": "Do Leśnych"
+  },
+  {
+    "idmiejscowosc": "0427572",
+    "nazwa": "Do Michałowskich"
+  },
+  {
+    "idmiejscowosc": "0427916",
+    "nazwa": "Do Młyna"
+  },
+  {
+    "idmiejscowosc": "0428643",
+    "nazwa": "Dolinki"
+  },
+  {
+    "idmiejscowosc": "0427307",
+    "nazwa": "Dorolówka"
+  },
+  {
+    "idmiejscowosc": "0427313",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0427589",
+    "nazwa": "Durlakówka"
+  },
+  {
+    "idmiejscowosc": "0426957",
+    "nazwa": "Dworskie"
+  },
+  {
+    "idmiejscowosc": "0427968",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0427595",
+    "nazwa": "Działek"
+  },
+  {
+    "idmiejscowosc": "0426963",
+    "nazwa": "Działek"
+  },
+  {
+    "idmiejscowosc": "0427187",
+    "nazwa": "Florynka"
+  },
+  {
+    "idmiejscowosc": "0427603",
+    "nazwa": "Gawłówka"
+  },
+  {
+    "idmiejscowosc": "0427320",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0428577",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0426970",
+    "nazwa": "Góraki"
+  },
+  {
+    "idmiejscowosc": "0428181",
+    "nazwa": "Górkówka"
+  },
+  {
+    "idmiejscowosc": "0426740",
+    "nazwa": "Grabna"
+  },
+  {
+    "idmiejscowosc": "0428198",
+    "nazwa": "Grałkówka"
+  },
+  {
+    "idmiejscowosc": "0427336",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0426816",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0427922",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0427939",
+    "nazwa": "Gromnik"
+  },
+  {
+    "idmiejscowosc": "0427299",
+    "nazwa": "Gródek"
+  },
+  {
+    "idmiejscowosc": "0428206",
+    "nazwa": "Gryblówka"
+  },
+  {
+    "idmiejscowosc": "0427610",
+    "nazwa": "Gurbówka"
+  },
+  {
+    "idmiejscowosc": "0428583",
+    "nazwa": "Huchałówka"
+  },
+  {
+    "idmiejscowosc": "0428212",
+    "nazwa": "Janczakówka"
+  },
+  {
+    "idmiejscowosc": "0428229",
+    "nazwa": "Jeleniówka"
+  },
+  {
+    "idmiejscowosc": "0428590",
+    "nazwa": "Kamera-Wieś"
+  },
+  {
+    "idmiejscowosc": "0427974",
+    "nazwa": "Karczemne Niżne"
+  },
+  {
+    "idmiejscowosc": "0427980",
+    "nazwa": "Karczemne Wyżne"
+  },
+  {
+    "idmiejscowosc": "0427997",
+    "nazwa": "Karczyska"
+  },
+  {
+    "idmiejscowosc": "0426986",
+    "nazwa": "Karczyska"
+  },
+  {
+    "idmiejscowosc": "0427626",
+    "nazwa": "Karolówka"
+  },
+  {
+    "idmiejscowosc": "0427520",
+    "nazwa": "Kąclowa"
+  },
+  {
+    "idmiejscowosc": "0427632",
+    "nazwa": "Kmakówka"
+  },
+  {
+    "idmiejscowosc": "0427342",
+    "nazwa": "Kochanówka"
+  },
+  {
+    "idmiejscowosc": "0428235",
+    "nazwa": "Kogutówka"
+  },
+  {
+    "idmiejscowosc": "0426756",
+    "nazwa": "Kogutówka"
+  },
+  {
+    "idmiejscowosc": "0427649",
+    "nazwa": "Kopce"
+  },
+  {
+    "idmiejscowosc": "0427359",
+    "nazwa": "Kopernakówka"
+  },
+  {
+    "idmiejscowosc": "0427365",
+    "nazwa": "Koszykówka"
+  },
+  {
+    "idmiejscowosc": "0427900",
+    "nazwa": "Krużlowa Niżna"
+  },
+  {
+    "idmiejscowosc": "0427951",
+    "nazwa": "Krużlowa Wyżna"
+  },
+  {
+    "idmiejscowosc": "0426992",
+    "nazwa": "Kućmy"
+  },
+  {
+    "idmiejscowosc": "0427655",
+    "nazwa": "Kuligówka"
+  },
+  {
+    "idmiejscowosc": "0427000",
+    "nazwa": "Ligęzówka"
+  },
+  {
+    "idmiejscowosc": "0428241",
+    "nazwa": "Lipie"
+  },
+  {
+    "idmiejscowosc": "0427371",
+    "nazwa": "Liszkówka"
+  },
+  {
+    "idmiejscowosc": "0426868",
+    "nazwa": "Łany"
+  },
+  {
+    "idmiejscowosc": "0427388",
+    "nazwa": "Łazki"
+  },
+  {
+    "idmiejscowosc": "0427661",
+    "nazwa": "Matołówka"
+  },
+  {
+    "idmiejscowosc": "0428614",
+    "nazwa": "Matołówka"
+  },
+  {
+    "idmiejscowosc": "0427678",
+    "nazwa": "Matoły"
+  },
+  {
+    "idmiejscowosc": "0427394",
+    "nazwa": "Matusikówka"
+  },
+  {
+    "idmiejscowosc": "0428258",
+    "nazwa": "Matusówka"
+  },
+  {
+    "idmiejscowosc": "0428264",
+    "nazwa": "Michalikówka"
+  },
+  {
+    "idmiejscowosc": "0427402",
+    "nazwa": "Michałówka"
+  },
+  {
+    "idmiejscowosc": "0427684",
+    "nazwa": "Międzyłącze"
+  },
+  {
+    "idmiejscowosc": "0428270",
+    "nazwa": "Młynarzówka"
+  },
+  {
+    "idmiejscowosc": "0427419",
+    "nazwa": "Molówka"
+  },
+  {
+    "idmiejscowosc": "0428608",
+    "nazwa": "Molówka"
+  },
+  {
+    "idmiejscowosc": "0427425",
+    "nazwa": "Morańdówka"
+  },
+  {
+    "idmiejscowosc": "0427945",
+    "nazwa": "Mosteczna"
+  },
+  {
+    "idmiejscowosc": "0427690",
+    "nazwa": "Motykówka"
+  },
+  {
+    "idmiejscowosc": "0428287",
+    "nazwa": "Muchówka"
+  },
+  {
+    "idmiejscowosc": "0428293",
+    "nazwa": "Myziówka"
+  },
+  {
+    "idmiejscowosc": "0427017",
+    "nazwa": "Na Drodze"
+  },
+  {
+    "idmiejscowosc": "0427023",
+    "nazwa": "Na Garbach"
+  },
+  {
+    "idmiejscowosc": "0427030",
+    "nazwa": "Na Pólku"
+  },
+  {
+    "idmiejscowosc": "0428301",
+    "nazwa": "Na Wygonie"
+  },
+  {
+    "idmiejscowosc": "0428318",
+    "nazwa": "Nad Browarem"
+  },
+  {
+    "idmiejscowosc": "0427709",
+    "nazwa": "Nalepówka"
+  },
+  {
+    "idmiejscowosc": "0428324",
+    "nazwa": "Niżny Pagórek"
+  },
+  {
+    "idmiejscowosc": "0428703",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0427046",
+    "nazwa": "Obla"
+  },
+  {
+    "idmiejscowosc": "0427431",
+    "nazwa": "Obrzutówka"
+  },
+  {
+    "idmiejscowosc": "0427715",
+    "nazwa": "Od Grybla"
+  },
+  {
+    "idmiejscowosc": "0428005",
+    "nazwa": "Osików"
+  },
+  {
+    "idmiejscowosc": "0428620",
+    "nazwa": "Osików"
+  },
+  {
+    "idmiejscowosc": "0427448",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0428330",
+    "nazwa": "Palaczkówka"
+  },
+  {
+    "idmiejscowosc": "0428347",
+    "nazwa": "Pałubówka"
+  },
+  {
+    "idmiejscowosc": "0428637",
+    "nazwa": "Pańskie"
+  },
+  {
+    "idmiejscowosc": "0428353",
+    "nazwa": "Pawlakówka"
+  },
+  {
+    "idmiejscowosc": "0428360",
+    "nazwa": "Pawłówka"
+  },
+  {
+    "idmiejscowosc": "0428376",
+    "nazwa": "Pelusiówka"
+  },
+  {
+    "idmiejscowosc": "0428650",
+    "nazwa": "Piekiełko"
+  },
+  {
+    "idmiejscowosc": "0427721",
+    "nazwa": "Placusie"
+  },
+  {
+    "idmiejscowosc": "0428844",
+    "nazwa": "Pod Brunarami"
+  },
+  {
+    "idmiejscowosc": "0426762",
+    "nazwa": "Pod Dębami"
+  },
+  {
+    "idmiejscowosc": "0427738",
+    "nazwa": "Pod Dębiną"
+  },
+  {
+    "idmiejscowosc": "0427052",
+    "nazwa": "Pod Gościńcem"
+  },
+  {
+    "idmiejscowosc": "0427744",
+    "nazwa": "Pod Kawiorami"
+  },
+  {
+    "idmiejscowosc": "0427201",
+    "nazwa": "Pod Kiczorą"
+  },
+  {
+    "idmiejscowosc": "0427218",
+    "nazwa": "Pod Kiczorką"
+  },
+  {
+    "idmiejscowosc": "0427750",
+    "nazwa": "Pod Madynianką"
+  },
+  {
+    "idmiejscowosc": "0427224",
+    "nazwa": "Pod Polanami"
+  },
+  {
+    "idmiejscowosc": "0428382",
+    "nazwa": "Pod Świnką"
+  },
+  {
+    "idmiejscowosc": "0427230",
+    "nazwa": "Pod Wawrzką"
+  },
+  {
+    "idmiejscowosc": "0426839",
+    "nazwa": "Pod Zalarką"
+  },
+  {
+    "idmiejscowosc": "0427891",
+    "nazwa": "Podchełmie"
+  },
+  {
+    "idmiejscowosc": "0428399",
+    "nazwa": "Poddziale"
+  },
+  {
+    "idmiejscowosc": "0428011",
+    "nazwa": "Poddziale"
+  },
+  {
+    "idmiejscowosc": "0427069",
+    "nazwa": "Podedworze"
+  },
+  {
+    "idmiejscowosc": "0428407",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0428710",
+    "nazwa": "Podgranice"
+  },
+  {
+    "idmiejscowosc": "0427454",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0427075",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0427081",
+    "nazwa": "Podleszcze"
+  },
+  {
+    "idmiejscowosc": "0427098",
+    "nazwa": "Podpołudnie"
+  },
+  {
+    "idmiejscowosc": "0428057",
+    "nazwa": "Polna"
+  },
+  {
+    "idmiejscowosc": "0427106",
+    "nazwa": "Porębówka"
+  },
+  {
+    "idmiejscowosc": "0428726",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0428028",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0426874",
+    "nazwa": "Półanek"
+  },
+  {
+    "idmiejscowosc": "0428413",
+    "nazwa": "Pruskówka"
+  },
+  {
+    "idmiejscowosc": "0427247",
+    "nazwa": "Przebudowa"
+  },
+  {
+    "idmiejscowosc": "0428420",
+    "nazwa": "Przylesie"
+  },
+  {
+    "idmiejscowosc": "0427112",
+    "nazwa": "Psiarki"
+  },
+  {
+    "idmiejscowosc": "0428100",
+    "nazwa": "Ptaszkowa"
+  },
+  {
+    "idmiejscowosc": "0427253",
+    "nazwa": "Radówka"
+  },
+  {
+    "idmiejscowosc": "0427767",
+    "nazwa": "Radziaki"
+  },
+  {
+    "idmiejscowosc": "0427460",
+    "nazwa": "Role"
+  },
+  {
+    "idmiejscowosc": "0428436",
+    "nazwa": "Rolówka"
+  },
+  {
+    "idmiejscowosc": "0427773",
+    "nazwa": "Romankówka"
+  },
+  {
+    "idmiejscowosc": "0428034",
+    "nazwa": "Równia"
+  },
+  {
+    "idmiejscowosc": "0426779",
+    "nazwa": "Równie"
+  },
+  {
+    "idmiejscowosc": "0427129",
+    "nazwa": "Rzeki"
+  },
+  {
+    "idmiejscowosc": "0428442",
+    "nazwa": "Sadówka"
+  },
+  {
+    "idmiejscowosc": "0428459",
+    "nazwa": "Siedlarze"
+  },
+  {
+    "idmiejscowosc": "0428554",
+    "nazwa": "Siołkowa"
+  },
+  {
+    "idmiejscowosc": "0427135",
+    "nazwa": "Skowronki"
+  },
+  {
+    "idmiejscowosc": "0427780",
+    "nazwa": "Skrabówka"
+  },
+  {
+    "idmiejscowosc": "0426791",
+    "nazwa": "Słopna"
+  },
+  {
+    "idmiejscowosc": "0427477",
+    "nazwa": "Sołtysie"
+  },
+  {
+    "idmiejscowosc": "0428063",
+    "nazwa": "Spisak"
+  },
+  {
+    "idmiejscowosc": "0428850",
+    "nazwa": "Spod Chełmu"
+  },
+  {
+    "idmiejscowosc": "0426845",
+    "nazwa": "Spod Madynianki"
+  },
+  {
+    "idmiejscowosc": "0428689",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0428732",
+    "nazwa": "Starowiejskie"
+  },
+  {
+    "idmiejscowosc": "0427141",
+    "nazwa": "Stolarzówka"
+  },
+  {
+    "idmiejscowosc": "0428778",
+    "nazwa": "Stróże"
+  },
+  {
+    "idmiejscowosc": "0428784",
+    "nazwa": "Stróże Niżne"
+  },
+  {
+    "idmiejscowosc": "0428790",
+    "nazwa": "Stróże Wyżne"
+  },
+  {
+    "idmiejscowosc": "0428666",
+    "nazwa": "Strzylawki"
+  },
+  {
+    "idmiejscowosc": "0428749",
+    "nazwa": "Strzylawki"
+  },
+  {
+    "idmiejscowosc": "0428465",
+    "nazwa": "Synowcówka"
+  },
+  {
+    "idmiejscowosc": "0427483",
+    "nazwa": "Syskówka"
+  },
+  {
+    "idmiejscowosc": "0428070",
+    "nazwa": "Szerokie"
+  },
+  {
+    "idmiejscowosc": "0427796",
+    "nazwa": "Szyszkówka"
+  },
+  {
+    "idmiejscowosc": "0427804",
+    "nazwa": "Święsówka"
+  },
+  {
+    "idmiejscowosc": "0427810",
+    "nazwa": "Tomaszkówka"
+  },
+  {
+    "idmiejscowosc": "0428896",
+    "nazwa": "W Granicach"
+  },
+  {
+    "idmiejscowosc": "0997000",
+    "nazwa": "W Potokach"
+  },
+  {
+    "idmiejscowosc": "0428471",
+    "nazwa": "Warchałówka"
+  },
+  {
+    "idmiejscowosc": "0428838",
+    "nazwa": "Wawrzka"
+  },
+  {
+    "idmiejscowosc": "0428755",
+    "nazwa": "Węglarnia"
+  },
+  {
+    "idmiejscowosc": "0428040",
+    "nazwa": "Widomia"
+  },
+  {
+    "idmiejscowosc": "0427158",
+    "nazwa": "Wierchowina"
+  },
+  {
+    "idmiejscowosc": "0428488",
+    "nazwa": "Wojciakówka"
+  },
+  {
+    "idmiejscowosc": "0427490",
+    "nazwa": "Wolakówka"
+  },
+  {
+    "idmiejscowosc": "0427260",
+    "nazwa": "Wołoszczyny"
+  },
+  {
+    "idmiejscowosc": "0428494",
+    "nazwa": "Wronówka"
+  },
+  {
+    "idmiejscowosc": "0427508",
+    "nazwa": "Wygoniska"
+  },
+  {
+    "idmiejscowosc": "0428086",
+    "nazwa": "Wygony"
+  },
+  {
+    "idmiejscowosc": "0427827",
+    "nazwa": "Wygońskie"
+  },
+  {
+    "idmiejscowosc": "0428502",
+    "nazwa": "Wyrąb"
+  },
+  {
+    "idmiejscowosc": "0428809",
+    "nazwa": "Wyskidzianki"
+  },
+  {
+    "idmiejscowosc": "0428867",
+    "nazwa": "Wyskitna"
+  },
+  {
+    "idmiejscowosc": "0427833",
+    "nazwa": "Wystranka"
+  },
+  {
+    "idmiejscowosc": "0428761",
+    "nazwa": "Wyżna Wieś"
+  },
+  {
+    "idmiejscowosc": "0428519",
+    "nazwa": "Wyżny Pagórek"
+  },
+  {
+    "idmiejscowosc": "0427840",
+    "nazwa": "Z Potoka"
+  },
+  {
+    "idmiejscowosc": "0427276",
+    "nazwa": "Za Białą"
+  },
+  {
+    "idmiejscowosc": "0427856",
+    "nazwa": "Za Działem"
+  },
+  {
+    "idmiejscowosc": "0427862",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0427879",
+    "nazwa": "Za Ogrodem"
+  },
+  {
+    "idmiejscowosc": "0428525",
+    "nazwa": "Za Potoczkiem"
+  },
+  {
+    "idmiejscowosc": "0428092",
+    "nazwa": "Zadziele"
+  },
+  {
+    "idmiejscowosc": "0428531",
+    "nazwa": "Zadziele"
+  },
+  {
+    "idmiejscowosc": "0428672",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0427514",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0428815",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0426880",
+    "nazwa": "Zamłynie"
+  },
+  {
+    "idmiejscowosc": "0427164",
+    "nazwa": "Zarębka"
+  },
+  {
+    "idmiejscowosc": "0427282",
+    "nazwa": "Zawodzie"
+  },
+  {
+    "idmiejscowosc": "0426785",
+    "nazwa": "Zawodzie"
+  },
+  {
+    "idmiejscowosc": "0428821",
+    "nazwa": "Zawodzie"
+  },
+  {
+    "idmiejscowosc": "0427170",
+    "nazwa": "Ząbry"
+  },
+  {
+    "idmiejscowosc": "0428548",
+    "nazwa": "Ziółkówka"
+  },
+  {
+    "idmiejscowosc": "0427885",
+    "nazwa": "Zza Ławek"
+  }
+]

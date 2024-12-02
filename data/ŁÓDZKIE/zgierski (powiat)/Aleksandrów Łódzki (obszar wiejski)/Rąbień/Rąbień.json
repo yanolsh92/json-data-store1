@@ -1,0 +1,372 @@
+[
+  {
+    "idulica": "00148",
+    "nazwa": "Agrestowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00225",
+    "nazwa": "Aleksandrowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00246",
+    "nazwa": "Altanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00275",
+    "nazwa": "Ananasowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00448",
+    "nazwa": "Aroniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00670",
+    "nazwa": "Bananowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01224",
+    "nazwa": "Biedronkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01528",
+    "nazwa": "Boczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01876",
+    "nazwa": "Borsucza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02054",
+    "nazwa": "Bratka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03376",
+    "nazwa": "Czereśniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03782",
+    "nazwa": "Deszczowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04446",
+    "nazwa": "Dworska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04518",
+    "nazwa": "Dynamiczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04572",
+    "nazwa": "Działkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04913",
+    "nazwa": "Fasolowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04981",
+    "nazwa": "Figowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05109",
+    "nazwa": "Folwarczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05169",
+    "nazwa": "Fraszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06637",
+    "nazwa": "Hetmańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06669",
+    "nazwa": "Hiszpańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07059",
+    "nazwa": "Jagodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07699",
+    "nazwa": "Jutrzenki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07860",
+    "nazwa": "Kameliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08772",
+    "nazwa": "Kokosowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09546",
+    "nazwa": "Kościelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09898",
+    "nazwa": "Krecia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09925",
+    "nazwa": "Kręta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10966",
+    "nazwa": "Letnia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10972",
+    "nazwa": "Letniskowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11218",
+    "nazwa": "Liściasta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11174",
+    "nazwa": "Lisia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43535",
+    "nazwa": "Księdza Kanonika Andrzeja Mikołajczyka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12972",
+    "nazwa": "Mimozy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13211",
+    "nazwa": "Mokra",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14264",
+    "nazwa": "Niska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14824",
+    "nazwa": "Ogórkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14907",
+    "nazwa": "Okrężna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15590",
+    "nazwa": "Pałacowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15648",
+    "nazwa": "Pańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29374",
+    "nazwa": "Pasikonika",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17073",
+    "nazwa": "Pomarańczowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17390",
+    "nazwa": "Poziomkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17531",
+    "nazwa": "Promienista",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18725",
+    "nazwa": "Rodzinna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18791",
+    "nazwa": "Rojna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18830",
+    "nazwa": "Romanowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "42679",
+    "nazwa": "Rondo Niepodległości",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "57157",
+    "nazwa": "Rondo Praw Kobiet",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "19178",
+    "nazwa": "Rybna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19186",
+    "nazwa": "Rycerska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19802",
+    "nazwa": "Sielska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20294",
+    "nazwa": "Słowiańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21227",
+    "nazwa": "Stokrotki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21489",
+    "nazwa": "Sucha",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "30469",
+    "nazwa": "Szaraka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21961",
+    "nazwa": "Szklarniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21970",
+    "nazwa": "Szkolna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21985",
+    "nazwa": "Szlachecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23299",
+    "nazwa": "Uczniowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23329",
+    "nazwa": "Ukryta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23434",
+    "nazwa": "Ustronna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24170",
+    "nazwa": "Wierzbowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24210",
+    "nazwa": "Wiewiórki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24412",
+    "nazwa": "Wiśniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24694",
+    "nazwa": "Wolska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24957",
+    "nazwa": "Wycieczkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25067",
+    "nazwa": "Wysoka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26367",
+    "nazwa": "Żabia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25427",
+    "nazwa": "Zajęcza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26394",
+    "nazwa": "Żaków",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25547",
+    "nazwa": "Zamkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26122",
+    "nazwa": "Ziemiańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26553",
+    "nazwa": "Żucza",
+    "rodzaj": "ul."
+  }
+]

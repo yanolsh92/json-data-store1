@@ -1,0 +1,482 @@
+[
+  {
+    "idmiejscowosc": "0456668",
+    "nazwa": "Banachy"
+  },
+  {
+    "idmiejscowosc": "0456674",
+    "nazwa": "Bastówka"
+  },
+  {
+    "idmiejscowosc": "0455901",
+    "nazwa": "Bednarze"
+  },
+  {
+    "idmiejscowosc": "0455918",
+    "nazwa": "Bekacze"
+  },
+  {
+    "idmiejscowosc": "0456680",
+    "nazwa": "Białonie"
+  },
+  {
+    "idmiejscowosc": "0456697",
+    "nazwa": "Borek"
+  },
+  {
+    "idmiejscowosc": "1066314",
+    "nazwa": "Bórczane"
+  },
+  {
+    "idmiejscowosc": "0456705",
+    "nazwa": "Brzyzek"
+  },
+  {
+    "idmiejscowosc": "0456711",
+    "nazwa": "Buchale"
+  },
+  {
+    "idmiejscowosc": "0455924",
+    "nazwa": "Bulasy"
+  },
+  {
+    "idmiejscowosc": "0456728",
+    "nazwa": "Chlipały"
+  },
+  {
+    "idmiejscowosc": "0455930",
+    "nazwa": "Chudomięty"
+  },
+  {
+    "idmiejscowosc": "0456734",
+    "nazwa": "Cicharze"
+  },
+  {
+    "idmiejscowosc": "0456332",
+    "nazwa": "Cieluchy"
+  },
+  {
+    "idmiejscowosc": "0455947",
+    "nazwa": "Cieśle"
+  },
+  {
+    "idmiejscowosc": "0456208",
+    "nazwa": "Czechy"
+  },
+  {
+    "idmiejscowosc": "0456740",
+    "nazwa": "Daniele"
+  },
+  {
+    "idmiejscowosc": "0455953",
+    "nazwa": "Domagały"
+  },
+  {
+    "idmiejscowosc": "0456409",
+    "nazwa": "Draby"
+  },
+  {
+    "idmiejscowosc": "0456757",
+    "nazwa": "Drapa"
+  },
+  {
+    "idmiejscowosc": "0456415",
+    "nazwa": "Dyrki"
+  },
+  {
+    "idmiejscowosc": "0455960",
+    "nazwa": "Działek"
+  },
+  {
+    "idmiejscowosc": "0456763",
+    "nazwa": "Filipy"
+  },
+  {
+    "idmiejscowosc": "0455976",
+    "nazwa": "Frączki"
+  },
+  {
+    "idmiejscowosc": "0455982",
+    "nazwa": "Garłyty"
+  },
+  {
+    "idmiejscowosc": "0456421",
+    "nazwa": "Gawły"
+  },
+  {
+    "idmiejscowosc": "0456770",
+    "nazwa": "Gąsiory"
+  },
+  {
+    "idmiejscowosc": "0455999",
+    "nazwa": "Gęby"
+  },
+  {
+    "idmiejscowosc": "0456438",
+    "nazwa": "Głodki"
+  },
+  {
+    "idmiejscowosc": "0456220",
+    "nazwa": "Grońscy"
+  },
+  {
+    "idmiejscowosc": "0456007",
+    "nazwa": "Grzędy"
+  },
+  {
+    "idmiejscowosc": "0456786",
+    "nazwa": "Gwałty"
+  },
+  {
+    "idmiejscowosc": "0456792",
+    "nazwa": "Halamy"
+  },
+  {
+    "idmiejscowosc": "0456013",
+    "nazwa": "Halamy"
+  },
+  {
+    "idmiejscowosc": "0456800",
+    "nazwa": "Hucisko"
+  },
+  {
+    "idmiejscowosc": "0456444",
+    "nazwa": "Jadamczyki"
+  },
+  {
+    "idmiejscowosc": "0456237",
+    "nazwa": "Jamrozówka"
+  },
+  {
+    "idmiejscowosc": "0456450",
+    "nazwa": "Jamrozy"
+  },
+  {
+    "idmiejscowosc": "0456467",
+    "nazwa": "Janaski"
+  },
+  {
+    "idmiejscowosc": "0456473",
+    "nazwa": "Jarosy"
+  },
+  {
+    "idmiejscowosc": "0456817",
+    "nazwa": "Jopki"
+  },
+  {
+    "idmiejscowosc": "0456823",
+    "nazwa": "Kaciki"
+  },
+  {
+    "idmiejscowosc": "0456830",
+    "nazwa": "Kaczorówka"
+  },
+  {
+    "idmiejscowosc": "0456846",
+    "nazwa": "Kaczory"
+  },
+  {
+    "idmiejscowosc": "0455893",
+    "nazwa": "Konina"
+  },
+  {
+    "idmiejscowosc": "1050336",
+    "nazwa": "Koninki"
+  },
+  {
+    "idmiejscowosc": "0456852",
+    "nazwa": "Kopajdy"
+  },
+  {
+    "idmiejscowosc": "0456349",
+    "nazwa": "Korce"
+  },
+  {
+    "idmiejscowosc": "0456869",
+    "nazwa": "Kozyry"
+  },
+  {
+    "idmiejscowosc": "0456355",
+    "nazwa": "Krężele"
+  },
+  {
+    "idmiejscowosc": "0456020",
+    "nazwa": "Krzany"
+  },
+  {
+    "idmiejscowosc": "0456036",
+    "nazwa": "Kurki"
+  },
+  {
+    "idmiejscowosc": "0456875",
+    "nazwa": "Kurki"
+  },
+  {
+    "idmiejscowosc": "0456042",
+    "nazwa": "Lachy"
+  },
+  {
+    "idmiejscowosc": "0456243",
+    "nazwa": "Lemierze"
+  },
+  {
+    "idmiejscowosc": "0456059",
+    "nazwa": "Leśniówka"
+  },
+  {
+    "idmiejscowosc": "0456881",
+    "nazwa": "Liberdy"
+  },
+  {
+    "idmiejscowosc": "0456480",
+    "nazwa": "Lipówka"
+  },
+  {
+    "idmiejscowosc": "0456065",
+    "nazwa": "Lupy"
+  },
+  {
+    "idmiejscowosc": "0456250",
+    "nazwa": "Maciejki"
+  },
+  {
+    "idmiejscowosc": "0456071",
+    "nazwa": "Majerze"
+  },
+  {
+    "idmiejscowosc": "0456088",
+    "nazwa": "Michalczewscy"
+  },
+  {
+    "idmiejscowosc": "0456266",
+    "nazwa": "Mierniki"
+  },
+  {
+    "idmiejscowosc": "0456898",
+    "nazwa": "Misiury"
+  },
+  {
+    "idmiejscowosc": "0456906",
+    "nazwa": "Morgi"
+  },
+  {
+    "idmiejscowosc": "0456496",
+    "nazwa": "Moskały"
+  },
+  {
+    "idmiejscowosc": "0456272",
+    "nazwa": "Moskały"
+  },
+  {
+    "idmiejscowosc": "0456912",
+    "nazwa": "Mościska"
+  },
+  {
+    "idmiejscowosc": "0456361",
+    "nazwa": "Murzyny"
+  },
+  {
+    "idmiejscowosc": "0456094",
+    "nazwa": "Napory"
+  },
+  {
+    "idmiejscowosc": "0456102",
+    "nazwa": "Natanki"
+  },
+  {
+    "idmiejscowosc": "0456504",
+    "nazwa": "Niedojady"
+  },
+  {
+    "idmiejscowosc": "0456289",
+    "nazwa": "Niedźwiedzcy"
+  },
+  {
+    "idmiejscowosc": "0456190",
+    "nazwa": "Niedźwiedź"
+  },
+  {
+    "idmiejscowosc": "0456929",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0456935",
+    "nazwa": "Nowina"
+  },
+  {
+    "idmiejscowosc": "0456941",
+    "nazwa": "Ostra"
+  },
+  {
+    "idmiejscowosc": "0456119",
+    "nazwa": "Palace"
+  },
+  {
+    "idmiejscowosc": "0456958",
+    "nazwa": "Pańskie"
+  },
+  {
+    "idmiejscowosc": "0456510",
+    "nazwa": "Papiernia"
+  },
+  {
+    "idmiejscowosc": "0456125",
+    "nazwa": "Pazerówka"
+  },
+  {
+    "idmiejscowosc": "0456527",
+    "nazwa": "Piwowary"
+  },
+  {
+    "idmiejscowosc": "0456533",
+    "nazwa": "Poczekaj"
+  },
+  {
+    "idmiejscowosc": "0456295",
+    "nazwa": "Podgronie"
+  },
+  {
+    "idmiejscowosc": "0456964",
+    "nazwa": "Podgronie"
+  },
+  {
+    "idmiejscowosc": "0456390",
+    "nazwa": "Podobin"
+  },
+  {
+    "idmiejscowosc": "0456970",
+    "nazwa": "Poręba Dolna"
+  },
+  {
+    "idmiejscowosc": "0456651",
+    "nazwa": "Poręba Wielka"
+  },
+  {
+    "idmiejscowosc": "0456540",
+    "nazwa": "Potoczki"
+  },
+  {
+    "idmiejscowosc": "0456303",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0456131",
+    "nazwa": "Przybytki"
+  },
+  {
+    "idmiejscowosc": "0456556",
+    "nazwa": "Pudlaki"
+  },
+  {
+    "idmiejscowosc": "0456562",
+    "nazwa": "Pudły"
+  },
+  {
+    "idmiejscowosc": "0456579",
+    "nazwa": "Rapty"
+  },
+  {
+    "idmiejscowosc": "0456585",
+    "nazwa": "Rogi"
+  },
+  {
+    "idmiejscowosc": "0456987",
+    "nazwa": "Rówieńki"
+  },
+  {
+    "idmiejscowosc": "0456993",
+    "nazwa": "Rusnaki"
+  },
+  {
+    "idmiejscowosc": "0456310",
+    "nazwa": "Ryplówka"
+  },
+  {
+    "idmiejscowosc": "0456591",
+    "nazwa": "Rzeżniczaki"
+  },
+  {
+    "idmiejscowosc": "0457001",
+    "nazwa": "Satry"
+  },
+  {
+    "idmiejscowosc": "0457018",
+    "nazwa": "Słoniany"
+  },
+  {
+    "idmiejscowosc": "0456600",
+    "nazwa": "Smaciarze"
+  },
+  {
+    "idmiejscowosc": "0456616",
+    "nazwa": "Spyrki"
+  },
+  {
+    "idmiejscowosc": "0457024",
+    "nazwa": "Starmachy"
+  },
+  {
+    "idmiejscowosc": "0456378",
+    "nazwa": "Stramy"
+  },
+  {
+    "idmiejscowosc": "0457030",
+    "nazwa": "Stróże"
+  },
+  {
+    "idmiejscowosc": "0456622",
+    "nazwa": "Sutory"
+  },
+  {
+    "idmiejscowosc": "0456384",
+    "nazwa": "Szwaje"
+  },
+  {
+    "idmiejscowosc": "0456148",
+    "nazwa": "Talarki"
+  },
+  {
+    "idmiejscowosc": "0457047",
+    "nazwa": "Tramy"
+  },
+  {
+    "idmiejscowosc": "0456154",
+    "nazwa": "Trojaki"
+  },
+  {
+    "idmiejscowosc": "0456326",
+    "nazwa": "Witów"
+  },
+  {
+    "idmiejscowosc": "0456160",
+    "nazwa": "Woźnowie"
+  },
+  {
+    "idmiejscowosc": "0456177",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0457053",
+    "nazwa": "Zagronie"
+  },
+  {
+    "idmiejscowosc": "0456183",
+    "nazwa": "Zające"
+  },
+  {
+    "idmiejscowosc": "0457060",
+    "nazwa": "Zapały"
+  },
+  {
+    "idmiejscowosc": "0456639",
+    "nazwa": "Zawada"
+  },
+  {
+    "idmiejscowosc": "0456645",
+    "nazwa": "Zmysłówka"
+  },
+  {
+    "idmiejscowosc": "0457076",
+    "nazwa": "Zochry"
+  }
+]

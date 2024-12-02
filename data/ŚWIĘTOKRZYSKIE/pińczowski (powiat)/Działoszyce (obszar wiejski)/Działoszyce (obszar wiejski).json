@@ -1,0 +1,422 @@
+[
+  {
+    "idmiejscowosc": "0237140",
+    "nazwa": "Ameryka Północna"
+  },
+  {
+    "idmiejscowosc": "0237156",
+    "nazwa": "Ameryka Wschodnia"
+  },
+  {
+    "idmiejscowosc": "0237883",
+    "nazwa": "Bereza"
+  },
+  {
+    "idmiejscowosc": "0237162",
+    "nazwa": "Biała Góra"
+  },
+  {
+    "idmiejscowosc": "0236932",
+    "nazwa": "Biedrzykowice"
+  },
+  {
+    "idmiejscowosc": "0236978",
+    "nazwa": "Bronocice"
+  },
+  {
+    "idmiejscowosc": "0237015",
+    "nazwa": "Bronów"
+  },
+  {
+    "idmiejscowosc": "0237854",
+    "nazwa": "Chadziajówka"
+  },
+  {
+    "idmiejscowosc": "0237280",
+    "nazwa": "Chałupki"
+  },
+  {
+    "idmiejscowosc": "0237044",
+    "nazwa": "Chmielów"
+  },
+  {
+    "idmiejscowosc": "0237340",
+    "nazwa": "Cyganów"
+  },
+  {
+    "idmiejscowosc": "0236984",
+    "nazwa": "Czworaki"
+  },
+  {
+    "idmiejscowosc": "0237073",
+    "nazwa": "Dębiany"
+  },
+  {
+    "idmiejscowosc": "0237096",
+    "nazwa": "Dębowiec"
+  },
+  {
+    "idmiejscowosc": "0237937",
+    "nazwa": "Dolnia Grupa"
+  },
+  {
+    "idmiejscowosc": "0237392",
+    "nazwa": "Duże Kujawki"
+  },
+  {
+    "idmiejscowosc": "0237104",
+    "nazwa": "Dziekanowice"
+  },
+  {
+    "idmiejscowosc": "0237133",
+    "nazwa": "Dzierążnia"
+  },
+  {
+    "idmiejscowosc": "0237191",
+    "nazwa": "Dziewięczyce"
+  },
+  {
+    "idmiejscowosc": "0237529",
+    "nazwa": "Ewinów"
+  },
+  {
+    "idmiejscowosc": "0236949",
+    "nazwa": "Figura"
+  },
+  {
+    "idmiejscowosc": "0237216",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0237200",
+    "nazwa": "Gaik"
+  },
+  {
+    "idmiejscowosc": "0237535",
+    "nazwa": "Gołębiówka"
+  },
+  {
+    "idmiejscowosc": "0237080",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0237682",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0237966",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0237943",
+    "nazwa": "Górnia Grupa"
+  },
+  {
+    "idmiejscowosc": "0237251",
+    "nazwa": "Iżykowice"
+  },
+  {
+    "idmiejscowosc": "0237274",
+    "nazwa": "Jakubowice"
+  },
+  {
+    "idmiejscowosc": "0237222",
+    "nazwa": "Jantonie"
+  },
+  {
+    "idmiejscowosc": "0237311",
+    "nazwa": "Januszowice"
+  },
+  {
+    "idmiejscowosc": "0237334",
+    "nazwa": "Jastrzębniki"
+  },
+  {
+    "idmiejscowosc": "0237860",
+    "nazwa": "Knyszyn"
+  },
+  {
+    "idmiejscowosc": "0237618",
+    "nazwa": "Kopanina"
+  },
+  {
+    "idmiejscowosc": "0237239",
+    "nazwa": "Krzywania"
+  },
+  {
+    "idmiejscowosc": "0237363",
+    "nazwa": "Ksawerów"
+  },
+  {
+    "idmiejscowosc": "0237386",
+    "nazwa": "Kujawki"
+  },
+  {
+    "idmiejscowosc": "0237417",
+    "nazwa": "Kwaszyn"
+  },
+  {
+    "idmiejscowosc": "0237452",
+    "nazwa": "Lipówka"
+  },
+  {
+    "idmiejscowosc": "0237370",
+    "nazwa": "Łabędź"
+  },
+  {
+    "idmiejscowosc": "0237558",
+    "nazwa": "Łopaty"
+  },
+  {
+    "idmiejscowosc": "0237110",
+    "nazwa": "Łysowiec"
+  },
+  {
+    "idmiejscowosc": "0237400",
+    "nazwa": "Małe Kujawki"
+  },
+  {
+    "idmiejscowosc": "0236990",
+    "nazwa": "Marcinów"
+  },
+  {
+    "idmiejscowosc": "0237481",
+    "nazwa": "Marianów"
+  },
+  {
+    "idmiejscowosc": "0237179",
+    "nazwa": "Misiak"
+  },
+  {
+    "idmiejscowosc": "0237498",
+    "nazwa": "Niewiatrowice"
+  },
+  {
+    "idmiejscowosc": "0237788",
+    "nazwa": "Nowiny"
+  },
+  {
+    "idmiejscowosc": "0237021",
+    "nazwa": "Nowy Bronów"
+  },
+  {
+    "idmiejscowosc": "0237423",
+    "nazwa": "Obrytka"
+  },
+  {
+    "idmiejscowosc": "0237890",
+    "nazwa": "Okręglica"
+  },
+  {
+    "idmiejscowosc": "0237430",
+    "nazwa": "Okręglica"
+  },
+  {
+    "idmiejscowosc": "0237512",
+    "nazwa": "Opatkowice"
+  },
+  {
+    "idmiejscowosc": "0237297",
+    "nazwa": "Padalec"
+  },
+  {
+    "idmiejscowosc": "0236955",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0237009",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0237759",
+    "nazwa": "Park"
+  },
+  {
+    "idmiejscowosc": "0236961",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0237541",
+    "nazwa": "Pierocice"
+  },
+  {
+    "idmiejscowosc": "0237564",
+    "nazwa": "Pieroś"
+  },
+  {
+    "idmiejscowosc": "0237819",
+    "nazwa": "Pisarzówka"
+  },
+  {
+    "idmiejscowosc": "0237050",
+    "nazwa": "Pociecha"
+  },
+  {
+    "idmiejscowosc": "0237357",
+    "nazwa": "Pod Ksawerowem"
+  },
+  {
+    "idmiejscowosc": "0237328",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0237446",
+    "nazwa": "Pod Latosem"
+  },
+  {
+    "idmiejscowosc": "0237624",
+    "nazwa": "Podgaje"
+  },
+  {
+    "idmiejscowosc": "0237570",
+    "nazwa": "Podrózie"
+  },
+  {
+    "idmiejscowosc": "0237630",
+    "nazwa": "Pozelów"
+  },
+  {
+    "idmiejscowosc": "0237908",
+    "nazwa": "Przytyk"
+  },
+  {
+    "idmiejscowosc": "0237185",
+    "nazwa": "Ratajka"
+  },
+  {
+    "idmiejscowosc": "0237601",
+    "nazwa": "Sancygniów"
+  },
+  {
+    "idmiejscowosc": "0237305",
+    "nazwa": "Serwitory"
+  },
+  {
+    "idmiejscowosc": "0237038",
+    "nazwa": "Stary Bronów"
+  },
+  {
+    "idmiejscowosc": "0237067",
+    "nazwa": "Stary Chmielów"
+  },
+  {
+    "idmiejscowosc": "0237653",
+    "nazwa": "Stępocice"
+  },
+  {
+    "idmiejscowosc": "0237676",
+    "nazwa": "Sudół"
+  },
+  {
+    "idmiejscowosc": "0237713",
+    "nazwa": "Sypów"
+  },
+  {
+    "idmiejscowosc": "0237742",
+    "nazwa": "Szczotkowice"
+  },
+  {
+    "idmiejscowosc": "0237765",
+    "nazwa": "Szyszczyce"
+  },
+  {
+    "idmiejscowosc": "0237699",
+    "nazwa": "Ściegna"
+  },
+  {
+    "idmiejscowosc": "0237771",
+    "nazwa": "Świerczyna"
+  },
+  {
+    "idmiejscowosc": "0237802",
+    "nazwa": "Teodorów"
+  },
+  {
+    "idmiejscowosc": "0237825",
+    "nazwa": "Tomków-Gajówka"
+  },
+  {
+    "idmiejscowosc": "0237469",
+    "nazwa": "Węchadłowskie"
+  },
+  {
+    "idmiejscowosc": "0237647",
+    "nazwa": "Wierówki"
+  },
+  {
+    "idmiejscowosc": "0237914",
+    "nazwa": "Wisielówka"
+  },
+  {
+    "idmiejscowosc": "0237720",
+    "nazwa": "Wodny Dół"
+  },
+  {
+    "idmiejscowosc": "0237736",
+    "nazwa": "Wodonica"
+  },
+  {
+    "idmiejscowosc": "0237848",
+    "nazwa": "Wola Knyszyńska"
+  },
+  {
+    "idmiejscowosc": "0237877",
+    "nazwa": "Wolica"
+  },
+  {
+    "idmiejscowosc": "0237920",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0237587",
+    "nazwa": "Wyrwa"
+  },
+  {
+    "idmiejscowosc": "0237660",
+    "nazwa": "Wyrwa"
+  },
+  {
+    "idmiejscowosc": "0237268",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0237950",
+    "nazwa": "Zagaje Dębiańskie"
+  },
+  {
+    "idmiejscowosc": "0237972",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0237593",
+    "nazwa": "Zajamie"
+  },
+  {
+    "idmiejscowosc": "0237506",
+    "nazwa": "Zamłynie"
+  },
+  {
+    "idmiejscowosc": "0237127",
+    "nazwa": "Zamoście"
+  },
+  {
+    "idmiejscowosc": "0237245",
+    "nazwa": "Zapiece"
+  },
+  {
+    "idmiejscowosc": "0237831",
+    "nazwa": "Zielona"
+  },
+  {
+    "idmiejscowosc": "0237707",
+    "nazwa": "Żorownik"
+  },
+  {
+    "idmiejscowosc": "0237794",
+    "nazwa": "Żółta Kolonia"
+  },
+  {
+    "idmiejscowosc": "0237475",
+    "nazwa": "Żółta Kolonia"
+  }
+]

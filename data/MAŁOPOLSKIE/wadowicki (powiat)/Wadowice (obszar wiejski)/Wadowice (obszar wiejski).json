@@ -1,0 +1,550 @@
+[
+  {
+    "idmiejscowosc": "0073750",
+    "nazwa": "Babica"
+  },
+  {
+    "idmiejscowosc": "0074553",
+    "nazwa": "Baklarzowa"
+  },
+  {
+    "idmiejscowosc": "0074100",
+    "nazwa": "Barańciak"
+  },
+  {
+    "idmiejscowosc": "0073861",
+    "nazwa": "Barwałd Dolny"
+  },
+  {
+    "idmiejscowosc": "0074560",
+    "nazwa": "Bernasiowa"
+  },
+  {
+    "idmiejscowosc": "0074808",
+    "nazwa": "Bory"
+  },
+  {
+    "idmiejscowosc": "0074270",
+    "nazwa": "Buchałówka"
+  },
+  {
+    "idmiejscowosc": "0074286",
+    "nazwa": "Buldonówka"
+  },
+  {
+    "idmiejscowosc": "0075073",
+    "nazwa": "Bylicówka"
+  },
+  {
+    "idmiejscowosc": "0074748",
+    "nazwa": "Chobot"
+  },
+  {
+    "idmiejscowosc": "0073944",
+    "nazwa": "Chocznia"
+  },
+  {
+    "idmiejscowosc": "0073950",
+    "nazwa": "Chocznia Dolna"
+  },
+  {
+    "idmiejscowosc": "0073967",
+    "nazwa": "Chocznia Górna"
+  },
+  {
+    "idmiejscowosc": "0074292",
+    "nazwa": "Chomlówka"
+  },
+  {
+    "idmiejscowosc": "0074814",
+    "nazwa": "Czerna"
+  },
+  {
+    "idmiejscowosc": "0074926",
+    "nazwa": "Czerna"
+  },
+  {
+    "idmiejscowosc": "0075080",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0074820",
+    "nazwa": "Dąbry"
+  },
+  {
+    "idmiejscowosc": "0074837",
+    "nazwa": "Drabóż"
+  },
+  {
+    "idmiejscowosc": "0074843",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0074932",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0073973",
+    "nazwa": "Dział Choczeński"
+  },
+  {
+    "idmiejscowosc": "0073766",
+    "nazwa": "Filipówka"
+  },
+  {
+    "idmiejscowosc": "0074949",
+    "nazwa": "Fireczkówka"
+  },
+  {
+    "idmiejscowosc": "0074300",
+    "nazwa": "Gawędówka"
+  },
+  {
+    "idmiejscowosc": "0074234",
+    "nazwa": "Gołębiówka"
+  },
+  {
+    "idmiejscowosc": "0074168",
+    "nazwa": "Gorzeń Dolny"
+  },
+  {
+    "idmiejscowosc": "0074180",
+    "nazwa": "Gorzeń Górny"
+  },
+  {
+    "idmiejscowosc": "0073878",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0074760",
+    "nazwa": "Górnica"
+  },
+  {
+    "idmiejscowosc": "0074116",
+    "nazwa": "Górnica"
+  },
+  {
+    "idmiejscowosc": "0074850",
+    "nazwa": "Górzany"
+  },
+  {
+    "idmiejscowosc": "0074576",
+    "nazwa": "Gracowo"
+  },
+  {
+    "idmiejscowosc": "0074317",
+    "nazwa": "Grzędzielówka"
+  },
+  {
+    "idmiejscowosc": "0074582",
+    "nazwa": "Huta"
+  },
+  {
+    "idmiejscowosc": "0074955",
+    "nazwa": "Jagodnica"
+  },
+  {
+    "idmiejscowosc": "0074211",
+    "nazwa": "Jaroszowice"
+  },
+  {
+    "idmiejscowosc": "0074263",
+    "nazwa": "Kaczyna"
+  },
+  {
+    "idmiejscowosc": "0074197",
+    "nazwa": "Kapiniówka"
+  },
+  {
+    "idmiejscowosc": "0074346",
+    "nazwa": "Klecza Dolna"
+  },
+  {
+    "idmiejscowosc": "0074470",
+    "nazwa": "Klecza Górna"
+  },
+  {
+    "idmiejscowosc": "0074352",
+    "nazwa": "Kleparz"
+  },
+  {
+    "idmiejscowosc": "0074599",
+    "nazwa": "Koczurowo"
+  },
+  {
+    "idmiejscowosc": "0074369",
+    "nazwa": "Kopiec"
+  },
+  {
+    "idmiejscowosc": "0073772",
+    "nazwa": "Kosowizna"
+  },
+  {
+    "idmiejscowosc": "0074607",
+    "nazwa": "Książkowo"
+  },
+  {
+    "idmiejscowosc": "0074375",
+    "nazwa": "Kwapinówka"
+  },
+  {
+    "idmiejscowosc": "0074613",
+    "nazwa": "Leniówka"
+  },
+  {
+    "idmiejscowosc": "0073789",
+    "nazwa": "Leszczyna"
+  },
+  {
+    "idmiejscowosc": "0074866",
+    "nazwa": "Lizarówka"
+  },
+  {
+    "idmiejscowosc": "0074777",
+    "nazwa": "Łęg"
+  },
+  {
+    "idmiejscowosc": "0074872",
+    "nazwa": "Łubianki"
+  },
+  {
+    "idmiejscowosc": "0074464",
+    "nazwa": "Łysa Góra"
+  },
+  {
+    "idmiejscowosc": "0074620",
+    "nazwa": "Madejowo"
+  },
+  {
+    "idmiejscowosc": "0074961",
+    "nazwa": "Madoniówka"
+  },
+  {
+    "idmiejscowosc": "0073795",
+    "nazwa": "Mała Góra"
+  },
+  {
+    "idmiejscowosc": "0074636",
+    "nazwa": "Mentelowa"
+  },
+  {
+    "idmiejscowosc": "0073980",
+    "nazwa": "Morgi"
+  },
+  {
+    "idmiejscowosc": "0074978",
+    "nazwa": "Mosiórka"
+  },
+  {
+    "idmiejscowosc": "0074984",
+    "nazwa": "Mrowica"
+  },
+  {
+    "idmiejscowosc": "0073803",
+    "nazwa": "Mrowica"
+  },
+  {
+    "idmiejscowosc": "0074174",
+    "nazwa": "Na Dzwonku"
+  },
+  {
+    "idmiejscowosc": "0073996",
+    "nazwa": "Na Granicy"
+  },
+  {
+    "idmiejscowosc": "0074205",
+    "nazwa": "Na Mycie"
+  },
+  {
+    "idmiejscowosc": "0074990",
+    "nazwa": "Niziny"
+  },
+  {
+    "idmiejscowosc": "0074381",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0075096",
+    "nazwa": "Okrawina"
+  },
+  {
+    "idmiejscowosc": "0074398",
+    "nazwa": "Ostrowa"
+  },
+  {
+    "idmiejscowosc": "0073810",
+    "nazwa": "Pagór"
+  },
+  {
+    "idmiejscowosc": "0074487",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0074406",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0074642",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0074004",
+    "nazwa": "Pagórek Komani"
+  },
+  {
+    "idmiejscowosc": "0074010",
+    "nazwa": "Pagórek Malatowski"
+  },
+  {
+    "idmiejscowosc": "0074659",
+    "nazwa": "Paluchowa"
+  },
+  {
+    "idmiejscowosc": "0074323",
+    "nazwa": "Pasieka"
+  },
+  {
+    "idmiejscowosc": "0074122",
+    "nazwa": "Patryja"
+  },
+  {
+    "idmiejscowosc": "0074889",
+    "nazwa": "Pawlikówka"
+  },
+  {
+    "idmiejscowosc": "0074783",
+    "nazwa": "Piece"
+  },
+  {
+    "idmiejscowosc": "0073884",
+    "nazwa": "Pieckowo"
+  },
+  {
+    "idmiejscowosc": "0074412",
+    "nazwa": "Piekielec"
+  },
+  {
+    "idmiejscowosc": "0074429",
+    "nazwa": "Pniaki"
+  },
+  {
+    "idmiejscowosc": "0074228",
+    "nazwa": "Pod Białą"
+  },
+  {
+    "idmiejscowosc": "0074240",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0074033",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0073890",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0074493",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0073826",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0075104",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0074547",
+    "nazwa": "Ponikiew"
+  },
+  {
+    "idmiejscowosc": "0074040",
+    "nazwa": "Przy Białej Drodze"
+  },
+  {
+    "idmiejscowosc": "0074056",
+    "nazwa": "Przy Gościńcu"
+  },
+  {
+    "idmiejscowosc": "0074139",
+    "nazwa": "Przy Góralskiej Drodze"
+  },
+  {
+    "idmiejscowosc": "0074145",
+    "nazwa": "Przy Parku"
+  },
+  {
+    "idmiejscowosc": "0073909",
+    "nazwa": "Przymiarki"
+  },
+  {
+    "idmiejscowosc": "0075009",
+    "nazwa": "Radocka Góra"
+  },
+  {
+    "idmiejscowosc": "0074027",
+    "nazwa": "Ramendowskie"
+  },
+  {
+    "idmiejscowosc": "0074435",
+    "nazwa": "Rogatka"
+  },
+  {
+    "idmiejscowosc": "0074062",
+    "nazwa": "Rogatka"
+  },
+  {
+    "idmiejscowosc": "0074754",
+    "nazwa": "Roków"
+  },
+  {
+    "idmiejscowosc": "0074665",
+    "nazwa": "Ryczkowa"
+  },
+  {
+    "idmiejscowosc": "0074671",
+    "nazwa": "Rzyckowo"
+  },
+  {
+    "idmiejscowosc": "0074688",
+    "nazwa": "Sasowo"
+  },
+  {
+    "idmiejscowosc": "0074694",
+    "nazwa": "Schronisko pod Leskowcem"
+  },
+  {
+    "idmiejscowosc": "0074702",
+    "nazwa": "Sikorowa"
+  },
+  {
+    "idmiejscowosc": "0074719",
+    "nazwa": "Sobalowa"
+  },
+  {
+    "idmiejscowosc": "0074725",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0074079",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0074330",
+    "nazwa": "Sordylówka"
+  },
+  {
+    "idmiejscowosc": "0074895",
+    "nazwa": "Sosienki"
+  },
+  {
+    "idmiejscowosc": "0074790",
+    "nazwa": "Stanisław Górny"
+  },
+  {
+    "idmiejscowosc": "0074151",
+    "nazwa": "Stawy"
+  },
+  {
+    "idmiejscowosc": "0075110",
+    "nazwa": "Szydłowiec"
+  },
+  {
+    "idmiejscowosc": "0075015",
+    "nazwa": "W Lesie"
+  },
+  {
+    "idmiejscowosc": "0075021",
+    "nazwa": "Wesoła"
+  },
+  {
+    "idmiejscowosc": "0073832",
+    "nazwa": "Wieńce"
+  },
+  {
+    "idmiejscowosc": "0073849",
+    "nazwa": "Wieś"
+  },
+  {
+    "idmiejscowosc": "0074501",
+    "nazwa": "Wilczy Rynek"
+  },
+  {
+    "idmiejscowosc": "0074518",
+    "nazwa": "Witkówka"
+  },
+  {
+    "idmiejscowosc": "0074731",
+    "nazwa": "Wójcikowa"
+  },
+  {
+    "idmiejscowosc": "0074910",
+    "nazwa": "Wysoka"
+  },
+  {
+    "idmiejscowosc": "0075038",
+    "nazwa": "Wysoka Dolna"
+  },
+  {
+    "idmiejscowosc": "0075044",
+    "nazwa": "Wysoka Wieś"
+  },
+  {
+    "idmiejscowosc": "0074903",
+    "nazwa": "Zabłocie"
+  },
+  {
+    "idmiejscowosc": "0074524",
+    "nazwa": "Zacisze"
+  },
+  {
+    "idmiejscowosc": "0073915",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0073921",
+    "nazwa": "Zakościele"
+  },
+  {
+    "idmiejscowosc": "0073855",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0074530",
+    "nazwa": "Zarębki"
+  },
+  {
+    "idmiejscowosc": "0073938",
+    "nazwa": "Zarębki"
+  },
+  {
+    "idmiejscowosc": "0074441",
+    "nazwa": "Zarębki"
+  },
+  {
+    "idmiejscowosc": "0074085",
+    "nazwa": "Zarębki"
+  },
+  {
+    "idmiejscowosc": "0074458",
+    "nazwa": "Zaszkole"
+  },
+  {
+    "idmiejscowosc": "0075067",
+    "nazwa": "Zawadka"
+  },
+  {
+    "idmiejscowosc": "0074091",
+    "nazwa": "Zawale"
+  },
+  {
+    "idmiejscowosc": "0074257",
+    "nazwa": "Zbywaczówka"
+  },
+  {
+    "idmiejscowosc": "0075050",
+    "nazwa": "Zielona"
+  }
+]

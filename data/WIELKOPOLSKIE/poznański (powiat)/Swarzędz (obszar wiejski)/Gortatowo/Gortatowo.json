@@ -1,0 +1,247 @@
+[
+  {
+    "idulica": "00608",
+    "nazwa": "Bajkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00802",
+    "nazwa": "Bartników",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00864",
+    "nazwa": "Baśniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01473",
+    "nazwa": "Błotna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02541",
+    "nazwa": "Calineczki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02724",
+    "nazwa": "Chlebowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02974",
+    "nazwa": "Cicha",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03191",
+    "nazwa": "Cyprysowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03432",
+    "nazwa": "Czerwonego Kapturka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03557",
+    "nazwa": "Daleka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03617",
+    "nazwa": "Darniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "37766",
+    "nazwa": "Dolina Cybiny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04151",
+    "nazwa": "Dożynkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04863",
+    "nazwa": "Fabryczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07335",
+    "nazwa": "Jasna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07933",
+    "nazwa": "Kanclerska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36504",
+    "nazwa": "Kapela",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08179",
+    "nazwa": "Kasztelańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09419",
+    "nazwa": "Kosiarzy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09987",
+    "nazwa": "Królewska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10223",
+    "nazwa": "Książęca",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10316",
+    "nazwa": "Kubusia Puchatka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "28864",
+    "nazwa": "Magnacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12400",
+    "nazwa": "Marszałkowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13025",
+    "nazwa": "Misia Uszatka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36899",
+    "nazwa": "Nad Cybiną",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14329",
+    "nazwa": "Notecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14770",
+    "nazwa": "Odrzańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "42543",
+    "nazwa": "Orkiszowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15481",
+    "nazwa": "Owsiana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15764",
+    "nazwa": "Pasieka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16191",
+    "nazwa": "Piękna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16230",
+    "nazwa": "Pilicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17719",
+    "nazwa": "Przełajowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "59613",
+    "nazwa": "Razowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19585",
+    "nazwa": "Sąsiedzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19677",
+    "nazwa": "Senatorska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19720",
+    "nazwa": "Sezamowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19794",
+    "nazwa": "Sielanka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19836",
+    "nazwa": "Sienna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20541",
+    "nazwa": "Solna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21621",
+    "nazwa": "Swarzędzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21629",
+    "nazwa": "Swojska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23637",
+    "nazwa": "Warciańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24398",
+    "nazwa": "Wiślana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25910",
+    "nazwa": "Zbożowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26165",
+    "nazwa": "Ziołowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "41222",
+    "nazwa": "Złota Polana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26492",
+    "nazwa": "Żniwna",
+    "rodzaj": "ul."
+  }
+]

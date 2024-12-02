@@ -1,0 +1,418 @@
+[
+  {
+    "idmiejscowosc": "0859076",
+    "nazwa": "Aleksandrowo"
+  },
+  {
+    "idmiejscowosc": "1062718",
+    "nazwa": "Aleksandrówek"
+  },
+  {
+    "idmiejscowosc": "1032634",
+    "nazwa": "Błota"
+  },
+  {
+    "idmiejscowosc": "0859099",
+    "nazwa": "Brzezie"
+  },
+  {
+    "idmiejscowosc": "1032640",
+    "nazwa": "Cegielnia"
+  },
+  {
+    "idmiejscowosc": "0859248",
+    "nazwa": "Dobra Wola"
+  },
+  {
+    "idmiejscowosc": "1032657",
+    "nazwa": "Dolina Pierwsza"
+  },
+  {
+    "idmiejscowosc": "1032663",
+    "nazwa": "Dolina-Źródło"
+  },
+  {
+    "idmiejscowosc": "0859082",
+    "nazwa": "Dubielewo"
+  },
+  {
+    "idmiejscowosc": "1032670",
+    "nazwa": "Duże Fajewo"
+  },
+  {
+    "idmiejscowosc": "1032686",
+    "nazwa": "Dziadowo-Folwark"
+  },
+  {
+    "idmiejscowosc": "1032692",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0859142",
+    "nazwa": "Falborek"
+  },
+  {
+    "idmiejscowosc": "0859159",
+    "nazwa": "Falborz"
+  },
+  {
+    "idmiejscowosc": "0859165",
+    "nazwa": "Falborz-Kolonia"
+  },
+  {
+    "idmiejscowosc": "1032700",
+    "nazwa": "Formoza"
+  },
+  {
+    "idmiejscowosc": "1032717",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "1032723",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0859188",
+    "nazwa": "Gustorzyn"
+  },
+  {
+    "idmiejscowosc": "0859225",
+    "nazwa": "Guźlin"
+  },
+  {
+    "idmiejscowosc": "1062428",
+    "nazwa": "Guźlin Drugi"
+  },
+  {
+    "idmiejscowosc": "1032730",
+    "nazwa": "Hulanka"
+  },
+  {
+    "idmiejscowosc": "0859231",
+    "nazwa": "Jaranówek"
+  },
+  {
+    "idmiejscowosc": "0859260",
+    "nazwa": "Jądrowice"
+  },
+  {
+    "idmiejscowosc": "1032746",
+    "nazwa": "Jesionowo"
+  },
+  {
+    "idmiejscowosc": "1062434",
+    "nazwa": "Karpaty"
+  },
+  {
+    "idmiejscowosc": "0859277",
+    "nazwa": "Kąkowa Wola"
+  },
+  {
+    "idmiejscowosc": "0859283",
+    "nazwa": "Kąkowa Wola-Parcele"
+  },
+  {
+    "idmiejscowosc": "0859290",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "1032752",
+    "nazwa": "Kąty Czerwone"
+  },
+  {
+    "idmiejscowosc": "1032769",
+    "nazwa": "Kąty Małe"
+  },
+  {
+    "idmiejscowosc": "0859515",
+    "nazwa": "Klementynowo"
+  },
+  {
+    "idmiejscowosc": "1062440",
+    "nazwa": "Kliny Pisarskie"
+  },
+  {
+    "idmiejscowosc": "1032775",
+    "nazwa": "Kolonia Redecka"
+  },
+  {
+    "idmiejscowosc": "1032781",
+    "nazwa": "Korea"
+  },
+  {
+    "idmiejscowosc": "1032798",
+    "nazwa": "Korea"
+  },
+  {
+    "idmiejscowosc": "1032806",
+    "nazwa": "Kresy"
+  },
+  {
+    "idmiejscowosc": "1032812",
+    "nazwa": "Ku Brześciu"
+  },
+  {
+    "idmiejscowosc": "1032829",
+    "nazwa": "Ku Guźlinu"
+  },
+  {
+    "idmiejscowosc": "1032835",
+    "nazwa": "Ku Kruszynu"
+  },
+  {
+    "idmiejscowosc": "0859308",
+    "nazwa": "Kuczyna"
+  },
+  {
+    "idmiejscowosc": "0859490",
+    "nazwa": "Lipiny"
+  },
+  {
+    "idmiejscowosc": "0859113",
+    "nazwa": "Lipiny"
+  },
+  {
+    "idmiejscowosc": "0859314",
+    "nazwa": "Machnacz"
+  },
+  {
+    "idmiejscowosc": "1032841",
+    "nazwa": "Majdany"
+  },
+  {
+    "idmiejscowosc": "1032858",
+    "nazwa": "Małe Fajewo"
+  },
+  {
+    "idmiejscowosc": "1032864",
+    "nazwa": "Manieczki"
+  },
+  {
+    "idmiejscowosc": "0859320",
+    "nazwa": "Marianki"
+  },
+  {
+    "idmiejscowosc": "0859337",
+    "nazwa": "Mazury"
+  },
+  {
+    "idmiejscowosc": "1062724",
+    "nazwa": "Mazury"
+  },
+  {
+    "idmiejscowosc": "1032870",
+    "nazwa": "Mazury Wieniec"
+  },
+  {
+    "idmiejscowosc": "0859343",
+    "nazwa": "Miechowice"
+  },
+  {
+    "idmiejscowosc": "0859350",
+    "nazwa": "Miechowice Duże"
+  },
+  {
+    "idmiejscowosc": "1032887",
+    "nazwa": "Miechowice Małe"
+  },
+  {
+    "idmiejscowosc": "1032893",
+    "nazwa": "Na Krzyżówkach"
+  },
+  {
+    "idmiejscowosc": "1032901",
+    "nazwa": "Nad Rzeką"
+  },
+  {
+    "idmiejscowosc": "1032918",
+    "nazwa": "Nowa Kąkowa Wola"
+  },
+  {
+    "idmiejscowosc": "1032924",
+    "nazwa": "Nowa Rzadka Wola"
+  },
+  {
+    "idmiejscowosc": "0859202",
+    "nazwa": "Nowa Wolica"
+  },
+  {
+    "idmiejscowosc": "0859171",
+    "nazwa": "Nowe Miechowice"
+  },
+  {
+    "idmiejscowosc": "0859254",
+    "nazwa": "Nowy Jaranówek"
+  },
+  {
+    "idmiejscowosc": "0859455",
+    "nazwa": "Nowy Młyn"
+  },
+  {
+    "idmiejscowosc": "1032930",
+    "nazwa": "Parcele"
+  },
+  {
+    "idmiejscowosc": "1032947",
+    "nazwa": "Parcele Gustorzyńskie"
+  },
+  {
+    "idmiejscowosc": "1032953",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "1032960",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0859372",
+    "nazwa": "Pikutkowo"
+  },
+  {
+    "idmiejscowosc": "1032976",
+    "nazwa": "Pod Granicę"
+  },
+  {
+    "idmiejscowosc": "1032982",
+    "nazwa": "Pod Gróbce"
+  },
+  {
+    "idmiejscowosc": "1032999",
+    "nazwa": "Pole Lipińskie"
+  },
+  {
+    "idmiejscowosc": "1033007",
+    "nazwa": "Pole Wienieckie"
+  },
+  {
+    "idmiejscowosc": "0859219",
+    "nazwa": "Polówka"
+  },
+  {
+    "idmiejscowosc": "0859389",
+    "nazwa": "Popowiczki"
+  },
+  {
+    "idmiejscowosc": "1033013",
+    "nazwa": "Poraza"
+  },
+  {
+    "idmiejscowosc": "1033020",
+    "nazwa": "Przy Szosie"
+  },
+  {
+    "idmiejscowosc": "1033036",
+    "nazwa": "Przyborowo"
+  },
+  {
+    "idmiejscowosc": "0859395",
+    "nazwa": "Redecz Krukowy"
+  },
+  {
+    "idmiejscowosc": "1033042",
+    "nazwa": "Rumuncinek"
+  },
+  {
+    "idmiejscowosc": "0859403",
+    "nazwa": "Rzadka Wola"
+  },
+  {
+    "idmiejscowosc": "0859410",
+    "nazwa": "Rzadka Wola-Parcele"
+  },
+  {
+    "idmiejscowosc": "1062457",
+    "nazwa": "Siedlimin"
+  },
+  {
+    "idmiejscowosc": "0859426",
+    "nazwa": "Słone"
+  },
+  {
+    "idmiejscowosc": "1033059",
+    "nazwa": "Smętowo"
+  },
+  {
+    "idmiejscowosc": "0859432",
+    "nazwa": "Sokołowo"
+  },
+  {
+    "idmiejscowosc": "0859366",
+    "nazwa": "Sokołowo-Parcele"
+  },
+  {
+    "idmiejscowosc": "1033065",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "1033071",
+    "nazwa": "Stara Wolica"
+  },
+  {
+    "idmiejscowosc": "1033088",
+    "nazwa": "Stare Parcele"
+  },
+  {
+    "idmiejscowosc": "0859449",
+    "nazwa": "Starobrzeska Kolonia"
+  },
+  {
+    "idmiejscowosc": "0859461",
+    "nazwa": "Stary Brześć"
+  },
+  {
+    "idmiejscowosc": "1033094",
+    "nazwa": "Stary Jaranówek"
+  },
+  {
+    "idmiejscowosc": "0859107",
+    "nazwa": "Studniska"
+  },
+  {
+    "idmiejscowosc": "1033102",
+    "nazwa": "Szczepanowo"
+  },
+  {
+    "idmiejscowosc": "1033119",
+    "nazwa": "Szwagrowo"
+  },
+  {
+    "idmiejscowosc": "1033125",
+    "nazwa": "Trzy Kopce"
+  },
+  {
+    "idmiejscowosc": "1033131",
+    "nazwa": "W Polu"
+  },
+  {
+    "idmiejscowosc": "0859484",
+    "nazwa": "Wieniec"
+  },
+  {
+    "idmiejscowosc": "0859120",
+    "nazwa": "Wieniec-Zalesie"
+  },
+  {
+    "idmiejscowosc": "0859136",
+    "nazwa": "Wieniec-Zdrój"
+  },
+  {
+    "idmiejscowosc": "1033148",
+    "nazwa": "Wiluś"
+  },
+  {
+    "idmiejscowosc": "0859509",
+    "nazwa": "Witoldowo"
+  },
+  {
+    "idmiejscowosc": "0859194",
+    "nazwa": "Wolica"
+  },
+  {
+    "idmiejscowosc": "1033154",
+    "nazwa": "Wymysłowo"
+  },
+  {
+    "idmiejscowosc": "1033160",
+    "nazwa": "Żołnierka"
+  }
+]

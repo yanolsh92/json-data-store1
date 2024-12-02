@@ -1,0 +1,72 @@
+[
+  {
+    "idulica": "01103",
+    "nazwa": "Beskidzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10966",
+    "nazwa": "Letnia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "54589",
+    "nazwa": "Osiedle Borczakówka",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "54590",
+    "nazwa": "Osiedle Brydziakówka",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "54592",
+    "nazwa": "Osiedle Ciche",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "54591",
+    "nazwa": "Osiedle Kiczora",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "54124",
+    "nazwa": "Osiedle Spokojne",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "60180",
+    "nazwa": "Osiedle Szkolarówka",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21410",
+    "nazwa": "Studencka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22508",
+    "nazwa": "Świerkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23184",
+    "nazwa": "Turystyczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24012",
+    "nazwa": "Widokowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25547",
+    "nazwa": "Zamkowa",
+    "rodzaj": "ul."
+  }
+]

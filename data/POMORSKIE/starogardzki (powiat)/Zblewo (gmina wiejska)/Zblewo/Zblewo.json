@@ -1,0 +1,242 @@
+[
+  {
+    "idulica": "00157",
+    "nazwa": "Akacjowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01141",
+    "nazwa": "Białachowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01904",
+    "nazwa": "Borzechowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02826",
+    "nazwa": "Chojnicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03095",
+    "nazwa": "Ciska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04434",
+    "nazwa": "Dworcowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04452",
+    "nazwa": "Dworzec",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05526",
+    "nazwa": "Gimnastyczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05635",
+    "nazwa": "Główna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07380",
+    "nazwa": "Jaśminowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07394",
+    "nazwa": "Jaworowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08171",
+    "nazwa": "Kasztanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09166",
+    "nazwa": "Konna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09546",
+    "nazwa": "Kościelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09556",
+    "nazwa": "Kościerska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "56253",
+    "nazwa": "Księdza Kreffta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11596",
+    "nazwa": "Łąkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13132",
+    "nazwa": "Młyńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13184",
+    "nazwa": "Modrzewiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "37922",
+    "nazwa": "Osiedle Dębowe",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "53668",
+    "nazwa": "Osiedle Łąkowe",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39316",
+    "nazwa": "Osiedle Rzemieślnicze",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15596",
+    "nazwa": "Pałubińska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16033",
+    "nazwa": "Piaskowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16279",
+    "nazwa": "Pinczyńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "33974",
+    "nazwa": "Plac 700-lecia",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "16742",
+    "nazwa": "Podgórna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17011",
+    "nazwa": "Polna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17421",
+    "nazwa": "Północna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17612",
+    "nazwa": "Prywatna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36477",
+    "nazwa": "Przy Stadionie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18582",
+    "nazwa": "Rekreacyjna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19000",
+    "nazwa": "Różana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43163",
+    "nazwa": "Skwer im. Jana Pawła II",
+    "rodzaj": "skwer"
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20683",
+    "nazwa": "Sportowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20935",
+    "nazwa": "Starogardzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21504",
+    "nazwa": "Suche Bagno",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "27029",
+    "nazwa": "Szosa Borzechowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22880",
+    "nazwa": "Topolowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60593",
+    "nazwa": "Treningowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23983",
+    "nazwa": "Wiązowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "57098",
+    "nazwa": "Księdza Generała Józefa Wryczy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43929",
+    "nazwa": "Wzgórze Świętego Wojciecha",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "25314",
+    "nazwa": "Zacisze",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26083",
+    "nazwa": "Zielona Dolina",
+    "rodzaj": "ul."
+  }
+]

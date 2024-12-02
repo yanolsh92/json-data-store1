@@ -1,0 +1,798 @@
+[
+  {
+    "idmiejscowosc": "0049905",
+    "nazwa": "Adamkówka"
+  },
+  {
+    "idmiejscowosc": "0049472",
+    "nazwa": "Adamkówka"
+  },
+  {
+    "idmiejscowosc": "0048685",
+    "nazwa": "Baczyn"
+  },
+  {
+    "idmiejscowosc": "0048691",
+    "nazwa": "Baniówka"
+  },
+  {
+    "idmiejscowosc": "0048981",
+    "nazwa": "Bieńkówka"
+  },
+  {
+    "idmiejscowosc": "0049466",
+    "nazwa": "Budzów"
+  },
+  {
+    "idmiejscowosc": "0049489",
+    "nazwa": "Buktówka"
+  },
+  {
+    "idmiejscowosc": "0049495",
+    "nazwa": "Burligówka"
+  },
+  {
+    "idmiejscowosc": "0049911",
+    "nazwa": "Chojnówka"
+  },
+  {
+    "idmiejscowosc": "0050185",
+    "nazwa": "Chwałówka"
+  },
+  {
+    "idmiejscowosc": "0050191",
+    "nazwa": "Ciągówka"
+  },
+  {
+    "idmiejscowosc": "0049928",
+    "nazwa": "Czelakówka"
+  },
+  {
+    "idmiejscowosc": "0048700",
+    "nazwa": "Doboszówka"
+  },
+  {
+    "idmiejscowosc": "0050200",
+    "nazwa": "Doboszówka"
+  },
+  {
+    "idmiejscowosc": "0048998",
+    "nazwa": "Dolne Zagrody"
+  },
+  {
+    "idmiejscowosc": "0048716",
+    "nazwa": "Drabinówka"
+  },
+  {
+    "idmiejscowosc": "0050216",
+    "nazwa": "Drożdżówka"
+  },
+  {
+    "idmiejscowosc": "0049503",
+    "nazwa": "Durajówka"
+  },
+  {
+    "idmiejscowosc": "0049510",
+    "nazwa": "Dyrdówka"
+  },
+  {
+    "idmiejscowosc": "0049006",
+    "nazwa": "Dziadkówka"
+  },
+  {
+    "idmiejscowosc": "0048722",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0050222",
+    "nazwa": "Filarówka"
+  },
+  {
+    "idmiejscowosc": "0049526",
+    "nazwa": "Firkówka"
+  },
+  {
+    "idmiejscowosc": "0049532",
+    "nazwa": "Florkówka"
+  },
+  {
+    "idmiejscowosc": "0049549",
+    "nazwa": "Fujówka"
+  },
+  {
+    "idmiejscowosc": "0048739",
+    "nazwa": "Galasówka"
+  },
+  {
+    "idmiejscowosc": "0050239",
+    "nazwa": "Gałówka"
+  },
+  {
+    "idmiejscowosc": "0049555",
+    "nazwa": "Garbatówka"
+  },
+  {
+    "idmiejscowosc": "0050245",
+    "nazwa": "Gibasówka"
+  },
+  {
+    "idmiejscowosc": "0048745",
+    "nazwa": "Gielatówka"
+  },
+  {
+    "idmiejscowosc": "0048975",
+    "nazwa": "Glinnik"
+  },
+  {
+    "idmiejscowosc": "0048751",
+    "nazwa": "Głodówka"
+  },
+  {
+    "idmiejscowosc": "0049934",
+    "nazwa": "Głowaczówka"
+  },
+  {
+    "idmiejscowosc": "0050251",
+    "nazwa": "Głowicówka"
+  },
+  {
+    "idmiejscowosc": "0049940",
+    "nazwa": "Goczałówka"
+  },
+  {
+    "idmiejscowosc": "0048768",
+    "nazwa": "Gorylówka"
+  },
+  {
+    "idmiejscowosc": "0050268",
+    "nazwa": "Gorylówka"
+  },
+  {
+    "idmiejscowosc": "0049561",
+    "nazwa": "Grudówka"
+  },
+  {
+    "idmiejscowosc": "0049578",
+    "nazwa": "Grychówka"
+  },
+  {
+    "idmiejscowosc": "0050512",
+    "nazwa": "Gwiżdżówka"
+  },
+  {
+    "idmiejscowosc": "0050529",
+    "nazwa": "Harężówka"
+  },
+  {
+    "idmiejscowosc": "0049584",
+    "nazwa": "Holydówka"
+  },
+  {
+    "idmiejscowosc": "0049590",
+    "nazwa": "Hubówka"
+  },
+  {
+    "idmiejscowosc": "0049012",
+    "nazwa": "Igłówka"
+  },
+  {
+    "idmiejscowosc": "0049897",
+    "nazwa": "Jachówka"
+  },
+  {
+    "idmiejscowosc": "0049957",
+    "nazwa": "Jeżówka"
+  },
+  {
+    "idmiejscowosc": "0049609",
+    "nazwa": "Judaszówka"
+  },
+  {
+    "idmiejscowosc": "0049029",
+    "nazwa": "Kaniówka"
+  },
+  {
+    "idmiejscowosc": "0050535",
+    "nazwa": "Karasiówka"
+  },
+  {
+    "idmiejscowosc": "0048774",
+    "nazwa": "Klimoszówka"
+  },
+  {
+    "idmiejscowosc": "0049035",
+    "nazwa": "Klimówka"
+  },
+  {
+    "idmiejscowosc": "0049963",
+    "nazwa": "Kochnicówka Dolna"
+  },
+  {
+    "idmiejscowosc": "0049970",
+    "nazwa": "Kochnicówka Górna"
+  },
+  {
+    "idmiejscowosc": "0050541",
+    "nazwa": "Kołtonówka"
+  },
+  {
+    "idmiejscowosc": "0050274",
+    "nazwa": "Końcówka"
+  },
+  {
+    "idmiejscowosc": "0048780",
+    "nazwa": "Korea"
+  },
+  {
+    "idmiejscowosc": "0049615",
+    "nazwa": "Korelówka"
+  },
+  {
+    "idmiejscowosc": "0050280",
+    "nazwa": "Kotówka"
+  },
+  {
+    "idmiejscowosc": "0049986",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0048797",
+    "nazwa": "Kozłówka"
+  },
+  {
+    "idmiejscowosc": "0049621",
+    "nazwa": "Kozłówka"
+  },
+  {
+    "idmiejscowosc": "0049638",
+    "nazwa": "Krupkówka"
+  },
+  {
+    "idmiejscowosc": "0050558",
+    "nazwa": "Krzystanówka"
+  },
+  {
+    "idmiejscowosc": "0050297",
+    "nazwa": "Księża Rola"
+  },
+  {
+    "idmiejscowosc": "0049644",
+    "nazwa": "Kurkówka"
+  },
+  {
+    "idmiejscowosc": "0050305",
+    "nazwa": "Kurkówka"
+  },
+  {
+    "idmiejscowosc": "0050564",
+    "nazwa": "Kwaśniówka"
+  },
+  {
+    "idmiejscowosc": "0048805",
+    "nazwa": "Kwaśniówka"
+  },
+  {
+    "idmiejscowosc": "0050570",
+    "nazwa": "Lempartówka"
+  },
+  {
+    "idmiejscowosc": "0049650",
+    "nazwa": "Lenikówka"
+  },
+  {
+    "idmiejscowosc": "0049041",
+    "nazwa": "Lenikówka"
+  },
+  {
+    "idmiejscowosc": "0048811",
+    "nazwa": "Leśniakówka"
+  },
+  {
+    "idmiejscowosc": "0048828",
+    "nazwa": "Liszkówka"
+  },
+  {
+    "idmiejscowosc": "0050311",
+    "nazwa": "Łyszczarzówka"
+  },
+  {
+    "idmiejscowosc": "0049673",
+    "nazwa": "Madziarówka"
+  },
+  {
+    "idmiejscowosc": "0048834",
+    "nazwa": "Magdziakówka"
+  },
+  {
+    "idmiejscowosc": "0048840",
+    "nazwa": "Majchrówka"
+  },
+  {
+    "idmiejscowosc": "0050009",
+    "nazwa": "Martusakówka"
+  },
+  {
+    "idmiejscowosc": "0050328",
+    "nazwa": "Mętylówka"
+  },
+  {
+    "idmiejscowosc": "0050334",
+    "nazwa": "Micorówka"
+  },
+  {
+    "idmiejscowosc": "0049868",
+    "nazwa": "Mirochówka"
+  },
+  {
+    "idmiejscowosc": "0048857",
+    "nazwa": "Młynarczykówka"
+  },
+  {
+    "idmiejscowosc": "0049667",
+    "nazwa": "Moćkówka"
+  },
+  {
+    "idmiejscowosc": "0050015",
+    "nazwa": "Morągówka"
+  },
+  {
+    "idmiejscowosc": "0050340",
+    "nazwa": "Moskalówka Dolna"
+  },
+  {
+    "idmiejscowosc": "0050357",
+    "nazwa": "Moskalówka Górna"
+  },
+  {
+    "idmiejscowosc": "0049680",
+    "nazwa": "Mychówka"
+  },
+  {
+    "idmiejscowosc": "0049058",
+    "nazwa": "Na Sołtystwie"
+  },
+  {
+    "idmiejscowosc": "0050587",
+    "nazwa": "Nagiełówka"
+  },
+  {
+    "idmiejscowosc": "0050363",
+    "nazwa": "Natanówka"
+  },
+  {
+    "idmiejscowosc": "0049696",
+    "nazwa": "Niedźwiedziówka Dolna"
+  },
+  {
+    "idmiejscowosc": "0049704",
+    "nazwa": "Niedźwiedziówka Górna"
+  },
+  {
+    "idmiejscowosc": "0050370",
+    "nazwa": "Noculówka"
+  },
+  {
+    "idmiejscowosc": "0049710",
+    "nazwa": "Nowakówka"
+  },
+  {
+    "idmiejscowosc": "0050021",
+    "nazwa": "Ogarówka"
+  },
+  {
+    "idmiejscowosc": "0048863",
+    "nazwa": "Pająkówka"
+  },
+  {
+    "idmiejscowosc": "0050179",
+    "nazwa": "Palcza"
+  },
+  {
+    "idmiejscowosc": "1067561",
+    "nazwa": "Partykowo"
+  },
+  {
+    "idmiejscowosc": "0049727",
+    "nazwa": "Partykówka Dolna"
+  },
+  {
+    "idmiejscowosc": "0049733",
+    "nazwa": "Partykówka Górna"
+  },
+  {
+    "idmiejscowosc": "0049740",
+    "nazwa": "Paskówka"
+  },
+  {
+    "idmiejscowosc": "0050386",
+    "nazwa": "Paskówka"
+  },
+  {
+    "idmiejscowosc": "0049756",
+    "nazwa": "Pawlicówka"
+  },
+  {
+    "idmiejscowosc": "0048870",
+    "nazwa": "Pertkówka"
+  },
+  {
+    "idmiejscowosc": "0048886",
+    "nazwa": "Pękalówka"
+  },
+  {
+    "idmiejscowosc": "0050038",
+    "nazwa": "Piątkówka"
+  },
+  {
+    "idmiejscowosc": "0049762",
+    "nazwa": "Pieczarówka"
+  },
+  {
+    "idmiejscowosc": "0050392",
+    "nazwa": "Piskówka"
+  },
+  {
+    "idmiejscowosc": "0050162",
+    "nazwa": "Polany"
+  },
+  {
+    "idmiejscowosc": "0049874",
+    "nazwa": "Polany"
+  },
+  {
+    "idmiejscowosc": "0050044",
+    "nazwa": "Prymulówka"
+  },
+  {
+    "idmiejscowosc": "0048892",
+    "nazwa": "Putyrówka"
+  },
+  {
+    "idmiejscowosc": "0049779",
+    "nazwa": "Pykówka"
+  },
+  {
+    "idmiejscowosc": "0050050",
+    "nazwa": "Radwanówka"
+  },
+  {
+    "idmiejscowosc": "0049785",
+    "nazwa": "Rojkówka"
+  },
+  {
+    "idmiejscowosc": "0048900",
+    "nazwa": "Ruskówka"
+  },
+  {
+    "idmiejscowosc": "0050110",
+    "nazwa": "Rzadkówka"
+  },
+  {
+    "idmiejscowosc": "0048917",
+    "nazwa": "Sabałówka"
+  },
+  {
+    "idmiejscowosc": "0050593",
+    "nazwa": "Saponiówka"
+  },
+  {
+    "idmiejscowosc": "0048923",
+    "nazwa": "Skotówka"
+  },
+  {
+    "idmiejscowosc": "0050601",
+    "nazwa": "Skupniówka"
+  },
+  {
+    "idmiejscowosc": "0050067",
+    "nazwa": "Skupniówka"
+  },
+  {
+    "idmiejscowosc": "0050400",
+    "nazwa": "Smykówka"
+  },
+  {
+    "idmiejscowosc": "0050618",
+    "nazwa": "Sobalówka"
+  },
+  {
+    "idmiejscowosc": "0050423",
+    "nazwa": "Sochówka"
+  },
+  {
+    "idmiejscowosc": "0050624",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0050073",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0049791",
+    "nazwa": "Spólnikówka"
+  },
+  {
+    "idmiejscowosc": "0050630",
+    "nazwa": "Stankówka"
+  },
+  {
+    "idmiejscowosc": "0050417",
+    "nazwa": "Sternalówka"
+  },
+  {
+    "idmiejscowosc": "0050080",
+    "nazwa": "Strączkówka"
+  },
+  {
+    "idmiejscowosc": "0050430",
+    "nazwa": "Sularzówka"
+  },
+  {
+    "idmiejscowosc": "0050446",
+    "nazwa": "Susówka"
+  },
+  {
+    "idmiejscowosc": "0050096",
+    "nazwa": "Suwajówka"
+  },
+  {
+    "idmiejscowosc": "0049064",
+    "nazwa": "Szczerbakówka"
+  },
+  {
+    "idmiejscowosc": "0050452",
+    "nazwa": "Śpiewakówka"
+  },
+  {
+    "idmiejscowosc": "0050647",
+    "nazwa": "Świerkówka"
+  },
+  {
+    "idmiejscowosc": "0050469",
+    "nazwa": "Turlejówka"
+  },
+  {
+    "idmiejscowosc": "0049800",
+    "nazwa": "U Bukowskiego"
+  },
+  {
+    "idmiejscowosc": "0049087",
+    "nazwa": "U Celaka"
+  },
+  {
+    "idmiejscowosc": "0049093",
+    "nazwa": "U Chabosia"
+  },
+  {
+    "idmiejscowosc": "0049101",
+    "nazwa": "U Chajosta"
+  },
+  {
+    "idmiejscowosc": "0049118",
+    "nazwa": "U Chuchra"
+  },
+  {
+    "idmiejscowosc": "0050475",
+    "nazwa": "U Chwały"
+  },
+  {
+    "idmiejscowosc": "0049124",
+    "nazwa": "U Ciorka"
+  },
+  {
+    "idmiejscowosc": "0049130",
+    "nazwa": "U Gielaty"
+  },
+  {
+    "idmiejscowosc": "0049153",
+    "nazwa": "U Głuca"
+  },
+  {
+    "idmiejscowosc": "0049147",
+    "nazwa": "U Goryla"
+  },
+  {
+    "idmiejscowosc": "0049160",
+    "nazwa": "U Haręży"
+  },
+  {
+    "idmiejscowosc": "0049182",
+    "nazwa": "U Jędrzejaka"
+  },
+  {
+    "idmiejscowosc": "0049176",
+    "nazwa": "U Jończyka"
+  },
+  {
+    "idmiejscowosc": "0049199",
+    "nazwa": "U Kiełbusa"
+  },
+  {
+    "idmiejscowosc": "0049213",
+    "nazwa": "U Kojsa"
+  },
+  {
+    "idmiejscowosc": "0049220",
+    "nazwa": "U Krużla"
+  },
+  {
+    "idmiejscowosc": "0049236",
+    "nazwa": "U Lacha Dolnego"
+  },
+  {
+    "idmiejscowosc": "0049242",
+    "nazwa": "U Lacha na Górze"
+  },
+  {
+    "idmiejscowosc": "0049259",
+    "nazwa": "U Liszki"
+  },
+  {
+    "idmiejscowosc": "0049265",
+    "nazwa": "U Łakoty"
+  },
+  {
+    "idmiejscowosc": "0049992",
+    "nazwa": "U Maliny"
+  },
+  {
+    "idmiejscowosc": "0049271",
+    "nazwa": "U Marca"
+  },
+  {
+    "idmiejscowosc": "0049288",
+    "nazwa": "U Mierochy Dolnej"
+  },
+  {
+    "idmiejscowosc": "0049294",
+    "nazwa": "U Mierochy Górnej"
+  },
+  {
+    "idmiejscowosc": "0049302",
+    "nazwa": "U Mruca"
+  },
+  {
+    "idmiejscowosc": "0049319",
+    "nazwa": "U Nieckuli"
+  },
+  {
+    "idmiejscowosc": "0049325",
+    "nazwa": "U Pabisa"
+  },
+  {
+    "idmiejscowosc": "0049331",
+    "nazwa": "U Pająka"
+  },
+  {
+    "idmiejscowosc": "0049348",
+    "nazwa": "U Pawlika"
+  },
+  {
+    "idmiejscowosc": "0049354",
+    "nazwa": "U Rajdochy"
+  },
+  {
+    "idmiejscowosc": "0049360",
+    "nazwa": "U Sałapata"
+  },
+  {
+    "idmiejscowosc": "0049377",
+    "nazwa": "U Stachonia"
+  },
+  {
+    "idmiejscowosc": "0049383",
+    "nazwa": "U Stachury"
+  },
+  {
+    "idmiejscowosc": "0049390",
+    "nazwa": "U Stróża"
+  },
+  {
+    "idmiejscowosc": "0049408",
+    "nazwa": "U Szczepana"
+  },
+  {
+    "idmiejscowosc": "0049414",
+    "nazwa": "U Szczerby"
+  },
+  {
+    "idmiejscowosc": "0049420",
+    "nazwa": "U Wenca"
+  },
+  {
+    "idmiejscowosc": "0049437",
+    "nazwa": "U Wiewiórki"
+  },
+  {
+    "idmiejscowosc": "0049070",
+    "nazwa": "U Wroniaka"
+  },
+  {
+    "idmiejscowosc": "0049443",
+    "nazwa": "U Wrony Dolnej"
+  },
+  {
+    "idmiejscowosc": "0049450",
+    "nazwa": "U Wrony Górnej"
+  },
+  {
+    "idmiejscowosc": "0050481",
+    "nazwa": "Urbanówka"
+  },
+  {
+    "idmiejscowosc": "0049816",
+    "nazwa": "Warchałówka"
+  },
+  {
+    "idmiejscowosc": "0049822",
+    "nazwa": "Wartówka"
+  },
+  {
+    "idmiejscowosc": "0048930",
+    "nazwa": "Witkówka"
+  },
+  {
+    "idmiejscowosc": "0049839",
+    "nazwa": "Włóczykijówka"
+  },
+  {
+    "idmiejscowosc": "0049845",
+    "nazwa": "Wojtankówka"
+  },
+  {
+    "idmiejscowosc": "0050104",
+    "nazwa": "Worownikówka"
+  },
+  {
+    "idmiejscowosc": "0048946",
+    "nazwa": "Wronówka"
+  },
+  {
+    "idmiejscowosc": "0050653",
+    "nazwa": "Wrzodkówka"
+  },
+  {
+    "idmiejscowosc": "0050506",
+    "nazwa": "Zachełmna"
+  },
+  {
+    "idmiejscowosc": "0050498",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0050127",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0048952",
+    "nazwa": "Zagrody"
+  },
+  {
+    "idmiejscowosc": "0050133",
+    "nazwa": "Zagrody Górne"
+  },
+  {
+    "idmiejscowosc": "0050140",
+    "nazwa": "Zającówka"
+  },
+  {
+    "idmiejscowosc": "0049851",
+    "nazwa": "Zającówka"
+  },
+  {
+    "idmiejscowosc": "0048969",
+    "nazwa": "Zarębówka"
+  },
+  {
+    "idmiejscowosc": "0049880",
+    "nazwa": "Zimzielówka"
+  },
+  {
+    "idmiejscowosc": "0050156",
+    "nazwa": "Zmarzówka"
+  },
+  {
+    "idmiejscowosc": "0050660",
+    "nazwa": "Żmudówka"
+  }
+]

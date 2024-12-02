@@ -1,0 +1,292 @@
+[
+  {
+    "idulica": "48488",
+    "nazwa": "Aleja Polskiej Organizacji Wojskowej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39155",
+    "nazwa": "Aleja Powstańców Warszawy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "56533",
+    "nazwa": "Aleja Samorządu Terytorialnego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39018",
+    "nazwa": "Aleja Topolowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00215",
+    "nazwa": "Aleje Jerozolimskie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00569",
+    "nazwa": "Krzysztofa Kamila Baczyńskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00864",
+    "nazwa": "Baśniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01044",
+    "nazwa": "Berberysowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01528",
+    "nazwa": "Boczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01554",
+    "nazwa": "Stanisława Bodycha",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02541",
+    "nazwa": "Calineczki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03283",
+    "nazwa": "Stefana Czarnieckiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03596",
+    "nazwa": "Gustawa Daniłowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03773",
+    "nazwa": "Dereniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04572",
+    "nazwa": "Działkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26839",
+    "nazwa": "Ekologiczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05025",
+    "nazwa": "Fioletowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05040",
+    "nazwa": "Firmowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "35448",
+    "nazwa": "Fregaty",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06075",
+    "nazwa": "Graniczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06608",
+    "nazwa": "Herbaciana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07290",
+    "nazwa": "Jarzębinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07298",
+    "nazwa": "Jasia i Małgosi",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09261",
+    "nazwa": "Kopciuszka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09644",
+    "nazwa": "Kotwiczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09871",
+    "nazwa": "Józefa Ignacego Kraszewskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09987",
+    "nazwa": "Królewska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32102",
+    "nazwa": "Królowej Śniegu",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10009",
+    "nazwa": "Krótka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10324",
+    "nazwa": "Kuchy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11898",
+    "nazwa": "Ferdynanda Magellana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29925",
+    "nazwa": "Małego Księcia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12695",
+    "nazwa": "Michała",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12870",
+    "nazwa": "Miętowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13296",
+    "nazwa": "Morska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14050",
+    "nazwa": "Nawigacyjna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15211",
+    "nazwa": "Elizy Orzeszkowej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "61258",
+    "nazwa": "Park im. Ludwika Trylskiego",
+    "rodzaj": "park"
+  },
+  {
+    "idulica": "26744",
+    "nazwa": "Piotrusia Pana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16448",
+    "nazwa": "Platanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17577",
+    "nazwa": "Bolesława Prusa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18006",
+    "nazwa": "Przytorowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18556",
+    "nazwa": "Regulska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "62125",
+    "nazwa": "Roszpunki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19099",
+    "nazwa": "Rumuńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60050",
+    "nazwa": "Ścieżka im. Piątki z Michałowic",
+    "rodzaj": "inne"
+  },
+  {
+    "idulica": "61235",
+    "nazwa": "Ścieżka im. Vico nel Lazio",
+    "rodzaj": "inne"
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "61548",
+    "nazwa": "Słoneczne Stawy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21150",
+    "nazwa": "Sternicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22894",
+    "nazwa": "Torfowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24048",
+    "nazwa": "Wiejska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25316",
+    "nazwa": "Zaciszna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58724",
+    "nazwa": "Żeglugi Powietrznej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26081",
+    "nazwa": "Zielona",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26201",
+    "nazwa": "Złotej Rybki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26635",
+    "nazwa": "Żytnia",
+    "rodzaj": "ul."
+  }
+]

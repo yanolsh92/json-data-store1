@@ -1,0 +1,326 @@
+[
+  {
+    "idmiejscowosc": "0804649",
+    "nazwa": "Antoniów"
+  },
+  {
+    "idmiejscowosc": "0805407",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0805057",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0804856",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0804655",
+    "nazwa": "Brzeźnik"
+  },
+  {
+    "idmiejscowosc": "0805258",
+    "nazwa": "Brzostków"
+  },
+  {
+    "idmiejscowosc": "0804690",
+    "nazwa": "Chwałowice"
+  },
+  {
+    "idmiejscowosc": "0804891",
+    "nazwa": "Czarne"
+  },
+  {
+    "idmiejscowosc": "0805034",
+    "nazwa": "Czekaj Pniowski"
+  },
+  {
+    "idmiejscowosc": "0805063",
+    "nazwa": "Ćwierci"
+  },
+  {
+    "idmiejscowosc": "0804804",
+    "nazwa": "Dąbrowa Rzeczycka"
+  },
+  {
+    "idmiejscowosc": "0804840",
+    "nazwa": "Dąbrówka Pniowska"
+  },
+  {
+    "idmiejscowosc": "0804980",
+    "nazwa": "Doły"
+  },
+  {
+    "idmiejscowosc": "0804709",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0804916",
+    "nazwa": "Gać"
+  },
+  {
+    "idmiejscowosc": "0805413",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0804810",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0804922",
+    "nazwa": "Grądy"
+  },
+  {
+    "idmiejscowosc": "0804767",
+    "nazwa": "Grudza"
+  },
+  {
+    "idmiejscowosc": "0804862",
+    "nazwa": "Jabrządki"
+  },
+  {
+    "idmiejscowosc": "0804885",
+    "nazwa": "Kępa Rzeczycka"
+  },
+  {
+    "idmiejscowosc": "0805324",
+    "nazwa": "Kołowrót"
+  },
+  {
+    "idmiejscowosc": "0805330",
+    "nazwa": "Komorniki"
+  },
+  {
+    "idmiejscowosc": "0805070",
+    "nazwa": "Koniec"
+  },
+  {
+    "idmiejscowosc": "0804879",
+    "nazwa": "Kozia Polska"
+  },
+  {
+    "idmiejscowosc": "0804939",
+    "nazwa": "Lipicze"
+  },
+  {
+    "idmiejscowosc": "0804773",
+    "nazwa": "Ludwin"
+  },
+  {
+    "idmiejscowosc": "0804780",
+    "nazwa": "Łążek Chwałowski"
+  },
+  {
+    "idmiejscowosc": "0804945",
+    "nazwa": "Łysa Górka"
+  },
+  {
+    "idmiejscowosc": "0805123",
+    "nazwa": "Majdan"
+  },
+  {
+    "idmiejscowosc": "0805264",
+    "nazwa": "Mała Połać"
+  },
+  {
+    "idmiejscowosc": "0805270",
+    "nazwa": "Maźnica"
+  },
+  {
+    "idmiejscowosc": "0805130",
+    "nazwa": "Mierchówka"
+  },
+  {
+    "idmiejscowosc": "0805181",
+    "nazwa": "Musików"
+  },
+  {
+    "idmiejscowosc": "0804827",
+    "nazwa": "Nad Jeziorem"
+  },
+  {
+    "idmiejscowosc": "0805347",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0804715",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0804900",
+    "nazwa": "Nowiny"
+  },
+  {
+    "idmiejscowosc": "0804997",
+    "nazwa": "Ogrojec"
+  },
+  {
+    "idmiejscowosc": "0804974",
+    "nazwa": "Orzechów"
+  },
+  {
+    "idmiejscowosc": "0805287",
+    "nazwa": "Ostrówek"
+  },
+  {
+    "idmiejscowosc": "0805206",
+    "nazwa": "Pasternik"
+  },
+  {
+    "idmiejscowosc": "0805086",
+    "nazwa": "Piasek"
+  },
+  {
+    "idmiejscowosc": "0804951",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0805011",
+    "nazwa": "Pniów"
+  },
+  {
+    "idmiejscowosc": "0805212",
+    "nazwa": "Pod Górką"
+  },
+  {
+    "idmiejscowosc": "0805229",
+    "nazwa": "Pod Jeziorem"
+  },
+  {
+    "idmiejscowosc": "0805092",
+    "nazwa": "Pod Kościołem"
+  },
+  {
+    "idmiejscowosc": "0804721",
+    "nazwa": "Podedwór"
+  },
+  {
+    "idmiejscowosc": "0805146",
+    "nazwa": "Podkarczmie"
+  },
+  {
+    "idmiejscowosc": "0805152",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0804796",
+    "nazwa": "Popowice"
+  },
+  {
+    "idmiejscowosc": "0805353",
+    "nazwa": "Przymiarki"
+  },
+  {
+    "idmiejscowosc": "0805040",
+    "nazwa": "Radomyśl nad Sanem"
+  },
+  {
+    "idmiejscowosc": "0804738",
+    "nazwa": "Rakówka"
+  },
+  {
+    "idmiejscowosc": "0804744",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0805100",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0805117",
+    "nazwa": "Rzeczyca Długa"
+  },
+  {
+    "idmiejscowosc": "0805198",
+    "nazwa": "Rzeczyca Okrągła"
+  },
+  {
+    "idmiejscowosc": "0805169",
+    "nazwa": "Sadzawki"
+  },
+  {
+    "idmiejscowosc": "0804661",
+    "nazwa": "Siajówka"
+  },
+  {
+    "idmiejscowosc": "0804833",
+    "nazwa": "Tracze"
+  },
+  {
+    "idmiejscowosc": "0805360",
+    "nazwa": "Turki"
+  },
+  {
+    "idmiejscowosc": "0805235",
+    "nazwa": "U Linii"
+  },
+  {
+    "idmiejscowosc": "0805293",
+    "nazwa": "Wistki"
+  },
+  {
+    "idmiejscowosc": "0805241",
+    "nazwa": "Witkowice"
+  },
+  {
+    "idmiejscowosc": "0804678",
+    "nazwa": "Wola Antoniowska"
+  },
+  {
+    "idmiejscowosc": "0805318",
+    "nazwa": "Wola Rzeczycka"
+  },
+  {
+    "idmiejscowosc": "0805028",
+    "nazwa": "Wygoda"
+  },
+  {
+    "idmiejscowosc": "0804750",
+    "nazwa": "Wygoda"
+  },
+  {
+    "idmiejscowosc": "0805005",
+    "nazwa": "Wygony"
+  },
+  {
+    "idmiejscowosc": "0804684",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0805420",
+    "nazwa": "Zagroble"
+  },
+  {
+    "idmiejscowosc": "0804968",
+    "nazwa": "Zagroble"
+  },
+  {
+    "idmiejscowosc": "0805376",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0805436",
+    "nazwa": "Zagumnie"
+  },
+  {
+    "idmiejscowosc": "0805442",
+    "nazwa": "Zajezierze"
+  },
+  {
+    "idmiejscowosc": "0805382",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0805175",
+    "nazwa": "Zastruże"
+  },
+  {
+    "idmiejscowosc": "0805301",
+    "nazwa": "Zaświęcie"
+  },
+  {
+    "idmiejscowosc": "0805399",
+    "nazwa": "Żabno"
+  }
+]

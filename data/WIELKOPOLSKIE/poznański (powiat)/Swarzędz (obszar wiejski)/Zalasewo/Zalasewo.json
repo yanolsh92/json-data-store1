@@ -1,0 +1,482 @@
+[
+  {
+    "idulica": "00148",
+    "nazwa": "Agrestowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00266",
+    "nazwa": "Ametystowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00316",
+    "nazwa": "Angielska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31886",
+    "nazwa": "Armii Poznań",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00473",
+    "nazwa": "Astronomiczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31214",
+    "nazwa": "Austriacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00979",
+    "nazwa": "Belgijska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01874",
+    "nazwa": "Borówkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01920",
+    "nazwa": "Botaniczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02566",
+    "nazwa": "Cedrowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02859",
+    "nazwa": "Chorwacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03212",
+    "nazwa": "Cytrusowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03450",
+    "nazwa": "Czeska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03782",
+    "nazwa": "Deszczowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04405",
+    "nazwa": "Duńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32122",
+    "nazwa": "Europejski",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "04981",
+    "nazwa": "Figowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05023",
+    "nazwa": "Fińska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05154",
+    "nazwa": "Francuska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05283",
+    "nazwa": "Galileusza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05553",
+    "nazwa": "Glebowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06091",
+    "nazwa": "Grecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "55262",
+    "nazwa": "Harmonia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06562",
+    "nazwa": "Hebanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06643",
+    "nazwa": "Jana Heweliusza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06669",
+    "nazwa": "Hiszpańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06697",
+    "nazwa": "Holenderska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06929",
+    "nazwa": "Irlandzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07562",
+    "nazwa": "Jeżynowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08323",
+    "nazwa": "Jana Keplera",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08772",
+    "nazwa": "Kokosowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09769",
+    "nazwa": "Kórnicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "43181",
+    "nazwa": "prof. Ryszarda Kosteckiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09490",
+    "nazwa": "prof. Józefa Kostrzewskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10538",
+    "nazwa": "Kwarcowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10909",
+    "nazwa": "Leśne",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "11223",
+    "nazwa": "Litewska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11687",
+    "nazwa": "Łotewska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11919",
+    "nazwa": "Mahoniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13211",
+    "nazwa": "Mokra",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14181",
+    "nazwa": "Niemiecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14316",
+    "nazwa": "Norweska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "59410",
+    "nazwa": "Ofiar napaści na Ukrainę 2022",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "15202",
+    "nazwa": "Orzechowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15479",
+    "nazwa": "Owocowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15578",
+    "nazwa": "Palisandrowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15832",
+    "nazwa": "Pawia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15953",
+    "nazwa": "Perłowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16164",
+    "nazwa": "Piesza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39645",
+    "nazwa": "Piknikowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16425",
+    "nazwa": "Planetarna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "34376",
+    "nazwa": "Pod Gwiazdami",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17030",
+    "nazwa": "Polska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17220",
+    "nazwa": "Portugalska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58843",
+    "nazwa": "Powstańców Wielkopolskich Ziemi Swarzędzkiej",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "17390",
+    "nazwa": "Poziomkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17534",
+    "nazwa": "Promienna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18039",
+    "nazwa": "Pszczelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18322",
+    "nazwa": "Radosna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36505",
+    "nazwa": "Józefa Rivoliego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18903",
+    "nazwa": "Roślinna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32123",
+    "nazwa": "Rosyjska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "18985",
+    "nazwa": "Równa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19339",
+    "nazwa": "Rzepakowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58426",
+    "nazwa": "Sarmackie",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "19692",
+    "nazwa": "Serdeczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19802",
+    "nazwa": "Sielska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19891",
+    "nazwa": "Siewna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20043",
+    "nazwa": "Skibowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20282",
+    "nazwa": "Słowacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20641",
+    "nazwa": "Spacerowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20732",
+    "nazwa": "Srebrna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22414",
+    "nazwa": "Średzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29728",
+    "nazwa": "Tadeusza Staniewskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "55494",
+    "nazwa": "Szarych Szeregów",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "21846",
+    "nazwa": "Szczęśliwa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22003",
+    "nazwa": "Szmaragdowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22169",
+    "nazwa": "Szwajcarska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22179",
+    "nazwa": "Szwedzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "52400",
+    "nazwa": "Tarasowe",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "22947",
+    "nazwa": "Transportowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23033",
+    "nazwa": "Truskawkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23160",
+    "nazwa": "Turkusowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23327",
+    "nazwa": "Ukośna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23328",
+    "nazwa": "Ukraińska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "51261",
+    "nazwa": "Ułańskie",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "23923",
+    "nazwa": "Węgierska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23884",
+    "nazwa": "Wesoła",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "36842",
+    "nazwa": "Wielkopolskie",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "58427",
+    "nazwa": "Wiktoriańskie",
+    "rodzaj": "os."
+  },
+  {
+    "idulica": "24524",
+    "nazwa": "Włoska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24885",
+    "nazwa": "Wspólna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25028",
+    "nazwa": "Wypoczynkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25345",
+    "nazwa": "Zagajnikowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25494",
+    "nazwa": "Zaleśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58428",
+    "nazwa": "Władysława Zamoyskiego",
+    "rodzaj": "os."
+  }
+]

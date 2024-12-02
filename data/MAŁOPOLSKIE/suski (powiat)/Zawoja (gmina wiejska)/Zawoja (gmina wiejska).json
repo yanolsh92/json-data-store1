@@ -1,0 +1,974 @@
+[
+  {
+    "idmiejscowosc": "0077362",
+    "nazwa": "Bajerska Maszyna"
+  },
+  {
+    "idmiejscowosc": "0994578",
+    "nazwa": "Barankowa"
+  },
+  {
+    "idmiejscowosc": "0077712",
+    "nazwa": "Barany"
+  },
+  {
+    "idmiejscowosc": "0994584",
+    "nazwa": "Barańce"
+  },
+  {
+    "idmiejscowosc": "0077729",
+    "nazwa": "Barańcowa"
+  },
+  {
+    "idmiejscowosc": "0077735",
+    "nazwa": "Bartyzele"
+  },
+  {
+    "idmiejscowosc": "0994590",
+    "nazwa": "Beskid"
+  },
+  {
+    "idmiejscowosc": "0077379",
+    "nazwa": "Bębny Dolne"
+  },
+  {
+    "idmiejscowosc": "0077385",
+    "nazwa": "Bębny Górne"
+  },
+  {
+    "idmiejscowosc": "0994609",
+    "nazwa": "Bielasy"
+  },
+  {
+    "idmiejscowosc": "0077741",
+    "nazwa": "Błędna"
+  },
+  {
+    "idmiejscowosc": "0077391",
+    "nazwa": "Borowi"
+  },
+  {
+    "idmiejscowosc": "0994615",
+    "nazwa": "Bory"
+  },
+  {
+    "idmiejscowosc": "0077400",
+    "nazwa": "Brzeg"
+  },
+  {
+    "idmiejscowosc": "0994621",
+    "nazwa": "Bubiaki"
+  },
+  {
+    "idmiejscowosc": "0994638",
+    "nazwa": "Bubiakowa"
+  },
+  {
+    "idmiejscowosc": "0077758",
+    "nazwa": "Buczyna"
+  },
+  {
+    "idmiejscowosc": "0994644",
+    "nazwa": "Budowna"
+  },
+  {
+    "idmiejscowosc": "0077764",
+    "nazwa": "Budzonie"
+  },
+  {
+    "idmiejscowosc": "0994650",
+    "nazwa": "Buki"
+  },
+  {
+    "idmiejscowosc": "0077770",
+    "nazwa": "Burdele"
+  },
+  {
+    "idmiejscowosc": "0994667",
+    "nazwa": "Burdyle"
+  },
+  {
+    "idmiejscowosc": "0994673",
+    "nazwa": "Centrum"
+  },
+  {
+    "idmiejscowosc": "0077882",
+    "nazwa": "Chopy"
+  },
+  {
+    "idmiejscowosc": "0077416",
+    "nazwa": "Chowaniacy"
+  },
+  {
+    "idmiejscowosc": "0077793",
+    "nazwa": "Cioćki"
+  },
+  {
+    "idmiejscowosc": "0994680",
+    "nazwa": "Cyrchel"
+  },
+  {
+    "idmiejscowosc": "0994696",
+    "nazwa": "Cyrhel"
+  },
+  {
+    "idmiejscowosc": "0077801",
+    "nazwa": "Czarnotowa"
+  },
+  {
+    "idmiejscowosc": "0077818",
+    "nazwa": "Czatoża"
+  },
+  {
+    "idmiejscowosc": "0077422",
+    "nazwa": "Diabli Młyn"
+  },
+  {
+    "idmiejscowosc": "0077824",
+    "nazwa": "Dolina"
+  },
+  {
+    "idmiejscowosc": "0994704",
+    "nazwa": "Dolina"
+  },
+  {
+    "idmiejscowosc": "0077830",
+    "nazwa": "Dolinka"
+  },
+  {
+    "idmiejscowosc": "0077439",
+    "nazwa": "Fiedorówka"
+  },
+  {
+    "idmiejscowosc": "0077847",
+    "nazwa": "Figury"
+  },
+  {
+    "idmiejscowosc": "1050780",
+    "nazwa": "Fitkówka"
+  },
+  {
+    "idmiejscowosc": "0077445",
+    "nazwa": "Franule"
+  },
+  {
+    "idmiejscowosc": "0994710",
+    "nazwa": "Frontowo"
+  },
+  {
+    "idmiejscowosc": "0077451",
+    "nazwa": "Fujacy"
+  },
+  {
+    "idmiejscowosc": "0077853",
+    "nazwa": "Gajówka"
+  },
+  {
+    "idmiejscowosc": "0077474",
+    "nazwa": "Gawły"
+  },
+  {
+    "idmiejscowosc": "0077480",
+    "nazwa": "Giertugi"
+  },
+  {
+    "idmiejscowosc": "0994727",
+    "nazwa": "Giertugowa"
+  },
+  {
+    "idmiejscowosc": "0077860",
+    "nazwa": "Gliśnica"
+  },
+  {
+    "idmiejscowosc": "0077876",
+    "nazwa": "Gołynia"
+  },
+  {
+    "idmiejscowosc": "0994733",
+    "nazwa": "Górnica"
+  },
+  {
+    "idmiejscowosc": "0994740",
+    "nazwa": "Granica"
+  },
+  {
+    "idmiejscowosc": "0994756",
+    "nazwa": "Gronik"
+  },
+  {
+    "idmiejscowosc": "0077899",
+    "nazwa": "Hrabkowa"
+  },
+  {
+    "idmiejscowosc": "0077221",
+    "nazwa": "Hucisko"
+  },
+  {
+    "idmiejscowosc": "0077907",
+    "nazwa": "Hujdowa"
+  },
+  {
+    "idmiejscowosc": "0077468",
+    "nazwa": "Hujdy"
+  },
+  {
+    "idmiejscowosc": "0077913",
+    "nazwa": "Hurbalówka"
+  },
+  {
+    "idmiejscowosc": "0077920",
+    "nazwa": "Hyrb"
+  },
+  {
+    "idmiejscowosc": "0077936",
+    "nazwa": "Jaworskie"
+  },
+  {
+    "idmiejscowosc": "0077959",
+    "nazwa": "Kalina Dolna"
+  },
+  {
+    "idmiejscowosc": "0077965",
+    "nazwa": "Kalina Górna"
+  },
+  {
+    "idmiejscowosc": "0994762",
+    "nazwa": "Kamieńce"
+  },
+  {
+    "idmiejscowosc": "0077971",
+    "nazwa": "Kaselówka"
+  },
+  {
+    "idmiejscowosc": "0077988",
+    "nazwa": "Kącina"
+  },
+  {
+    "idmiejscowosc": "0077497",
+    "nazwa": "Kąkole"
+  },
+  {
+    "idmiejscowosc": "0994779",
+    "nazwa": "Kąkolowa"
+  },
+  {
+    "idmiejscowosc": "0077994",
+    "nazwa": "Kiczora"
+  },
+  {
+    "idmiejscowosc": "0994785",
+    "nazwa": "Kiczorka"
+  },
+  {
+    "idmiejscowosc": "0994791",
+    "nazwa": "Kiecka"
+  },
+  {
+    "idmiejscowosc": "0994800",
+    "nazwa": "Kijakowa"
+  },
+  {
+    "idmiejscowosc": "0994816",
+    "nazwa": "Kobiele"
+  },
+  {
+    "idmiejscowosc": "0078002",
+    "nazwa": "Kolędówka"
+  },
+  {
+    "idmiejscowosc": "0994822",
+    "nazwa": "Kolisty Groń"
+  },
+  {
+    "idmiejscowosc": "0994839",
+    "nazwa": "Koszorek"
+  },
+  {
+    "idmiejscowosc": "0994845",
+    "nazwa": "Kowalowa"
+  },
+  {
+    "idmiejscowosc": "0077505",
+    "nazwa": "Koziny"
+  },
+  {
+    "idmiejscowosc": "0078019",
+    "nazwa": "Krzemienna"
+  },
+  {
+    "idmiejscowosc": "0077511",
+    "nazwa": "Krzonka"
+  },
+  {
+    "idmiejscowosc": "0078025",
+    "nazwa": "Księża Polana"
+  },
+  {
+    "idmiejscowosc": "0078031",
+    "nazwa": "Kudłata"
+  },
+  {
+    "idmiejscowosc": "0078048",
+    "nazwa": "Kudzie"
+  },
+  {
+    "idmiejscowosc": "0994851",
+    "nazwa": "Kukle"
+  },
+  {
+    "idmiejscowosc": "0994868",
+    "nazwa": "Kuklowa"
+  },
+  {
+    "idmiejscowosc": "0994874",
+    "nazwa": "Kwiatek"
+  },
+  {
+    "idmiejscowosc": "0994880",
+    "nazwa": "Lachy"
+  },
+  {
+    "idmiejscowosc": "0077528",
+    "nazwa": "Limierzyska"
+  },
+  {
+    "idmiejscowosc": "0994897",
+    "nazwa": "Limów"
+  },
+  {
+    "idmiejscowosc": "0078054",
+    "nazwa": "Łabędzie"
+  },
+  {
+    "idmiejscowosc": "0077534",
+    "nazwa": "Łatki"
+  },
+  {
+    "idmiejscowosc": "0078060",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0078083",
+    "nazwa": "Madziarowa"
+  },
+  {
+    "idmiejscowosc": "0994905",
+    "nazwa": "Magurka"
+  },
+  {
+    "idmiejscowosc": "0078090",
+    "nazwa": "Makosiowa"
+  },
+  {
+    "idmiejscowosc": "0994911",
+    "nazwa": "Malicka"
+  },
+  {
+    "idmiejscowosc": "0077540",
+    "nazwa": "Maliki"
+  },
+  {
+    "idmiejscowosc": "0077557",
+    "nazwa": "Malikowa"
+  },
+  {
+    "idmiejscowosc": "0994928",
+    "nazwa": "Maliny"
+  },
+  {
+    "idmiejscowosc": "0994934",
+    "nazwa": "Marki"
+  },
+  {
+    "idmiejscowosc": "0078108",
+    "nazwa": "Markowa"
+  },
+  {
+    "idmiejscowosc": "0078114",
+    "nazwa": "Markowe Szczawiny"
+  },
+  {
+    "idmiejscowosc": "0077563",
+    "nazwa": "Marszałki"
+  },
+  {
+    "idmiejscowosc": "0078120",
+    "nazwa": "Maryniacy"
+  },
+  {
+    "idmiejscowosc": "0994940",
+    "nazwa": "Masówka"
+  },
+  {
+    "idmiejscowosc": "0994957",
+    "nazwa": "Mazurowy Potok"
+  },
+  {
+    "idmiejscowosc": "0077570",
+    "nazwa": "Mazury"
+  },
+  {
+    "idmiejscowosc": "0078137",
+    "nazwa": "Mętle"
+  },
+  {
+    "idmiejscowosc": "0078143",
+    "nazwa": "Miłosierna"
+  },
+  {
+    "idmiejscowosc": "0078150",
+    "nazwa": "Miśkowce"
+  },
+  {
+    "idmiejscowosc": "0994963",
+    "nazwa": "Mleczna"
+  },
+  {
+    "idmiejscowosc": "0994970",
+    "nazwa": "Morawy"
+  },
+  {
+    "idmiejscowosc": "0078166",
+    "nazwa": "Morgi"
+  },
+  {
+    "idmiejscowosc": "0078172",
+    "nazwa": "Mosorne"
+  },
+  {
+    "idmiejscowosc": "0994986",
+    "nazwa": "Można"
+  },
+  {
+    "idmiejscowosc": "0994992",
+    "nazwa": "Mylne Młaki"
+  },
+  {
+    "idmiejscowosc": "0995000",
+    "nazwa": "Na Biskupce"
+  },
+  {
+    "idmiejscowosc": "0995017",
+    "nazwa": "Na Dzwonku"
+  },
+  {
+    "idmiejscowosc": "0995023",
+    "nazwa": "Na Madejce"
+  },
+  {
+    "idmiejscowosc": "0077238",
+    "nazwa": "Na Matusowej"
+  },
+  {
+    "idmiejscowosc": "0077244",
+    "nazwa": "Na Pabisce"
+  },
+  {
+    "idmiejscowosc": "0077250",
+    "nazwa": "Na Patoręcznej"
+  },
+  {
+    "idmiejscowosc": "0077267",
+    "nazwa": "Na Tokarnem"
+  },
+  {
+    "idmiejscowosc": "0078189",
+    "nazwa": "Norczak"
+  },
+  {
+    "idmiejscowosc": "0995030",
+    "nazwa": "Nowe Osiedle"
+  },
+  {
+    "idmiejscowosc": "0077586",
+    "nazwa": "Obidowa"
+  },
+  {
+    "idmiejscowosc": "0077273",
+    "nazwa": "Oblica"
+  },
+  {
+    "idmiejscowosc": "0995046",
+    "nazwa": "Obłapiana"
+  },
+  {
+    "idmiejscowosc": "0995052",
+    "nazwa": "Obłaźna"
+  },
+  {
+    "idmiejscowosc": "0995069",
+    "nazwa": "Ogon"
+  },
+  {
+    "idmiejscowosc": "0078195",
+    "nazwa": "Opaczne"
+  },
+  {
+    "idmiejscowosc": "0077592",
+    "nazwa": "Pająki"
+  },
+  {
+    "idmiejscowosc": "0995075",
+    "nazwa": "Pająkówka"
+  },
+  {
+    "idmiejscowosc": "0078203",
+    "nazwa": "Paluchówka"
+  },
+  {
+    "idmiejscowosc": "0995081",
+    "nazwa": "Pasieka"
+  },
+  {
+    "idmiejscowosc": "0995098",
+    "nazwa": "Petułowa"
+  },
+  {
+    "idmiejscowosc": "0078210",
+    "nazwa": "Piątkowa"
+  },
+  {
+    "idmiejscowosc": "0077600",
+    "nazwa": "Piergiesi"
+  },
+  {
+    "idmiejscowosc": "0077617",
+    "nazwa": "Piergiesowe Polanki"
+  },
+  {
+    "idmiejscowosc": "0995106",
+    "nazwa": "Płasonie"
+  },
+  {
+    "idmiejscowosc": "0995112",
+    "nazwa": "Pod Brzegiem"
+  },
+  {
+    "idmiejscowosc": "0995135",
+    "nazwa": "Pod Grapą"
+  },
+  {
+    "idmiejscowosc": "0995141",
+    "nazwa": "Pod Grapą"
+  },
+  {
+    "idmiejscowosc": "0995129",
+    "nazwa": "Pod Grapą"
+  },
+  {
+    "idmiejscowosc": "0078226",
+    "nazwa": "Pod Kiczorką"
+  },
+  {
+    "idmiejscowosc": "0995158",
+    "nazwa": "Pod Polaną"
+  },
+  {
+    "idmiejscowosc": "0995164",
+    "nazwa": "Pod Polaną"
+  },
+  {
+    "idmiejscowosc": "0995170",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0078232",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0995187",
+    "nazwa": "Podpolice"
+  },
+  {
+    "idmiejscowosc": "0995193",
+    "nazwa": "Podryżowana"
+  },
+  {
+    "idmiejscowosc": "0995201",
+    "nazwa": "Podsot"
+  },
+  {
+    "idmiejscowosc": "0995218",
+    "nazwa": "Podświaniarka"
+  },
+  {
+    "idmiejscowosc": "0995224",
+    "nazwa": "Polaki"
+  },
+  {
+    "idmiejscowosc": "0995230",
+    "nazwa": "Polana"
+  },
+  {
+    "idmiejscowosc": "0078249",
+    "nazwa": "Polanki"
+  },
+  {
+    "idmiejscowosc": "0078255",
+    "nazwa": "Policzne"
+  },
+  {
+    "idmiejscowosc": "0078261",
+    "nazwa": "Przysłop"
+  },
+  {
+    "idmiejscowosc": "0077623",
+    "nazwa": "Pyciakowa"
+  },
+  {
+    "idmiejscowosc": "0078278",
+    "nazwa": "Rąbaniska"
+  },
+  {
+    "idmiejscowosc": "0077630",
+    "nazwa": "Rybna"
+  },
+  {
+    "idmiejscowosc": "0078284",
+    "nazwa": "Ryżowana"
+  },
+  {
+    "idmiejscowosc": "0078290",
+    "nazwa": "Sałaciaki"
+  },
+  {
+    "idmiejscowosc": "0995247",
+    "nazwa": "Sitarka"
+  },
+  {
+    "idmiejscowosc": "0995253",
+    "nazwa": "Sitarze"
+  },
+  {
+    "idmiejscowosc": "0078309",
+    "nazwa": "Sitkówka"
+  },
+  {
+    "idmiejscowosc": "0076990",
+    "nazwa": "Skawica"
+  },
+  {
+    "idmiejscowosc": "0078315",
+    "nazwa": "Składy"
+  },
+  {
+    "idmiejscowosc": "0995260",
+    "nazwa": "Skupnie"
+  },
+  {
+    "idmiejscowosc": "0078321",
+    "nazwa": "Skutowa"
+  },
+  {
+    "idmiejscowosc": "0078338",
+    "nazwa": "Smyraki"
+  },
+  {
+    "idmiejscowosc": "0077008",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0077652",
+    "nazwa": "Stolarka"
+  },
+  {
+    "idmiejscowosc": "0995276",
+    "nazwa": "Stonów"
+  },
+  {
+    "idmiejscowosc": "0078350",
+    "nazwa": "Stróże"
+  },
+  {
+    "idmiejscowosc": "0077280",
+    "nazwa": "Sucha Góra"
+  },
+  {
+    "idmiejscowosc": "0077669",
+    "nazwa": "Sule"
+  },
+  {
+    "idmiejscowosc": "0078367",
+    "nazwa": "Surmiaki"
+  },
+  {
+    "idmiejscowosc": "0995282",
+    "nazwa": "Surzyny"
+  },
+  {
+    "idmiejscowosc": "0078373",
+    "nazwa": "Swalisko"
+  },
+  {
+    "idmiejscowosc": "0077675",
+    "nazwa": "Szczurki"
+  },
+  {
+    "idmiejscowosc": "0995299",
+    "nazwa": "Szczurkówka"
+  },
+  {
+    "idmiejscowosc": "0995307",
+    "nazwa": "Śmietany"
+  },
+  {
+    "idmiejscowosc": "0078344",
+    "nazwa": "Śpikówka"
+  },
+  {
+    "idmiejscowosc": "0995313",
+    "nazwa": "Średnie"
+  },
+  {
+    "idmiejscowosc": "0995320",
+    "nazwa": "Świniarka"
+  },
+  {
+    "idmiejscowosc": "0995336",
+    "nazwa": "Toczki"
+  },
+  {
+    "idmiejscowosc": "0995342",
+    "nazwa": "Topory"
+  },
+  {
+    "idmiejscowosc": "0995359",
+    "nazwa": "Trybały"
+  },
+  {
+    "idmiejscowosc": "0995365",
+    "nazwa": "Trzebuniaki"
+  },
+  {
+    "idmiejscowosc": "0077020",
+    "nazwa": "U Barana"
+  },
+  {
+    "idmiejscowosc": "0077296",
+    "nazwa": "U Bartonków"
+  },
+  {
+    "idmiejscowosc": "0077037",
+    "nazwa": "U Buby Dolnego"
+  },
+  {
+    "idmiejscowosc": "0077043",
+    "nazwa": "U Buby Górnego"
+  },
+  {
+    "idmiejscowosc": "0077050",
+    "nazwa": "U Czarnego"
+  },
+  {
+    "idmiejscowosc": "0995371",
+    "nazwa": "U Ficków Dolnych"
+  },
+  {
+    "idmiejscowosc": "0077066",
+    "nazwa": "U Ficków Górnych"
+  },
+  {
+    "idmiejscowosc": "0077072",
+    "nazwa": "U Fiedora"
+  },
+  {
+    "idmiejscowosc": "0077089",
+    "nazwa": "U Franczaka"
+  },
+  {
+    "idmiejscowosc": "0995388",
+    "nazwa": "U Kani"
+  },
+  {
+    "idmiejscowosc": "0077095",
+    "nazwa": "U Kocura"
+  },
+  {
+    "idmiejscowosc": "0077304",
+    "nazwa": "U Kocurków"
+  },
+  {
+    "idmiejscowosc": "0995394",
+    "nazwa": "U Kowali"
+  },
+  {
+    "idmiejscowosc": "0077103",
+    "nazwa": "U Majerza"
+  },
+  {
+    "idmiejscowosc": "0077340",
+    "nazwa": "U Małysy"
+  },
+  {
+    "idmiejscowosc": "0077110",
+    "nazwa": "U Małysy"
+  },
+  {
+    "idmiejscowosc": "0077126",
+    "nazwa": "U Migasa"
+  },
+  {
+    "idmiejscowosc": "0077310",
+    "nazwa": "U Orawców"
+  },
+  {
+    "idmiejscowosc": "0077132",
+    "nazwa": "U Pacygi"
+  },
+  {
+    "idmiejscowosc": "0077149",
+    "nazwa": "U Palucha"
+  },
+  {
+    "idmiejscowosc": "0995402",
+    "nazwa": "U Rusina"
+  },
+  {
+    "idmiejscowosc": "0995419",
+    "nazwa": "U Sarleja"
+  },
+  {
+    "idmiejscowosc": "0077155",
+    "nazwa": "U Sitarza"
+  },
+  {
+    "idmiejscowosc": "0077161",
+    "nazwa": "U Skuty"
+  },
+  {
+    "idmiejscowosc": "0995425",
+    "nazwa": "U Sołtysa"
+  },
+  {
+    "idmiejscowosc": "0077014",
+    "nazwa": "U Steca"
+  },
+  {
+    "idmiejscowosc": "0077178",
+    "nazwa": "U Szarleja"
+  },
+  {
+    "idmiejscowosc": "0077327",
+    "nazwa": "U Warty"
+  },
+  {
+    "idmiejscowosc": "0077333",
+    "nazwa": "U Wiechcia"
+  },
+  {
+    "idmiejscowosc": "0077215",
+    "nazwa": "U Wiechcia"
+  },
+  {
+    "idmiejscowosc": "0077184",
+    "nazwa": "U Wojtyczka"
+  },
+  {
+    "idmiejscowosc": "0995431",
+    "nazwa": "U Zaręby"
+  },
+  {
+    "idmiejscowosc": "0077190",
+    "nazwa": "U Zemlika"
+  },
+  {
+    "idmiejscowosc": "0077209",
+    "nazwa": "U Żurka"
+  },
+  {
+    "idmiejscowosc": "0995448",
+    "nazwa": "W Potoku"
+  },
+  {
+    "idmiejscowosc": "0995454",
+    "nazwa": "Wartowa"
+  },
+  {
+    "idmiejscowosc": "0995460",
+    "nazwa": "Warzechówka"
+  },
+  {
+    "idmiejscowosc": "0078380",
+    "nazwa": "Wełcza"
+  },
+  {
+    "idmiejscowosc": "0077681",
+    "nazwa": "Wełczoń"
+  },
+  {
+    "idmiejscowosc": "0077698",
+    "nazwa": "Widły"
+  },
+  {
+    "idmiejscowosc": "0077706",
+    "nazwa": "Wilczna"
+  },
+  {
+    "idmiejscowosc": "0078396",
+    "nazwa": "Włosianka"
+  },
+  {
+    "idmiejscowosc": "0995477",
+    "nazwa": "Za Groniem"
+  },
+  {
+    "idmiejscowosc": "0995483",
+    "nazwa": "Za Madejką"
+  },
+  {
+    "idmiejscowosc": "0995490",
+    "nazwa": "Za Polaną"
+  },
+  {
+    "idmiejscowosc": "0078077",
+    "nazwa": "Za Potokiem"
+  },
+  {
+    "idmiejscowosc": "0995508",
+    "nazwa": "Za Wodą"
+  },
+  {
+    "idmiejscowosc": "0995514",
+    "nazwa": "Zabór"
+  },
+  {
+    "idmiejscowosc": "0995520",
+    "nazwa": "Zające"
+  },
+  {
+    "idmiejscowosc": "0995537",
+    "nazwa": "Zakamień"
+  },
+  {
+    "idmiejscowosc": "0995543",
+    "nazwa": "Zakopaniec"
+  },
+  {
+    "idmiejscowosc": "0078404",
+    "nazwa": "Zalas"
+  },
+  {
+    "idmiejscowosc": "0995550",
+    "nazwa": "Zaręby"
+  },
+  {
+    "idmiejscowosc": "0077356",
+    "nazwa": "Zawoja"
+  },
+  {
+    "idmiejscowosc": "0995566",
+    "nazwa": "Zemliki"
+  },
+  {
+    "idmiejscowosc": "0995572",
+    "nazwa": "Zielone Osiedle"
+  },
+  {
+    "idmiejscowosc": "0078410",
+    "nazwa": "Zimna Dziura"
+  },
+  {
+    "idmiejscowosc": "0078427",
+    "nazwa": "Żywczaki"
+  }
+]

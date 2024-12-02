@@ -1,0 +1,237 @@
+[
+  {
+    "idulica": "01528",
+    "nazwa": "Boczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01604",
+    "nazwa": "Bogusławska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60080",
+    "nazwa": "Wincentego Brzeskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02245",
+    "nazwa": "Brzeziny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60082",
+    "nazwa": "Mariana Cyconia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03891",
+    "nazwa": "Do Krzyża",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60093",
+    "nazwa": "Dolinki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04058",
+    "nazwa": "Dolnych Młynów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60097",
+    "nazwa": "Dominików",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04446",
+    "nazwa": "Dworska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60078",
+    "nazwa": "Dzielnica",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04870",
+    "nazwa": "Facimiech",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60090",
+    "nazwa": "Głucha Dolina",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60081",
+    "nazwa": "Grabowce",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "52365",
+    "nazwa": "Św. Józefa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07872",
+    "nazwa": "Kamieniec Górny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07879",
+    "nazwa": "Kamienna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60086",
+    "nazwa": "Ignacego Kasprzyka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08565",
+    "nazwa": "Kliny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08828",
+    "nazwa": "Kolejowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60084",
+    "nazwa": "Korzeczków",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60085",
+    "nazwa": "Mała Rówień",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60091",
+    "nazwa": "Maliniki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13132",
+    "nazwa": "Młyńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60100",
+    "nazwa": "Na Głębokie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15026",
+    "nazwa": "Olszyny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15300",
+    "nazwa": "Osiedlowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60098",
+    "nazwa": "Paryje",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60087",
+    "nazwa": "Pierzwia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60088",
+    "nazwa": "Połom Barcicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17168",
+    "nazwa": "Popradzka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60099",
+    "nazwa": "Ludwika Ryszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60083",
+    "nazwa": "Sapieniec",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60092",
+    "nazwa": "Skrajnia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20863",
+    "nazwa": "Stara Droga",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60089",
+    "nazwa": "Wdżary",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24048",
+    "nazwa": "Wiejska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60096",
+    "nazwa": "Wielka Rówień",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29180",
+    "nazwa": "Wierchy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60076",
+    "nazwa": "Ks. Józefa Wirmańskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60079",
+    "nazwa": "Michała Wójcika",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24885",
+    "nazwa": "Wspólna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24987",
+    "nazwa": "Wygon",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60094",
+    "nazwa": "Wyrąb",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25244",
+    "nazwa": "Za Torami",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "60095",
+    "nazwa": "Zabronie",
+    "rodzaj": "ul."
+  }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "idmiejscowosc": "0865119",
+    "nazwa": "Antoniewo"
+  },
+  {
+    "idmiejscowosc": "0865125",
+    "nazwa": "Bagno"
+  },
+  {
+    "idmiejscowosc": "0865177",
+    "nazwa": "Beszyn"
+  },
+  {
+    "idmiejscowosc": "0865183",
+    "nazwa": "Beszynek"
+  },
+  {
+    "idmiejscowosc": "1034805",
+    "nazwa": "Biedawa"
+  },
+  {
+    "idmiejscowosc": "1034811",
+    "nazwa": "Biernatki"
+  },
+  {
+    "idmiejscowosc": "0865272",
+    "nazwa": "Bileńska Kolonia"
+  },
+  {
+    "idmiejscowosc": "0865250",
+    "nazwa": "Bilno"
+  },
+  {
+    "idmiejscowosc": "0865289",
+    "nazwa": "Błędowo"
+  },
+  {
+    "idmiejscowosc": "0865303",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "1034857",
+    "nazwa": "Błota"
+  },
+  {
+    "idmiejscowosc": "0865450",
+    "nazwa": "Borek"
+  },
+  {
+    "idmiejscowosc": "0865131",
+    "nazwa": "Brzeziny"
+  },
+  {
+    "idmiejscowosc": "0865390",
+    "nazwa": "Budy Dąbrowskie"
+  },
+  {
+    "idmiejscowosc": "0865332",
+    "nazwa": "Charchocin"
+  },
+  {
+    "idmiejscowosc": "0865326",
+    "nazwa": "Chojny"
+  },
+  {
+    "idmiejscowosc": "0865958",
+    "nazwa": "Chwalibogowo"
+  },
+  {
+    "idmiejscowosc": "0865384",
+    "nazwa": "Czaple"
+  },
+  {
+    "idmiejscowosc": "0865869",
+    "nazwa": "Czaple Nowe"
+  },
+  {
+    "idmiejscowosc": "0865409",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "1034870",
+    "nazwa": "Długie"
+  },
+  {
+    "idmiejscowosc": "0865645",
+    "nazwa": "Durlaty"
+  },
+  {
+    "idmiejscowosc": "0865415",
+    "nazwa": "Dziankowo"
+  },
+  {
+    "idmiejscowosc": "0865444",
+    "nazwa": "Dziankówek"
+  },
+  {
+    "idmiejscowosc": "0866165",
+    "nazwa": "Dzięcielewo"
+  },
+  {
+    "idmiejscowosc": "0865881",
+    "nazwa": "Gagowy Nowe"
+  },
+  {
+    "idmiejscowosc": "0866018",
+    "nazwa": "Gagowy Stare"
+  },
+  {
+    "idmiejscowosc": "0865473",
+    "nazwa": "Gliznowo"
+  },
+  {
+    "idmiejscowosc": "0865533",
+    "nazwa": "Gocław"
+  },
+  {
+    "idmiejscowosc": "0865496",
+    "nazwa": "Gole"
+  },
+  {
+    "idmiejscowosc": "0865504",
+    "nazwa": "Gole-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0865527",
+    "nazwa": "Golska Huta"
+  },
+  {
+    "idmiejscowosc": "0865540",
+    "nazwa": "Golskie Holendry"
+  },
+  {
+    "idmiejscowosc": "0866076",
+    "nazwa": "Grabina"
+  },
+  {
+    "idmiejscowosc": "0865622",
+    "nazwa": "Henryków"
+  },
+  {
+    "idmiejscowosc": "0866113",
+    "nazwa": "Janowo"
+  },
+  {
+    "idmiejscowosc": "0866194",
+    "nazwa": "Jarząbek"
+  },
+  {
+    "idmiejscowosc": "1034930",
+    "nazwa": "Józefatowo"
+  },
+  {
+    "idmiejscowosc": "0865160",
+    "nazwa": "Kaczawka"
+  },
+  {
+    "idmiejscowosc": "0865556",
+    "nazwa": "Kaliska"
+  },
+  {
+    "idmiejscowosc": "0865480",
+    "nazwa": "Kamienna"
+  },
+  {
+    "idmiejscowosc": "0865591",
+    "nazwa": "Kamienna"
+  },
+  {
+    "idmiejscowosc": "0865639",
+    "nazwa": "Kanibród"
+  },
+  {
+    "idmiejscowosc": "0865674",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0865680",
+    "nazwa": "Kłóbka"
+  },
+  {
+    "idmiejscowosc": "0865697",
+    "nazwa": "Kłóbska Kolonia"
+  },
+  {
+    "idmiejscowosc": "0865349",
+    "nazwa": "Kłóbskie Budy"
+  },
+  {
+    "idmiejscowosc": "0865728",
+    "nazwa": "Kobyla Łąka"
+  },
+  {
+    "idmiejscowosc": "1034952",
+    "nazwa": "Kolcówka"
+  },
+  {
+    "idmiejscowosc": "0865467",
+    "nazwa": "Kolonia Dziankówecka"
+  },
+  {
+    "idmiejscowosc": "0865579",
+    "nazwa": "Kolonia Lubieńska"
+  },
+  {
+    "idmiejscowosc": "0866171",
+    "nazwa": "Kolonia Wiktorowska"
+  },
+  {
+    "idmiejscowosc": "0865757",
+    "nazwa": "Kołomia"
+  },
+  {
+    "idmiejscowosc": "0865929",
+    "nazwa": "Kostulin"
+  },
+  {
+    "idmiejscowosc": "0865214",
+    "nazwa": "Kowalki"
+  },
+  {
+    "idmiejscowosc": "0865600",
+    "nazwa": "Kretkowo"
+  },
+  {
+    "idmiejscowosc": "0865763",
+    "nazwa": "Krzewie"
+  },
+  {
+    "idmiejscowosc": "0865770",
+    "nazwa": "Krzewie Drugie"
+  },
+  {
+    "idmiejscowosc": "0865786",
+    "nazwa": "Krzyżówki"
+  },
+  {
+    "idmiejscowosc": "0865510",
+    "nazwa": "Kukorek"
+  },
+  {
+    "idmiejscowosc": "1034969",
+    "nazwa": "Leopoldowo"
+  },
+  {
+    "idmiejscowosc": "0865148",
+    "nazwa": "Lisianki"
+  },
+  {
+    "idmiejscowosc": "1034981",
+    "nazwa": "Łukomszczyzna"
+  },
+  {
+    "idmiejscowosc": "1034998",
+    "nazwa": "Maksymilianowo"
+  },
+  {
+    "idmiejscowosc": "0865154",
+    "nazwa": "Maślanka"
+  },
+  {
+    "idmiejscowosc": "0865800",
+    "nazwa": "Modliborek"
+  },
+  {
+    "idmiejscowosc": "0865792",
+    "nazwa": "Modlibórz"
+  },
+  {
+    "idmiejscowosc": "0865823",
+    "nazwa": "Morzyce"
+  },
+  {
+    "idmiejscowosc": "0866082",
+    "nazwa": "Myszki"
+  },
+  {
+    "idmiejscowosc": "0865830",
+    "nazwa": "Narty"
+  },
+  {
+    "idmiejscowosc": "0865616",
+    "nazwa": "Narty-Piaski"
+  },
+  {
+    "idmiejscowosc": "0865846",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0865705",
+    "nazwa": "Nowy Młyn"
+  },
+  {
+    "idmiejscowosc": "1035064",
+    "nazwa": "Orpiszewo"
+  },
+  {
+    "idmiejscowosc": "0865711",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "1035087",
+    "nazwa": "Roździeniec"
+  },
+  {
+    "idmiejscowosc": "0865266",
+    "nazwa": "Rumunki Bileńskie"
+  },
+  {
+    "idmiejscowosc": "1035093",
+    "nazwa": "Rumunki Szewskie"
+  },
+  {
+    "idmiejscowosc": "0865898",
+    "nazwa": "Rutkowice"
+  },
+  {
+    "idmiejscowosc": "0865361",
+    "nazwa": "Rzegocin"
+  },
+  {
+    "idmiejscowosc": "0865941",
+    "nazwa": "Rzeżewo Małe"
+  },
+  {
+    "idmiejscowosc": "0865964",
+    "nazwa": "Rzeżewo-Morzyce"
+  },
+  {
+    "idmiejscowosc": "0865243",
+    "nazwa": "Siemiany"
+  },
+  {
+    "idmiejscowosc": "0865237",
+    "nazwa": "Siemionki"
+  },
+  {
+    "idmiejscowosc": "0865993",
+    "nazwa": "Sławęcin"
+  },
+  {
+    "idmiejscowosc": "0865987",
+    "nazwa": "Sławęckie Góry"
+  },
+  {
+    "idmiejscowosc": "0865355",
+    "nazwa": "Sosnowa"
+  },
+  {
+    "idmiejscowosc": "0866047",
+    "nazwa": "Stępka"
+  },
+  {
+    "idmiejscowosc": "0866001",
+    "nazwa": "Stróże"
+  },
+  {
+    "idmiejscowosc": "0865651",
+    "nazwa": "Szachulec"
+  },
+  {
+    "idmiejscowosc": "0866060",
+    "nazwa": "Szewo"
+  },
+  {
+    "idmiejscowosc": "1035220",
+    "nazwa": "Szewskie Budy"
+  },
+  {
+    "idmiejscowosc": "0866120",
+    "nazwa": "Świerenka"
+  },
+  {
+    "idmiejscowosc": "0866107",
+    "nazwa": "Świerna"
+  },
+  {
+    "idmiejscowosc": "0865740",
+    "nazwa": "Uchodze"
+  },
+  {
+    "idmiejscowosc": "0865935",
+    "nazwa": "Walentowo"
+  },
+  {
+    "idmiejscowosc": "0866136",
+    "nazwa": "Wąwał"
+  },
+  {
+    "idmiejscowosc": "0866142",
+    "nazwa": "Wiktorowo"
+  },
+  {
+    "idmiejscowosc": "1035259",
+    "nazwa": "Wiśniówka"
+  },
+  {
+    "idmiejscowosc": "0865668",
+    "nazwa": "Władysławowo"
+  },
+  {
+    "idmiejscowosc": "0866188",
+    "nazwa": "Wola Dziankowska"
+  },
+  {
+    "idmiejscowosc": "0866219",
+    "nazwa": "Wola Olszowa"
+  },
+  {
+    "idmiejscowosc": "0866225",
+    "nazwa": "Wola Olszowa-Parcele"
+  },
+  {
+    "idmiejscowosc": "0865912",
+    "nazwa": "Zakrzewo"
+  },
+  {
+    "idmiejscowosc": "0865310",
+    "nazwa": "Zazdrość"
+  },
+  {
+    "idmiejscowosc": "0865220",
+    "nazwa": "Zimowizna"
+  },
+  {
+    "idmiejscowosc": "0866030",
+    "nazwa": "Żurawieniec"
+  }
+]

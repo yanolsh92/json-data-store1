@@ -1,0 +1,358 @@
+[
+  {
+    "idmiejscowosc": "0123317",
+    "nazwa": "Bielany"
+  },
+  {
+    "idmiejscowosc": "0123330",
+    "nazwa": "Bogucin"
+  },
+  {
+    "idmiejscowosc": "0123346",
+    "nazwa": "Budy Kraszewskie"
+  },
+  {
+    "idmiejscowosc": "0123352",
+    "nazwa": "Charzyny"
+  },
+  {
+    "idmiejscowosc": "0123369",
+    "nazwa": "Charzyny-Borzymy"
+  },
+  {
+    "idmiejscowosc": "0123375",
+    "nazwa": "Charzyny-Dłużyce"
+  },
+  {
+    "idmiejscowosc": "0123381",
+    "nazwa": "Charzyny-Rogale"
+  },
+  {
+    "idmiejscowosc": "0123398",
+    "nazwa": "Charzyny-Sadkowięta"
+  },
+  {
+    "idmiejscowosc": "0123406",
+    "nazwa": "Chyczewo"
+  },
+  {
+    "idmiejscowosc": "0123412",
+    "nazwa": "Cieciersk"
+  },
+  {
+    "idmiejscowosc": "0123429",
+    "nazwa": "Ćwiersk"
+  },
+  {
+    "idmiejscowosc": "0123435",
+    "nazwa": "Dobrska-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0123441",
+    "nazwa": "Dobrska-Włościany"
+  },
+  {
+    "idmiejscowosc": "0123458",
+    "nazwa": "Draminek"
+  },
+  {
+    "idmiejscowosc": "0123464",
+    "nazwa": "Drozdowo"
+  },
+  {
+    "idmiejscowosc": "0123470",
+    "nazwa": "Druchowo"
+  },
+  {
+    "idmiejscowosc": "1056994",
+    "nazwa": "Druchowo-Folwark"
+  },
+  {
+    "idmiejscowosc": "0123487",
+    "nazwa": "Folwark-Raciąż"
+  },
+  {
+    "idmiejscowosc": "0123518",
+    "nazwa": "Grzybowo"
+  },
+  {
+    "idmiejscowosc": "0123524",
+    "nazwa": "Jeżewo-Wesel"
+  },
+  {
+    "idmiejscowosc": "0123547",
+    "nazwa": "Kaczorowy"
+  },
+  {
+    "idmiejscowosc": "1057019",
+    "nazwa": "Kaczórówki"
+  },
+  {
+    "idmiejscowosc": "0123553",
+    "nazwa": "Kiełbowo"
+  },
+  {
+    "idmiejscowosc": "0123560",
+    "nazwa": "Kiniki"
+  },
+  {
+    "idmiejscowosc": "0123576",
+    "nazwa": "Kocięcin Brodowy"
+  },
+  {
+    "idmiejscowosc": "1057031",
+    "nazwa": "Kocięcin-Parcele"
+  },
+  {
+    "idmiejscowosc": "0123582",
+    "nazwa": "Kocięcin-Tworki"
+  },
+  {
+    "idmiejscowosc": "0123607",
+    "nazwa": "Kodłutowo"
+  },
+  {
+    "idmiejscowosc": "0124009",
+    "nazwa": "Kolonia Unieck"
+  },
+  {
+    "idmiejscowosc": "0123636",
+    "nazwa": "Kossobudy"
+  },
+  {
+    "idmiejscowosc": "1057083",
+    "nazwa": "Kossobudy-Baranówka"
+  },
+  {
+    "idmiejscowosc": "0123642",
+    "nazwa": "Kossobudy-Zalesie"
+  },
+  {
+    "idmiejscowosc": "0123659",
+    "nazwa": "Koziebrody"
+  },
+  {
+    "idmiejscowosc": "1057114",
+    "nazwa": "Koziebrodzkie Budki"
+  },
+  {
+    "idmiejscowosc": "0123665",
+    "nazwa": "Kozolin"
+  },
+  {
+    "idmiejscowosc": "0123671",
+    "nazwa": "Krajkowo"
+  },
+  {
+    "idmiejscowosc": "0123688",
+    "nazwa": "Krajkowo-Budki"
+  },
+  {
+    "idmiejscowosc": "0123725",
+    "nazwa": "Kraszewo Podborne"
+  },
+  {
+    "idmiejscowosc": "0123694",
+    "nazwa": "Kraszewo-Czubaki"
+  },
+  {
+    "idmiejscowosc": "0123702",
+    "nazwa": "Kraszewo-Falki"
+  },
+  {
+    "idmiejscowosc": "0123719",
+    "nazwa": "Kraszewo-Gaczułty"
+  },
+  {
+    "idmiejscowosc": "0123731",
+    "nazwa": "Kraszewo-Rory"
+  },
+  {
+    "idmiejscowosc": "0123748",
+    "nazwa": "Kraszewo-Sławęcin"
+  },
+  {
+    "idmiejscowosc": "0123754",
+    "nazwa": "Kraśniewo"
+  },
+  {
+    "idmiejscowosc": "0123760",
+    "nazwa": "Kruszenica"
+  },
+  {
+    "idmiejscowosc": "0123613",
+    "nazwa": "Krzyżak"
+  },
+  {
+    "idmiejscowosc": "0123777",
+    "nazwa": "Lipa"
+  },
+  {
+    "idmiejscowosc": "0123783",
+    "nazwa": "Łempinek"
+  },
+  {
+    "idmiejscowosc": "0123790",
+    "nazwa": "Łempino"
+  },
+  {
+    "idmiejscowosc": "0123808",
+    "nazwa": "Malewo"
+  },
+  {
+    "idmiejscowosc": "0123814",
+    "nazwa": "Mała Wieś"
+  },
+  {
+    "idmiejscowosc": "0124044",
+    "nazwa": "Miłaki"
+  },
+  {
+    "idmiejscowosc": "0123820",
+    "nazwa": "Młody Niedróż"
+  },
+  {
+    "idmiejscowosc": "0123501",
+    "nazwa": "Nowe Gralewo"
+  },
+  {
+    "idmiejscowosc": "0123843",
+    "nazwa": "Nowe Młodochowo"
+  },
+  {
+    "idmiejscowosc": "0123866",
+    "nazwa": "Nowy Komunin"
+  },
+  {
+    "idmiejscowosc": "1057137",
+    "nazwa": "Parchale"
+  },
+  {
+    "idmiejscowosc": "0124050",
+    "nazwa": "Pawlaki"
+  },
+  {
+    "idmiejscowosc": "1057150",
+    "nazwa": "Pensy Duże"
+  },
+  {
+    "idmiejscowosc": "1057166",
+    "nazwa": "Pensy Małe"
+  },
+  {
+    "idmiejscowosc": "0123872",
+    "nazwa": "Pęsy"
+  },
+  {
+    "idmiejscowosc": "0123889",
+    "nazwa": "Pólka-Raciąż"
+  },
+  {
+    "idmiejscowosc": "0124015",
+    "nazwa": "Rachocin"
+  },
+  {
+    "idmiejscowosc": "1057172",
+    "nazwa": "Sałkowo"
+  },
+  {
+    "idmiejscowosc": "0123895",
+    "nazwa": "Sierakowo"
+  },
+  {
+    "idmiejscowosc": "0123903",
+    "nazwa": "Sikory"
+  },
+  {
+    "idmiejscowosc": "0123910",
+    "nazwa": "Sikory-Bogusławice"
+  },
+  {
+    "idmiejscowosc": "0123926",
+    "nazwa": "Sikory-Piotrowice"
+  },
+  {
+    "idmiejscowosc": "0123932",
+    "nazwa": "Sikory-Żelazki"
+  },
+  {
+    "idmiejscowosc": "0123620",
+    "nazwa": "Sobocin"
+  },
+  {
+    "idmiejscowosc": "0123493",
+    "nazwa": "Stare Gralewo"
+  },
+  {
+    "idmiejscowosc": "0123850",
+    "nazwa": "Stare Młodochowo"
+  },
+  {
+    "idmiejscowosc": "0123949",
+    "nazwa": "Stary Komunin"
+  },
+  {
+    "idmiejscowosc": "0123837",
+    "nazwa": "Stary Niedróż"
+  },
+  {
+    "idmiejscowosc": "0123955",
+    "nazwa": "Strożęcin"
+  },
+  {
+    "idmiejscowosc": "0123961",
+    "nazwa": "Szapsk"
+  },
+  {
+    "idmiejscowosc": "1057195",
+    "nazwa": "Szapsk-Błonie"
+  },
+  {
+    "idmiejscowosc": "1057203",
+    "nazwa": "Szapsk-Budki"
+  },
+  {
+    "idmiejscowosc": "0123978",
+    "nazwa": "Szczepkowo"
+  },
+  {
+    "idmiejscowosc": "0123984",
+    "nazwa": "Szczepkowskie Żale"
+  },
+  {
+    "idmiejscowosc": "0123990",
+    "nazwa": "Unieck"
+  },
+  {
+    "idmiejscowosc": "0124021",
+    "nazwa": "Wępiły"
+  },
+  {
+    "idmiejscowosc": "0124038",
+    "nazwa": "Witkowo"
+  },
+  {
+    "idmiejscowosc": "0124067",
+    "nazwa": "Zdunówek"
+  },
+  {
+    "idmiejscowosc": "0124073",
+    "nazwa": "Złotopole"
+  },
+  {
+    "idmiejscowosc": "0124080",
+    "nazwa": "Żukowo-Strusie"
+  },
+  {
+    "idmiejscowosc": "0124096",
+    "nazwa": "Żukowo-Wawrzonki"
+  },
+  {
+    "idmiejscowosc": "0124104",
+    "nazwa": "Żychowo"
+  },
+  {
+    "idmiejscowosc": "1057210",
+    "nazwa": "Żychowo-Górki"
+  }
+]

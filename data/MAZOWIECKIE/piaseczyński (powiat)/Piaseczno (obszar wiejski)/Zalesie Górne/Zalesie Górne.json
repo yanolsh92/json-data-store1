@@ -1,0 +1,482 @@
+[
+  {
+    "idulica": "00157",
+    "nazwa": "Akacjowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00639",
+    "nazwa": "Balladyny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01157",
+    "nazwa": "Białej Brzozy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01223",
+    "nazwa": "Biedronki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01857",
+    "nazwa": "Borowików",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02387",
+    "nazwa": "Bukowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02541",
+    "nazwa": "Calineczki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02657",
+    "nazwa": "Chabrowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03018",
+    "nazwa": "Cienista",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03477",
+    "nazwa": "Czterech Wiatrów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04212",
+    "nazwa": "Droga Dzików",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04728",
+    "nazwa": "Echa Leśne",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05028",
+    "nazwa": "Fiołków",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "37618",
+    "nazwa": "Gościniec Warecki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06029",
+    "nazwa": "Grabowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06063",
+    "nazwa": "Grających Świerszczy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06075",
+    "nazwa": "Graniczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07059",
+    "nazwa": "Jagodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07097",
+    "nazwa": "Jałowcowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07335",
+    "nazwa": "Jasna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29156",
+    "nazwa": "Jastrzębi Lot",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07458",
+    "nazwa": "Jelenich Rogów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07471",
+    "nazwa": "Jelonka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07506",
+    "nazwa": "Jesionowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07723",
+    "nazwa": "Kaczeńców",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08174",
+    "nazwa": "Kasztanów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08574",
+    "nazwa": "Klonowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08828",
+    "nazwa": "Kolejowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09317",
+    "nazwa": "Koralowych Dębów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10009",
+    "nazwa": "Krótka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10268",
+    "nazwa": "Księżycowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10316",
+    "nazwa": "Kubusia Puchatka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10361",
+    "nazwa": "Kukułki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10551",
+    "nazwa": "Kwiat Paproci",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10900",
+    "nazwa": "Leśna Dróżka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10913",
+    "nazwa": "Leśnego Poszumu",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31836",
+    "nazwa": "Leśny Zaułek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10962",
+    "nazwa": "Leśnych Boginek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10870",
+    "nazwa": "Leszczynowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "38036",
+    "nazwa": "Lisie Jary",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12065",
+    "nazwa": "Malinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13091",
+    "nazwa": "Młodych Wilcząt",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13184",
+    "nazwa": "Modrzewiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14398",
+    "nazwa": "Nowinek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15481",
+    "nazwa": "Owsiana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15710",
+    "nazwa": "Parkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16022",
+    "nazwa": "Piaseczyńska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16191",
+    "nazwa": "Piękna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16290",
+    "nazwa": "Pionierów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17011",
+    "nazwa": "Polna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17421",
+    "nazwa": "Północna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17070",
+    "nazwa": "Południowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17171",
+    "nazwa": "Poprzeczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17190",
+    "nazwa": "Poranku",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17192",
+    "nazwa": "Porannej Zorzy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17534",
+    "nazwa": "Promienna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17535",
+    "nazwa": "Promiennego Słońca",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17632",
+    "nazwa": "Przebudzenia Wiosny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17763",
+    "nazwa": "Przeskok",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "53728",
+    "nazwa": "Rondo Wiekowej Sosny",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "19110",
+    "nazwa": "Rusałek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19227",
+    "nazwa": "Rydzów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19528",
+    "nazwa": "Sarenki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19930",
+    "nazwa": "Sinych Mgieł",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20257",
+    "nazwa": "Słonecznego Lata",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20303",
+    "nazwa": "Słowików",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20598",
+    "nazwa": "Sosnowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20641",
+    "nazwa": "Spacerowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22419",
+    "nazwa": "Środkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22519",
+    "nazwa": "Świetlana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21779",
+    "nazwa": "Szarotki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21925",
+    "nazwa": "Szeroka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22004",
+    "nazwa": "Szmaragdowych Żuków",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22151",
+    "nazwa": "Szumiącej Jodły",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22706",
+    "nazwa": "Tatarakowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22777",
+    "nazwa": "Tęczowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23406",
+    "nazwa": "Urocza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23814",
+    "nazwa": "Wczasowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24006",
+    "nazwa": "Widna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29842",
+    "nazwa": "Wieczornego Zmierzchu",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "27159",
+    "nazwa": "Wiekowej Sosny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24170",
+    "nazwa": "Wierzbowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24364",
+    "nazwa": "Wiosenna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "51293",
+    "nazwa": "Wisłockiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24874",
+    "nazwa": "Wrzosów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25145",
+    "nazwa": "Wzgórz",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "27961",
+    "nazwa": "Za Siedmioma Górami",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25319",
+    "nazwa": "Zaczarowanej Róży",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25346",
+    "nazwa": "Zagajników",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25428",
+    "nazwa": "Zajęczy Trop",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26114",
+    "nazwa": "Zielonych Żabek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26185",
+    "nazwa": "Złocistych Łanów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26198",
+    "nazwa": "Złotej Jesieni",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26635",
+    "nazwa": "Żytnia",
+    "rodzaj": "ul."
+  }
+]

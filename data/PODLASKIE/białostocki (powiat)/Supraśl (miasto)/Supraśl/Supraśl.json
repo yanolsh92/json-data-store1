@@ -1,0 +1,377 @@
+[
+  {
+    "idulica": "30816",
+    "nazwa": "Aleja Niepodległości",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00915",
+    "nazwa": "Ojców Bazylianów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01184",
+    "nazwa": "Białostocka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "40801",
+    "nazwa": "ks. Stanisława Bójnowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01861",
+    "nazwa": "Borowinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02285",
+    "nazwa": "Brzozówka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45756",
+    "nazwa": "Bulwary Wiktora Wołkowa",
+    "rodzaj": "droga"
+  },
+  {
+    "idulica": "02484",
+    "nazwa": "Butkiewicza i Ulmana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02580",
+    "nazwa": "Cegielniana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "42299",
+    "nazwa": "abp. gen. Mirona Chodakowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02799",
+    "nazwa": "Aleksandra Chodkiewicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03010",
+    "nazwa": "Cieliczańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03816",
+    "nazwa": "Dębowik",
+    "rodzaj": "inne"
+  },
+  {
+    "idulica": "04034",
+    "nazwa": "Dolna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "27430",
+    "nazwa": "Leona Dublaka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06341",
+    "nazwa": "Grzybowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "50374",
+    "nazwa": "Bp Leona Ludwika Jaworowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08485",
+    "nazwa": "Klasztorna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08574",
+    "nazwa": "Klonowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "40571",
+    "nazwa": "Kodeksu Supraskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09106",
+    "nazwa": "Konarskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09186",
+    "nazwa": "Marii Konopnickiej",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09546",
+    "nazwa": "Kościelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09862",
+    "nazwa": "Krasny Las",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10898",
+    "nazwa": "Leśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10972",
+    "nazwa": "Letniskowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10996",
+    "nazwa": "Lewitówka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11205",
+    "nazwa": "11 Listopada",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11937",
+    "nazwa": "3 Maja",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11988",
+    "nazwa": "Majowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "40800",
+    "nazwa": "Ferdynanda Mareckiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13184",
+    "nazwa": "Modrzewiowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14330",
+    "nazwa": "Nowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14535",
+    "nazwa": "Nowy Świat",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15141",
+    "nazwa": "Orla",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15280",
+    "nazwa": "Osiedle Robotnicze",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16033",
+    "nazwa": "Piaskowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16264",
+    "nazwa": "Józefa Piłsudskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "39350",
+    "nazwa": "ks. Stanisława Piotrowskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "42838",
+    "nazwa": "Plac Tadeusza Kościuszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16799",
+    "nazwa": "Podleśna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "29849",
+    "nazwa": "Podsupraśl",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17246",
+    "nazwa": "Posterunkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "27431",
+    "nazwa": "Pstrągownia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "48545",
+    "nazwa": "Rondo Aleksandra Chodkiewicza",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "48195",
+    "nazwa": "Rondo Żołnierzy Niezłomnych",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "40570",
+    "nazwa": "Rymarka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19536",
+    "nazwa": "Sarnia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19755",
+    "nazwa": "ks. Ottona Sidorowicza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "54652",
+    "nazwa": "Skwer 100 rocznicy odzyskania niepodległości przez Polskę",
+    "rodzaj": "skwer"
+  },
+  {
+    "idulica": "51047",
+    "nazwa": "Profesora Sławińskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20291",
+    "nazwa": "Juliusza Słowackiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20598",
+    "nazwa": "Sosnowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20615",
+    "nazwa": "Sowia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20696",
+    "nazwa": "Spółdzielcza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21071",
+    "nazwa": "Stanisława Staszica",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21101",
+    "nazwa": "Stawowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22508",
+    "nazwa": "Świerkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21970",
+    "nazwa": "Szkolna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22690",
+    "nazwa": "Tartaczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22880",
+    "nazwa": "Topolowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "40569",
+    "nazwa": "Uroczysko Pustelnia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23814",
+    "nazwa": "Wczasowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24208",
+    "nazwa": "Wiewiórcza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58701",
+    "nazwa": "Bpa Teodozego Wisłockiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24824",
+    "nazwa": "Wróbla",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24838",
+    "nazwa": "Walerego Wróblewskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26939",
+    "nazwa": "ks. kard. Stefana Wyszyńskiego",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "27432",
+    "nazwa": "Fryderyka Wilhelma Zacherta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58700",
+    "nazwa": "Wojciecha Załęskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26081",
+    "nazwa": "Zielona",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26359",
+    "nazwa": "Źródlana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26579",
+    "nazwa": "Żurawia",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26608",
+    "nazwa": "Żwirki i Wigury",
+    "rodzaj": "ul."
+  }
+]

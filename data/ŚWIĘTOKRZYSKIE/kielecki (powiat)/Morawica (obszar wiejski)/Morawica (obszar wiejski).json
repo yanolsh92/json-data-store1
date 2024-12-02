@@ -1,0 +1,418 @@
+[
+  {
+    "idmiejscowosc": "0253681",
+    "nazwa": "Bieleckie Młyny"
+  },
+  {
+    "idmiejscowosc": "0253706",
+    "nazwa": "Bilcza"
+  },
+  {
+    "idmiejscowosc": "0253712",
+    "nazwa": "Bilcza-Folwark"
+  },
+  {
+    "idmiejscowosc": "0254249",
+    "nazwa": "Borki"
+  },
+  {
+    "idmiejscowosc": "0253793",
+    "nazwa": "Brudzów"
+  },
+  {
+    "idmiejscowosc": "0253801",
+    "nazwa": "Brudzów Duży"
+  },
+  {
+    "idmiejscowosc": "0253818",
+    "nazwa": "Brudzów Mały"
+  },
+  {
+    "idmiejscowosc": "0253907",
+    "nazwa": "Brzeziny"
+  },
+  {
+    "idmiejscowosc": "0253988",
+    "nazwa": "Chałupki"
+  },
+  {
+    "idmiejscowosc": "0254545",
+    "nazwa": "Chałupki Zbrzańskie"
+  },
+  {
+    "idmiejscowosc": "0254551",
+    "nazwa": "Chełstów-Wojda"
+  },
+  {
+    "idmiejscowosc": "0254025",
+    "nazwa": "Chmielowice"
+  },
+  {
+    "idmiejscowosc": "0253729",
+    "nazwa": "Chodcza-Leśniczówka"
+  },
+  {
+    "idmiejscowosc": "0254404",
+    "nazwa": "Chuda Góra"
+  },
+  {
+    "idmiejscowosc": "0254255",
+    "nazwa": "Chudew"
+  },
+  {
+    "idmiejscowosc": "0253735",
+    "nazwa": "Ciołków"
+  },
+  {
+    "idmiejscowosc": "0254568",
+    "nazwa": "Dąbie-Góra"
+  },
+  {
+    "idmiejscowosc": "0254344",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0254031",
+    "nazwa": "Dębska Wola"
+  },
+  {
+    "idmiejscowosc": "0254309",
+    "nazwa": "Dłużyca"
+  },
+  {
+    "idmiejscowosc": "0254083",
+    "nazwa": "Drochów Dolny"
+  },
+  {
+    "idmiejscowosc": "0254108",
+    "nazwa": "Drochów Górny"
+  },
+  {
+    "idmiejscowosc": "0254090",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0254048",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0254315",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0254210",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0254410",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0254143",
+    "nazwa": "Dyminy"
+  },
+  {
+    "idmiejscowosc": "0254150",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0253824",
+    "nazwa": "Gawronki"
+  },
+  {
+    "idmiejscowosc": "0254114",
+    "nazwa": "Goździec"
+  },
+  {
+    "idmiejscowosc": "0234850",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0254054",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0254516",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0254166",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0253741",
+    "nazwa": "Jaworznia"
+  },
+  {
+    "idmiejscowosc": "0253830",
+    "nazwa": "Jeziorek"
+  },
+  {
+    "idmiejscowosc": "0254427",
+    "nazwa": "Kaczeńce"
+  },
+  {
+    "idmiejscowosc": "0254172",
+    "nazwa": "Kawczyn"
+  },
+  {
+    "idmiejscowosc": "0253994",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0234867",
+    "nazwa": "Komorówki"
+  },
+  {
+    "idmiejscowosc": "0254574",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0254120",
+    "nazwa": "Krasnowiec"
+  },
+  {
+    "idmiejscowosc": "0254189",
+    "nazwa": "Kuby-Młyny"
+  },
+  {
+    "idmiejscowosc": "0253913",
+    "nazwa": "Lech"
+  },
+  {
+    "idmiejscowosc": "0254433",
+    "nazwa": "Lipa"
+  },
+  {
+    "idmiejscowosc": "0253847",
+    "nazwa": "Lipie"
+  },
+  {
+    "idmiejscowosc": "0234844",
+    "nazwa": "Lisów"
+  },
+  {
+    "idmiejscowosc": "0254261",
+    "nazwa": "Lurowizna"
+  },
+  {
+    "idmiejscowosc": "0254203",
+    "nazwa": "Łabędziów"
+  },
+  {
+    "idmiejscowosc": "0234873",
+    "nazwa": "Ławki"
+  },
+  {
+    "idmiejscowosc": "0254278",
+    "nazwa": "Łazisko"
+  },
+  {
+    "idmiejscowosc": "0253698",
+    "nazwa": "Młyn"
+  },
+  {
+    "idmiejscowosc": "0253853",
+    "nazwa": "Młynek"
+  },
+  {
+    "idmiejscowosc": "0254232",
+    "nazwa": "Nida"
+  },
+  {
+    "idmiejscowosc": "0253920",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0254580",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0253758",
+    "nazwa": "Nowiny"
+  },
+  {
+    "idmiejscowosc": "0254290",
+    "nazwa": "Obice"
+  },
+  {
+    "idmiejscowosc": "0234880",
+    "nazwa": "Pagóry"
+  },
+  {
+    "idmiejscowosc": "0254350",
+    "nazwa": "Pastwisko"
+  },
+  {
+    "idmiejscowosc": "0254373",
+    "nazwa": "Piaseczna Górka"
+  },
+  {
+    "idmiejscowosc": "0254491",
+    "nazwa": "Podemłynie"
+  },
+  {
+    "idmiejscowosc": "0254440",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0253764",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0234896",
+    "nazwa": "Podkościele"
+  },
+  {
+    "idmiejscowosc": "0253942",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0991887",
+    "nazwa": "Podlisowie"
+  },
+  {
+    "idmiejscowosc": "0254195",
+    "nazwa": "Podmarzysze"
+  },
+  {
+    "idmiejscowosc": "0253959",
+    "nazwa": "Podmorawica"
+  },
+  {
+    "idmiejscowosc": "0234904",
+    "nazwa": "Podrzecze"
+  },
+  {
+    "idmiejscowosc": "0253770",
+    "nazwa": "Podsukowie"
+  },
+  {
+    "idmiejscowosc": "0234910",
+    "nazwa": "Podwale"
+  },
+  {
+    "idmiejscowosc": "0254597",
+    "nazwa": "Podwale"
+  },
+  {
+    "idmiejscowosc": "0254380",
+    "nazwa": "Podwole"
+  },
+  {
+    "idmiejscowosc": "0254456",
+    "nazwa": "Podziałki"
+  },
+  {
+    "idmiejscowosc": "0254284",
+    "nazwa": "Pogórcze"
+  },
+  {
+    "idmiejscowosc": "0254002",
+    "nazwa": "Poręba Morawicka"
+  },
+  {
+    "idmiejscowosc": "0234927",
+    "nazwa": "Prebenda"
+  },
+  {
+    "idmiejscowosc": "0254396",
+    "nazwa": "Radomice"
+  },
+  {
+    "idmiejscowosc": "0254462",
+    "nazwa": "Radomice Pierwsze"
+  },
+  {
+    "idmiejscowosc": "0254321",
+    "nazwa": "Rozdole"
+  },
+  {
+    "idmiejscowosc": "0254338",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0254019",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0253965",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0253860",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0254605",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0254611",
+    "nazwa": "Szymanówka"
+  },
+  {
+    "idmiejscowosc": "0234933",
+    "nazwa": "Trzcianka"
+  },
+  {
+    "idmiejscowosc": "0254137",
+    "nazwa": "Trzcianka"
+  },
+  {
+    "idmiejscowosc": "0254485",
+    "nazwa": "Wola Morawicka"
+  },
+  {
+    "idmiejscowosc": "0991893",
+    "nazwa": "Wydrzysz"
+  },
+  {
+    "idmiejscowosc": "0234940",
+    "nazwa": "Wygwizdów"
+  },
+  {
+    "idmiejscowosc": "0254060",
+    "nazwa": "Za Szosą"
+  },
+  {
+    "idmiejscowosc": "0254500",
+    "nazwa": "Zaborze"
+  },
+  {
+    "idmiejscowosc": "0254479",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0254522",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0253876",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0253882",
+    "nazwa": "Zalipie"
+  },
+  {
+    "idmiejscowosc": "0253899",
+    "nazwa": "Załawie"
+  },
+  {
+    "idmiejscowosc": "0253787",
+    "nazwa": "Zastawie"
+  },
+  {
+    "idmiejscowosc": "0254367",
+    "nazwa": "Zastawie"
+  },
+  {
+    "idmiejscowosc": "0254539",
+    "nazwa": "Zbrza"
+  },
+  {
+    "idmiejscowosc": "0254077",
+    "nazwa": "Zielonka"
+  }
+]

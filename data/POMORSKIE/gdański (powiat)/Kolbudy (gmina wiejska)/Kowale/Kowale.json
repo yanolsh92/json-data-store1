@@ -1,0 +1,257 @@
+[
+  {
+    "idulica": "39835",
+    "nazwa": "Aleja Kazimierza Jagiellończyka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00294",
+    "nazwa": "Andromedy",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00375",
+    "nazwa": "Apollina",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00402",
+    "nazwa": "Aresa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00483",
+    "nazwa": "Ateny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "01201",
+    "nazwa": "Białych Bzów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "41524",
+    "nazwa": "Księdza Feliksa Bolta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03835",
+    "nazwa": "Dionizosa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04801",
+    "nazwa": "Energetyczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04919",
+    "nazwa": "Siostry Faustyny",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05552",
+    "nazwa": "Glazurowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06274",
+    "nazwa": "Gruszkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32865",
+    "nazwa": "Heliosa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08179",
+    "nazwa": "Kasztelańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31934",
+    "nazwa": "św. Kingi",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "32866",
+    "nazwa": "Kominkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09925",
+    "nazwa": "Kręta",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10562",
+    "nazwa": "Kwiatowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "45944",
+    "nazwa": "Leśna Dolina",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "27634",
+    "nazwa": "Leśna Polana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11891",
+    "nazwa": "Magazynowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "28864",
+    "nazwa": "Magnacka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12065",
+    "nazwa": "Malinowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "47189",
+    "nazwa": "Michałkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "42124",
+    "nazwa": "Mikołajkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12991",
+    "nazwa": "Miodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13283",
+    "nazwa": "Morelowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14073",
+    "nazwa": "Nektarowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15479",
+    "nazwa": "Owocowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15590",
+    "nazwa": "Pałacowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15956",
+    "nazwa": "Perseusza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16237",
+    "nazwa": "Pilotów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "58858",
+    "nazwa": "Plac Afrodyty",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "58859",
+    "nazwa": "Plac Artemidy",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "17233",
+    "nazwa": "Posejdona",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "32867",
+    "nazwa": "Przy Sadzie",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "59351",
+    "nazwa": "Rondo im. Karola Fryderyka Conradiego",
+    "rodzaj": "rondo"
+  },
+  {
+    "idulica": "19094",
+    "nazwa": "Rumiankowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19186",
+    "nazwa": "Rycerska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19404",
+    "nazwa": "Sadowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20140",
+    "nazwa": "Skromna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22339",
+    "nazwa": "Śliwkowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20971",
+    "nazwa": "Staropolska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20998",
+    "nazwa": "Starowiejska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21985",
+    "nazwa": "Szlachecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "59659",
+    "nazwa": "Szumilas",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24170",
+    "nazwa": "Wierzbowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24412",
+    "nazwa": "Wiśniowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "33019",
+    "nazwa": "Wodników",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "31013",
+    "nazwa": "Zefira",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26011",
+    "nazwa": "Zeusa",
+    "rodzaj": "ul."
+  }
+]

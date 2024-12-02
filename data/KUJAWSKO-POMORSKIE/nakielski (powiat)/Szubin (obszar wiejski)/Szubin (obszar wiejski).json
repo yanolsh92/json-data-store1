@@ -1,0 +1,390 @@
+[
+  {
+    "idmiejscowosc": "0994029",
+    "nazwa": "Aleksandrowo"
+  },
+  {
+    "idmiejscowosc": "0097212",
+    "nazwa": "Ameryczka"
+  },
+  {
+    "idmiejscowosc": "0994325",
+    "nazwa": "Babia Gać"
+  },
+  {
+    "idmiejscowosc": "0994118",
+    "nazwa": "Bagno"
+  },
+  {
+    "idmiejscowosc": "0994294",
+    "nazwa": "Berlinek"
+  },
+  {
+    "idmiejscowosc": "0989880",
+    "nazwa": "Bielawy"
+  },
+  {
+    "idmiejscowosc": "0994006",
+    "nazwa": "Bnin"
+  },
+  {
+    "idmiejscowosc": "0097146",
+    "nazwa": "Brzózki"
+  },
+  {
+    "idmiejscowosc": "0096750",
+    "nazwa": "Chobielin"
+  },
+  {
+    "idmiejscowosc": "1067035",
+    "nazwa": "Chobielin-Dwór"
+  },
+  {
+    "idmiejscowosc": "0096767",
+    "nazwa": "Chomętowo"
+  },
+  {
+    "idmiejscowosc": "0096773",
+    "nazwa": "Chraplewo"
+  },
+  {
+    "idmiejscowosc": "0096780",
+    "nazwa": "Ciężkowo"
+  },
+  {
+    "idmiejscowosc": "0994236",
+    "nazwa": "Czarny Zdrój"
+  },
+  {
+    "idmiejscowosc": "0994242",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0096796",
+    "nazwa": "Dąbrówka Słupska"
+  },
+  {
+    "idmiejscowosc": "0096804",
+    "nazwa": "Drogosław"
+  },
+  {
+    "idmiejscowosc": "0994124",
+    "nazwa": "Duże Rudy"
+  },
+  {
+    "idmiejscowosc": "0994130",
+    "nazwa": "Florentowo"
+  },
+  {
+    "idmiejscowosc": "0929635",
+    "nazwa": "Folusz"
+  },
+  {
+    "idmiejscowosc": "0096810",
+    "nazwa": "Gąbin"
+  },
+  {
+    "idmiejscowosc": "0993981",
+    "nazwa": "Gąbinek"
+  },
+  {
+    "idmiejscowosc": "0993998",
+    "nazwa": "Gąbińskie Huby"
+  },
+  {
+    "idmiejscowosc": "0097270",
+    "nazwa": "Głęboczek"
+  },
+  {
+    "idmiejscowosc": "0096827",
+    "nazwa": "Godzimierz"
+  },
+  {
+    "idmiejscowosc": "0096833",
+    "nazwa": "Grzeczna Panna"
+  },
+  {
+    "idmiejscowosc": "0994012",
+    "nazwa": "Jaktórka"
+  },
+  {
+    "idmiejscowosc": "0994176",
+    "nazwa": "Jeziorka"
+  },
+  {
+    "idmiejscowosc": "0096922",
+    "nazwa": "Jeziorowo"
+  },
+  {
+    "idmiejscowosc": "0994041",
+    "nazwa": "Katynka"
+  },
+  {
+    "idmiejscowosc": "0096840",
+    "nazwa": "Kołaczkowo"
+  },
+  {
+    "idmiejscowosc": "0990379",
+    "nazwa": "Koraczewko"
+  },
+  {
+    "idmiejscowosc": "0096856",
+    "nazwa": "Kornelin"
+  },
+  {
+    "idmiejscowosc": "0096862",
+    "nazwa": "Kowalewo"
+  },
+  {
+    "idmiejscowosc": "0096879",
+    "nazwa": "Królikowo"
+  },
+  {
+    "idmiejscowosc": "0994147",
+    "nazwa": "Lantowo"
+  },
+  {
+    "idmiejscowosc": "0097175",
+    "nazwa": "Laski"
+  },
+  {
+    "idmiejscowosc": "0994058",
+    "nazwa": "Lisi Ogon"
+  },
+  {
+    "idmiejscowosc": "0096885",
+    "nazwa": "Łachowo"
+  },
+  {
+    "idmiejscowosc": "0096891",
+    "nazwa": "Małe Rudy"
+  },
+  {
+    "idmiejscowosc": "0994207",
+    "nazwa": "Małe Smolniki"
+  },
+  {
+    "idmiejscowosc": "0096900",
+    "nazwa": "Mąkoszyn"
+  },
+  {
+    "idmiejscowosc": "0993975",
+    "nazwa": "Młynki"
+  },
+  {
+    "idmiejscowosc": "0989904",
+    "nazwa": "Nadkanale"
+  },
+  {
+    "idmiejscowosc": "0096945",
+    "nazwa": "Niedźwiady"
+  },
+  {
+    "idmiejscowosc": "0994035",
+    "nazwa": "Nowy Świat"
+  },
+  {
+    "idmiejscowosc": "0097287",
+    "nazwa": "Olek"
+  },
+  {
+    "idmiejscowosc": "0994160",
+    "nazwa": "Osadniki"
+  },
+  {
+    "idmiejscowosc": "0096951",
+    "nazwa": "Pińsko"
+  },
+  {
+    "idmiejscowosc": "0096968",
+    "nazwa": "Pińsko"
+  },
+  {
+    "idmiejscowosc": "0994259",
+    "nazwa": "Pod Elizewo"
+  },
+  {
+    "idmiejscowosc": "0994265",
+    "nazwa": "Pod Słonawy"
+  },
+  {
+    "idmiejscowosc": "0989896",
+    "nazwa": "Podlaski"
+  },
+  {
+    "idmiejscowosc": "0994093",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0994271",
+    "nazwa": "Reputy"
+  },
+  {
+    "idmiejscowosc": "0096974",
+    "nazwa": "Retkowo"
+  },
+  {
+    "idmiejscowosc": "0096980",
+    "nazwa": "Rynarzewo"
+  },
+  {
+    "idmiejscowosc": "0097229",
+    "nazwa": "Rzemieniewice"
+  },
+  {
+    "idmiejscowosc": "0097005",
+    "nazwa": "Samoklęski Duże"
+  },
+  {
+    "idmiejscowosc": "0097011",
+    "nazwa": "Samoklęski Małe"
+  },
+  {
+    "idmiejscowosc": "0097117",
+    "nazwa": "Siedliska"
+  },
+  {
+    "idmiejscowosc": "0097028",
+    "nazwa": "Skórzewo"
+  },
+  {
+    "idmiejscowosc": "0994182",
+    "nazwa": "Słonawki"
+  },
+  {
+    "idmiejscowosc": "0097034",
+    "nazwa": "Słonawy"
+  },
+  {
+    "idmiejscowosc": "0994064",
+    "nazwa": "Słupska Kolonia"
+  },
+  {
+    "idmiejscowosc": "0097040",
+    "nazwa": "Słupy"
+  },
+  {
+    "idmiejscowosc": "0097057",
+    "nazwa": "Smarzykowo"
+  },
+  {
+    "idmiejscowosc": "0096916",
+    "nazwa": "Smolarnia"
+  },
+  {
+    "idmiejscowosc": "0097063",
+    "nazwa": "Smolniki"
+  },
+  {
+    "idmiejscowosc": "0994213",
+    "nazwa": "Smolniki"
+  },
+  {
+    "idmiejscowosc": "0097070",
+    "nazwa": "Stanisławka"
+  },
+  {
+    "idmiejscowosc": "0994199",
+    "nazwa": "Stare Słonawy"
+  },
+  {
+    "idmiejscowosc": "0097086",
+    "nazwa": "Stary Jarużyn"
+  },
+  {
+    "idmiejscowosc": "0097092",
+    "nazwa": "Szaradowo"
+  },
+  {
+    "idmiejscowosc": "0097100",
+    "nazwa": "Szkocja"
+  },
+  {
+    "idmiejscowosc": "0097123",
+    "nazwa": "Szubin-Wieś"
+  },
+  {
+    "idmiejscowosc": "0989910",
+    "nazwa": "Trzciniec"
+  },
+  {
+    "idmiejscowosc": "0097130",
+    "nazwa": "Tur"
+  },
+  {
+    "idmiejscowosc": "0994070",
+    "nazwa": "Turzyńska Kolonia"
+  },
+  {
+    "idmiejscowosc": "0097152",
+    "nazwa": "Wąsosz"
+  },
+  {
+    "idmiejscowosc": "0994302",
+    "nazwa": "Wiśniówka"
+  },
+  {
+    "idmiejscowosc": "0096997",
+    "nazwa": "Wojsławiec"
+  },
+  {
+    "idmiejscowosc": "0097169",
+    "nazwa": "Wolwark"
+  },
+  {
+    "idmiejscowosc": "0097181",
+    "nazwa": "Wrzosy"
+  },
+  {
+    "idmiejscowosc": "0994101",
+    "nazwa": "Wybudowanie Łachowskie"
+  },
+  {
+    "idmiejscowosc": "0994153",
+    "nazwa": "Wybudowanie Rynarzewskie"
+  },
+  {
+    "idmiejscowosc": "0097198",
+    "nazwa": "Wymysłowo"
+  },
+  {
+    "idmiejscowosc": "0994319",
+    "nazwa": "Zacisze"
+  },
+  {
+    "idmiejscowosc": "0097206",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0994087",
+    "nazwa": "Zaleska Kolonia"
+  },
+  {
+    "idmiejscowosc": "0097235",
+    "nazwa": "Zamość"
+  },
+  {
+    "idmiejscowosc": "0097241",
+    "nazwa": "Zazdrość"
+  },
+  {
+    "idmiejscowosc": "0096939",
+    "nazwa": "Zielonowo"
+  },
+  {
+    "idmiejscowosc": "0994220",
+    "nazwa": "Zielonowo"
+  },
+  {
+    "idmiejscowosc": "0994288",
+    "nazwa": "Żakowo"
+  },
+  {
+    "idmiejscowosc": "0097258",
+    "nazwa": "Żędowo"
+  },
+  {
+    "idmiejscowosc": "0097264",
+    "nazwa": "Żurczyn"
+  }
+]

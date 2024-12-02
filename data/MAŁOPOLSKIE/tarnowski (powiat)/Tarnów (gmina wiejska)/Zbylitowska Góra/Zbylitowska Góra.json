@@ -1,0 +1,367 @@
+[
+  {
+    "idulica": "00405",
+    "nazwa": "Ariańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "00518",
+    "nazwa": "Azaliowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02276",
+    "nazwa": "Brzozowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02321",
+    "nazwa": "Buczyna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02977",
+    "nazwa": "Cichociemnych",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "02985",
+    "nazwa": "Cichy Kącik",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03114",
+    "nazwa": "Cmentarna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03570",
+    "nazwa": "Dalsza",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03811",
+    "nazwa": "Dębowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "03839",
+    "nazwa": "Długa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04385",
+    "nazwa": "Dunajcowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "04755",
+    "nazwa": "Ekumeniczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "05083",
+    "nazwa": "św. Floriana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "06075",
+    "nazwa": "Graniczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07123",
+    "nazwa": "Jana Pawła II",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07380",
+    "nazwa": "Jaśminowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07394",
+    "nazwa": "Jaworowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07556",
+    "nazwa": "Jeżówka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "07543",
+    "nazwa": "Jezuitów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08171",
+    "nazwa": "Kasztanowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "40737",
+    "nazwa": "o. Franciszka Kaweckiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "08687",
+    "nazwa": "Kobiela",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09546",
+    "nazwa": "Kościelna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "09796",
+    "nazwa": "Krakowska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10009",
+    "nazwa": "Krótka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10417",
+    "nazwa": "Kupiecka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "10562",
+    "nazwa": "Kwiatowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "11577",
+    "nazwa": "Łączna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12446",
+    "nazwa": "Masarska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "12947",
+    "nazwa": "Miła",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13388",
+    "nazwa": "Mościcka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "13386",
+    "nazwa": "Moszczeńskich",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14330",
+    "nazwa": "Nowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14679",
+    "nazwa": "Obustronna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "14834",
+    "nazwa": "Ogrodowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15025",
+    "nazwa": "Olszynowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15202",
+    "nazwa": "Orzechowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "15648",
+    "nazwa": "Pańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "42980",
+    "nazwa": "Plac św. Floriana",
+    "rodzaj": "pl."
+  },
+  {
+    "idulica": "16465",
+    "nazwa": "Plebańska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "16743",
+    "nazwa": "Podgórska",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17011",
+    "nazwa": "Polna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17149",
+    "nazwa": "ks. Jerzego Popiełuszki",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17647",
+    "nazwa": "Przeczna Droga",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "17753",
+    "nazwa": "Przerwana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19338",
+    "nazwa": "Rzemieślników",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "19404",
+    "nazwa": "Sadowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20116",
+    "nazwa": "Skotnik",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20248",
+    "nazwa": "Słona Woda",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20254",
+    "nazwa": "Słoneczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20532",
+    "nazwa": "Solidarności",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20641",
+    "nazwa": "Spacerowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "20683",
+    "nazwa": "Sportowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21436",
+    "nazwa": "Styczna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21768",
+    "nazwa": "Szara",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "21787",
+    "nazwa": "Szarych Szeregów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22777",
+    "nazwa": "Tęczowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "22952",
+    "nazwa": "Trapezowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23327",
+    "nazwa": "Ukośna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "23805",
+    "nazwa": "Wątok",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24870",
+    "nazwa": "Wrzosowa",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "24983",
+    "nazwa": "Wygoda",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25117",
+    "nazwa": "Prymasa Wyszyńskiego",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25217",
+    "nazwa": "Za Gumnem",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26384",
+    "nazwa": "Żabów",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25504",
+    "nazwa": "Załamana",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25748",
+    "nazwa": "Zaułek",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "25924",
+    "nazwa": "Zbylitowskich",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26020",
+    "nazwa": "Zgłobicka",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26077",
+    "nazwa": "Zielna",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26081",
+    "nazwa": "Zielona",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26188",
+    "nazwa": "Złota",
+    "rodzaj": "ul."
+  },
+  {
+    "idulica": "26496",
+    "nazwa": "Żołędziowa",
+    "rodzaj": "ul."
+  }
+]

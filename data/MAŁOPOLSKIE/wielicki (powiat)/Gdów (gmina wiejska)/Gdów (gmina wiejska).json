@@ -1,0 +1,530 @@
+[
+  {
+    "idmiejscowosc": "0317702",
+    "nazwa": "Bilczyce"
+  },
+  {
+    "idmiejscowosc": "0318802",
+    "nazwa": "Borek"
+  },
+  {
+    "idmiejscowosc": "0317719",
+    "nazwa": "Brzezowa"
+  },
+  {
+    "idmiejscowosc": "0318363",
+    "nazwa": "Bydlówka"
+  },
+  {
+    "idmiejscowosc": "0317783",
+    "nazwa": "Cichawa"
+  },
+  {
+    "idmiejscowosc": "0317837",
+    "nazwa": "Cieniawa"
+  },
+  {
+    "idmiejscowosc": "0317814",
+    "nazwa": "Czyżów"
+  },
+  {
+    "idmiejscowosc": "0318819",
+    "nazwa": "Dąbrowy"
+  },
+  {
+    "idmiejscowosc": "0318340",
+    "nazwa": "Dąbrowy"
+  },
+  {
+    "idmiejscowosc": "0318110",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0318618",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0317895",
+    "nazwa": "Dłużyzny"
+  },
+  {
+    "idmiejscowosc": "0319026",
+    "nazwa": "Dobrzyców"
+  },
+  {
+    "idmiejscowosc": "0318268",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0318624",
+    "nazwa": "Drożyska"
+  },
+  {
+    "idmiejscowosc": "0318452",
+    "nazwa": "Dubielówka"
+  },
+  {
+    "idmiejscowosc": "0318825",
+    "nazwa": "Dudy"
+  },
+  {
+    "idmiejscowosc": "0317725",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0317731",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0318720",
+    "nazwa": "Dziekanka"
+  },
+  {
+    "idmiejscowosc": "0317820",
+    "nazwa": "Fałkowice"
+  },
+  {
+    "idmiejscowosc": "0318469",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0317790",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0317748",
+    "nazwa": "Gaj"
+  },
+  {
+    "idmiejscowosc": "0317889",
+    "nazwa": "Gdów"
+  },
+  {
+    "idmiejscowosc": "0318475",
+    "nazwa": "Góralówka"
+  },
+  {
+    "idmiejscowosc": "0318038",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0318736",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0317903",
+    "nazwa": "Grobla"
+  },
+  {
+    "idmiejscowosc": "0317984",
+    "nazwa": "Grzybowa"
+  },
+  {
+    "idmiejscowosc": "0317990",
+    "nazwa": "Hucisko"
+  },
+  {
+    "idmiejscowosc": "0318682",
+    "nazwa": "Janów"
+  },
+  {
+    "idmiejscowosc": "0318021",
+    "nazwa": "Jaroszówka"
+  },
+  {
+    "idmiejscowosc": "0318742",
+    "nazwa": "Kaczków"
+  },
+  {
+    "idmiejscowosc": "0318481",
+    "nazwa": "Kawalcówka"
+  },
+  {
+    "idmiejscowosc": "0318080",
+    "nazwa": "Klęczana"
+  },
+  {
+    "idmiejscowosc": "0318630",
+    "nazwa": "Kociarnia"
+  },
+  {
+    "idmiejscowosc": "0318191",
+    "nazwa": "Kopce"
+  },
+  {
+    "idmiejscowosc": "0318274",
+    "nazwa": "Korbielów"
+  },
+  {
+    "idmiejscowosc": "0318044",
+    "nazwa": "Kozia Góra"
+  },
+  {
+    "idmiejscowosc": "0318831",
+    "nazwa": "Koziarki"
+  },
+  {
+    "idmiejscowosc": "0318104",
+    "nazwa": "Krakuszowice"
+  },
+  {
+    "idmiejscowosc": "0318156",
+    "nazwa": "Książnice"
+  },
+  {
+    "idmiejscowosc": "0318185",
+    "nazwa": "Kunice"
+  },
+  {
+    "idmiejscowosc": "0318280",
+    "nazwa": "Lasowe Domy"
+  },
+  {
+    "idmiejscowosc": "0318759",
+    "nazwa": "Lipie"
+  },
+  {
+    "idmiejscowosc": "0318216",
+    "nazwa": "Liplas"
+  },
+  {
+    "idmiejscowosc": "0318765",
+    "nazwa": "Łążek"
+  },
+  {
+    "idmiejscowosc": "0318989",
+    "nazwa": "Łęki"
+  },
+  {
+    "idmiejscowosc": "0318251",
+    "nazwa": "Marszowice"
+  },
+  {
+    "idmiejscowosc": "0318334",
+    "nazwa": "Niegowić"
+  },
+  {
+    "idmiejscowosc": "0318357",
+    "nazwa": "Niewiarów"
+  },
+  {
+    "idmiejscowosc": "0318400",
+    "nazwa": "Nieznanowice"
+  },
+  {
+    "idmiejscowosc": "0318446",
+    "nazwa": "Niżowa"
+  },
+  {
+    "idmiejscowosc": "0317910",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0317754",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0317926",
+    "nazwa": "Obrytka"
+  },
+  {
+    "idmiejscowosc": "0318297",
+    "nazwa": "Osteria"
+  },
+  {
+    "idmiejscowosc": "0318848",
+    "nazwa": "Packi"
+  },
+  {
+    "idmiejscowosc": "0318009",
+    "nazwa": "Pasternik"
+  },
+  {
+    "idmiejscowosc": "0317843",
+    "nazwa": "Pastwiska"
+  },
+  {
+    "idmiejscowosc": "0318417",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0318529",
+    "nazwa": "Pierzchowiec"
+  },
+  {
+    "idmiejscowosc": "0318512",
+    "nazwa": "Pierzchów"
+  },
+  {
+    "idmiejscowosc": "0318305",
+    "nazwa": "Pisiówka"
+  },
+  {
+    "idmiejscowosc": "0318370",
+    "nazwa": "Poczekana"
+  },
+  {
+    "idmiejscowosc": "0317932",
+    "nazwa": "Pod Górą"
+  },
+  {
+    "idmiejscowosc": "0317760",
+    "nazwa": "Podedwór"
+  },
+  {
+    "idmiejscowosc": "0318699",
+    "nazwa": "Podegrodzie"
+  },
+  {
+    "idmiejscowosc": "0318647",
+    "nazwa": "Podgórz"
+  },
+  {
+    "idmiejscowosc": "0318771",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0318050",
+    "nazwa": "Podgrodzie"
+  },
+  {
+    "idmiejscowosc": "0318541",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0318498",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0318854",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0318943",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0317850",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0318222",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0318535",
+    "nazwa": "Podolany"
+  },
+  {
+    "idmiejscowosc": "0318127",
+    "nazwa": "Podoły"
+  },
+  {
+    "idmiejscowosc": "0318707",
+    "nazwa": "Podskale"
+  },
+  {
+    "idmiejscowosc": "0318653",
+    "nazwa": "Podsojka"
+  },
+  {
+    "idmiejscowosc": "0318067",
+    "nazwa": "Podstroń"
+  },
+  {
+    "idmiejscowosc": "0318200",
+    "nazwa": "Podszczepie"
+  },
+  {
+    "idmiejscowosc": "0318239",
+    "nazwa": "Podwale"
+  },
+  {
+    "idmiejscowosc": "0318073",
+    "nazwa": "Porąbka"
+  },
+  {
+    "idmiejscowosc": "0318133",
+    "nazwa": "Przedewsie"
+  },
+  {
+    "idmiejscowosc": "0318140",
+    "nazwa": "Rakówki"
+  },
+  {
+    "idmiejscowosc": "0318877",
+    "nazwa": "Resztówka"
+  },
+  {
+    "idmiejscowosc": "0318558",
+    "nazwa": "Rogóska"
+  },
+  {
+    "idmiejscowosc": "0318860",
+    "nazwa": "Rola"
+  },
+  {
+    "idmiejscowosc": "0317777",
+    "nazwa": "Rudy"
+  },
+  {
+    "idmiejscowosc": "0318506",
+    "nazwa": "Ryczoń"
+  },
+  {
+    "idmiejscowosc": "0318883",
+    "nazwa": "Sakówka"
+  },
+  {
+    "idmiejscowosc": "0318096",
+    "nazwa": "Samołkowiec"
+  },
+  {
+    "idmiejscowosc": "0318995",
+    "nazwa": "Skałka"
+  },
+  {
+    "idmiejscowosc": "0318890",
+    "nazwa": "Sotołówka"
+  },
+  {
+    "idmiejscowosc": "0318570",
+    "nazwa": "Stryszowa"
+  },
+  {
+    "idmiejscowosc": "0318908",
+    "nazwa": "Szczałb"
+  },
+  {
+    "idmiejscowosc": "0318587",
+    "nazwa": "Szczytniki"
+  },
+  {
+    "idmiejscowosc": "0318593",
+    "nazwa": "Świątniki Dolne"
+  },
+  {
+    "idmiejscowosc": "0318950",
+    "nazwa": "Talisówki"
+  },
+  {
+    "idmiejscowosc": "0318311",
+    "nazwa": "Tuczarnia"
+  },
+  {
+    "idmiejscowosc": "0318162",
+    "nazwa": "Ukraina"
+  },
+  {
+    "idmiejscowosc": "0317949",
+    "nazwa": "Ulice"
+  },
+  {
+    "idmiejscowosc": "0318245",
+    "nazwa": "Wachlówka"
+  },
+  {
+    "idmiejscowosc": "0318601",
+    "nazwa": "Wiatowice"
+  },
+  {
+    "idmiejscowosc": "0318676",
+    "nazwa": "Wieniec"
+  },
+  {
+    "idmiejscowosc": "0318713",
+    "nazwa": "Winiary"
+  },
+  {
+    "idmiejscowosc": "0318564",
+    "nazwa": "Wólka Zręczycka"
+  },
+  {
+    "idmiejscowosc": "0317955",
+    "nazwa": "Wygon"
+  },
+  {
+    "idmiejscowosc": "0318328",
+    "nazwa": "Wygon"
+  },
+  {
+    "idmiejscowosc": "0317866",
+    "nazwa": "Zadworze"
+  },
+  {
+    "idmiejscowosc": "0317961",
+    "nazwa": "Zagaje"
+  },
+  {
+    "idmiejscowosc": "0318423",
+    "nazwa": "Zagościniec"
+  },
+  {
+    "idmiejscowosc": "0318794",
+    "nazwa": "Zagórzany"
+  },
+  {
+    "idmiejscowosc": "0319003",
+    "nazwa": "Zajedle"
+  },
+  {
+    "idmiejscowosc": "0318914",
+    "nazwa": "Zalas"
+  },
+  {
+    "idmiejscowosc": "0318937",
+    "nazwa": "Zalesiany"
+  },
+  {
+    "idmiejscowosc": "0318015",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0318660",
+    "nazwa": "Zaolszyny"
+  },
+  {
+    "idmiejscowosc": "0319010",
+    "nazwa": "Zaprzykopie"
+  },
+  {
+    "idmiejscowosc": "0317978",
+    "nazwa": "Zarabie"
+  },
+  {
+    "idmiejscowosc": "0318179",
+    "nazwa": "Zarabie"
+  },
+  {
+    "idmiejscowosc": "0318788",
+    "nazwa": "Zarabie"
+  },
+  {
+    "idmiejscowosc": "0318430",
+    "nazwa": "Zarabie"
+  },
+  {
+    "idmiejscowosc": "0318920",
+    "nazwa": "Zarębówka"
+  },
+  {
+    "idmiejscowosc": "0317872",
+    "nazwa": "Zaulice"
+  },
+  {
+    "idmiejscowosc": "0318966",
+    "nazwa": "Zborczyce"
+  },
+  {
+    "idmiejscowosc": "0318386",
+    "nazwa": "Zielona"
+  },
+  {
+    "idmiejscowosc": "0318972",
+    "nazwa": "Zręczyce"
+  },
+  {
+    "idmiejscowosc": "0317808",
+    "nazwa": "Zygmuntów"
+  }
+]

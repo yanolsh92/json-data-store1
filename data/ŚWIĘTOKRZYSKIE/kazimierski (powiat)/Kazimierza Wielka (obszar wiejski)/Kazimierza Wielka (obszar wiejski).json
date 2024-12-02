@@ -1,0 +1,610 @@
+[
+  {
+    "idmiejscowosc": "0242447",
+    "nazwa": "Bagno"
+  },
+  {
+    "idmiejscowosc": "0241637",
+    "nazwa": "Bielany"
+  },
+  {
+    "idmiejscowosc": "0241465",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0241063",
+    "nazwa": "Boronice"
+  },
+  {
+    "idmiejscowosc": "0241117",
+    "nazwa": "Broniszów"
+  },
+  {
+    "idmiejscowosc": "0242364",
+    "nazwa": "Brzezak"
+  },
+  {
+    "idmiejscowosc": "0241229",
+    "nazwa": "Budzyń"
+  },
+  {
+    "idmiejscowosc": "0242499",
+    "nazwa": "Bugaj Zięblicki"
+  },
+  {
+    "idmiejscowosc": "0241703",
+    "nazwa": "Cegielnia"
+  },
+  {
+    "idmiejscowosc": "0242370",
+    "nazwa": "Chrusty Gorzkowskie"
+  },
+  {
+    "idmiejscowosc": "0241130",
+    "nazwa": "Chruszczyna Mała"
+  },
+  {
+    "idmiejscowosc": "0241175",
+    "nazwa": "Chruszczyna Wielka"
+  },
+  {
+    "idmiejscowosc": "0241206",
+    "nazwa": "Cło"
+  },
+  {
+    "idmiejscowosc": "0241212",
+    "nazwa": "Cudzynowice"
+  },
+  {
+    "idmiejscowosc": "0241873",
+    "nazwa": "Czarnowiec"
+  },
+  {
+    "idmiejscowosc": "0242507",
+    "nazwa": "Czworaki"
+  },
+  {
+    "idmiejscowosc": "0241287",
+    "nazwa": "Dalechowice"
+  },
+  {
+    "idmiejscowosc": "0242097",
+    "nazwa": "Doły"
+  },
+  {
+    "idmiejscowosc": "0241353",
+    "nazwa": "Donatkowice"
+  },
+  {
+    "idmiejscowosc": "0241413",
+    "nazwa": "Donosy"
+  },
+  {
+    "idmiejscowosc": "0241070",
+    "nazwa": "Dubięcin"
+  },
+  {
+    "idmiejscowosc": "0242418",
+    "nazwa": "Działoszyce"
+  },
+  {
+    "idmiejscowosc": "0241590",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0242134",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0241293",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0241459",
+    "nazwa": "Gabułtów"
+  },
+  {
+    "idmiejscowosc": "0241181",
+    "nazwa": "Gaje"
+  },
+  {
+    "idmiejscowosc": "0242453",
+    "nazwa": "Galicja"
+  },
+  {
+    "idmiejscowosc": "0241360",
+    "nazwa": "Gęsia"
+  },
+  {
+    "idmiejscowosc": "0241519",
+    "nazwa": "Głuchów"
+  },
+  {
+    "idmiejscowosc": "0241554",
+    "nazwa": "Gorzków"
+  },
+  {
+    "idmiejscowosc": "0241301",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0241198",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0241235",
+    "nazwa": "Górka"
+  },
+  {
+    "idmiejscowosc": "0242051",
+    "nazwa": "Góry"
+  },
+  {
+    "idmiejscowosc": "0241583",
+    "nazwa": "Góry Sieradzkie"
+  },
+  {
+    "idmiejscowosc": "1016724",
+    "nazwa": "Grobla"
+  },
+  {
+    "idmiejscowosc": "0241608",
+    "nazwa": "Gunów-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0241620",
+    "nazwa": "Gunów-Wilków"
+  },
+  {
+    "idmiejscowosc": "0241123",
+    "nazwa": "Hektary"
+  },
+  {
+    "idmiejscowosc": "0241695",
+    "nazwa": "Hołdowiec"
+  },
+  {
+    "idmiejscowosc": "0241732",
+    "nazwa": "Jakuszowice"
+  },
+  {
+    "idmiejscowosc": "0242536",
+    "nazwa": "Jankowskie"
+  },
+  {
+    "idmiejscowosc": "0241643",
+    "nazwa": "Jaźwina"
+  },
+  {
+    "idmiejscowosc": "0241471",
+    "nazwa": "Kaczmarki"
+  },
+  {
+    "idmiejscowosc": "0241749",
+    "nazwa": "Kamieńczyce"
+  },
+  {
+    "idmiejscowosc": "0241778",
+    "nazwa": "Kamyszów"
+  },
+  {
+    "idmiejscowosc": "0242460",
+    "nazwa": "Kapliczka"
+  },
+  {
+    "idmiejscowosc": "0241790",
+    "nazwa": "Kazimierza Mała"
+  },
+  {
+    "idmiejscowosc": "0241318",
+    "nazwa": "Kobiele"
+  },
+  {
+    "idmiejscowosc": "0242016",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0241821",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0241525",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0242192",
+    "nazwa": "Kolonia Wschodnia"
+  },
+  {
+    "idmiejscowosc": "0242200",
+    "nazwa": "Kolonia Zachodnia"
+  },
+  {
+    "idmiejscowosc": "0242513",
+    "nazwa": "Kołchozy"
+  },
+  {
+    "idmiejscowosc": "0241376",
+    "nazwa": "Koniusza"
+  },
+  {
+    "idmiejscowosc": "0241488",
+    "nazwa": "Korea Południowa"
+  },
+  {
+    "idmiejscowosc": "0241146",
+    "nazwa": "Koszyczek"
+  },
+  {
+    "idmiejscowosc": "0241979",
+    "nazwa": "Kościejów"
+  },
+  {
+    "idmiejscowosc": "0242387",
+    "nazwa": "Koziarnia"
+  },
+  {
+    "idmiejscowosc": "0241382",
+    "nazwa": "Kozina"
+  },
+  {
+    "idmiejscowosc": "0241152",
+    "nazwa": "Kresy"
+  },
+  {
+    "idmiejscowosc": "0241815",
+    "nazwa": "Krzyszkowice"
+  },
+  {
+    "idmiejscowosc": "0241324",
+    "nazwa": "Krzyszkowskie"
+  },
+  {
+    "idmiejscowosc": "0242476",
+    "nazwa": "Krzyżaki"
+  },
+  {
+    "idmiejscowosc": "0242140",
+    "nazwa": "Ksawerówka"
+  },
+  {
+    "idmiejscowosc": "0241850",
+    "nazwa": "Lekszyce"
+  },
+  {
+    "idmiejscowosc": "0242111",
+    "nazwa": "Lelin"
+  },
+  {
+    "idmiejscowosc": "0242275",
+    "nazwa": "Lolin"
+  },
+  {
+    "idmiejscowosc": "0242281",
+    "nazwa": "Łabędź"
+  },
+  {
+    "idmiejscowosc": "0241560",
+    "nazwa": "Łany Gorzkowskie"
+  },
+  {
+    "idmiejscowosc": "0241867",
+    "nazwa": "Łękawa"
+  },
+  {
+    "idmiejscowosc": "0241896",
+    "nazwa": "Łyczaków"
+  },
+  {
+    "idmiejscowosc": "0241904",
+    "nazwa": "Marcinkowice"
+  },
+  {
+    "idmiejscowosc": "0242022",
+    "nazwa": "Nadziałowcy"
+  },
+  {
+    "idmiejscowosc": "0241927",
+    "nazwa": "Nagórzanki"
+  },
+  {
+    "idmiejscowosc": "0241880",
+    "nazwa": "Nagórzany"
+  },
+  {
+    "idmiejscowosc": "0242298",
+    "nazwa": "Niwa"
+  },
+  {
+    "idmiejscowosc": "0241330",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0241962",
+    "nazwa": "Odonów"
+  },
+  {
+    "idmiejscowosc": "0241399",
+    "nazwa": "Okopki"
+  },
+  {
+    "idmiejscowosc": "0241650",
+    "nazwa": "Ośrodek"
+  },
+  {
+    "idmiejscowosc": "1016730",
+    "nazwa": "Pamuła"
+  },
+  {
+    "idmiejscowosc": "0241614",
+    "nazwa": "Paprotnik"
+  },
+  {
+    "idmiejscowosc": "0241531",
+    "nazwa": "Parcela"
+  },
+  {
+    "idmiejscowosc": "0241933",
+    "nazwa": "Pastwiska"
+  },
+  {
+    "idmiejscowosc": "0242000",
+    "nazwa": "Paśmiechy"
+  },
+  {
+    "idmiejscowosc": "0241985",
+    "nazwa": "Peperówka"
+  },
+  {
+    "idmiejscowosc": "0242068",
+    "nazwa": "Peperówka"
+  },
+  {
+    "idmiejscowosc": "0241710",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0241241",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0242045",
+    "nazwa": "Plechów"
+  },
+  {
+    "idmiejscowosc": "0242080",
+    "nazwa": "Plechówka"
+  },
+  {
+    "idmiejscowosc": "0242542",
+    "nazwa": "Podgaje"
+  },
+  {
+    "idmiejscowosc": "0241666",
+    "nazwa": "Podkamieńczyce"
+  },
+  {
+    "idmiejscowosc": "0241420",
+    "nazwa": "Podkazimierza"
+  },
+  {
+    "idmiejscowosc": "0242230",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0242105",
+    "nazwa": "Podolany"
+  },
+  {
+    "idmiejscowosc": "0241494",
+    "nazwa": "Podstawie"
+  },
+  {
+    "idmiejscowosc": "0241672",
+    "nazwa": "Podwikle"
+  },
+  {
+    "idmiejscowosc": "0242341",
+    "nazwa": "Półanek"
+  },
+  {
+    "idmiejscowosc": "0242329",
+    "nazwa": "Przeczniów"
+  },
+  {
+    "idmiejscowosc": "0242157",
+    "nazwa": "Przymiarki"
+  },
+  {
+    "idmiejscowosc": "0241436",
+    "nazwa": "Psiarków"
+  },
+  {
+    "idmiejscowosc": "0242424",
+    "nazwa": "Raj"
+  },
+  {
+    "idmiejscowosc": "0241726",
+    "nazwa": "Rakoszyn"
+  },
+  {
+    "idmiejscowosc": "0242246",
+    "nazwa": "Reforma"
+  },
+  {
+    "idmiejscowosc": "0241548",
+    "nazwa": "Reforma"
+  },
+  {
+    "idmiejscowosc": "0241258",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0241407",
+    "nazwa": "Secelów"
+  },
+  {
+    "idmiejscowosc": "0242128",
+    "nazwa": "Sieradzice"
+  },
+  {
+    "idmiejscowosc": "0242186",
+    "nazwa": "Skorczów"
+  },
+  {
+    "idmiejscowosc": "0242223",
+    "nazwa": "Słonowice"
+  },
+  {
+    "idmiejscowosc": "0241086",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0242039",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0242163",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0241347",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0241991",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0242217",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0241910",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0241169",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0241940",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0241838",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0242252",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0241442",
+    "nazwa": "Stawisko"
+  },
+  {
+    "idmiejscowosc": "0242269",
+    "nazwa": "Stradlice"
+  },
+  {
+    "idmiejscowosc": "0242306",
+    "nazwa": "Sypów"
+  },
+  {
+    "idmiejscowosc": "0241809",
+    "nazwa": "Sypów"
+  },
+  {
+    "idmiejscowosc": "0241502",
+    "nazwa": "Sypów"
+  },
+  {
+    "idmiejscowosc": "0241577",
+    "nazwa": "Szewska"
+  },
+  {
+    "idmiejscowosc": "0241264",
+    "nazwa": "Ulica Koszycka"
+  },
+  {
+    "idmiejscowosc": "0242074",
+    "nazwa": "Ulica Kościelna"
+  },
+  {
+    "idmiejscowosc": "0241270",
+    "nazwa": "Ulica Topolska"
+  },
+  {
+    "idmiejscowosc": "0242393",
+    "nazwa": "Ulica Zielona"
+  },
+  {
+    "idmiejscowosc": "0242312",
+    "nazwa": "Wielgus"
+  },
+  {
+    "idmiejscowosc": "0241689",
+    "nazwa": "Wilków"
+  },
+  {
+    "idmiejscowosc": "0241755",
+    "nazwa": "Wodocza"
+  },
+  {
+    "idmiejscowosc": "0242335",
+    "nazwa": "Wojciechów"
+  },
+  {
+    "idmiejscowosc": "0242358",
+    "nazwa": "Wojsławice"
+  },
+  {
+    "idmiejscowosc": "0241956",
+    "nazwa": "Wydmuchów"
+  },
+  {
+    "idmiejscowosc": "0242401",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0242559",
+    "nazwa": "Zadworze"
+  },
+  {
+    "idmiejscowosc": "0241092",
+    "nazwa": "Zagaje"
+  },
+  {
+    "idmiejscowosc": "0242430",
+    "nazwa": "Zagórzyce"
+  },
+  {
+    "idmiejscowosc": "0242170",
+    "nazwa": "Zakręcie"
+  },
+  {
+    "idmiejscowosc": "0241844",
+    "nazwa": "Zakrzyzie"
+  },
+  {
+    "idmiejscowosc": "0241100",
+    "nazwa": "Zaszosie"
+  },
+  {
+    "idmiejscowosc": "0242482",
+    "nazwa": "Zięblice"
+  },
+  {
+    "idmiejscowosc": "0242520",
+    "nazwa": "Zysławice"
+  },
+  {
+    "idmiejscowosc": "0241784",
+    "nazwa": "Żabiniec"
+  },
+  {
+    "idmiejscowosc": "0241761",
+    "nazwa": "Żłoby"
+  }
+]

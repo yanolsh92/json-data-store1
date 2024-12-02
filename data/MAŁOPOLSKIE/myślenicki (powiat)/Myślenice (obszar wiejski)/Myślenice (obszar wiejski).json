@@ -1,0 +1,494 @@
+[
+  {
+    "idmiejscowosc": "0327497",
+    "nazwa": "Babia Góra"
+  },
+  {
+    "idmiejscowosc": "0327586",
+    "nazwa": "Banowice"
+  },
+  {
+    "idmiejscowosc": "0327706",
+    "nazwa": "Baranówka"
+  },
+  {
+    "idmiejscowosc": "0328060",
+    "nazwa": "Betlejem"
+  },
+  {
+    "idmiejscowosc": "0327340",
+    "nazwa": "Bęczarka"
+  },
+  {
+    "idmiejscowosc": "0327416",
+    "nazwa": "Borzęta"
+  },
+  {
+    "idmiejscowosc": "0327876",
+    "nazwa": "Borzyny"
+  },
+  {
+    "idmiejscowosc": "0327882",
+    "nazwa": "Brzeg"
+  },
+  {
+    "idmiejscowosc": "0328380",
+    "nazwa": "Brzeg"
+  },
+  {
+    "idmiejscowosc": "0327422",
+    "nazwa": "Brzeg"
+  },
+  {
+    "idmiejscowosc": "0327540",
+    "nazwa": "Brzeżki"
+  },
+  {
+    "idmiejscowosc": "0328077",
+    "nazwa": "Budziaki"
+  },
+  {
+    "idmiejscowosc": "0327853",
+    "nazwa": "Bugaj"
+  },
+  {
+    "idmiejscowosc": "0328048",
+    "nazwa": "Bulina"
+  },
+  {
+    "idmiejscowosc": "0327480",
+    "nazwa": "Bysina"
+  },
+  {
+    "idmiejscowosc": "0327600",
+    "nazwa": "Czarny Las"
+  },
+  {
+    "idmiejscowosc": "0328083",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0327356",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0327801",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0327899",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0327534",
+    "nazwa": "Droginia"
+  },
+  {
+    "idmiejscowosc": "0327712",
+    "nazwa": "Dworskie"
+  },
+  {
+    "idmiejscowosc": "0327907",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0328462",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0327913",
+    "nazwa": "Działy"
+  },
+  {
+    "idmiejscowosc": "0328019",
+    "nazwa": "Działy"
+  },
+  {
+    "idmiejscowosc": "0328516",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0327920",
+    "nazwa": "Gać"
+  },
+  {
+    "idmiejscowosc": "0328137",
+    "nazwa": "Gazdówka"
+  },
+  {
+    "idmiejscowosc": "0327592",
+    "nazwa": "Głogoczów"
+  },
+  {
+    "idmiejscowosc": "0327439",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0327818",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0327936",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0327362",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0327729",
+    "nazwa": "Granica"
+  },
+  {
+    "idmiejscowosc": "0327942",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0328278",
+    "nazwa": "Grotówka"
+  },
+  {
+    "idmiejscowosc": "0327505",
+    "nazwa": "Grzebieniówka"
+  },
+  {
+    "idmiejscowosc": "0328143",
+    "nazwa": "Hołujówka"
+  },
+  {
+    "idmiejscowosc": "0328396",
+    "nazwa": "Janiówka"
+  },
+  {
+    "idmiejscowosc": "0327698",
+    "nazwa": "Jasienica"
+  },
+  {
+    "idmiejscowosc": "0327793",
+    "nazwa": "Jawornik"
+  },
+  {
+    "idmiejscowosc": "0327617",
+    "nazwa": "Jaworzna"
+  },
+  {
+    "idmiejscowosc": "0327379",
+    "nazwa": "Jochymówka"
+  },
+  {
+    "idmiejscowosc": "0327735",
+    "nazwa": "Kaniówka"
+  },
+  {
+    "idmiejscowosc": "0327511",
+    "nazwa": "Klępówka"
+  },
+  {
+    "idmiejscowosc": "0328090",
+    "nazwa": "Kmiecie"
+  },
+  {
+    "idmiejscowosc": "0327623",
+    "nazwa": "Kobylica"
+  },
+  {
+    "idmiejscowosc": "0327528",
+    "nazwa": "Końcawieś"
+  },
+  {
+    "idmiejscowosc": "0328150",
+    "nazwa": "Koperkówka"
+  },
+  {
+    "idmiejscowosc": "0327824",
+    "nazwa": "Kotoń"
+  },
+  {
+    "idmiejscowosc": "0328284",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0328404",
+    "nazwa": "Krupówka"
+  },
+  {
+    "idmiejscowosc": "0327860",
+    "nazwa": "Krzyszkowice"
+  },
+  {
+    "idmiejscowosc": "0328410",
+    "nazwa": "Kwintówka"
+  },
+  {
+    "idmiejscowosc": "0327385",
+    "nazwa": "Leśniakówka"
+  },
+  {
+    "idmiejscowosc": "0328290",
+    "nazwa": "Leśniczówka"
+  },
+  {
+    "idmiejscowosc": "0328002",
+    "nazwa": "Łęki"
+  },
+  {
+    "idmiejscowosc": "0328166",
+    "nazwa": "Maciągówka"
+  },
+  {
+    "idmiejscowosc": "0328309",
+    "nazwa": "Maliny"
+  },
+  {
+    "idmiejscowosc": "0328522",
+    "nazwa": "Morgi"
+  },
+  {
+    "idmiejscowosc": "0328172",
+    "nazwa": "Morusówka"
+  },
+  {
+    "idmiejscowosc": "0328427",
+    "nazwa": "Morycówka"
+  },
+  {
+    "idmiejscowosc": "0327787",
+    "nazwa": "Na Dział"
+  },
+  {
+    "idmiejscowosc": "0327557",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0328108",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0328189",
+    "nazwa": "Opydówka"
+  },
+  {
+    "idmiejscowosc": "0328054",
+    "nazwa": "Osieczany"
+  },
+  {
+    "idmiejscowosc": "0328479",
+    "nazwa": "Pałki"
+  },
+  {
+    "idmiejscowosc": "0327445",
+    "nazwa": "Panusiówka"
+  },
+  {
+    "idmiejscowosc": "0328195",
+    "nazwa": "Perówka"
+  },
+  {
+    "idmiejscowosc": "0327630",
+    "nazwa": "Piesaki"
+  },
+  {
+    "idmiejscowosc": "0327646",
+    "nazwa": "Piłogrzbiet"
+  },
+  {
+    "idmiejscowosc": "0328203",
+    "nazwa": "Pochoniówka"
+  },
+  {
+    "idmiejscowosc": "0327959",
+    "nazwa": "Pod Dębiną"
+  },
+  {
+    "idmiejscowosc": "0328485",
+    "nazwa": "Pod Kamiennikiem"
+  },
+  {
+    "idmiejscowosc": "0328315",
+    "nazwa": "Pod Kamiennikiem"
+  },
+  {
+    "idmiejscowosc": "0328539",
+    "nazwa": "Podgościniec"
+  },
+  {
+    "idmiejscowosc": "0327965",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0328025",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0328120",
+    "nazwa": "Polanka"
+  },
+  {
+    "idmiejscowosc": "0328261",
+    "nazwa": "Poręba"
+  },
+  {
+    "idmiejscowosc": "0327971",
+    "nazwa": "Poręby"
+  },
+  {
+    "idmiejscowosc": "0328545",
+    "nazwa": "Poręby"
+  },
+  {
+    "idmiejscowosc": "0328491",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0327451",
+    "nazwa": "Przylesie"
+  },
+  {
+    "idmiejscowosc": "0327391",
+    "nazwa": "Przymiarek"
+  },
+  {
+    "idmiejscowosc": "0327468",
+    "nazwa": "Przymiarek"
+  },
+  {
+    "idmiejscowosc": "0327988",
+    "nazwa": "Psiary"
+  },
+  {
+    "idmiejscowosc": "0327994",
+    "nazwa": "Pustać"
+  },
+  {
+    "idmiejscowosc": "0328433",
+    "nazwa": "Radlanki"
+  },
+  {
+    "idmiejscowosc": "0327741",
+    "nazwa": "Rozumówka"
+  },
+  {
+    "idmiejscowosc": "0328210",
+    "nazwa": "Serwiniec"
+  },
+  {
+    "idmiejscowosc": "0327758",
+    "nazwa": "Setlówka"
+  },
+  {
+    "idmiejscowosc": "0328321",
+    "nazwa": "Sękówka"
+  },
+  {
+    "idmiejscowosc": "0327764",
+    "nazwa": "Skotnica"
+  },
+  {
+    "idmiejscowosc": "0328226",
+    "nazwa": "Skotnica"
+  },
+  {
+    "idmiejscowosc": "0327652",
+    "nazwa": "Stradom"
+  },
+  {
+    "idmiejscowosc": "0328367",
+    "nazwa": "Styrek"
+  },
+  {
+    "idmiejscowosc": "0327830",
+    "nazwa": "Syberia"
+  },
+  {
+    "idmiejscowosc": "0327669",
+    "nazwa": "Szwaby"
+  },
+  {
+    "idmiejscowosc": "0328338",
+    "nazwa": "Talagówka"
+  },
+  {
+    "idmiejscowosc": "0327847",
+    "nazwa": "Tarnówka"
+  },
+  {
+    "idmiejscowosc": "0328373",
+    "nazwa": "Trzemeśnia"
+  },
+  {
+    "idmiejscowosc": "0327563",
+    "nazwa": "Tulej"
+  },
+  {
+    "idmiejscowosc": "0328031",
+    "nazwa": "Tulej"
+  },
+  {
+    "idmiejscowosc": "0327474",
+    "nazwa": "Tyrol"
+  },
+  {
+    "idmiejscowosc": "0328232",
+    "nazwa": "Wątorówka"
+  },
+  {
+    "idmiejscowosc": "0327400",
+    "nazwa": "Wilkówka"
+  },
+  {
+    "idmiejscowosc": "0328344",
+    "nazwa": "Wincentówka"
+  },
+  {
+    "idmiejscowosc": "0328249",
+    "nazwa": "Wołkówka"
+  },
+  {
+    "idmiejscowosc": "0328551",
+    "nazwa": "Wołówki"
+  },
+  {
+    "idmiejscowosc": "0328568",
+    "nazwa": "Wrzosy"
+  },
+  {
+    "idmiejscowosc": "0327675",
+    "nazwa": "Zagórzyniec"
+  },
+  {
+    "idmiejscowosc": "0327770",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0328255",
+    "nazwa": "Zagrody"
+  },
+  {
+    "idmiejscowosc": "0328440",
+    "nazwa": "Zakościele"
+  },
+  {
+    "idmiejscowosc": "0327570",
+    "nazwa": "Zalas"
+  },
+  {
+    "idmiejscowosc": "0327681",
+    "nazwa": "Zamłynie"
+  },
+  {
+    "idmiejscowosc": "0328114",
+    "nazwa": "Zarabie"
+  },
+  {
+    "idmiejscowosc": "0328350",
+    "nazwa": "Zarębówka"
+  },
+  {
+    "idmiejscowosc": "0328456",
+    "nazwa": "Zasań"
+  },
+  {
+    "idmiejscowosc": "0328500",
+    "nazwa": "Zawada"
+  }
+]

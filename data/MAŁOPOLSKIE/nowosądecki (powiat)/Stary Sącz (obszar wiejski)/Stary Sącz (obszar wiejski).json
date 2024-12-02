@@ -1,0 +1,430 @@
+[
+  {
+    "idmiejscowosc": "0465450",
+    "nazwa": "Bachnacie"
+  },
+  {
+    "idmiejscowosc": "0465822",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0465727",
+    "nazwa": "Baranówka"
+  },
+  {
+    "idmiejscowosc": "0465288",
+    "nazwa": "Barcice"
+  },
+  {
+    "idmiejscowosc": "0465271",
+    "nazwa": "Barcice Dolne"
+  },
+  {
+    "idmiejscowosc": "0465733",
+    "nazwa": "Cegielnia"
+  },
+  {
+    "idmiejscowosc": "0465970",
+    "nazwa": "Cerchla"
+  },
+  {
+    "idmiejscowosc": "0465740",
+    "nazwa": "Chmielówka"
+  },
+  {
+    "idmiejscowosc": "0465986",
+    "nazwa": "Chmurówka"
+  },
+  {
+    "idmiejscowosc": "0465466",
+    "nazwa": "Ćwierci Niżne"
+  },
+  {
+    "idmiejscowosc": "0465472",
+    "nazwa": "Ćwiercie Wyżne"
+  },
+  {
+    "idmiejscowosc": "0465609",
+    "nazwa": "Dolina"
+  },
+  {
+    "idmiejscowosc": "0465294",
+    "nazwa": "Dominików"
+  },
+  {
+    "idmiejscowosc": "0465839",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0466218",
+    "nazwa": "Działa"
+  },
+  {
+    "idmiejscowosc": "0466253",
+    "nazwa": "Dzielnica"
+  },
+  {
+    "idmiejscowosc": "0465302",
+    "nazwa": "Facimiech"
+  },
+  {
+    "idmiejscowosc": "0465443",
+    "nazwa": "Gaboń"
+  },
+  {
+    "idmiejscowosc": "0465756",
+    "nazwa": "Gaj"
+  },
+  {
+    "idmiejscowosc": "0466224",
+    "nazwa": "Galiców"
+  },
+  {
+    "idmiejscowosc": "0466260",
+    "nazwa": "Garby"
+  },
+  {
+    "idmiejscowosc": "0465845",
+    "nazwa": "Glinczak"
+  },
+  {
+    "idmiejscowosc": "0465319",
+    "nazwa": "Głucha Dolina"
+  },
+  {
+    "idmiejscowosc": "0465590",
+    "nazwa": "Gołkowice Dolne"
+  },
+  {
+    "idmiejscowosc": "0465621",
+    "nazwa": "Gołkowice Górne"
+  },
+  {
+    "idmiejscowosc": "0465325",
+    "nazwa": "Grabowce"
+  },
+  {
+    "idmiejscowosc": "0465489",
+    "nazwa": "Groń"
+  },
+  {
+    "idmiejscowosc": "0465495",
+    "nazwa": "Jachlówka"
+  },
+  {
+    "idmiejscowosc": "0465992",
+    "nazwa": "Jurczaki"
+  },
+  {
+    "idmiejscowosc": "0465928",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0465934",
+    "nazwa": "Kębiałki"
+  },
+  {
+    "idmiejscowosc": "0465503",
+    "nazwa": "Klin"
+  },
+  {
+    "idmiejscowosc": "0465331",
+    "nazwa": "Kliny"
+  },
+  {
+    "idmiejscowosc": "0465650",
+    "nazwa": "Krzyżówka"
+  },
+  {
+    "idmiejscowosc": "0465762",
+    "nazwa": "Lejzówka"
+  },
+  {
+    "idmiejscowosc": "0465779",
+    "nazwa": "Lipie"
+  },
+  {
+    "idmiejscowosc": "0465905",
+    "nazwa": "Łaziska"
+  },
+  {
+    "idmiejscowosc": "0465644",
+    "nazwa": "Łazy Biegonickie"
+  },
+  {
+    "idmiejscowosc": "1047676",
+    "nazwa": "Łąki"
+  },
+  {
+    "idmiejscowosc": "0465680",
+    "nazwa": "Łęgi"
+  },
+  {
+    "idmiejscowosc": "0465348",
+    "nazwa": "Maliniki"
+  },
+  {
+    "idmiejscowosc": "0465510",
+    "nazwa": "Mołdawówka"
+  },
+  {
+    "idmiejscowosc": "0465785",
+    "nazwa": "Morawina"
+  },
+  {
+    "idmiejscowosc": "0465673",
+    "nazwa": "Mostki"
+  },
+  {
+    "idmiejscowosc": "0465710",
+    "nazwa": "Moszczenica Niżna"
+  },
+  {
+    "idmiejscowosc": "0465816",
+    "nazwa": "Moszczenica Wyżna"
+  },
+  {
+    "idmiejscowosc": "0465897",
+    "nazwa": "Myślec"
+  },
+  {
+    "idmiejscowosc": "0466000",
+    "nazwa": "Na Łąkach"
+  },
+  {
+    "idmiejscowosc": "0466017",
+    "nazwa": "Na Michałówce"
+  },
+  {
+    "idmiejscowosc": "0465851",
+    "nazwa": "Na Wierchu"
+  },
+  {
+    "idmiejscowosc": "0466023",
+    "nazwa": "Niżny Koniec"
+  },
+  {
+    "idmiejscowosc": "0465584",
+    "nazwa": "Opalana"
+  },
+  {
+    "idmiejscowosc": "0465526",
+    "nazwa": "Osada"
+  },
+  {
+    "idmiejscowosc": "0465354",
+    "nazwa": "Paryje"
+  },
+  {
+    "idmiejscowosc": "1047682",
+    "nazwa": "Pasternia"
+  },
+  {
+    "idmiejscowosc": "0466030",
+    "nazwa": "Pieniężne"
+  },
+  {
+    "idmiejscowosc": "0465360",
+    "nazwa": "Pierzwia"
+  },
+  {
+    "idmiejscowosc": "0465696",
+    "nazwa": "Poczekaj"
+  },
+  {
+    "idmiejscowosc": "1047699",
+    "nazwa": "Pod Dzielnicą"
+  },
+  {
+    "idmiejscowosc": "0465615",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0465868",
+    "nazwa": "Pod Lipą"
+  },
+  {
+    "idmiejscowosc": "0466276",
+    "nazwa": "Pod Łąkami"
+  },
+  {
+    "idmiejscowosc": "0466046",
+    "nazwa": "Pod Wierchami"
+  },
+  {
+    "idmiejscowosc": "0466282",
+    "nazwa": "Poddolinki"
+  },
+  {
+    "idmiejscowosc": "0465638",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0466052",
+    "nazwa": "Podoliska"
+  },
+  {
+    "idmiejscowosc": "0465377",
+    "nazwa": "Podsapieniec"
+  },
+  {
+    "idmiejscowosc": "0466069",
+    "nazwa": "Polanka"
+  },
+  {
+    "idmiejscowosc": "0465383",
+    "nazwa": "Połom"
+  },
+  {
+    "idmiejscowosc": "0465911",
+    "nazwa": "Popowice"
+  },
+  {
+    "idmiejscowosc": "0465390",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0466075",
+    "nazwa": "Potyle"
+  },
+  {
+    "idmiejscowosc": "0465532",
+    "nazwa": "Praczka"
+  },
+  {
+    "idmiejscowosc": "0465549",
+    "nazwa": "Przychód"
+  },
+  {
+    "idmiejscowosc": "0465963",
+    "nazwa": "Przysietnica"
+  },
+  {
+    "idmiejscowosc": "0466081",
+    "nazwa": "Sapieniec"
+  },
+  {
+    "idmiejscowosc": "1047966",
+    "nazwa": "Sapieniec"
+  },
+  {
+    "idmiejscowosc": "0465408",
+    "nazwa": "Skrajnia"
+  },
+  {
+    "idmiejscowosc": "0466098",
+    "nazwa": "Skrajnia"
+  },
+  {
+    "idmiejscowosc": "0466201",
+    "nazwa": "Skrudzina"
+  },
+  {
+    "idmiejscowosc": "0466193",
+    "nazwa": "Strzebiałki"
+  },
+  {
+    "idmiejscowosc": "0465414",
+    "nazwa": "Strzębiałki"
+  },
+  {
+    "idmiejscowosc": "0465874",
+    "nazwa": "Śmierciaki"
+  },
+  {
+    "idmiejscowosc": "0466106",
+    "nazwa": "Twarożka"
+  },
+  {
+    "idmiejscowosc": "0466112",
+    "nazwa": "U Garwali"
+  },
+  {
+    "idmiejscowosc": "0466129",
+    "nazwa": "U Górali"
+  },
+  {
+    "idmiejscowosc": "0466135",
+    "nazwa": "U Sarnów"
+  },
+  {
+    "idmiejscowosc": "0466141",
+    "nazwa": "U Stawiarskich"
+  },
+  {
+    "idmiejscowosc": "0465791",
+    "nazwa": "Wąchałówka"
+  },
+  {
+    "idmiejscowosc": "0465420",
+    "nazwa": "Wdżary"
+  },
+  {
+    "idmiejscowosc": "0465555",
+    "nazwa": "Wilkówka"
+  },
+  {
+    "idmiejscowosc": "0465800",
+    "nazwa": "Wojsówka"
+  },
+  {
+    "idmiejscowosc": "0465561",
+    "nazwa": "Wola"
+  },
+  {
+    "idmiejscowosc": "0466247",
+    "nazwa": "Wola Krogulecka"
+  },
+  {
+    "idmiejscowosc": "0465667",
+    "nazwa": "Wójcikówka"
+  },
+  {
+    "idmiejscowosc": "0465704",
+    "nazwa": "Wydarta"
+  },
+  {
+    "idmiejscowosc": "0466158",
+    "nazwa": "Wygony"
+  },
+  {
+    "idmiejscowosc": "0466164",
+    "nazwa": "Wyżny Koniec"
+  },
+  {
+    "idmiejscowosc": "0465880",
+    "nazwa": "Za Ugory"
+  },
+  {
+    "idmiejscowosc": "0465437",
+    "nazwa": "Zabronie"
+  },
+  {
+    "idmiejscowosc": "0466170",
+    "nazwa": "Zadki"
+  },
+  {
+    "idmiejscowosc": "1047995",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0465940",
+    "nazwa": "Zagórze Korzeczkowskie"
+  },
+  {
+    "idmiejscowosc": "0465957",
+    "nazwa": "Zagórze Żeleźnikowskie"
+  },
+  {
+    "idmiejscowosc": "0466187",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0465578",
+    "nazwa": "Zapasiecze"
+  },
+  {
+    "idmiejscowosc": "0466230",
+    "nazwa": "Zapasiecze"
+  }
+]

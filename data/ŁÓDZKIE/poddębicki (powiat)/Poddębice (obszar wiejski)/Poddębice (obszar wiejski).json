@@ -1,0 +1,514 @@
+[
+  {
+    "idmiejscowosc": "0710256",
+    "nazwa": "Adamów"
+  },
+  {
+    "idmiejscowosc": "0711422",
+    "nazwa": "Aleksandrówek"
+  },
+  {
+    "idmiejscowosc": "0710322",
+    "nazwa": "Antonina"
+  },
+  {
+    "idmiejscowosc": "0711362",
+    "nazwa": "Antoninów"
+  },
+  {
+    "idmiejscowosc": "0710339",
+    "nazwa": "Balin"
+  },
+  {
+    "idmiejscowosc": "0710345",
+    "nazwa": "Bałdrzychów"
+  },
+  {
+    "idmiejscowosc": "0711221",
+    "nazwa": "Boczki"
+  },
+  {
+    "idmiejscowosc": "0710799",
+    "nazwa": "Borki Lipkowskie"
+  },
+  {
+    "idmiejscowosc": "0711161",
+    "nazwa": "Borysew"
+  },
+  {
+    "idmiejscowosc": "0710351",
+    "nazwa": "Borzewisko"
+  },
+  {
+    "idmiejscowosc": "0711250",
+    "nazwa": "Brzezinki"
+  },
+  {
+    "idmiejscowosc": "0711340",
+    "nazwa": "Budki"
+  },
+  {
+    "idmiejscowosc": "0710530",
+    "nazwa": "Bugaj"
+  },
+  {
+    "idmiejscowosc": "0710368",
+    "nazwa": "Busina"
+  },
+  {
+    "idmiejscowosc": "0710807",
+    "nazwa": "Busina-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0710374",
+    "nazwa": "Byczyna"
+  },
+  {
+    "idmiejscowosc": "0710919",
+    "nazwa": "Byków"
+  },
+  {
+    "idmiejscowosc": "0710397",
+    "nazwa": "Chropy"
+  },
+  {
+    "idmiejscowosc": "0710405",
+    "nazwa": "Chropy-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0710262",
+    "nazwa": "Ciężków"
+  },
+  {
+    "idmiejscowosc": "0710411",
+    "nazwa": "Dominikowice"
+  },
+  {
+    "idmiejscowosc": "0710440",
+    "nazwa": "Dzierzązna"
+  },
+  {
+    "idmiejscowosc": "0710747",
+    "nazwa": "Ewelinów"
+  },
+  {
+    "idmiejscowosc": "0710463",
+    "nazwa": "Feliksów"
+  },
+  {
+    "idmiejscowosc": "0710925",
+    "nazwa": "Fiki"
+  },
+  {
+    "idmiejscowosc": "0710500",
+    "nazwa": "Gibaszew"
+  },
+  {
+    "idmiejscowosc": "0989784",
+    "nazwa": "Glapki"
+  },
+  {
+    "idmiejscowosc": "0710523",
+    "nazwa": "Golice"
+  },
+  {
+    "idmiejscowosc": "0710575",
+    "nazwa": "Góra Bałdrzychowska"
+  },
+  {
+    "idmiejscowosc": "0710598",
+    "nazwa": "Góra Bałdrzychowska-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0710546",
+    "nazwa": "Góry Golickie"
+  },
+  {
+    "idmiejscowosc": "0710606",
+    "nazwa": "Grocholice"
+  },
+  {
+    "idmiejscowosc": "0710517",
+    "nazwa": "Izabela"
+  },
+  {
+    "idmiejscowosc": "0711267",
+    "nazwa": "Jabłonka"
+  },
+  {
+    "idmiejscowosc": "0710428",
+    "nazwa": "Jankowice"
+  },
+  {
+    "idmiejscowosc": "0710470",
+    "nazwa": "Jarugów"
+  },
+  {
+    "idmiejscowosc": "0711014",
+    "nazwa": "Jawornia"
+  },
+  {
+    "idmiejscowosc": "0711072",
+    "nazwa": "Józefka"
+  },
+  {
+    "idmiejscowosc": "0710612",
+    "nazwa": "Józefów"
+  },
+  {
+    "idmiejscowosc": "0710629",
+    "nazwa": "Józefów-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0710820",
+    "nazwa": "Kaczyń"
+  },
+  {
+    "idmiejscowosc": "0710859",
+    "nazwa": "Kalinki"
+  },
+  {
+    "idmiejscowosc": "0710641",
+    "nazwa": "Kałów"
+  },
+  {
+    "idmiejscowosc": "0710658",
+    "nazwa": "Karnice"
+  },
+  {
+    "idmiejscowosc": "0989844",
+    "nazwa": "Kirchol"
+  },
+  {
+    "idmiejscowosc": "0710664",
+    "nazwa": "Klementów"
+  },
+  {
+    "idmiejscowosc": "0710693",
+    "nazwa": "Kobylniki"
+  },
+  {
+    "idmiejscowosc": "0710380",
+    "nazwa": "Kolonia Byczyna"
+  },
+  {
+    "idmiejscowosc": "0711095",
+    "nazwa": "Kolonijka"
+  },
+  {
+    "idmiejscowosc": "0989850",
+    "nazwa": "Kopczyki"
+  },
+  {
+    "idmiejscowosc": "0989761",
+    "nazwa": "Koziny"
+  },
+  {
+    "idmiejscowosc": "0710701",
+    "nazwa": "Krępa"
+  },
+  {
+    "idmiejscowosc": "0989755",
+    "nazwa": "Krzyżówki"
+  },
+  {
+    "idmiejscowosc": "0989732",
+    "nazwa": "Krzyżówki"
+  },
+  {
+    "idmiejscowosc": "0710730",
+    "nazwa": "Ksawercin"
+  },
+  {
+    "idmiejscowosc": "0710842",
+    "nazwa": "Księże Kowale"
+  },
+  {
+    "idmiejscowosc": "0711190",
+    "nazwa": "Kulasy"
+  },
+  {
+    "idmiejscowosc": "0710931",
+    "nazwa": "Kwiatkowizna"
+  },
+  {
+    "idmiejscowosc": "0711379",
+    "nazwa": "Leokadiew"
+  },
+  {
+    "idmiejscowosc": "0710753",
+    "nazwa": "Leśnik"
+  },
+  {
+    "idmiejscowosc": "0710776",
+    "nazwa": "Lipki"
+  },
+  {
+    "idmiejscowosc": "0710813",
+    "nazwa": "Lipnica"
+  },
+  {
+    "idmiejscowosc": "0710836",
+    "nazwa": "Lubiszewice"
+  },
+  {
+    "idmiejscowosc": "0710865",
+    "nazwa": "Łężki"
+  },
+  {
+    "idmiejscowosc": "0710871",
+    "nazwa": "Łężki-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0710888",
+    "nazwa": "Łężki-Parcel"
+  },
+  {
+    "idmiejscowosc": "0711126",
+    "nazwa": "Madajka"
+  },
+  {
+    "idmiejscowosc": "0710894",
+    "nazwa": "Malenie"
+  },
+  {
+    "idmiejscowosc": "0711273",
+    "nazwa": "Małe"
+  },
+  {
+    "idmiejscowosc": "0711385",
+    "nazwa": "Marynki"
+  },
+  {
+    "idmiejscowosc": "0710552",
+    "nazwa": "Mrowiczna"
+  },
+  {
+    "idmiejscowosc": "0710960",
+    "nazwa": "Napoleonów"
+  },
+  {
+    "idmiejscowosc": "0989815",
+    "nazwa": "Napoleonów"
+  },
+  {
+    "idmiejscowosc": "0710902",
+    "nazwa": "Niemysłów"
+  },
+  {
+    "idmiejscowosc": "0710954",
+    "nazwa": "Niewiesz"
+  },
+  {
+    "idmiejscowosc": "0710977",
+    "nazwa": "Niewiesz-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0710990",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0710486",
+    "nazwa": "Nowy Feliksów"
+  },
+  {
+    "idmiejscowosc": "0711043",
+    "nazwa": "Nowy Pudłów"
+  },
+  {
+    "idmiejscowosc": "0710279",
+    "nazwa": "Olszynki"
+  },
+  {
+    "idmiejscowosc": "0711050",
+    "nazwa": "Panaszew"
+  },
+  {
+    "idmiejscowosc": "0711066",
+    "nazwa": "Panaszewek"
+  },
+  {
+    "idmiejscowosc": "0710760",
+    "nazwa": "Paulina"
+  },
+  {
+    "idmiejscowosc": "0710948",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0711149",
+    "nazwa": "Pieńki"
+  },
+  {
+    "idmiejscowosc": "0710569",
+    "nazwa": "Pieńki"
+  },
+  {
+    "idmiejscowosc": "0989778",
+    "nazwa": "Pieńki"
+  },
+  {
+    "idmiejscowosc": "0710635",
+    "nazwa": "Piotrów"
+  },
+  {
+    "idmiejscowosc": "0711089",
+    "nazwa": "Podgórcze"
+  },
+  {
+    "idmiejscowosc": "0711103",
+    "nazwa": "Porczyny"
+  },
+  {
+    "idmiejscowosc": "0711155",
+    "nazwa": "Praga"
+  },
+  {
+    "idmiejscowosc": "0711020",
+    "nazwa": "Psia Górka"
+  },
+  {
+    "idmiejscowosc": "0711184",
+    "nazwa": "Pudłówek"
+  },
+  {
+    "idmiejscowosc": "0711439",
+    "nazwa": "Pustkowie"
+  },
+  {
+    "idmiejscowosc": "0711209",
+    "nazwa": "Rąkczyn"
+  },
+  {
+    "idmiejscowosc": "0710782",
+    "nazwa": "Rejmontów"
+  },
+  {
+    "idmiejscowosc": "0710670",
+    "nazwa": "Rodrysin"
+  },
+  {
+    "idmiejscowosc": "0711110",
+    "nazwa": "Rogatki"
+  },
+  {
+    "idmiejscowosc": "0989821",
+    "nazwa": "Rogatki"
+  },
+  {
+    "idmiejscowosc": "0711215",
+    "nazwa": "Sempółki"
+  },
+  {
+    "idmiejscowosc": "0710492",
+    "nazwa": "Siostrów"
+  },
+  {
+    "idmiejscowosc": "0711178",
+    "nazwa": "Stacja Poddębice"
+  },
+  {
+    "idmiejscowosc": "0711451",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0711238",
+    "nazwa": "Stary Pudłów"
+  },
+  {
+    "idmiejscowosc": "0711280",
+    "nazwa": "Sworawa"
+  },
+  {
+    "idmiejscowosc": "0711244",
+    "nazwa": "Sworawa"
+  },
+  {
+    "idmiejscowosc": "0711296",
+    "nazwa": "Szarów"
+  },
+  {
+    "idmiejscowosc": "0711304",
+    "nazwa": "Szarów Księży"
+  },
+  {
+    "idmiejscowosc": "0711310",
+    "nazwa": "Szarów Pański"
+  },
+  {
+    "idmiejscowosc": "0710285",
+    "nazwa": "Szczyty"
+  },
+  {
+    "idmiejscowosc": "0710291",
+    "nazwa": "Szczyty A"
+  },
+  {
+    "idmiejscowosc": "0710300",
+    "nazwa": "Szczyty B"
+  },
+  {
+    "idmiejscowosc": "0710316",
+    "nazwa": "Szczyty W"
+  },
+  {
+    "idmiejscowosc": "0710457",
+    "nazwa": "Śmiechów"
+  },
+  {
+    "idmiejscowosc": "0711333",
+    "nazwa": "Tarnowa"
+  },
+  {
+    "idmiejscowosc": "0711008",
+    "nazwa": "Truskawiec"
+  },
+  {
+    "idmiejscowosc": "0711356",
+    "nazwa": "Tumusin"
+  },
+  {
+    "idmiejscowosc": "0711391",
+    "nazwa": "Ułany"
+  },
+  {
+    "idmiejscowosc": "0710687",
+    "nazwa": "Wandówka"
+  },
+  {
+    "idmiejscowosc": "0711400",
+    "nazwa": "Wilczków"
+  },
+  {
+    "idmiejscowosc": "0711416",
+    "nazwa": "Wólka"
+  },
+  {
+    "idmiejscowosc": "0989809",
+    "nazwa": "Wychylówek"
+  },
+  {
+    "idmiejscowosc": "0711327",
+    "nazwa": "Wykaźniki"
+  },
+  {
+    "idmiejscowosc": "0711132",
+    "nazwa": "Wylazłów"
+  },
+  {
+    "idmiejscowosc": "0711037",
+    "nazwa": "Wylazłów"
+  },
+  {
+    "idmiejscowosc": "0711445",
+    "nazwa": "Zagórzyce"
+  },
+  {
+    "idmiejscowosc": "0710983",
+    "nazwa": "Zakrzew"
+  },
+  {
+    "idmiejscowosc": "0989838",
+    "nazwa": "Żabieniec"
+  }
+]

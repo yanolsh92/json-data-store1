@@ -1,0 +1,646 @@
+[
+  {
+    "idmiejscowosc": "0811796",
+    "nazwa": "Baczków"
+  },
+  {
+    "idmiejscowosc": "0812347",
+    "nazwa": "Bagna"
+  },
+  {
+    "idmiejscowosc": "0812034",
+    "nazwa": "Bajdów"
+  },
+  {
+    "idmiejscowosc": "0321945",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0811840",
+    "nazwa": "Banie"
+  },
+  {
+    "idmiejscowosc": "0812790",
+    "nazwa": "Berdychów"
+  },
+  {
+    "idmiejscowosc": "0811827",
+    "nazwa": "Bessów"
+  },
+  {
+    "idmiejscowosc": "0999802",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0999819",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0812117",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0811833",
+    "nazwa": "Bogucice"
+  },
+  {
+    "idmiejscowosc": "0812353",
+    "nazwa": "Brzeg"
+  },
+  {
+    "idmiejscowosc": "0812695",
+    "nazwa": "Brzeziny"
+  },
+  {
+    "idmiejscowosc": "0811891",
+    "nazwa": "Brzeźnica"
+  },
+  {
+    "idmiejscowosc": "0811974",
+    "nazwa": "Buczyna"
+  },
+  {
+    "idmiejscowosc": "0999825",
+    "nazwa": "Bukowina"
+  },
+  {
+    "idmiejscowosc": "0999831",
+    "nazwa": "Bychórz"
+  },
+  {
+    "idmiejscowosc": "0812028",
+    "nazwa": "Cerekiew"
+  },
+  {
+    "idmiejscowosc": "0812092",
+    "nazwa": "Chełm"
+  },
+  {
+    "idmiejscowosc": "0812057",
+    "nazwa": "Cikowice"
+  },
+  {
+    "idmiejscowosc": "0812040",
+    "nazwa": "Czasławice"
+  },
+  {
+    "idmiejscowosc": "0999848",
+    "nazwa": "Czernychowiec"
+  },
+  {
+    "idmiejscowosc": "0812258",
+    "nazwa": "Czyżyczka"
+  },
+  {
+    "idmiejscowosc": "0812100",
+    "nazwa": "Damienice"
+  },
+  {
+    "idmiejscowosc": "0812301",
+    "nazwa": "Dąbie"
+  },
+  {
+    "idmiejscowosc": "0812175",
+    "nazwa": "Dąbrowica"
+  },
+  {
+    "idmiejscowosc": "0812703",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0999854",
+    "nazwa": "Dębina"
+  },
+  {
+    "idmiejscowosc": "0812710",
+    "nazwa": "Dworzysko"
+  },
+  {
+    "idmiejscowosc": "0812583",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0812838",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0812726",
+    "nazwa": "Fiałkówka"
+  },
+  {
+    "idmiejscowosc": "0812494",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0812212",
+    "nazwa": "Gawłów"
+  },
+  {
+    "idmiejscowosc": "0999860",
+    "nazwa": "Gęsiarnia"
+  },
+  {
+    "idmiejscowosc": "0812241",
+    "nazwa": "Gierczyce"
+  },
+  {
+    "idmiejscowosc": "0812264",
+    "nazwa": "Gorzków"
+  },
+  {
+    "idmiejscowosc": "0999877",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0811900",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0999883",
+    "nazwa": "Górny Gościniec"
+  },
+  {
+    "idmiejscowosc": "0999890",
+    "nazwa": "Górny Siedlec"
+  },
+  {
+    "idmiejscowosc": "0812293",
+    "nazwa": "Grabina"
+  },
+  {
+    "idmiejscowosc": "0999908",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0999914",
+    "nazwa": "Janów"
+  },
+  {
+    "idmiejscowosc": "0812376",
+    "nazwa": "Jaroszów"
+  },
+  {
+    "idmiejscowosc": "0999920",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0811980",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0999937",
+    "nazwa": "Kamionka"
+  },
+  {
+    "idmiejscowosc": "0812590",
+    "nazwa": "Kąt"
+  },
+  {
+    "idmiejscowosc": "0811922",
+    "nazwa": "Kiebło"
+  },
+  {
+    "idmiejscowosc": "0812123",
+    "nazwa": "Kleparz"
+  },
+  {
+    "idmiejscowosc": "0812382",
+    "nazwa": "Kleparz"
+  },
+  {
+    "idmiejscowosc": "0812844",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0812761",
+    "nazwa": "Komorów"
+  },
+  {
+    "idmiejscowosc": "0999943",
+    "nazwa": "Kopalina"
+  },
+  {
+    "idmiejscowosc": "0999950",
+    "nazwa": "Kopaliny"
+  },
+  {
+    "idmiejscowosc": "0812181",
+    "nazwa": "Kopaliny"
+  },
+  {
+    "idmiejscowosc": "0812809",
+    "nazwa": "Kopaliny"
+  },
+  {
+    "idmiejscowosc": "0812732",
+    "nazwa": "Kotły"
+  },
+  {
+    "idmiejscowosc": "0812985",
+    "nazwa": "Królowa Góra"
+  },
+  {
+    "idmiejscowosc": "0999966",
+    "nazwa": "Krupki"
+  },
+  {
+    "idmiejscowosc": "0812502",
+    "nazwa": "Krzaki"
+  },
+  {
+    "idmiejscowosc": "0812318",
+    "nazwa": "Krzyżanowice"
+  },
+  {
+    "idmiejscowosc": "0999972",
+    "nazwa": "Laszczaki"
+  },
+  {
+    "idmiejscowosc": "0812904",
+    "nazwa": "Lisica"
+  },
+  {
+    "idmiejscowosc": "0811804",
+    "nazwa": "Lisie"
+  },
+  {
+    "idmiejscowosc": "0812330",
+    "nazwa": "Łapczyca"
+  },
+  {
+    "idmiejscowosc": "0999989",
+    "nazwa": "Łazy"
+  },
+  {
+    "idmiejscowosc": "0812608",
+    "nazwa": "Łysa Góra"
+  },
+  {
+    "idmiejscowosc": "0812399",
+    "nazwa": "Machowiec"
+  },
+  {
+    "idmiejscowosc": "0812488",
+    "nazwa": "Majkowice"
+  },
+  {
+    "idmiejscowosc": "0812643",
+    "nazwa": "Mała Wieś"
+  },
+  {
+    "idmiejscowosc": "0812910",
+    "nazwa": "Mirów"
+  },
+  {
+    "idmiejscowosc": "0812548",
+    "nazwa": "Moszczenica"
+  },
+  {
+    "idmiejscowosc": "0812614",
+    "nazwa": "Na Dole"
+  },
+  {
+    "idmiejscowosc": "0999995",
+    "nazwa": "Na Podstromiu"
+  },
+  {
+    "idmiejscowosc": "0811862",
+    "nazwa": "Niemiecka Wieś"
+  },
+  {
+    "idmiejscowosc": "0812229",
+    "nazwa": "Niemiecka Wieś"
+  },
+  {
+    "idmiejscowosc": "0812577",
+    "nazwa": "Nieprześnia"
+  },
+  {
+    "idmiejscowosc": "0812637",
+    "nazwa": "Nieszkowice Małe"
+  },
+  {
+    "idmiejscowosc": "0812689",
+    "nazwa": "Nieszkowice Wielkie"
+  },
+  {
+    "idmiejscowosc": "1000002",
+    "nazwa": "Niwa"
+  },
+  {
+    "idmiejscowosc": "0812927",
+    "nazwa": "Niwa"
+  },
+  {
+    "idmiejscowosc": "0812519",
+    "nazwa": "Nowe Majkowice"
+  },
+  {
+    "idmiejscowosc": "1000019",
+    "nazwa": "Nowe Osiedle"
+  },
+  {
+    "idmiejscowosc": "0812991",
+    "nazwa": "Opaka"
+  },
+  {
+    "idmiejscowosc": "1000025",
+    "nazwa": "Ostręgowiec"
+  },
+  {
+    "idmiejscowosc": "1000031",
+    "nazwa": "Ostręgowiec"
+  },
+  {
+    "idmiejscowosc": "0812755",
+    "nazwa": "Ostrów Szlachecki"
+  },
+  {
+    "idmiejscowosc": "0813000",
+    "nazwa": "Pańska Rola"
+  },
+  {
+    "idmiejscowosc": "0812070",
+    "nazwa": "Pastwisko"
+  },
+  {
+    "idmiejscowosc": "0812324",
+    "nazwa": "Pod Kościołem"
+  },
+  {
+    "idmiejscowosc": "1000048",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0812962",
+    "nazwa": "Podbrowar"
+  },
+  {
+    "idmiejscowosc": "1061162",
+    "nazwa": "Podgorzków"
+  },
+  {
+    "idmiejscowosc": "0812650",
+    "nazwa": "Podkrzyże"
+  },
+  {
+    "idmiejscowosc": "0812130",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0811810",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0321968",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0812420",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "1000054",
+    "nazwa": "Podlesie Drugie"
+  },
+  {
+    "idmiejscowosc": "1000060",
+    "nazwa": "Podlesie Pierwsze"
+  },
+  {
+    "idmiejscowosc": "0811945",
+    "nazwa": "Podole"
+  },
+  {
+    "idmiejscowosc": "0812270",
+    "nazwa": "Podole"
+  },
+  {
+    "idmiejscowosc": "0811879",
+    "nazwa": "Podolszynie"
+  },
+  {
+    "idmiejscowosc": "0812436",
+    "nazwa": "Podrabie"
+  },
+  {
+    "idmiejscowosc": "0812146",
+    "nazwa": "Podrabie"
+  },
+  {
+    "idmiejscowosc": "0812152",
+    "nazwa": "Podrogowie"
+  },
+  {
+    "idmiejscowosc": "0811997",
+    "nazwa": "Podsobolowiec"
+  },
+  {
+    "idmiejscowosc": "0812784",
+    "nazwa": "Pogwizdów"
+  },
+  {
+    "idmiejscowosc": "0812235",
+    "nazwa": "Polska Wieś"
+  },
+  {
+    "idmiejscowosc": "1000077",
+    "nazwa": "Popieska"
+  },
+  {
+    "idmiejscowosc": "0812815",
+    "nazwa": "Potoki"
+  },
+  {
+    "idmiejscowosc": "0812821",
+    "nazwa": "Proszówki"
+  },
+  {
+    "idmiejscowosc": "0811885",
+    "nazwa": "Przedewsie"
+  },
+  {
+    "idmiejscowosc": "0812005",
+    "nazwa": "Przylesie"
+  },
+  {
+    "idmiejscowosc": "0812442",
+    "nazwa": "Przyłanki"
+  },
+  {
+    "idmiejscowosc": "0811968",
+    "nazwa": "Przysieki"
+  },
+  {
+    "idmiejscowosc": "0812749",
+    "nazwa": "Rabówka"
+  },
+  {
+    "idmiejscowosc": "0812459",
+    "nazwa": "Raj"
+  },
+  {
+    "idmiejscowosc": "0812867",
+    "nazwa": "Rajszula"
+  },
+  {
+    "idmiejscowosc": "0321974",
+    "nazwa": "Rębaczów"
+  },
+  {
+    "idmiejscowosc": "1000083",
+    "nazwa": "Równie"
+  },
+  {
+    "idmiejscowosc": "0812666",
+    "nazwa": "Rubinki"
+  },
+  {
+    "idmiejscowosc": "0812873",
+    "nazwa": "Rżyska"
+  },
+  {
+    "idmiejscowosc": "0812896",
+    "nazwa": "Siedlec"
+  },
+  {
+    "idmiejscowosc": "0812933",
+    "nazwa": "Sitnik"
+  },
+  {
+    "idmiejscowosc": "0812940",
+    "nazwa": "Słomka"
+  },
+  {
+    "idmiejscowosc": "0812778",
+    "nazwa": "Smyków"
+  },
+  {
+    "idmiejscowosc": "0321939",
+    "nazwa": "Stanisławice"
+  },
+  {
+    "idmiejscowosc": "0812880",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0812525",
+    "nazwa": "Stare Majkowice"
+  },
+  {
+    "idmiejscowosc": "0812198",
+    "nazwa": "Stawiska"
+  },
+  {
+    "idmiejscowosc": "0812956",
+    "nazwa": "Stradomka"
+  },
+  {
+    "idmiejscowosc": "0812465",
+    "nazwa": "Święta"
+  },
+  {
+    "idmiejscowosc": "1000090",
+    "nazwa": "Święta"
+  },
+  {
+    "idmiejscowosc": "0812531",
+    "nazwa": "Turzec"
+  },
+  {
+    "idmiejscowosc": "1000108",
+    "nazwa": "Ulica"
+  },
+  {
+    "idmiejscowosc": "0812471",
+    "nazwa": "Urwaniec"
+  },
+  {
+    "idmiejscowosc": "0812169",
+    "nazwa": "Uście"
+  },
+  {
+    "idmiejscowosc": "0813016",
+    "nazwa": "Wichraż"
+  },
+  {
+    "idmiejscowosc": "1000114",
+    "nazwa": "Winnica"
+  },
+  {
+    "idmiejscowosc": "1000120",
+    "nazwa": "Wise"
+  },
+  {
+    "idmiejscowosc": "0812011",
+    "nazwa": "Włostowice"
+  },
+  {
+    "idmiejscowosc": "0813045",
+    "nazwa": "Wola"
+  },
+  {
+    "idmiejscowosc": "0812979",
+    "nazwa": "Wola Nieszkowska"
+  },
+  {
+    "idmiejscowosc": "0321980",
+    "nazwa": "Wypychów"
+  },
+  {
+    "idmiejscowosc": "0321997",
+    "nazwa": "Wyryta"
+  },
+  {
+    "idmiejscowosc": "0812287",
+    "nazwa": "Zagrabówcze"
+  },
+  {
+    "idmiejscowosc": "0813022",
+    "nazwa": "Zagrody"
+  },
+  {
+    "idmiejscowosc": "1000137",
+    "nazwa": "Zajanie"
+  },
+  {
+    "idmiejscowosc": "1000143",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0812672",
+    "nazwa": "Załęże"
+  },
+  {
+    "idmiejscowosc": "0812560",
+    "nazwa": "Zamoście"
+  },
+  {
+    "idmiejscowosc": "1000150",
+    "nazwa": "Zaolszynie"
+  },
+  {
+    "idmiejscowosc": "0812620",
+    "nazwa": "Zapusty"
+  },
+  {
+    "idmiejscowosc": "1000166",
+    "nazwa": "Zastawie"
+  },
+  {
+    "idmiejscowosc": "0812086",
+    "nazwa": "Zastudnie"
+  },
+  {
+    "idmiejscowosc": "0813039",
+    "nazwa": "Zatoka"
+  },
+  {
+    "idmiejscowosc": "0813051",
+    "nazwa": "Zawada"
+  },
+  {
+    "idmiejscowosc": "0812206",
+    "nazwa": "Żelazowiec"
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "idmiejscowosc": "0272247",
+    "nazwa": "Białoborze"
+  },
+  {
+    "idmiejscowosc": "0272320",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0272767",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0272595",
+    "nazwa": "Borek"
+  },
+  {
+    "idmiejscowosc": "0273212",
+    "nazwa": "Borki"
+  },
+  {
+    "idmiejscowosc": "0272276",
+    "nazwa": "Bosowice"
+  },
+  {
+    "idmiejscowosc": "0272371",
+    "nazwa": "Chrusty"
+  },
+  {
+    "idmiejscowosc": "0272490",
+    "nazwa": "Czajków"
+  },
+  {
+    "idmiejscowosc": "0273117",
+    "nazwa": "Czworak"
+  },
+  {
+    "idmiejscowosc": "0272313",
+    "nazwa": "Czyżów"
+  },
+  {
+    "idmiejscowosc": "0272282",
+    "nazwa": "Dąbrówka"
+  },
+  {
+    "idmiejscowosc": "0272448",
+    "nazwa": "Długosze"
+  },
+  {
+    "idmiejscowosc": "0272419",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0272365",
+    "nazwa": "Dziesławice"
+  },
+  {
+    "idmiejscowosc": "0272626",
+    "nazwa": "Falęcin Nowy"
+  },
+  {
+    "idmiejscowosc": "0272827",
+    "nazwa": "Falęcin Stary"
+  },
+  {
+    "idmiejscowosc": "0272750",
+    "nazwa": "Folwarki"
+  },
+  {
+    "idmiejscowosc": "0273229",
+    "nazwa": "Fortunka"
+  },
+  {
+    "idmiejscowosc": "0272655",
+    "nazwa": "Gajówka"
+  },
+  {
+    "idmiejscowosc": "0272661",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0272425",
+    "nazwa": "Grunta"
+  },
+  {
+    "idmiejscowosc": "0272253",
+    "nazwa": "Hektary"
+  },
+  {
+    "idmiejscowosc": "0272336",
+    "nazwa": "Hektary"
+  },
+  {
+    "idmiejscowosc": "0273181",
+    "nazwa": "Jakubiec"
+  },
+  {
+    "idmiejscowosc": "0272402",
+    "nazwa": "Jastrzębiec"
+  },
+  {
+    "idmiejscowosc": "0272862",
+    "nazwa": "Kamodzienice"
+  },
+  {
+    "idmiejscowosc": "0272572",
+    "nazwa": "Karczunek"
+  },
+  {
+    "idmiejscowosc": "0272610",
+    "nazwa": "Kąty Nowe"
+  },
+  {
+    "idmiejscowosc": "0272796",
+    "nazwa": "Kąty Stare"
+  },
+  {
+    "idmiejscowosc": "0272454",
+    "nazwa": "Klępie Brzozowskie"
+  },
+  {
+    "idmiejscowosc": "0272431",
+    "nazwa": "Klępie Dolne"
+  },
+  {
+    "idmiejscowosc": "0272483",
+    "nazwa": "Klępie Górne"
+  },
+  {
+    "idmiejscowosc": "0272460",
+    "nazwa": "Klępie Włościańskie"
+  },
+  {
+    "idmiejscowosc": "0272974",
+    "nazwa": "Koci Zamek"
+  },
+  {
+    "idmiejscowosc": "0272543",
+    "nazwa": "Konarska Dębina"
+  },
+  {
+    "idmiejscowosc": "0272537",
+    "nazwa": "Konary"
+  },
+  {
+    "idmiejscowosc": "0272566",
+    "nazwa": "Kuchary"
+  },
+  {
+    "idmiejscowosc": "0272879",
+    "nazwa": "Łączki"
+  },
+  {
+    "idmiejscowosc": "0272589",
+    "nazwa": "Mariampol"
+  },
+  {
+    "idmiejscowosc": "0272856",
+    "nazwa": "Mietel"
+  },
+  {
+    "idmiejscowosc": "0272885",
+    "nazwa": "Mietel Pacanowski"
+  },
+  {
+    "idmiejscowosc": "0272891",
+    "nazwa": "Mietel Stopnicki"
+  },
+  {
+    "idmiejscowosc": "0272900",
+    "nazwa": "Mietel Turski"
+  },
+  {
+    "idmiejscowosc": "0272916",
+    "nazwa": "Mietel Wojczański"
+  },
+  {
+    "idmiejscowosc": "0272508",
+    "nazwa": "Miradowy"
+  },
+  {
+    "idmiejscowosc": "0273152",
+    "nazwa": "Na Przedmieściu"
+  },
+  {
+    "idmiejscowosc": "0272603",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0272773",
+    "nazwa": "Nowe Folwarki"
+  },
+  {
+    "idmiejscowosc": "0272514",
+    "nazwa": "Nowe Klępie"
+  },
+  {
+    "idmiejscowosc": "0272810",
+    "nazwa": "Nowe Prusy"
+  },
+  {
+    "idmiejscowosc": "0272922",
+    "nazwa": "Nowy Mietel"
+  },
+  {
+    "idmiejscowosc": "0272520",
+    "nazwa": "Okrąglica"
+  },
+  {
+    "idmiejscowosc": "0272980",
+    "nazwa": "Ośrodek"
+  },
+  {
+    "idmiejscowosc": "0272388",
+    "nazwa": "Pasieka"
+  },
+  {
+    "idmiejscowosc": "0272833",
+    "nazwa": "Piachy"
+  },
+  {
+    "idmiejscowosc": "0272477",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0272550",
+    "nazwa": "Plebanki"
+  },
+  {
+    "idmiejscowosc": "0272342",
+    "nazwa": "Po Zagoniu"
+  },
+  {
+    "idmiejscowosc": "0273169",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0272678",
+    "nazwa": "Pod Prusami"
+  },
+  {
+    "idmiejscowosc": "0272299",
+    "nazwa": "Pod Rzędem"
+  },
+  {
+    "idmiejscowosc": "0272721",
+    "nazwa": "Pod Topolą"
+  },
+  {
+    "idmiejscowosc": "0272738",
+    "nazwa": "Pod Wiśnią"
+  },
+  {
+    "idmiejscowosc": "0272394",
+    "nazwa": "Podgaj"
+  },
+  {
+    "idmiejscowosc": "0273063",
+    "nazwa": "Podgaje"
+  },
+  {
+    "idmiejscowosc": "0273235",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0272939",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0272780",
+    "nazwa": "Podklasztor"
+  },
+  {
+    "idmiejscowosc": "0272684",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0272632",
+    "nazwa": "Podlasek"
+  },
+  {
+    "idmiejscowosc": "0273123",
+    "nazwa": "Ponik"
+  },
+  {
+    "idmiejscowosc": "0272804",
+    "nazwa": "Prusy"
+  },
+  {
+    "idmiejscowosc": "0273241",
+    "nazwa": "Przybynów"
+  },
+  {
+    "idmiejscowosc": "0272997",
+    "nazwa": "Psi Dół"
+  },
+  {
+    "idmiejscowosc": "0272744",
+    "nazwa": "Sachalin"
+  },
+  {
+    "idmiejscowosc": "0273005",
+    "nazwa": "Skalaki"
+  },
+  {
+    "idmiejscowosc": "0272649",
+    "nazwa": "Skrobaczów"
+  },
+  {
+    "idmiejscowosc": "0272715",
+    "nazwa": "Smogorzów"
+  },
+  {
+    "idmiejscowosc": "0272840",
+    "nazwa": "Stany"
+  },
+  {
+    "idmiejscowosc": "0273258",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0272968",
+    "nazwa": "Strzałków"
+  },
+  {
+    "idmiejscowosc": "0273034",
+    "nazwa": "Suchowola"
+  },
+  {
+    "idmiejscowosc": "0273040",
+    "nazwa": "Szczeglin"
+  },
+  {
+    "idmiejscowosc": "0273057",
+    "nazwa": "Szczytniki"
+  },
+  {
+    "idmiejscowosc": "0273092",
+    "nazwa": "Szklanów"
+  },
+  {
+    "idmiejscowosc": "0273100",
+    "nazwa": "Topola"
+  },
+  {
+    "idmiejscowosc": "0272945",
+    "nazwa": "Warszawa"
+  },
+  {
+    "idmiejscowosc": "0273011",
+    "nazwa": "Wesoła"
+  },
+  {
+    "idmiejscowosc": "0273146",
+    "nazwa": "Wolica"
+  },
+  {
+    "idmiejscowosc": "0272690",
+    "nazwa": "Wygoda Skrobacka"
+  },
+  {
+    "idmiejscowosc": "0273198",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0272709",
+    "nazwa": "Za Dworem"
+  },
+  {
+    "idmiejscowosc": "0272307",
+    "nazwa": "Za Ogrodem"
+  },
+  {
+    "idmiejscowosc": "0272260",
+    "nazwa": "Za Szosą"
+  },
+  {
+    "idmiejscowosc": "0273070",
+    "nazwa": "Za Ulicą"
+  },
+  {
+    "idmiejscowosc": "0273175",
+    "nazwa": "Zaborze"
+  },
+  {
+    "idmiejscowosc": "0273130",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0272359",
+    "nazwa": "Zaogrodzie"
+  },
+  {
+    "idmiejscowosc": "0273028",
+    "nazwa": "Zasadzie"
+  },
+  {
+    "idmiejscowosc": "0273086",
+    "nazwa": "Żarnowiec"
+  },
+  {
+    "idmiejscowosc": "0273206",
+    "nazwa": "Żerniki Dolne"
+  }
+]

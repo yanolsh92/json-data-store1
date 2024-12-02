@@ -1,0 +1,510 @@
+[
+  {
+    "idmiejscowosc": "0323097",
+    "nazwa": "Bania"
+  },
+  {
+    "idmiejscowosc": "0322784",
+    "nazwa": "Biórków Mały"
+  },
+  {
+    "idmiejscowosc": "0322809",
+    "nazwa": "Biórków Wielki"
+  },
+  {
+    "idmiejscowosc": "0323157",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0323275",
+    "nazwa": "Buciory"
+  },
+  {
+    "idmiejscowosc": "0322821",
+    "nazwa": "Budziejowice"
+  },
+  {
+    "idmiejscowosc": "0323246",
+    "nazwa": "Bugaj"
+  },
+  {
+    "idmiejscowosc": "0322927",
+    "nazwa": "Bykowiec"
+  },
+  {
+    "idmiejscowosc": "0322838",
+    "nazwa": "Chorążyce"
+  },
+  {
+    "idmiejscowosc": "0322867",
+    "nazwa": "Czernichów"
+  },
+  {
+    "idmiejscowosc": "0322910",
+    "nazwa": "Dalewice"
+  },
+  {
+    "idmiejscowosc": "0323950",
+    "nazwa": "Drożyska"
+  },
+  {
+    "idmiejscowosc": "0323105",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0323507",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0322956",
+    "nazwa": "Glew"
+  },
+  {
+    "idmiejscowosc": "0322991",
+    "nazwa": "Glewiec"
+  },
+  {
+    "idmiejscowosc": "0323750",
+    "nazwa": "Gliwki"
+  },
+  {
+    "idmiejscowosc": "0323039",
+    "nazwa": "Gnatowice"
+  },
+  {
+    "idmiejscowosc": "0323080",
+    "nazwa": "Górka Jaklińska"
+  },
+  {
+    "idmiejscowosc": "0322844",
+    "nazwa": "Kaptur"
+  },
+  {
+    "idmiejscowosc": "0323140",
+    "nazwa": "Karwin"
+  },
+  {
+    "idmiejscowosc": "0323163",
+    "nazwa": "Karwin-Równia"
+  },
+  {
+    "idmiejscowosc": "0323683",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0323364",
+    "nazwa": "Kępa Dolna"
+  },
+  {
+    "idmiejscowosc": "0323460",
+    "nazwa": "Kmiecie"
+  },
+  {
+    "idmiejscowosc": "0323401",
+    "nazwa": "Kolawy"
+  },
+  {
+    "idmiejscowosc": "0323476",
+    "nazwa": "Kolawy"
+  },
+  {
+    "idmiejscowosc": "0323281",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0323631",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0323884",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0323000",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0323915",
+    "nazwa": "Kolonia Świderska"
+  },
+  {
+    "idmiejscowosc": "0323230",
+    "nazwa": "Koniusza"
+  },
+  {
+    "idmiejscowosc": "0323170",
+    "nazwa": "Kopalina"
+  },
+  {
+    "idmiejscowosc": "0323766",
+    "nazwa": "Korycizna"
+  },
+  {
+    "idmiejscowosc": "0323921",
+    "nazwa": "Korycizna"
+  },
+  {
+    "idmiejscowosc": "0323513",
+    "nazwa": "Kresy"
+  },
+  {
+    "idmiejscowosc": "0323387",
+    "nazwa": "Kresy Muniaczkowskie"
+  },
+  {
+    "idmiejscowosc": "0323542",
+    "nazwa": "Kresy Północne"
+  },
+  {
+    "idmiejscowosc": "0323559",
+    "nazwa": "Kresy Wschodnie"
+  },
+  {
+    "idmiejscowosc": "0323298",
+    "nazwa": "Krzyżówka"
+  },
+  {
+    "idmiejscowosc": "0322962",
+    "nazwa": "Kujawy"
+  },
+  {
+    "idmiejscowosc": "0322873",
+    "nazwa": "Łąki"
+  },
+  {
+    "idmiejscowosc": "0323045",
+    "nazwa": "Łopaty"
+  },
+  {
+    "idmiejscowosc": "0323269",
+    "nazwa": "Łyszkowice"
+  },
+  {
+    "idmiejscowosc": "0323594",
+    "nazwa": "Malina"
+  },
+  {
+    "idmiejscowosc": "0323252",
+    "nazwa": "Malina"
+  },
+  {
+    "idmiejscowosc": "0323358",
+    "nazwa": "Muniaczkowice"
+  },
+  {
+    "idmiejscowosc": "0323967",
+    "nazwa": "Nawrotka"
+  },
+  {
+    "idmiejscowosc": "0323393",
+    "nazwa": "Niegardów"
+  },
+  {
+    "idmiejscowosc": "0323453",
+    "nazwa": "Niegardów-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0323051",
+    "nazwa": "Niwy"
+  },
+  {
+    "idmiejscowosc": "0324033",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0322880",
+    "nazwa": "Od Czulic"
+  },
+  {
+    "idmiejscowosc": "0322979",
+    "nazwa": "Od Igołomi"
+  },
+  {
+    "idmiejscowosc": "0323938",
+    "nazwa": "Od Szarbi"
+  },
+  {
+    "idmiejscowosc": "0323973",
+    "nazwa": "Ostrowiec"
+  },
+  {
+    "idmiejscowosc": "0323068",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0322896",
+    "nazwa": "Pagórek"
+  },
+  {
+    "idmiejscowosc": "0323810",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0322850",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0323186",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0323111",
+    "nazwa": "Parcelacja"
+  },
+  {
+    "idmiejscowosc": "0323482",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0323418",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0323499",
+    "nazwa": "Piotrkowice Małe"
+  },
+  {
+    "idmiejscowosc": "0323536",
+    "nazwa": "Piotrkowice Wielkie"
+  },
+  {
+    "idmiejscowosc": "0323128",
+    "nazwa": "Plebanki"
+  },
+  {
+    "idmiejscowosc": "0324040",
+    "nazwa": "Poćwiercie"
+  },
+  {
+    "idmiejscowosc": "0323424",
+    "nazwa": "Pod Przesławicami"
+  },
+  {
+    "idmiejscowosc": "0323849",
+    "nazwa": "Pod Wroninem"
+  },
+  {
+    "idmiejscowosc": "0323602",
+    "nazwa": "Podgaje"
+  },
+  {
+    "idmiejscowosc": "0323016",
+    "nazwa": "Podglewie"
+  },
+  {
+    "idmiejscowosc": "0323565",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0323430",
+    "nazwa": "Podszosie"
+  },
+  {
+    "idmiejscowosc": "0322985",
+    "nazwa": "Podżydów"
+  },
+  {
+    "idmiejscowosc": "0323588",
+    "nazwa": "Polekarcice"
+  },
+  {
+    "idmiejscowosc": "0323370",
+    "nazwa": "Polusy"
+  },
+  {
+    "idmiejscowosc": "0323625",
+    "nazwa": "Posądza"
+  },
+  {
+    "idmiejscowosc": "0323192",
+    "nazwa": "Przedżydowie"
+  },
+  {
+    "idmiejscowosc": "0323677",
+    "nazwa": "Przesławice"
+  },
+  {
+    "idmiejscowosc": "0323980",
+    "nazwa": "Przezdno"
+  },
+  {
+    "idmiejscowosc": "0323571",
+    "nazwa": "Przyłącze"
+  },
+  {
+    "idmiejscowosc": "0323996",
+    "nazwa": "Przymiarki"
+  },
+  {
+    "idmiejscowosc": "0323306",
+    "nazwa": "Rakowice"
+  },
+  {
+    "idmiejscowosc": "0323690",
+    "nazwa": "Rędzina"
+  },
+  {
+    "idmiejscowosc": "0323708",
+    "nazwa": "Rogatki"
+  },
+  {
+    "idmiejscowosc": "0323648",
+    "nazwa": "Rogozie"
+  },
+  {
+    "idmiejscowosc": "0323720",
+    "nazwa": "Rzędowice"
+  },
+  {
+    "idmiejscowosc": "0322904",
+    "nazwa": "Sachalina"
+  },
+  {
+    "idmiejscowosc": "0323743",
+    "nazwa": "Siedliska"
+  },
+  {
+    "idmiejscowosc": "0323772",
+    "nazwa": "Siedliska-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0323200",
+    "nazwa": "Słotwiny"
+  },
+  {
+    "idmiejscowosc": "0323654",
+    "nazwa": "Sosnówka"
+  },
+  {
+    "idmiejscowosc": "0323789",
+    "nazwa": "Spalonka"
+  },
+  {
+    "idmiejscowosc": "0323312",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0323022",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0323795",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0323737",
+    "nazwa": "Stawik"
+  },
+  {
+    "idmiejscowosc": "0323134",
+    "nazwa": "Stawiska"
+  },
+  {
+    "idmiejscowosc": "0324004",
+    "nazwa": "Stoki"
+  },
+  {
+    "idmiejscowosc": "0322933",
+    "nazwa": "Studzienki"
+  },
+  {
+    "idmiejscowosc": "0323803",
+    "nazwa": "Szarbia"
+  },
+  {
+    "idmiejscowosc": "0323660",
+    "nazwa": "Szpitalna"
+  },
+  {
+    "idmiejscowosc": "0323217",
+    "nazwa": "Średnia Kolonia"
+  },
+  {
+    "idmiejscowosc": "0323826",
+    "nazwa": "Ukazowe"
+  },
+  {
+    "idmiejscowosc": "0323329",
+    "nazwa": "W Kącie"
+  },
+  {
+    "idmiejscowosc": "0323832",
+    "nazwa": "Wąsów"
+  },
+  {
+    "idmiejscowosc": "0323878",
+    "nazwa": "Wierzbno"
+  },
+  {
+    "idmiejscowosc": "0323855",
+    "nazwa": "Wieś Przydworska"
+  },
+  {
+    "idmiejscowosc": "0323335",
+    "nazwa": "Wiktoryjka"
+  },
+  {
+    "idmiejscowosc": "0322790",
+    "nazwa": "Wiktoryjka"
+  },
+  {
+    "idmiejscowosc": "0323909",
+    "nazwa": "Wroniec"
+  },
+  {
+    "idmiejscowosc": "0323944",
+    "nazwa": "Wronin"
+  },
+  {
+    "idmiejscowosc": "0323861",
+    "nazwa": "Wygwizdów"
+  },
+  {
+    "idmiejscowosc": "0323447",
+    "nazwa": "Wysiołek"
+  },
+  {
+    "idmiejscowosc": "0322815",
+    "nazwa": "Wysiółek Biórkowski"
+  },
+  {
+    "idmiejscowosc": "0323714",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0322940",
+    "nazwa": "Zabagnie"
+  },
+  {
+    "idmiejscowosc": "0324010",
+    "nazwa": "Zadębowiec"
+  },
+  {
+    "idmiejscowosc": "0323223",
+    "nazwa": "Zagaje"
+  },
+  {
+    "idmiejscowosc": "0323341",
+    "nazwa": "Zakarczmie"
+  },
+  {
+    "idmiejscowosc": "0323890",
+    "nazwa": "Zalesie"
+  },
+  {
+    "idmiejscowosc": "0323619",
+    "nazwa": "Zalipie"
+  },
+  {
+    "idmiejscowosc": "0323520",
+    "nazwa": "Zarzecze"
+  },
+  {
+    "idmiejscowosc": "0323074",
+    "nazwa": "Zastodole"
+  },
+  {
+    "idmiejscowosc": "0324027",
+    "nazwa": "Zielona"
+  }
+]

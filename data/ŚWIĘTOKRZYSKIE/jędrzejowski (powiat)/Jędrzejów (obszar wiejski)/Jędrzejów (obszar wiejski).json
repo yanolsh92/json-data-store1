@@ -1,0 +1,466 @@
+[
+  {
+    "idmiejscowosc": "0240193",
+    "nazwa": "Antoninów"
+  },
+  {
+    "idmiejscowosc": "0239936",
+    "nazwa": "Borki"
+  },
+  {
+    "idmiejscowosc": "0239965",
+    "nazwa": "Borowiec"
+  },
+  {
+    "idmiejscowosc": "0239942",
+    "nazwa": "Borów"
+  },
+  {
+    "idmiejscowosc": "0239971",
+    "nazwa": "Brunonów"
+  },
+  {
+    "idmiejscowosc": "0240000",
+    "nazwa": "Brus"
+  },
+  {
+    "idmiejscowosc": "0240023",
+    "nazwa": "Brynica Sucha"
+  },
+  {
+    "idmiejscowosc": "0241005",
+    "nazwa": "Brzeźnica"
+  },
+  {
+    "idmiejscowosc": "0240900",
+    "nazwa": "Brzeźnica"
+  },
+  {
+    "idmiejscowosc": "0240320",
+    "nazwa": "Cegła"
+  },
+  {
+    "idmiejscowosc": "0240052",
+    "nazwa": "Chorzewa"
+  },
+  {
+    "idmiejscowosc": "0240069",
+    "nazwa": "Chorzewka"
+  },
+  {
+    "idmiejscowosc": "0240112",
+    "nazwa": "Chwaścice"
+  },
+  {
+    "idmiejscowosc": "0240164",
+    "nazwa": "Cierno-Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0240158",
+    "nazwa": "Cierno-Zaszosie"
+  },
+  {
+    "idmiejscowosc": "0240224",
+    "nazwa": "Czarnocice"
+  },
+  {
+    "idmiejscowosc": "0240030",
+    "nazwa": "Dębówka"
+  },
+  {
+    "idmiejscowosc": "0240170",
+    "nazwa": "Diament"
+  },
+  {
+    "idmiejscowosc": "0240359",
+    "nazwa": "Dziadówki"
+  },
+  {
+    "idmiejscowosc": "0240690",
+    "nazwa": "Dziadówki"
+  },
+  {
+    "idmiejscowosc": "0240419",
+    "nazwa": "Dziadówki"
+  },
+  {
+    "idmiejscowosc": "0240595",
+    "nazwa": "Dziadówki Małe"
+  },
+  {
+    "idmiejscowosc": "0240610",
+    "nazwa": "Folga Druga"
+  },
+  {
+    "idmiejscowosc": "0240603",
+    "nazwa": "Folga Pierwsza"
+  },
+  {
+    "idmiejscowosc": "0240141",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0240129",
+    "nazwa": "Gaj"
+  },
+  {
+    "idmiejscowosc": "0240187",
+    "nazwa": "Gozna"
+  },
+  {
+    "idmiejscowosc": "0240230",
+    "nazwa": "Ignacówka"
+  },
+  {
+    "idmiejscowosc": "0240253",
+    "nazwa": "Ignacówka-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0240276",
+    "nazwa": "Jadwinów"
+  },
+  {
+    "idmiejscowosc": "0240201",
+    "nazwa": "Jarczyn"
+  },
+  {
+    "idmiejscowosc": "0240260",
+    "nazwa": "Jasionna"
+  },
+  {
+    "idmiejscowosc": "0240537",
+    "nazwa": "Józefów"
+  },
+  {
+    "idmiejscowosc": "1016397",
+    "nazwa": "Józefów"
+  },
+  {
+    "idmiejscowosc": "0241040",
+    "nazwa": "Kaletówka"
+  },
+  {
+    "idmiejscowosc": "0239959",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0240968",
+    "nazwa": "Karczma"
+  },
+  {
+    "idmiejscowosc": "0240661",
+    "nazwa": "Kargów"
+  },
+  {
+    "idmiejscowosc": "0240767",
+    "nazwa": "Kopanina"
+  },
+  {
+    "idmiejscowosc": "0240075",
+    "nazwa": "Kopanina"
+  },
+  {
+    "idmiejscowosc": "0240974",
+    "nazwa": "Kopaniny"
+  },
+  {
+    "idmiejscowosc": "0240336",
+    "nazwa": "Kopaniny"
+  },
+  {
+    "idmiejscowosc": "0240626",
+    "nazwa": "Koszarka"
+  },
+  {
+    "idmiejscowosc": "0240046",
+    "nazwa": "Kresy"
+  },
+  {
+    "idmiejscowosc": "0240833",
+    "nazwa": "Kruk"
+  },
+  {
+    "idmiejscowosc": "0240299",
+    "nazwa": "Książe-Skroniów"
+  },
+  {
+    "idmiejscowosc": "0240313",
+    "nazwa": "Kulczyzna"
+  },
+  {
+    "idmiejscowosc": "0240773",
+    "nazwa": "Kurliki"
+  },
+  {
+    "idmiejscowosc": "0240709",
+    "nazwa": "Las"
+  },
+  {
+    "idmiejscowosc": "0240342",
+    "nazwa": "Lasków"
+  },
+  {
+    "idmiejscowosc": "0240371",
+    "nazwa": "Lścin"
+  },
+  {
+    "idmiejscowosc": "0240394",
+    "nazwa": "Ludwinów"
+  },
+  {
+    "idmiejscowosc": "0240402",
+    "nazwa": "Łączyn"
+  },
+  {
+    "idmiejscowosc": "0240425",
+    "nazwa": "Łysaków Drugi"
+  },
+  {
+    "idmiejscowosc": "0240448",
+    "nazwa": "Łysaków Kawęczyński"
+  },
+  {
+    "idmiejscowosc": "0240454",
+    "nazwa": "Łysaków pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0240715",
+    "nazwa": "Maciejówka"
+  },
+  {
+    "idmiejscowosc": "1016405",
+    "nazwa": "Makowszczyzna"
+  },
+  {
+    "idmiejscowosc": "0240879",
+    "nazwa": "Mały Skroniów"
+  },
+  {
+    "idmiejscowosc": "0240477",
+    "nazwa": "Mnichów"
+  },
+  {
+    "idmiejscowosc": "0240566",
+    "nazwa": "Modrzejów"
+  },
+  {
+    "idmiejscowosc": "0240247",
+    "nazwa": "Modrzejów"
+  },
+  {
+    "idmiejscowosc": "0240282",
+    "nazwa": "Mogiły"
+  },
+  {
+    "idmiejscowosc": "0240388",
+    "nazwa": "Niebyła"
+  },
+  {
+    "idmiejscowosc": "0240632",
+    "nazwa": "Nowik"
+  },
+  {
+    "idmiejscowosc": "0240939",
+    "nazwa": "Ośrodek"
+  },
+  {
+    "idmiejscowosc": "0240514",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0240520",
+    "nazwa": "Podchojny"
+  },
+  {
+    "idmiejscowosc": "0240649",
+    "nazwa": "Podedwór"
+  },
+  {
+    "idmiejscowosc": "0240550",
+    "nazwa": "Podlaszcze"
+  },
+  {
+    "idmiejscowosc": "0240490",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0240840",
+    "nazwa": "Podłącze"
+  },
+  {
+    "idmiejscowosc": "0240804",
+    "nazwa": "Poduchowne"
+  },
+  {
+    "idmiejscowosc": "0241034",
+    "nazwa": "Podzagaje"
+  },
+  {
+    "idmiejscowosc": "0240543",
+    "nazwa": "Polesie"
+  },
+  {
+    "idmiejscowosc": "0240721",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0240589",
+    "nazwa": "Potok Mały"
+  },
+  {
+    "idmiejscowosc": "0240655",
+    "nazwa": "Potok Wielki"
+  },
+  {
+    "idmiejscowosc": "0239988",
+    "nazwa": "Potok Złoty"
+  },
+  {
+    "idmiejscowosc": "0240460",
+    "nazwa": "Pólko"
+  },
+  {
+    "idmiejscowosc": "0240750",
+    "nazwa": "Prząsław"
+  },
+  {
+    "idmiejscowosc": "0240780",
+    "nazwa": "Prząsław Mały"
+  },
+  {
+    "idmiejscowosc": "0240796",
+    "nazwa": "Przysów"
+  },
+  {
+    "idmiejscowosc": "0240827",
+    "nazwa": "Raków"
+  },
+  {
+    "idmiejscowosc": "1016411",
+    "nazwa": "Rakówek"
+  },
+  {
+    "idmiejscowosc": "0240856",
+    "nazwa": "Rakówek"
+  },
+  {
+    "idmiejscowosc": "0240678",
+    "nazwa": "Rosochatka"
+  },
+  {
+    "idmiejscowosc": "0240483",
+    "nazwa": "Rudki"
+  },
+  {
+    "idmiejscowosc": "0240862",
+    "nazwa": "Skroniów"
+  },
+  {
+    "idmiejscowosc": "0240307",
+    "nazwa": "Skroniów Fabryczny"
+  },
+  {
+    "idmiejscowosc": "0240508",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0240891",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0240885",
+    "nazwa": "Sudół"
+  },
+  {
+    "idmiejscowosc": "0240365",
+    "nazwa": "Tarszawa"
+  },
+  {
+    "idmiejscowosc": "0240684",
+    "nazwa": "Tomaszówka"
+  },
+  {
+    "idmiejscowosc": "0240572",
+    "nazwa": "Trzebionka"
+  },
+  {
+    "idmiejscowosc": "1016428",
+    "nazwa": "Ujazd"
+  },
+  {
+    "idmiejscowosc": "0240997",
+    "nazwa": "Wanat"
+  },
+  {
+    "idmiejscowosc": "0240431",
+    "nazwa": "Warszawka"
+  },
+  {
+    "idmiejscowosc": "0240916",
+    "nazwa": "Węgleniec"
+  },
+  {
+    "idmiejscowosc": "0240922",
+    "nazwa": "Wilanów"
+  },
+  {
+    "idmiejscowosc": "0240951",
+    "nazwa": "Wolica"
+  },
+  {
+    "idmiejscowosc": "0240980",
+    "nazwa": "Wólka"
+  },
+  {
+    "idmiejscowosc": "0241011",
+    "nazwa": "Wygoda"
+  },
+  {
+    "idmiejscowosc": "0240017",
+    "nazwa": "Wygoda"
+  },
+  {
+    "idmiejscowosc": "0240081",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0241057",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0240810",
+    "nazwa": "Za Przegoną"
+  },
+  {
+    "idmiejscowosc": "0239994",
+    "nazwa": "Zabłocie"
+  },
+  {
+    "idmiejscowosc": "0240738",
+    "nazwa": "Zabrzezinie"
+  },
+  {
+    "idmiejscowosc": "0241028",
+    "nazwa": "Zagaje"
+  },
+  {
+    "idmiejscowosc": "0240098",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0240106",
+    "nazwa": "Załącze"
+  },
+  {
+    "idmiejscowosc": "0240218",
+    "nazwa": "Zawady"
+  },
+  {
+    "idmiejscowosc": "0240744",
+    "nazwa": "Zwierciadłki"
+  },
+  {
+    "idmiejscowosc": "0240135",
+    "nazwa": "Żabiniec"
+  }
+]

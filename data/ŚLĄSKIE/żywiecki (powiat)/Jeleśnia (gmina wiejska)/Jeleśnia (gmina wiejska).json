@@ -1,0 +1,406 @@
+[
+  {
+    "idmiejscowosc": "0055780",
+    "nazwa": "Adamki"
+  },
+  {
+    "idmiejscowosc": "0055389",
+    "nazwa": "Baranowa"
+  },
+  {
+    "idmiejscowosc": "0055797",
+    "nazwa": "Bigosy"
+  },
+  {
+    "idmiejscowosc": "0055805",
+    "nazwa": "Buławka"
+  },
+  {
+    "idmiejscowosc": "0056012",
+    "nazwa": "Byrcy"
+  },
+  {
+    "idmiejscowosc": "0055811",
+    "nazwa": "Byrtki"
+  },
+  {
+    "idmiejscowosc": "0055395",
+    "nazwa": "Cwajnowa"
+  },
+  {
+    "idmiejscowosc": "0056029",
+    "nazwa": "Do Banasia"
+  },
+  {
+    "idmiejscowosc": "0055700",
+    "nazwa": "Do Czulów"
+  },
+  {
+    "idmiejscowosc": "0055716",
+    "nazwa": "Do Dybczaków"
+  },
+  {
+    "idmiejscowosc": "0055722",
+    "nazwa": "Do Dzikich"
+  },
+  {
+    "idmiejscowosc": "0055739",
+    "nazwa": "Do Fiederów"
+  },
+  {
+    "idmiejscowosc": "0056035",
+    "nazwa": "Do Graniów"
+  },
+  {
+    "idmiejscowosc": "0056041",
+    "nazwa": "Do Kabata"
+  },
+  {
+    "idmiejscowosc": "0055745",
+    "nazwa": "Do Kubiców"
+  },
+  {
+    "idmiejscowosc": "0056160",
+    "nazwa": "Do Kubika"
+  },
+  {
+    "idmiejscowosc": "0056058",
+    "nazwa": "Do Łyśnia"
+  },
+  {
+    "idmiejscowosc": "0056064",
+    "nazwa": "Do Morysa"
+  },
+  {
+    "idmiejscowosc": "0055751",
+    "nazwa": "Do Paździorów"
+  },
+  {
+    "idmiejscowosc": "0056070",
+    "nazwa": "Do Pindela"
+  },
+  {
+    "idmiejscowosc": "0055768",
+    "nazwa": "Do Pyków"
+  },
+  {
+    "idmiejscowosc": "0056087",
+    "nazwa": "Do Sobasa"
+  },
+  {
+    "idmiejscowosc": "0056176",
+    "nazwa": "Do Stachurów"
+  },
+  {
+    "idmiejscowosc": "0055403",
+    "nazwa": "Do Szewczyków"
+  },
+  {
+    "idmiejscowosc": "0055410",
+    "nazwa": "Donaci"
+  },
+  {
+    "idmiejscowosc": "0056182",
+    "nazwa": "Dół"
+  },
+  {
+    "idmiejscowosc": "0055828",
+    "nazwa": "Dybczakowie"
+  },
+  {
+    "idmiejscowosc": "0055834",
+    "nazwa": "Garleje"
+  },
+  {
+    "idmiejscowosc": "1003265",
+    "nazwa": "Garniec"
+  },
+  {
+    "idmiejscowosc": "0057980",
+    "nazwa": "Głuchaczki"
+  },
+  {
+    "idmiejscowosc": "0056199",
+    "nazwa": "Góra"
+  },
+  {
+    "idmiejscowosc": "0056207",
+    "nazwa": "Grygusie"
+  },
+  {
+    "idmiejscowosc": "1003271",
+    "nazwa": "Huta"
+  },
+  {
+    "idmiejscowosc": "0055426",
+    "nazwa": "Janiki"
+  },
+  {
+    "idmiejscowosc": "0055515",
+    "nazwa": "Janikówka"
+  },
+  {
+    "idmiejscowosc": "0055372",
+    "nazwa": "Jeleśnia"
+  },
+  {
+    "idmiejscowosc": "0055432",
+    "nazwa": "Juraszki"
+  },
+  {
+    "idmiejscowosc": "0056213",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "idmiejscowosc": "0055538",
+    "nazwa": "Kamienna"
+  },
+  {
+    "idmiejscowosc": "0056220",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0055521",
+    "nazwa": "Korbielów"
+  },
+  {
+    "idmiejscowosc": "0055544",
+    "nazwa": "Korbielów Dolny"
+  },
+  {
+    "idmiejscowosc": "0055550",
+    "nazwa": "Korbielów Górny"
+  },
+  {
+    "idmiejscowosc": "0055840",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0055580",
+    "nazwa": "Krzyżowa"
+  },
+  {
+    "idmiejscowosc": "0055596",
+    "nazwa": "Krzyżowa Dolna"
+  },
+  {
+    "idmiejscowosc": "0055604",
+    "nazwa": "Krzyżowa Górna"
+  },
+  {
+    "idmiejscowosc": "0055627",
+    "nazwa": "Krzyżówki"
+  },
+  {
+    "idmiejscowosc": "0055633",
+    "nazwa": "Krzyżówki Dolne"
+  },
+  {
+    "idmiejscowosc": "0055640",
+    "nazwa": "Krzyżówki Górne"
+  },
+  {
+    "idmiejscowosc": "0057997",
+    "nazwa": "Kuglarzówki"
+  },
+  {
+    "idmiejscowosc": "0055857",
+    "nazwa": "Kuklówka"
+  },
+  {
+    "idmiejscowosc": "0055863",
+    "nazwa": "Lachy"
+  },
+  {
+    "idmiejscowosc": "0055449",
+    "nazwa": "Larysia"
+  },
+  {
+    "idmiejscowosc": "0056093",
+    "nazwa": "Lnisko"
+  },
+  {
+    "idmiejscowosc": "0055870",
+    "nazwa": "Łobozówka"
+  },
+  {
+    "idmiejscowosc": "0057945",
+    "nazwa": "Łobozówka"
+  },
+  {
+    "idmiejscowosc": "0055886",
+    "nazwa": "Maciejni"
+  },
+  {
+    "idmiejscowosc": "0055892",
+    "nazwa": "Madeje"
+  },
+  {
+    "idmiejscowosc": "0055900",
+    "nazwa": "Marszałki"
+  },
+  {
+    "idmiejscowosc": "0055917",
+    "nazwa": "Mierniccy"
+  },
+  {
+    "idmiejscowosc": "0055656",
+    "nazwa": "Miesiączka"
+  },
+  {
+    "idmiejscowosc": "0057951",
+    "nazwa": "Moczarki"
+  },
+  {
+    "idmiejscowosc": "0055691",
+    "nazwa": "Mutne"
+  },
+  {
+    "idmiejscowosc": "0055662",
+    "nazwa": "Na Majerzu"
+  },
+  {
+    "idmiejscowosc": "0055610",
+    "nazwa": "Niwy"
+  },
+  {
+    "idmiejscowosc": "0055923",
+    "nazwa": "Olszówka"
+  },
+  {
+    "idmiejscowosc": "0055679",
+    "nazwa": "Pastorów-Potok"
+  },
+  {
+    "idmiejscowosc": "0055774",
+    "nazwa": "Pewel Wielka"
+  },
+  {
+    "idmiejscowosc": "0055930",
+    "nazwa": "Piechówka"
+  },
+  {
+    "idmiejscowosc": "0056101",
+    "nazwa": "Pielowa"
+  },
+  {
+    "idmiejscowosc": "0055573",
+    "nazwa": "Pilsko"
+  },
+  {
+    "idmiejscowosc": "0055946",
+    "nazwa": "Plutowa Polana"
+  },
+  {
+    "idmiejscowosc": "0057968",
+    "nazwa": "Pod Jałowcem"
+  },
+  {
+    "idmiejscowosc": "0058005",
+    "nazwa": "Przyborowiec"
+  },
+  {
+    "idmiejscowosc": "0057922",
+    "nazwa": "Przyborów"
+  },
+  {
+    "idmiejscowosc": "0055952",
+    "nazwa": "Pudówka"
+  },
+  {
+    "idmiejscowosc": "0055455",
+    "nazwa": "Pyrgiesi"
+  },
+  {
+    "idmiejscowosc": "0055461",
+    "nazwa": "Rapacze"
+  },
+  {
+    "idmiejscowosc": "1003288",
+    "nazwa": "Rówienki"
+  },
+  {
+    "idmiejscowosc": "0056118",
+    "nazwa": "Skitówki"
+  },
+  {
+    "idmiejscowosc": "0055478",
+    "nazwa": "Smagoniowa"
+  },
+  {
+    "idmiejscowosc": "0056006",
+    "nazwa": "Sopotnia Mała"
+  },
+  {
+    "idmiejscowosc": "0056153",
+    "nazwa": "Sopotnia Wielka"
+  },
+  {
+    "idmiejscowosc": "0055484",
+    "nazwa": "Sumlasia"
+  },
+  {
+    "idmiejscowosc": "0055969",
+    "nazwa": "Szewcowa Polana"
+  },
+  {
+    "idmiejscowosc": "0055975",
+    "nazwa": "Szewczyki"
+  },
+  {
+    "idmiejscowosc": "0055981",
+    "nazwa": "Szymkowa Polana"
+  },
+  {
+    "idmiejscowosc": "0055490",
+    "nazwa": "Szymury"
+  },
+  {
+    "idmiejscowosc": "0056236",
+    "nazwa": "Średniówka"
+  },
+  {
+    "idmiejscowosc": "0057974",
+    "nazwa": "Tokarnia"
+  },
+  {
+    "idmiejscowosc": "0055509",
+    "nazwa": "Waligórowa"
+  },
+  {
+    "idmiejscowosc": "0058011",
+    "nazwa": "Watówki"
+  },
+  {
+    "idmiejscowosc": "0055685",
+    "nazwa": "Watówki"
+  },
+  {
+    "idmiejscowosc": "0056124",
+    "nazwa": "Widzowie"
+  },
+  {
+    "idmiejscowosc": "1003294",
+    "nazwa": "Wojtaśne"
+  },
+  {
+    "idmiejscowosc": "0055998",
+    "nazwa": "Wyczyszczon"
+  },
+  {
+    "idmiejscowosc": "0056242",
+    "nazwa": "Za Potokiem"
+  },
+  {
+    "idmiejscowosc": "0056130",
+    "nazwa": "Zagródki"
+  },
+  {
+    "idmiejscowosc": "0055567",
+    "nazwa": "Zarastoki"
+  },
+  {
+    "idmiejscowosc": "0056147",
+    "nazwa": "Zubrula"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "idmiejscowosc": "0259850",
+    "nazwa": "Ambrożów"
+  },
+  {
+    "idmiejscowosc": "0259867",
+    "nazwa": "Bernardów"
+  },
+  {
+    "idmiejscowosc": "0260630",
+    "nazwa": "Biedów"
+  },
+  {
+    "idmiejscowosc": "0260793",
+    "nazwa": "Brogowiec"
+  },
+  {
+    "idmiejscowosc": "0260907",
+    "nazwa": "Broniewice"
+  },
+  {
+    "idmiejscowosc": "0259904",
+    "nazwa": "Bronkowice"
+  },
+  {
+    "idmiejscowosc": "0260008",
+    "nazwa": "Brzezie"
+  },
+  {
+    "idmiejscowosc": "0260043",
+    "nazwa": "Bukówka"
+  },
+  {
+    "idmiejscowosc": "0260557",
+    "nazwa": "Cegielnia-Łyżnik"
+  },
+  {
+    "idmiejscowosc": "0260095",
+    "nazwa": "Chybice"
+  },
+  {
+    "idmiejscowosc": "1019250",
+    "nazwa": "Czerwona Górka"
+  },
+  {
+    "idmiejscowosc": "0260126",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0260132",
+    "nazwa": "Dąbrowa Chybicka"
+  },
+  {
+    "idmiejscowosc": "0260149",
+    "nazwa": "Dąbrowa Pawłowska"
+  },
+  {
+    "idmiejscowosc": "0260155",
+    "nazwa": "Dąbrowa Poduchowna"
+  },
+  {
+    "idmiejscowosc": "1065680",
+    "nazwa": "Dolna Wieś"
+  },
+  {
+    "idmiejscowosc": "1019266",
+    "nazwa": "Doły"
+  },
+  {
+    "idmiejscowosc": "0260296",
+    "nazwa": "Dworskie"
+  },
+  {
+    "idmiejscowosc": "0260161",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0260646",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "1019272",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0261019",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0260340",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0260014",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0260787",
+    "nazwa": "Działki"
+  },
+  {
+    "idmiejscowosc": "0260103",
+    "nazwa": "Fajka"
+  },
+  {
+    "idmiejscowosc": "1019289",
+    "nazwa": "Gajówka Rzepin"
+  },
+  {
+    "idmiejscowosc": "0260853",
+    "nazwa": "Gawronice"
+  },
+  {
+    "idmiejscowosc": "0260273",
+    "nazwa": "Gębice"
+  },
+  {
+    "idmiejscowosc": "0260215",
+    "nazwa": "Godów"
+  },
+  {
+    "idmiejscowosc": "0260221",
+    "nazwa": "Godów Dworski"
+  },
+  {
+    "idmiejscowosc": "0260422",
+    "nazwa": "Goszczyn"
+  },
+  {
+    "idmiejscowosc": "0259910",
+    "nazwa": "Górki"
+  },
+  {
+    "idmiejscowosc": "0259927",
+    "nazwa": "Górna Wieś"
+  },
+  {
+    "idmiejscowosc": "0260280",
+    "nazwa": "Grabków"
+  },
+  {
+    "idmiejscowosc": "1019295",
+    "nazwa": "Granice"
+  },
+  {
+    "idmiejscowosc": "0260540",
+    "nazwa": "Hamrajów"
+  },
+  {
+    "idmiejscowosc": "0260681",
+    "nazwa": "Iwniki"
+  },
+  {
+    "idmiejscowosc": "0261048",
+    "nazwa": "Iźwola"
+  },
+  {
+    "idmiejscowosc": "0260333",
+    "nazwa": "Jadowniki"
+  },
+  {
+    "idmiejscowosc": "0260356",
+    "nazwa": "Jadowniki Dolne"
+  },
+  {
+    "idmiejscowosc": "0260362",
+    "nazwa": "Jadowniki Górne"
+  },
+  {
+    "idmiejscowosc": "0260913",
+    "nazwa": "Jamy"
+  },
+  {
+    "idmiejscowosc": "0259933",
+    "nazwa": "Jaźwiny"
+  },
+  {
+    "idmiejscowosc": "0260416",
+    "nazwa": "Kałków"
+  },
+  {
+    "idmiejscowosc": "0260238",
+    "nazwa": "Kały"
+  },
+  {
+    "idmiejscowosc": "0260050",
+    "nazwa": "Kobiałki"
+  },
+  {
+    "idmiejscowosc": "0260652",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0260379",
+    "nazwa": "Kolonia Jadowniki"
+  },
+  {
+    "idmiejscowosc": "0260439",
+    "nazwa": "Komorniki"
+  },
+  {
+    "idmiejscowosc": "0260178",
+    "nazwa": "Komorniki"
+  },
+  {
+    "idmiejscowosc": "0260304",
+    "nazwa": "Komorniki"
+  },
+  {
+    "idmiejscowosc": "0260959",
+    "nazwa": "Kowalków"
+  },
+  {
+    "idmiejscowosc": "0260451",
+    "nazwa": "Krajków"
+  },
+  {
+    "idmiejscowosc": "0261210",
+    "nazwa": "Leonów"
+  },
+  {
+    "idmiejscowosc": "1019094",
+    "nazwa": "Leśniczówka Radkowice"
+  },
+  {
+    "idmiejscowosc": "1019102",
+    "nazwa": "Leśniczówka Świślina"
+  },
+  {
+    "idmiejscowosc": "0260468",
+    "nazwa": "Łomno"
+  },
+  {
+    "idmiejscowosc": "0260474",
+    "nazwa": "Łomno-Majątek"
+  },
+  {
+    "idmiejscowosc": "0259956",
+    "nazwa": "Matyjasowiny"
+  },
+  {
+    "idmiejscowosc": "0259873",
+    "nazwa": "Michalinów"
+  },
+  {
+    "idmiejscowosc": "0260310",
+    "nazwa": "Miejskie"
+  },
+  {
+    "idmiejscowosc": "0260586",
+    "nazwa": "Miłoszów"
+  },
+  {
+    "idmiejscowosc": "0260534",
+    "nazwa": "Modrzewie"
+  },
+  {
+    "idmiejscowosc": "0261172",
+    "nazwa": "Mokradła"
+  },
+  {
+    "idmiejscowosc": "0261077",
+    "nazwa": "Na Dworskiem"
+  },
+  {
+    "idmiejscowosc": "0260563",
+    "nazwa": "Nieczulice"
+  },
+  {
+    "idmiejscowosc": "0260570",
+    "nazwa": "Nieczulice-Kolonia"
+  },
+  {
+    "idmiejscowosc": "1019303",
+    "nazwa": "Niwki"
+  },
+  {
+    "idmiejscowosc": "0260066",
+    "nazwa": "Nowa Bukówka"
+  },
+  {
+    "idmiejscowosc": "0260965",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0260385",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0261226",
+    "nazwa": "Nowe Wawrzeńczyce"
+  },
+  {
+    "idmiejscowosc": "0260600",
+    "nazwa": "Nowy Bostów"
+  },
+  {
+    "idmiejscowosc": "0260617",
+    "nazwa": "Nowy Jawor"
+  },
+  {
+    "idmiejscowosc": "0260675",
+    "nazwa": "Parcela"
+  },
+  {
+    "idmiejscowosc": "0260020",
+    "nazwa": "Parcele"
+  },
+  {
+    "idmiejscowosc": "0260480",
+    "nazwa": "Parcele"
+  },
+  {
+    "idmiejscowosc": "0261083",
+    "nazwa": "Parcele"
+  },
+  {
+    "idmiejscowosc": "0260971",
+    "nazwa": "Pastwiska"
+  },
+  {
+    "idmiejscowosc": "0260623",
+    "nazwa": "Pawłów"
+  },
+  {
+    "idmiejscowosc": "0260497",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0260818",
+    "nazwa": "Pisarka"
+  },
+  {
+    "idmiejscowosc": "0259962",
+    "nazwa": "Piskowce"
+  },
+  {
+    "idmiejscowosc": "0260830",
+    "nazwa": "Plewa"
+  },
+  {
+    "idmiejscowosc": "0260505",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0260729",
+    "nazwa": "Podborze"
+  },
+  {
+    "idmiejscowosc": "0260592",
+    "nazwa": "Podgóry"
+  },
+  {
+    "idmiejscowosc": "0260037",
+    "nazwa": "Podgórze"
+  },
+  {
+    "idmiejscowosc": "0259979",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0260735",
+    "nazwa": "Podosiny"
+  },
+  {
+    "idmiejscowosc": "0259991",
+    "nazwa": "Podradkowice"
+  },
+  {
+    "idmiejscowosc": "0260741",
+    "nazwa": "Podświślina"
+  },
+  {
+    "idmiejscowosc": "0260669",
+    "nazwa": "Pokrzywnica"
+  },
+  {
+    "idmiejscowosc": "0260184",
+    "nazwa": "Polesie Wawrzęczyckie"
+  },
+  {
+    "idmiejscowosc": "0260712",
+    "nazwa": "Radkowice"
+  },
+  {
+    "idmiejscowosc": "0260770",
+    "nazwa": "Radkowice-Kolonia"
+  },
+  {
+    "idmiejscowosc": "1019310",
+    "nazwa": "Rybianka"
+  },
+  {
+    "idmiejscowosc": "0992622",
+    "nazwa": "Ryczywół"
+  },
+  {
+    "idmiejscowosc": "0260706",
+    "nazwa": "Rysiowiec"
+  },
+  {
+    "idmiejscowosc": "0261054",
+    "nazwa": "Rzeki"
+  },
+  {
+    "idmiejscowosc": "0260801",
+    "nazwa": "Rzepin Drugi"
+  },
+  {
+    "idmiejscowosc": "0260847",
+    "nazwa": "Rzepin Pierwszy"
+  },
+  {
+    "idmiejscowosc": "0260860",
+    "nazwa": "Rzepin-Dół"
+  },
+  {
+    "idmiejscowosc": "0260876",
+    "nazwa": "Rzepinek"
+  },
+  {
+    "idmiejscowosc": "0260824",
+    "nazwa": "Rzepin-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0260072",
+    "nazwa": "Stara Bukówka"
+  },
+  {
+    "idmiejscowosc": "0260758",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0261090",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0260244",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0260988",
+    "nazwa": "Stare Szerzawy"
+  },
+  {
+    "idmiejscowosc": "0261232",
+    "nazwa": "Stare Wawrzeńczyce"
+  },
+  {
+    "idmiejscowosc": "0259896",
+    "nazwa": "Stary Bostów"
+  },
+  {
+    "idmiejscowosc": "0260882",
+    "nazwa": "Stary Jawor"
+  },
+  {
+    "idmiejscowosc": "0260764",
+    "nazwa": "Strona"
+  },
+  {
+    "idmiejscowosc": "0261255",
+    "nazwa": "Strugi"
+  },
+  {
+    "idmiejscowosc": "0260899",
+    "nazwa": "Szeligi"
+  },
+  {
+    "idmiejscowosc": "0260920",
+    "nazwa": "Szeligi Dolne"
+  },
+  {
+    "idmiejscowosc": "0260936",
+    "nazwa": "Szeligi Górne"
+  },
+  {
+    "idmiejscowosc": "0260942",
+    "nazwa": "Szerzawy"
+  },
+  {
+    "idmiejscowosc": "0260511",
+    "nazwa": "Ściegna"
+  },
+  {
+    "idmiejscowosc": "0261002",
+    "nazwa": "Świętomarz"
+  },
+  {
+    "idmiejscowosc": "0261025",
+    "nazwa": "Świślina"
+  },
+  {
+    "idmiejscowosc": "0261060",
+    "nazwa": "Tarczek"
+  },
+  {
+    "idmiejscowosc": "0261108",
+    "nazwa": "Tarczek Dolny"
+  },
+  {
+    "idmiejscowosc": "0261137",
+    "nazwa": "Tarczek Górny"
+  },
+  {
+    "idmiejscowosc": "0261114",
+    "nazwa": "Tarczek Poduchowny"
+  },
+  {
+    "idmiejscowosc": "0261261",
+    "nazwa": "Trzcianka"
+  },
+  {
+    "idmiejscowosc": "0261143",
+    "nazwa": "Trzeszków"
+  },
+  {
+    "idmiejscowosc": "0261150",
+    "nazwa": "Trzeszków-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0260250",
+    "nazwa": "W Strudze"
+  },
+  {
+    "idmiejscowosc": "0261189",
+    "nazwa": "Wagony"
+  },
+  {
+    "idmiejscowosc": "0260110",
+    "nazwa": "Warszawska"
+  },
+  {
+    "idmiejscowosc": "0261166",
+    "nazwa": "Warszówek"
+  },
+  {
+    "idmiejscowosc": "0261203",
+    "nazwa": "Wawrzeńczyce"
+  },
+  {
+    "idmiejscowosc": "0261249",
+    "nazwa": "Wieloborowice"
+  },
+  {
+    "idmiejscowosc": "0260445",
+    "nazwa": "Wióry"
+  },
+  {
+    "idmiejscowosc": "0260327",
+    "nazwa": "Wojciechów"
+  },
+  {
+    "idmiejscowosc": "0261195",
+    "nazwa": "Wydryszów"
+  },
+  {
+    "idmiejscowosc": "0260391",
+    "nazwa": "Wygon"
+  },
+  {
+    "idmiejscowosc": "0260698",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0260994",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0260190",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0261120",
+    "nazwa": "Zagórze"
+  },
+  {
+    "idmiejscowosc": "0260400",
+    "nazwa": "Zamaje"
+  },
+  {
+    "idmiejscowosc": "0260267",
+    "nazwa": "Zamazurze"
+  },
+  {
+    "idmiejscowosc": "0260089",
+    "nazwa": "Zapniów"
+  },
+  {
+    "idmiejscowosc": "0260209",
+    "nazwa": "Zarośla"
+  },
+  {
+    "idmiejscowosc": "0260528",
+    "nazwa": "Zarzecze"
+  },
+  {
+    "idmiejscowosc": "0259985",
+    "nazwa": "Zawąwóz"
+  },
+  {
+    "idmiejscowosc": "0261278",
+    "nazwa": "Zbrza"
+  },
+  {
+    "idmiejscowosc": "0259880",
+    "nazwa": "Zygmuntów"
+  },
+  {
+    "idmiejscowosc": "1019119",
+    "nazwa": "Żuchowiec"
+  }
+]

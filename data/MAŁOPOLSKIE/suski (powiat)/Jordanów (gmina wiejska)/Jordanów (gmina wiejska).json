@@ -1,0 +1,718 @@
+[
+  {
+    "idmiejscowosc": "0431444",
+    "nazwa": "Antałówka"
+  },
+  {
+    "idmiejscowosc": "0431734",
+    "nazwa": "Bachulowa"
+  },
+  {
+    "idmiejscowosc": "0431013",
+    "nazwa": "Bacowa"
+  },
+  {
+    "idmiejscowosc": "0431740",
+    "nazwa": "Balcarzówka"
+  },
+  {
+    "idmiejscowosc": "0431757",
+    "nazwa": "Bandurowa"
+  },
+  {
+    "idmiejscowosc": "0431020",
+    "nazwa": "Bańcerówka"
+  },
+  {
+    "idmiejscowosc": "0431763",
+    "nazwa": "Baranówka"
+  },
+  {
+    "idmiejscowosc": "0431036",
+    "nazwa": "Bargłowa"
+  },
+  {
+    "idmiejscowosc": "0431042",
+    "nazwa": "Bąbolowa"
+  },
+  {
+    "idmiejscowosc": "0432165",
+    "nazwa": "Bąkałówka"
+  },
+  {
+    "idmiejscowosc": "0432604",
+    "nazwa": "Bednarzówka"
+  },
+  {
+    "idmiejscowosc": "0432171",
+    "nazwa": "Białoniowa"
+  },
+  {
+    "idmiejscowosc": "0431059",
+    "nazwa": "Bielowa"
+  },
+  {
+    "idmiejscowosc": "0431770",
+    "nazwa": "Bogaczowa"
+  },
+  {
+    "idmiejscowosc": "0431065",
+    "nazwa": "Bolowa"
+  },
+  {
+    "idmiejscowosc": "1050477",
+    "nazwa": "Brodaniec"
+  },
+  {
+    "idmiejscowosc": "0431786",
+    "nazwa": "Brzanowa"
+  },
+  {
+    "idmiejscowosc": "0431450",
+    "nazwa": "Brzeźniówka"
+  },
+  {
+    "idmiejscowosc": "0432188",
+    "nazwa": "Budkówka"
+  },
+  {
+    "idmiejscowosc": "0431071",
+    "nazwa": "Budowa"
+  },
+  {
+    "idmiejscowosc": "0431792",
+    "nazwa": "Budowa"
+  },
+  {
+    "idmiejscowosc": "0431467",
+    "nazwa": "Burmistrzówka"
+  },
+  {
+    "idmiejscowosc": "0431088",
+    "nazwa": "Cebulowa"
+  },
+  {
+    "idmiejscowosc": "0432194",
+    "nazwa": "Chabinówka"
+  },
+  {
+    "idmiejscowosc": "0431800",
+    "nazwa": "Charwatówka"
+  },
+  {
+    "idmiejscowosc": "0431415",
+    "nazwa": "Chlebkowa"
+  },
+  {
+    "idmiejscowosc": "0431817",
+    "nazwa": "Chodanówka"
+  },
+  {
+    "idmiejscowosc": "0432202",
+    "nazwa": "Chudówka"
+  },
+  {
+    "idmiejscowosc": "0432219",
+    "nazwa": "Ciapałowa"
+  },
+  {
+    "idmiejscowosc": "0432225",
+    "nazwa": "Cieślakowa"
+  },
+  {
+    "idmiejscowosc": "0431094",
+    "nazwa": "Ciszczonkowa"
+  },
+  {
+    "idmiejscowosc": "0431102",
+    "nazwa": "Ciszczonowa"
+  },
+  {
+    "idmiejscowosc": "0431119",
+    "nazwa": "Czarnotowa"
+  },
+  {
+    "idmiejscowosc": "0431473",
+    "nazwa": "Czubinowa"
+  },
+  {
+    "idmiejscowosc": "0431823",
+    "nazwa": "Dudkówka"
+  },
+  {
+    "idmiejscowosc": "0432231",
+    "nazwa": "Dudowa"
+  },
+  {
+    "idmiejscowosc": "0432248",
+    "nazwa": "Dwór"
+  },
+  {
+    "idmiejscowosc": "0432254",
+    "nazwa": "Dybówka"
+  },
+  {
+    "idmiejscowosc": "0431480",
+    "nazwa": "Dyrdałówka"
+  },
+  {
+    "idmiejscowosc": "0432260",
+    "nazwa": "Dział"
+  },
+  {
+    "idmiejscowosc": "0431830",
+    "nazwa": "Działkowa Dolna"
+  },
+  {
+    "idmiejscowosc": "0431846",
+    "nazwa": "Działkowa Górna"
+  },
+  {
+    "idmiejscowosc": "0432610",
+    "nazwa": "Dziwiszówka"
+  },
+  {
+    "idmiejscowosc": "0432277",
+    "nazwa": "Figórowa"
+  },
+  {
+    "idmiejscowosc": "0431125",
+    "nazwa": "Firkówka"
+  },
+  {
+    "idmiejscowosc": "0432283",
+    "nazwa": "Flakowa"
+  },
+  {
+    "idmiejscowosc": "0432573",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0431496",
+    "nazwa": "Folwarskówka"
+  },
+  {
+    "idmiejscowosc": "0432290",
+    "nazwa": "Gałowa"
+  },
+  {
+    "idmiejscowosc": "0431131",
+    "nazwa": "Garncarzowa"
+  },
+  {
+    "idmiejscowosc": "0431148",
+    "nazwa": "Gąsiorowa"
+  },
+  {
+    "idmiejscowosc": "0432136",
+    "nazwa": "Gąsiorówka"
+  },
+  {
+    "idmiejscowosc": "0431154",
+    "nazwa": "Gliniki"
+  },
+  {
+    "idmiejscowosc": "0431852",
+    "nazwa": "Głodkowa"
+  },
+  {
+    "idmiejscowosc": "0431160",
+    "nazwa": "Gorylowa"
+  },
+  {
+    "idmiejscowosc": "0431504",
+    "nazwa": "Gorzutkówka"
+  },
+  {
+    "idmiejscowosc": "0431177",
+    "nazwa": "Gościejowa"
+  },
+  {
+    "idmiejscowosc": "0432308",
+    "nazwa": "Grubarzowa"
+  },
+  {
+    "idmiejscowosc": "0431869",
+    "nazwa": "Grzybkówka"
+  },
+  {
+    "idmiejscowosc": "0432627",
+    "nazwa": "Gwiazdoniówka"
+  },
+  {
+    "idmiejscowosc": "0431510",
+    "nazwa": "Gwiżdżówka"
+  },
+  {
+    "idmiejscowosc": "0431527",
+    "nazwa": "Halkówka"
+  },
+  {
+    "idmiejscowosc": "0432142",
+    "nazwa": "Jabconiowa"
+  },
+  {
+    "idmiejscowosc": "0431183",
+    "nazwa": "Jagusiowa"
+  },
+  {
+    "idmiejscowosc": "0431190",
+    "nazwa": "Jakubczęciowa"
+  },
+  {
+    "idmiejscowosc": "0431533",
+    "nazwa": "Jakubowa"
+  },
+  {
+    "idmiejscowosc": "0432314",
+    "nazwa": "Janeczkówka"
+  },
+  {
+    "idmiejscowosc": "0431875",
+    "nazwa": "Janikowa"
+  },
+  {
+    "idmiejscowosc": "0431208",
+    "nazwa": "Jasionkowa"
+  },
+  {
+    "idmiejscowosc": "0431881",
+    "nazwa": "Karbowa"
+  },
+  {
+    "idmiejscowosc": "0431540",
+    "nazwa": "Karczmarzówka"
+  },
+  {
+    "idmiejscowosc": "0431556",
+    "nazwa": "Kasperkówka"
+  },
+  {
+    "idmiejscowosc": "0432320",
+    "nazwa": "Kaszubówka"
+  },
+  {
+    "idmiejscowosc": "0431562",
+    "nazwa": "Kiełbasówka"
+  },
+  {
+    "idmiejscowosc": "0431421",
+    "nazwa": "Klimasowa"
+  },
+  {
+    "idmiejscowosc": "0431214",
+    "nazwa": "Knapikowa"
+  },
+  {
+    "idmiejscowosc": "0431898",
+    "nazwa": "Koniówkówka"
+  },
+  {
+    "idmiejscowosc": "1050514",
+    "nazwa": "Koprskowa"
+  },
+  {
+    "idmiejscowosc": "0431220",
+    "nazwa": "Kościelnowa"
+  },
+  {
+    "idmiejscowosc": "0431906",
+    "nazwa": "Kotowa"
+  },
+  {
+    "idmiejscowosc": "0431237",
+    "nazwa": "Kowalczęciowa"
+  },
+  {
+    "idmiejscowosc": "0432337",
+    "nazwa": "Kowalczykowa"
+  },
+  {
+    "idmiejscowosc": "0431579",
+    "nazwa": "Kowalowa"
+  },
+  {
+    "idmiejscowosc": "0431912",
+    "nazwa": "Kowalowa"
+  },
+  {
+    "idmiejscowosc": "0432343",
+    "nazwa": "Kowalówka"
+  },
+  {
+    "idmiejscowosc": "0432350",
+    "nazwa": "Kozówka"
+  },
+  {
+    "idmiejscowosc": "0431929",
+    "nazwa": "Książkowa"
+  },
+  {
+    "idmiejscowosc": "0431250",
+    "nazwa": "Kubaczkowa"
+  },
+  {
+    "idmiejscowosc": "0432633",
+    "nazwa": "Kubinkówka"
+  },
+  {
+    "idmiejscowosc": "0432366",
+    "nazwa": "Kulakówka"
+  },
+  {
+    "idmiejscowosc": "0431266",
+    "nazwa": "Lachowa"
+  },
+  {
+    "idmiejscowosc": "0431272",
+    "nazwa": "Lawrowa"
+  },
+  {
+    "idmiejscowosc": "0431935",
+    "nazwa": "Leśniakówka"
+  },
+  {
+    "idmiejscowosc": "0432372",
+    "nazwa": "Łazarzówka"
+  },
+  {
+    "idmiejscowosc": "0431007",
+    "nazwa": "Łętownia"
+  },
+  {
+    "idmiejscowosc": "0432640",
+    "nazwa": "Maciaszkówka"
+  },
+  {
+    "idmiejscowosc": "0432656",
+    "nazwa": "Magierówka"
+  },
+  {
+    "idmiejscowosc": "0431289",
+    "nazwa": "Makuch Niżni"
+  },
+  {
+    "idmiejscowosc": "0431295",
+    "nazwa": "Makuch Wyżni"
+  },
+  {
+    "idmiejscowosc": "0431585",
+    "nazwa": "Maślakówka"
+  },
+  {
+    "idmiejscowosc": "0431941",
+    "nazwa": "Matułówka"
+  },
+  {
+    "idmiejscowosc": "0432662",
+    "nazwa": "Mierniczakówka"
+  },
+  {
+    "idmiejscowosc": "0431591",
+    "nazwa": "Mirkowa"
+  },
+  {
+    "idmiejscowosc": "0431958",
+    "nazwa": "Misarzówka"
+  },
+  {
+    "idmiejscowosc": "0431964",
+    "nazwa": "Morawówka"
+  },
+  {
+    "idmiejscowosc": "0432389",
+    "nazwa": "Mraźnica"
+  },
+  {
+    "idmiejscowosc": "0432679",
+    "nazwa": "Mrowcówka"
+  },
+  {
+    "idmiejscowosc": "0431409",
+    "nazwa": "Na Groniu"
+  },
+  {
+    "idmiejscowosc": "0432685",
+    "nazwa": "Nad Stawami"
+  },
+  {
+    "idmiejscowosc": "0431438",
+    "nazwa": "Naprawa"
+  },
+  {
+    "idmiejscowosc": "0431970",
+    "nazwa": "Niziołówka"
+  },
+  {
+    "idmiejscowosc": "0431987",
+    "nazwa": "Oleksówka"
+  },
+  {
+    "idmiejscowosc": "0431728",
+    "nazwa": "Osielec"
+  },
+  {
+    "idmiejscowosc": "0432395",
+    "nazwa": "Pająkowa"
+  },
+  {
+    "idmiejscowosc": "0431600",
+    "nazwa": "Pasiówka"
+  },
+  {
+    "idmiejscowosc": "0432403",
+    "nazwa": "Peliwówka"
+  },
+  {
+    "idmiejscowosc": "0431616",
+    "nazwa": "Pieczygrochówka"
+  },
+  {
+    "idmiejscowosc": "0431993",
+    "nazwa": "Pieskowa"
+  },
+  {
+    "idmiejscowosc": "0432410",
+    "nazwa": "Pietrzykowa"
+  },
+  {
+    "idmiejscowosc": "0432691",
+    "nazwa": "Piotrówka"
+  },
+  {
+    "idmiejscowosc": "0432426",
+    "nazwa": "Pisulowa"
+  },
+  {
+    "idmiejscowosc": "1050520",
+    "nazwa": "Podlaski"
+  },
+  {
+    "idmiejscowosc": "0432001",
+    "nazwa": "Polany Jurkowe"
+  },
+  {
+    "idmiejscowosc": "0431303",
+    "nazwa": "Potok"
+  },
+  {
+    "idmiejscowosc": "0432432",
+    "nazwa": "Ptasiówka"
+  },
+  {
+    "idmiejscowosc": "0432449",
+    "nazwa": "Rączkowa"
+  },
+  {
+    "idmiejscowosc": "0432455",
+    "nazwa": "Rosołowa"
+  },
+  {
+    "idmiejscowosc": "0432018",
+    "nazwa": "Rusinowa"
+  },
+  {
+    "idmiejscowosc": "0432461",
+    "nazwa": "Rysiówka"
+  },
+  {
+    "idmiejscowosc": "0431310",
+    "nazwa": "Saguchowa"
+  },
+  {
+    "idmiejscowosc": "0432700",
+    "nazwa": "Salawówka"
+  },
+  {
+    "idmiejscowosc": "0432716",
+    "nazwa": "Sarnówka"
+  },
+  {
+    "idmiejscowosc": "0432024",
+    "nazwa": "Sędrówka"
+  },
+  {
+    "idmiejscowosc": "0432030",
+    "nazwa": "Sępkówka"
+  },
+  {
+    "idmiejscowosc": "0432047",
+    "nazwa": "Słoninowa"
+  },
+  {
+    "idmiejscowosc": "0432478",
+    "nazwa": "Smołówka"
+  },
+  {
+    "idmiejscowosc": "0432053",
+    "nazwa": "Sołtystwo"
+  },
+  {
+    "idmiejscowosc": "0432484",
+    "nazwa": "Stąporowa"
+  },
+  {
+    "idmiejscowosc": "0432490",
+    "nazwa": "Strzelcowa"
+  },
+  {
+    "idmiejscowosc": "0431622",
+    "nazwa": "Surówkowa"
+  },
+  {
+    "idmiejscowosc": "0431639",
+    "nazwa": "Swałtówka"
+  },
+  {
+    "idmiejscowosc": "0432722",
+    "nazwa": "Szczyptówka"
+  },
+  {
+    "idmiejscowosc": "0431645",
+    "nazwa": "Szewcowa"
+  },
+  {
+    "idmiejscowosc": "0431326",
+    "nazwa": "Szwajcowa"
+  },
+  {
+    "idmiejscowosc": "0431332",
+    "nazwa": "Szyszkowa"
+  },
+  {
+    "idmiejscowosc": "0432060",
+    "nazwa": "Szyszkowa"
+  },
+  {
+    "idmiejscowosc": "0432739",
+    "nazwa": "Świdrówka"
+  },
+  {
+    "idmiejscowosc": "0432076",
+    "nazwa": "Świstkowa"
+  },
+  {
+    "idmiejscowosc": "0432509",
+    "nazwa": "Targoszowa"
+  },
+  {
+    "idmiejscowosc": "0431651",
+    "nazwa": "Tatarkowa"
+  },
+  {
+    "idmiejscowosc": "0432745",
+    "nazwa": "Teprówka"
+  },
+  {
+    "idmiejscowosc": "0431668",
+    "nazwa": "Tłukówka"
+  },
+  {
+    "idmiejscowosc": "0432515",
+    "nazwa": "Tomczykowa"
+  },
+  {
+    "idmiejscowosc": "0432159",
+    "nazwa": "Toporzysko"
+  },
+  {
+    "idmiejscowosc": "1050537",
+    "nazwa": "Walasówka"
+  },
+  {
+    "idmiejscowosc": "0431674",
+    "nazwa": "Wawrzyńcówka"
+  },
+  {
+    "idmiejscowosc": "0431349",
+    "nazwa": "Wichrowa"
+  },
+  {
+    "idmiejscowosc": "1050543",
+    "nazwa": "Wierzbeczkówka"
+  },
+  {
+    "idmiejscowosc": "0432521",
+    "nazwa": "Wierzbowa"
+  },
+  {
+    "idmiejscowosc": "0431680",
+    "nazwa": "Wojdyłówka"
+  },
+  {
+    "idmiejscowosc": "0431355",
+    "nazwa": "Wójcikówka"
+  },
+  {
+    "idmiejscowosc": "0432538",
+    "nazwa": "Wójtowiczówka"
+  },
+  {
+    "idmiejscowosc": "0432082",
+    "nazwa": "Wronkówka"
+  },
+  {
+    "idmiejscowosc": "0432596",
+    "nazwa": "Wysoka"
+  },
+  {
+    "idmiejscowosc": "0432751",
+    "nazwa": "Za Dział"
+  },
+  {
+    "idmiejscowosc": "0431697",
+    "nazwa": "Zagroda"
+  },
+  {
+    "idmiejscowosc": "0432099",
+    "nazwa": "Zagroda Błażkowa"
+  },
+  {
+    "idmiejscowosc": "0432107",
+    "nazwa": "Zagroda Ligusowa"
+  },
+  {
+    "idmiejscowosc": "0432113",
+    "nazwa": "Zagroda Ujczakowa"
+  },
+  {
+    "idmiejscowosc": "0432544",
+    "nazwa": "Zagrody"
+  },
+  {
+    "idmiejscowosc": "0431361",
+    "nazwa": "Zagrody Niżnie"
+  },
+  {
+    "idmiejscowosc": "0431378",
+    "nazwa": "Zagrody Wyżnie"
+  },
+  {
+    "idmiejscowosc": "0432550",
+    "nazwa": "Zającówka"
+  },
+  {
+    "idmiejscowosc": "0432120",
+    "nazwa": "Zarębowa"
+  },
+  {
+    "idmiejscowosc": "0432580",
+    "nazwa": "Zawadówka"
+  },
+  {
+    "idmiejscowosc": "0431384",
+    "nazwa": "Zębalowa"
+  },
+  {
+    "idmiejscowosc": "0431390",
+    "nazwa": "Zwięgadłowa"
+  },
+  {
+    "idmiejscowosc": "0431705",
+    "nazwa": "Żegleniówka Dolna"
+  },
+  {
+    "idmiejscowosc": "0431711",
+    "nazwa": "Żegleniówka Górna"
+  }
+]

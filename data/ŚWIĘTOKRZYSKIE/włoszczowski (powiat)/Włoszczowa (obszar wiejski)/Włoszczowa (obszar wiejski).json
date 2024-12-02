@@ -1,0 +1,534 @@
+[
+  {
+    "idmiejscowosc": "0277871",
+    "nazwa": "Barycz"
+  },
+  {
+    "idmiejscowosc": "0277517",
+    "nazwa": "Bebelno-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0277552",
+    "nazwa": "Bebelno-Wieś"
+  },
+  {
+    "idmiejscowosc": "0278445",
+    "nazwa": "Biadaszek"
+  },
+  {
+    "idmiejscowosc": "0277569",
+    "nazwa": "Bieganiec"
+  },
+  {
+    "idmiejscowosc": "0277575",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0278586",
+    "nazwa": "Błonie"
+  },
+  {
+    "idmiejscowosc": "0277635",
+    "nazwa": "Boczkowice"
+  },
+  {
+    "idmiejscowosc": "0277641",
+    "nazwa": "Boczkowice-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0277902",
+    "nazwa": "Bór"
+  },
+  {
+    "idmiejscowosc": "0277664",
+    "nazwa": "Czarnca"
+  },
+  {
+    "idmiejscowosc": "0278310",
+    "nazwa": "Czechy"
+  },
+  {
+    "idmiejscowosc": "0278451",
+    "nazwa": "Czeluśnia"
+  },
+  {
+    "idmiejscowosc": "0277747",
+    "nazwa": "Danków Duży"
+  },
+  {
+    "idmiejscowosc": "0277782",
+    "nazwa": "Danków Mały"
+  },
+  {
+    "idmiejscowosc": "0277753",
+    "nazwa": "Danków-Kolonia"
+  },
+  {
+    "idmiejscowosc": "0277820",
+    "nazwa": "Dąbie"
+  },
+  {
+    "idmiejscowosc": "0277977",
+    "nazwa": "Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0278623",
+    "nazwa": "Dołowatka"
+  },
+  {
+    "idmiejscowosc": "0277836",
+    "nazwa": "Dopijów"
+  },
+  {
+    "idmiejscowosc": "0277931",
+    "nazwa": "Dronowe Niwy"
+  },
+  {
+    "idmiejscowosc": "0277670",
+    "nazwa": "Dworskie Pole"
+  },
+  {
+    "idmiejscowosc": "0277799",
+    "nazwa": "Dziadówki"
+  },
+  {
+    "idmiejscowosc": "0277581",
+    "nazwa": "Dziadówki"
+  },
+  {
+    "idmiejscowosc": "0277983",
+    "nazwa": "Dziekarnia"
+  },
+  {
+    "idmiejscowosc": "0278184",
+    "nazwa": "Dziekarnia"
+  },
+  {
+    "idmiejscowosc": "1019734",
+    "nazwa": "Ewina"
+  },
+  {
+    "idmiejscowosc": "0278050",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0278630",
+    "nazwa": "Folwark"
+  },
+  {
+    "idmiejscowosc": "0277894",
+    "nazwa": "Gościencin"
+  },
+  {
+    "idmiejscowosc": "0278095",
+    "nazwa": "Gościniec"
+  },
+  {
+    "idmiejscowosc": "0277598",
+    "nazwa": "Górna Wieś"
+  },
+  {
+    "idmiejscowosc": "0278468",
+    "nazwa": "Grobelka"
+  },
+  {
+    "idmiejscowosc": "0277693",
+    "nazwa": "Handlarka"
+  },
+  {
+    "idmiejscowosc": "0277954",
+    "nazwa": "Jamskie"
+  },
+  {
+    "idmiejscowosc": "0278379",
+    "nazwa": "Janów"
+  },
+  {
+    "idmiejscowosc": "0277960",
+    "nazwa": "Jeżowice"
+  },
+  {
+    "idmiejscowosc": "0278066",
+    "nazwa": "Kaleń"
+  },
+  {
+    "idmiejscowosc": "0278592",
+    "nazwa": "Kamienice"
+  },
+  {
+    "idmiejscowosc": "0278356",
+    "nazwa": "Kazubiec"
+  },
+  {
+    "idmiejscowosc": "0278043",
+    "nazwa": "Kąty"
+  },
+  {
+    "idmiejscowosc": "0277701",
+    "nazwa": "Klekot"
+  },
+  {
+    "idmiejscowosc": "0277718",
+    "nazwa": "Knapówka"
+  },
+  {
+    "idmiejscowosc": "0278327",
+    "nazwa": "Kobyla Wieś"
+  },
+  {
+    "idmiejscowosc": "0278764",
+    "nazwa": "Kolejowa"
+  },
+  {
+    "idmiejscowosc": "0277842",
+    "nazwa": "Kolonia"
+  },
+  {
+    "idmiejscowosc": "0278089",
+    "nazwa": "Konieczno"
+  },
+  {
+    "idmiejscowosc": "0278103",
+    "nazwa": "Konieczno-Dąbrowa"
+  },
+  {
+    "idmiejscowosc": "0278480",
+    "nazwa": "Kotowie"
+  },
+  {
+    "idmiejscowosc": "0278540",
+    "nazwa": "Ku Koniecznu"
+  },
+  {
+    "idmiejscowosc": "0278178",
+    "nazwa": "Kurzelów"
+  },
+  {
+    "idmiejscowosc": "0278273",
+    "nazwa": "Kuzki"
+  },
+  {
+    "idmiejscowosc": "0278681",
+    "nazwa": "Lasek"
+  },
+  {
+    "idmiejscowosc": "0278250",
+    "nazwa": "Laski"
+  },
+  {
+    "idmiejscowosc": "0278304",
+    "nazwa": "Ludwinów"
+  },
+  {
+    "idmiejscowosc": "0278385",
+    "nazwa": "Łachowska Piła"
+  },
+  {
+    "idmiejscowosc": "0278340",
+    "nazwa": "Łachów"
+  },
+  {
+    "idmiejscowosc": "0278362",
+    "nazwa": "Ługi"
+  },
+  {
+    "idmiejscowosc": "0278333",
+    "nazwa": "Małe Huby"
+  },
+  {
+    "idmiejscowosc": "0278511",
+    "nazwa": "Martynnik"
+  },
+  {
+    "idmiejscowosc": "0278422",
+    "nazwa": "Mchowie"
+  },
+  {
+    "idmiejscowosc": "0278818",
+    "nazwa": "Michałów"
+  },
+  {
+    "idmiejscowosc": "0278400",
+    "nazwa": "Międzylesie"
+  },
+  {
+    "idmiejscowosc": "0277919",
+    "nazwa": "Młyn"
+  },
+  {
+    "idmiejscowosc": "0278391",
+    "nazwa": "Młynek"
+  },
+  {
+    "idmiejscowosc": "0278110",
+    "nazwa": "Modrzewie"
+  },
+  {
+    "idmiejscowosc": "0277724",
+    "nazwa": "Mościska"
+  },
+  {
+    "idmiejscowosc": "0278439",
+    "nazwa": "Motyczno"
+  },
+  {
+    "idmiejscowosc": "0277859",
+    "nazwa": "Murowaniec"
+  },
+  {
+    "idmiejscowosc": "0278161",
+    "nazwa": "Na Polu"
+  },
+  {
+    "idmiejscowosc": "0277990",
+    "nazwa": "Nadolnik"
+  },
+  {
+    "idmiejscowosc": "0278190",
+    "nazwa": "Niedźwiadek"
+  },
+  {
+    "idmiejscowosc": "0278497",
+    "nazwa": "Nieznanowice"
+  },
+  {
+    "idmiejscowosc": "0278706",
+    "nazwa": "Niwa"
+  },
+  {
+    "idmiejscowosc": "0278505",
+    "nazwa": "Nowa Wieś"
+  },
+  {
+    "idmiejscowosc": "0278534",
+    "nazwa": "Ogarka"
+  },
+  {
+    "idmiejscowosc": "0278712",
+    "nazwa": "Ogrodzanki"
+  },
+  {
+    "idmiejscowosc": "0277760",
+    "nazwa": "Okupniki"
+  },
+  {
+    "idmiejscowosc": "0278557",
+    "nazwa": "Parasol"
+  },
+  {
+    "idmiejscowosc": "0278126",
+    "nazwa": "Pawłów"
+  },
+  {
+    "idmiejscowosc": "0277925",
+    "nazwa": "Pękowiec"
+  },
+  {
+    "idmiejscowosc": "0278209",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0277776",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0278729",
+    "nazwa": "Piaski"
+  },
+  {
+    "idmiejscowosc": "0278215",
+    "nazwa": "Piątkowisko"
+  },
+  {
+    "idmiejscowosc": "0278652",
+    "nazwa": "Piekło"
+  },
+  {
+    "idmiejscowosc": "0278474",
+    "nazwa": "Piły"
+  },
+  {
+    "idmiejscowosc": "0277606",
+    "nazwa": "Pod Dziadówkami"
+  },
+  {
+    "idmiejscowosc": "0277523",
+    "nazwa": "Pod Hubami"
+  },
+  {
+    "idmiejscowosc": "0277658",
+    "nazwa": "Pod Lasem"
+  },
+  {
+    "idmiejscowosc": "0278669",
+    "nazwa": "Pod Ogarką"
+  },
+  {
+    "idmiejscowosc": "0277530",
+    "nazwa": "Pod Rogienicami"
+  },
+  {
+    "idmiejscowosc": "0277546",
+    "nazwa": "Pod Szkołą"
+  },
+  {
+    "idmiejscowosc": "0277888",
+    "nazwa": "Podlas"
+  },
+  {
+    "idmiejscowosc": "0278600",
+    "nazwa": "Podlesie"
+  },
+  {
+    "idmiejscowosc": "0278793",
+    "nazwa": "Podlipie"
+  },
+  {
+    "idmiejscowosc": "0277865",
+    "nazwa": "Podłazie"
+  },
+  {
+    "idmiejscowosc": "0278563",
+    "nazwa": "Pozastodole"
+  },
+  {
+    "idmiejscowosc": "0278132",
+    "nazwa": "Półanki"
+  },
+  {
+    "idmiejscowosc": "0278528",
+    "nazwa": "Prządzów"
+  },
+  {
+    "idmiejscowosc": "0278037",
+    "nazwa": "Przeczki"
+  },
+  {
+    "idmiejscowosc": "0278570",
+    "nazwa": "Przygradów"
+  },
+  {
+    "idmiejscowosc": "0278646",
+    "nazwa": "Rogienice"
+  },
+  {
+    "idmiejscowosc": "0278221",
+    "nazwa": "Rynek"
+  },
+  {
+    "idmiejscowosc": "0278698",
+    "nazwa": "Rząbiec"
+  },
+  {
+    "idmiejscowosc": "0278675",
+    "nazwa": "Sachalin"
+  },
+  {
+    "idmiejscowosc": "0278735",
+    "nazwa": "Silpia Duża"
+  },
+  {
+    "idmiejscowosc": "0278741",
+    "nazwa": "Silpia Mała"
+  },
+  {
+    "idmiejscowosc": "0278008",
+    "nazwa": "Sobierajka"
+  },
+  {
+    "idmiejscowosc": "0278617",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "0278149",
+    "nazwa": "Stara Wieś"
+  },
+  {
+    "idmiejscowosc": "1065705",
+    "nazwa": "Studzianki"
+  },
+  {
+    "idmiejscowosc": "0278758",
+    "nazwa": "Wola Wiśniowa"
+  },
+  {
+    "idmiejscowosc": "0278416",
+    "nazwa": "Wólka"
+  },
+  {
+    "idmiejscowosc": "0278280",
+    "nazwa": "Wrzosy"
+  },
+  {
+    "idmiejscowosc": "0277807",
+    "nazwa": "Wygoda"
+  },
+  {
+    "idmiejscowosc": "0278296",
+    "nazwa": "Wygwizdów"
+  },
+  {
+    "idmiejscowosc": "0277730",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0278801",
+    "nazwa": "Wymysłów"
+  },
+  {
+    "idmiejscowosc": "0278267",
+    "nazwa": "Wymysłów Kurzelowski"
+  },
+  {
+    "idmiejscowosc": "0278072",
+    "nazwa": "Wyrąb"
+  },
+  {
+    "idmiejscowosc": "0278155",
+    "nazwa": "Wysyce"
+  },
+  {
+    "idmiejscowosc": "0278238",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0278014",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0277813",
+    "nazwa": "Za Górą"
+  },
+  {
+    "idmiejscowosc": "0278244",
+    "nazwa": "Za Przeczkami"
+  },
+  {
+    "idmiejscowosc": "0277612",
+    "nazwa": "Zakościele"
+  },
+  {
+    "idmiejscowosc": "0278770",
+    "nazwa": "Zapłocie"
+  },
+  {
+    "idmiejscowosc": "0278020",
+    "nazwa": "Zaprzeczki"
+  },
+  {
+    "idmiejscowosc": "0277687",
+    "nazwa": "Zastaw"
+  },
+  {
+    "idmiejscowosc": "0277629",
+    "nazwa": "Zastawie"
+  },
+  {
+    "idmiejscowosc": "0278787",
+    "nazwa": "Zielonka"
+  },
+  {
+    "idmiejscowosc": "0277948",
+    "nazwa": "Zwlecza"
+  }
+]
