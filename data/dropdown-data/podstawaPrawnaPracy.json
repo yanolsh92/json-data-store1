@@ -1,0 +1,87 @@
+[
+  {
+    "idslpodstawawykonpracy": 15,
+    "kod": "0015",
+    "nazwa": "Delegowanie"
+  },
+  {
+    "idslpodstawawykonpracy": 16,
+    "kod": "0016",
+    "nazwa": "Inna"
+  },
+  {
+    "idslpodstawawykonpracy": 13,
+    "kod": "0013",
+    "nazwa": "Kontrakt menedżerski"
+  },
+  {
+    "idslpodstawawykonpracy": 6,
+    "kod": "0006",
+    "nazwa": "Mianowanie"
+  },
+  {
+    "idslpodstawawykonpracy": 4,
+    "kod": "0004",
+    "nazwa": "Powołanie"
+  },
+  {
+    "idslpodstawawykonpracy": 7,
+    "kod": "0007",
+    "nazwa": "Spółdzielcza umowa o pracę"
+  },
+  {
+    "idslpodstawawykonpracy": 10,
+    "kod": "0010",
+    "nazwa": "Umowa agencyjna"
+  },
+  {
+    "idslpodstawawykonpracy": 12,
+    "kod": "0012",
+    "nazwa": "Umowa o dzieło"
+  },
+  {
+    "idslpodstawawykonpracy": 14,
+    "kod": "0014",
+    "nazwa": "Umowa o pomocy przy zbiorach"
+  },
+  {
+    "idslpodstawawykonpracy": 18,
+    "kod": "0017",
+    "nazwa": "Umowa o pracę"
+  },
+  {
+    "idslpodstawawykonpracy": 1,
+    "kod": "0001",
+    "nazwa": "Umowa o pracę na czas nieokreślony"
+  },
+  {
+    "idslpodstawawykonpracy": 2,
+    "kod": "0002",
+    "nazwa": "Umowa o pracę na czas określony"
+  },
+  {
+    "idslpodstawawykonpracy": 3,
+    "kod": "0003",
+    "nazwa": "Umowa o pracę na okres próbny"
+  },
+  {
+    "idslpodstawawykonpracy": 11,
+    "kod": "0011",
+    "nazwa": "Umowa o pracę w zastępstwie"
+  },
+  {
+    "idslpodstawawykonpracy": 9,
+    "kod": "0009",
+    "nazwa": "Umowa o świadczenie usług"
+  },
+  {
+    "idslpodstawawykonpracy": 8,
+    "kod": "0008",
+    "nazwa": "Umowa zlecenie"
+  },
+  {
+    "idslpodstawawykonpracy": 5,
+    "kod": "0005",
+    "nazwa": "Wybór"
+  }
+]

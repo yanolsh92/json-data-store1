@@ -1,0 +1,737 @@
+[
+  {
+    "idslznakszczegolny": 119,
+    "kod": "23",
+    "nazwa": "BIELMO NA LEWYM OKU"
+  },
+  {
+    "idslznakszczegolny": 118,
+    "kod": "24",
+    "nazwa": "BIELMO NA OCZACH"
+  },
+  {
+    "idslznakszczegolny": 120,
+    "kod": "22",
+    "nazwa": "BIELMO NA PRAWYM OKU"
+  },
+  {
+    "idslznakszczegolny": 24,
+    "kod": "123",
+    "nazwa": "BLIZNA NA CZOLE"
+  },
+  {
+    "idslznakszczegolny": 30,
+    "kod": "129",
+    "nazwa": "BLIZNA NA DOLNEJ WARDZE"
+  },
+  {
+    "idslznakszczegolny": 147,
+    "kod": "146",
+    "nazwa": "BLIZNA NA GŁOWIE"
+  },
+  {
+    "idslznakszczegolny": 20,
+    "kod": "119",
+    "nazwa": "BLIZNA NA LEWEJ RĘCE"
+  },
+  {
+    "idslznakszczegolny": 11,
+    "kod": "110",
+    "nazwa": "BLIZNA NA LEWYM PRZEDRAMIENIU"
+  },
+  {
+    "idslznakszczegolny": 35,
+    "kod": "134",
+    "nazwa": "BLIZNA NA NOSIE"
+  },
+  {
+    "idslznakszczegolny": 33,
+    "kod": "132",
+    "nazwa": "BLIZNA NA PODBRÓDKU"
+  },
+  {
+    "idslznakszczegolny": 19,
+    "kod": "118",
+    "nazwa": "BLIZNA NA PRAWEJ RĘCE"
+  },
+  {
+    "idslznakszczegolny": 12,
+    "kod": "111",
+    "nazwa": "BLIZNA NA PRAWYM PRZEDRAMIENIU"
+  },
+  {
+    "idslznakszczegolny": 28,
+    "kod": "127",
+    "nazwa": "BLIZNA NA WIELKIM PALCU LEWEJ RĘKI"
+  },
+  {
+    "idslznakszczegolny": 41,
+    "kod": "140",
+    "nazwa": "BLIZNA PO NACIĘCIACH NA LEWYM BOKU TUŁOWIA"
+  },
+  {
+    "idslznakszczegolny": 93,
+    "kod": "49",
+    "nazwa": "BLIZNA (Y) NA LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 22,
+    "kod": "121",
+    "nazwa": "BLIZNA (Y) NA LEWYM RAMIENIU"
+  },
+  {
+    "idslznakszczegolny": 94,
+    "kod": "48",
+    "nazwa": "BLIZNA (Y) NA PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 23,
+    "kod": "122",
+    "nazwa": "BLIZNA (Y) NA PRAWYM RAMIENIU"
+  },
+  {
+    "idslznakszczegolny": 132,
+    "kod": "10",
+    "nazwa": "BLIZNA(Y) NA SZYI"
+  },
+  {
+    "idslznakszczegolny": 142,
+    "kod": "100",
+    "nazwa": "BLIZNA(Y) NA TWARZY"
+  },
+  {
+    "idslznakszczegolny": 140,
+    "kod": "2",
+    "nazwa": "BLIZNA(Y) PO LEWEJ STRONIE TWARZY"
+  },
+  {
+    "idslznakszczegolny": 141,
+    "kod": "1",
+    "nazwa": "BLIZNA(Y) PO PRAWEJ STRONIE TWARZY"
+  },
+  {
+    "idslznakszczegolny": 42,
+    "kod": "141",
+    "nazwa": "BLIZNA(Y) PO RANACH KŁUTYCH NA LEWYM BOKU"
+  },
+  {
+    "idslznakszczegolny": 92,
+    "kod": "50",
+    "nazwa": "BLIZNY NA DŁONIACH"
+  },
+  {
+    "idslznakszczegolny": 10,
+    "kod": "109",
+    "nazwa": "BLIZNY POOPARZENIOWE-TWARZ, RĘCE, NOGI"
+  },
+  {
+    "idslznakszczegolny": 80,
+    "kod": "62",
+    "nazwa": "BRAK DŁONI"
+  },
+  {
+    "idslznakszczegolny": 98,
+    "kod": "44",
+    "nazwa": "BRAKI (UBYTKI) USZU"
+  },
+  {
+    "idslznakszczegolny": 81,
+    "kod": "61",
+    "nazwa": "BRAK LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 127,
+    "kod": "15",
+    "nazwa": "BRAK LEWEJ GAŁKI OCZNEJ"
+  },
+  {
+    "idslznakszczegolny": 56,
+    "kod": "86",
+    "nazwa": "BRAK LEWEJ NOGI"
+  },
+  {
+    "idslznakszczegolny": 84,
+    "kod": "58",
+    "nazwa": "BRAK LEWEJ RĘKI"
+  },
+  {
+    "idslznakszczegolny": 45,
+    "kod": "97",
+    "nazwa": "BRAK MOWY"
+  },
+  {
+    "idslznakszczegolny": 55,
+    "kod": "87",
+    "nazwa": "BRAK NÓG"
+  },
+  {
+    "idslznakszczegolny": 40,
+    "kod": "139",
+    "nazwa": "BRAK NÓG I RĄK"
+  },
+  {
+    "idslznakszczegolny": 43,
+    "kod": "142",
+    "nazwa": "BRAK PRAWEJ CZĘŚCI CZASZKI"
+  },
+  {
+    "idslznakszczegolny": 82,
+    "kod": "60",
+    "nazwa": "BRAK PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 128,
+    "kod": "14",
+    "nazwa": "BRAK PRAWEJ GAŁKI OCZNEJ"
+  },
+  {
+    "idslznakszczegolny": 57,
+    "kod": "85",
+    "nazwa": "BRAK PRAWEJ NOGI"
+  },
+  {
+    "idslznakszczegolny": 85,
+    "kod": "57",
+    "nazwa": "BRAK PRAWEJ RĘKI"
+  },
+  {
+    "idslznakszczegolny": 83,
+    "kod": "59",
+    "nazwa": "BRAK RĄK"
+  },
+  {
+    "idslznakszczegolny": 44,
+    "kod": "98",
+    "nazwa": "BRAK SŁUCHU"
+  },
+  {
+    "idslznakszczegolny": 67,
+    "kod": "75",
+    "nazwa": "BRAK (UBYTEK) KCIUKA LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 76,
+    "kod": "66",
+    "nazwa": "BRAK (UBYTEK) KCIUKA PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 99,
+    "kod": "43",
+    "nazwa": "BRAK (UBYTEK) LEWEGO UCHA"
+  },
+  {
+    "idslznakszczegolny": 104,
+    "kod": "38",
+    "nazwa": "BRAK (UBYTEK) NOSA"
+  },
+  {
+    "idslznakszczegolny": 63,
+    "kod": "79",
+    "nazwa": "BRAK (UBYTEK) PALCA MAŁEGO LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 72,
+    "kod": "70",
+    "nazwa": "BRAK (UBYTEK) PALCA MAŁEGO PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 64,
+    "kod": "78",
+    "nazwa": "BRAK (UBYTEK) PALCA SERDECZNEGO LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 73,
+    "kod": "69",
+    "nazwa": "BRAK (UBYTEK) PALCA SERDECZNEGO PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 65,
+    "kod": "77",
+    "nazwa": "BRAK (UBYTEK) PALCA ŚRODKOWEGO LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 74,
+    "kod": "68",
+    "nazwa": "BRAK (UBYTEK) PALCA ŚRODKOWEGO PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 66,
+    "kod": "76",
+    "nazwa": "BRAK (UBYTEK) PALCA WSKAZUJĄCEGO LEWEJ DŁON"
+  },
+  {
+    "idslznakszczegolny": 75,
+    "kod": "67",
+    "nazwa": "BRAK (UBYTEK) PALCA WSKAZUJĄCEGO PRAWEJ DŁO"
+  },
+  {
+    "idslznakszczegolny": 100,
+    "kod": "42",
+    "nazwa": "BRAK (UBYTEK) PRAWEGO UCHA"
+  },
+  {
+    "idslznakszczegolny": 62,
+    "kod": "80",
+    "nazwa": "BRAK (UBYTKI) 2 PALCÓW LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 71,
+    "kod": "71",
+    "nazwa": "BRAK (UBYTKI) 2 PALCÓW PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 61,
+    "kod": "81",
+    "nazwa": "BRAK (UBYTKI) 3 PALCÓW LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 70,
+    "kod": "72",
+    "nazwa": "BRAK (UBYTKI) 3 PALCÓW PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 60,
+    "kod": "82",
+    "nazwa": "BRAK (UBYTKI) 4 PALCÓW LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 69,
+    "kod": "73",
+    "nazwa": "BRAK (UBYTKI) 4 PALCÓW PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 58,
+    "kod": "84",
+    "nazwa": "BRAK (UBYTKI) PALCÓW DŁONI"
+  },
+  {
+    "idslznakszczegolny": 59,
+    "kod": "83",
+    "nazwa": "BRAK (UBYTKI) PALCÓW LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 68,
+    "kod": "74",
+    "nazwa": "BRAK (UBYTKI) PALCÓW PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 38,
+    "kod": "137",
+    "nazwa": "BRODAWKA-KĄCIK LEWEGO OKA"
+  },
+  {
+    "idslznakszczegolny": 39,
+    "kod": "138",
+    "nazwa": "BRODAWKA-KĄCIK PRAWEGO OKA"
+  },
+  {
+    "idslznakszczegolny": 21,
+    "kod": "120",
+    "nazwa": "BRODAWKA NA CZOLE"
+  },
+  {
+    "idslznakszczegolny": 27,
+    "kod": "126",
+    "nazwa": "BRODAWKA NAD GÓRNĄ WARGĄ"
+  },
+  {
+    "idslznakszczegolny": 145,
+    "kod": "144",
+    "nazwa": "BRODAWKA NA LEWEJ STRONIE BRODY"
+  },
+  {
+    "idslznakszczegolny": 144,
+    "kod": "143",
+    "nazwa": "BRODAWKA NA PRAWEJ STRONIE BRODY"
+  },
+  {
+    "idslznakszczegolny": 143,
+    "kod": "99",
+    "nazwa": "GŁUCHONIEMY"
+  },
+  {
+    "idslznakszczegolny": 129,
+    "kod": "13",
+    "nazwa": "GUZ(Y) NA SZYI"
+  },
+  {
+    "idslznakszczegolny": 133,
+    "kod": "9",
+    "nazwa": "GUZ(Y) NA TWARZY"
+  },
+  {
+    "idslznakszczegolny": 149,
+    "kod": "148",
+    "nazwa": "INNY"
+  },
+  {
+    "idslznakszczegolny": 146,
+    "kod": "145",
+    "nazwa": "NAROŚL SZÓSTEGO PALCA-NA DŁONIACH I I STOP"
+  },
+  {
+    "idslznakszczegolny": 116,
+    "kod": "26",
+    "nazwa": "NIEDOMYKALNOŚĆ (OPADNIĘCIE) LEWEJ POWIEKI"
+  },
+  {
+    "idslznakszczegolny": 115,
+    "kod": "27",
+    "nazwa": "NIEDOMYKALNOŚĆ (OPADNIĘCIE) POWIEK"
+  },
+  {
+    "idslznakszczegolny": 117,
+    "kod": "25",
+    "nazwa": "NIEDOMYKALNOŚĆ (OPADNIĘCIE) PRAWEJ POWIEKI"
+  },
+  {
+    "idslznakszczegolny": 37,
+    "kod": "136",
+    "nazwa": "NIEDOWŁAD LEWEGO RAMIENIA"
+  },
+  {
+    "idslznakszczegolny": 36,
+    "kod": "135",
+    "nazwa": "NIEDOWŁAD PRAWEGO RAMIENIA"
+  },
+  {
+    "idslznakszczegolny": 121,
+    "kod": "21",
+    "nazwa": "NIEWIDOMY (NIEDOWIDZENIE)"
+  },
+  {
+    "idslznakszczegolny": 124,
+    "kod": "18",
+    "nazwa": "ODCHYLENIE OSI GAŁEK OCZNYCH"
+  },
+  {
+    "idslznakszczegolny": 125,
+    "kod": "17",
+    "nazwa": "ODCHYLENIE OSI LEWEJ GAŁKI OCZNEJ"
+  },
+  {
+    "idslznakszczegolny": 126,
+    "kod": "16",
+    "nazwa": "ODCHYLENIE OSI PRAWEJ GAŁKI OCZNEJ"
+  },
+  {
+    "idslznakszczegolny": 48,
+    "kod": "94",
+    "nazwa": "PERUKA"
+  },
+  {
+    "idslznakszczegolny": 96,
+    "kod": "46",
+    "nazwa": "PRZEROST LEWEGO UCHA"
+  },
+  {
+    "idslznakszczegolny": 97,
+    "kod": "45",
+    "nazwa": "PRZEROST PRAWEGO UCHA"
+  },
+  {
+    "idslznakszczegolny": 32,
+    "kod": "131",
+    "nazwa": "PRZESZCZEP SKÓRY NA CZOLE"
+  },
+  {
+    "idslznakszczegolny": 110,
+    "kod": "32",
+    "nazwa": "ROZSZCZEP DOLNEJ WARGI"
+  },
+  {
+    "idslznakszczegolny": 111,
+    "kod": "31",
+    "nazwa": "ROZSZCZEP GÓRNEJ WARGI"
+  },
+  {
+    "idslznakszczegolny": 109,
+    "kod": "33",
+    "nazwa": "ROZSZCZEP WARG"
+  },
+  {
+    "idslznakszczegolny": 8,
+    "kod": "107",
+    "nazwa": "TATUAŻE NA PRZEDRAMIENIU I DŁONI LEWEJ RĘK"
+  },
+  {
+    "idslznakszczegolny": 9,
+    "kod": "108",
+    "nazwa": "TATUAŻE NA PRZEDRAMIENIU I DŁONI PRAWEJ RĘ"
+  },
+  {
+    "idslznakszczegolny": 7,
+    "kod": "106",
+    "nazwa": "TATUAŻE NA PRZEDRAMIENIU LEWEJ I PRAWEJ RĘK"
+  },
+  {
+    "idslznakszczegolny": 34,
+    "kod": "133",
+    "nazwa": "TATUAŻE NA STOPACH"
+  },
+  {
+    "idslznakszczegolny": 16,
+    "kod": "115",
+    "nazwa": "TATUAŻ-LEWA DŁOŃ I PRAWE PRZEDRAMIĘ"
+  },
+  {
+    "idslznakszczegolny": 25,
+    "kod": "124",
+    "nazwa": "TATUAŻ-LEWA RĘKA"
+  },
+  {
+    "idslznakszczegolny": 17,
+    "kod": "116",
+    "nazwa": "TATUAŻ-LEWE RAMIĘ"
+  },
+  {
+    "idslznakszczegolny": 86,
+    "kod": "56",
+    "nazwa": "TATUAŻ NA DŁONIACH"
+  },
+  {
+    "idslznakszczegolny": 29,
+    "kod": "128",
+    "nazwa": "TATUAŻ NA KLATCE PIERSIOWEJ"
+  },
+  {
+    "idslznakszczegolny": 87,
+    "kod": "55",
+    "nazwa": "TATUAŻ NA LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 13,
+    "kod": "112",
+    "nazwa": "TATUAŻ NA LEWYM BARKU"
+  },
+  {
+    "idslznakszczegolny": 4,
+    "kod": "103",
+    "nazwa": "TATUAŻ NA NADGARSTKU LEWEJ RĘKI"
+  },
+  {
+    "idslznakszczegolny": 5,
+    "kod": "104",
+    "nazwa": "TATUAŻ NA NADGARSTKU PRAWEJ RĘKI"
+  },
+  {
+    "idslznakszczegolny": 148,
+    "kod": "147",
+    "nazwa": "TATUAŻ NA PLECACH"
+  },
+  {
+    "idslznakszczegolny": 88,
+    "kod": "54",
+    "nazwa": "TATUAŻ NA PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 14,
+    "kod": "113",
+    "nazwa": "TATUAŻ NA PRAWYM BARKU"
+  },
+  {
+    "idslznakszczegolny": 3,
+    "kod": "102",
+    "nazwa": "TATUAŻ NA PRZEDRAMIENIU LEWEJ RĘKI"
+  },
+  {
+    "idslznakszczegolny": 2,
+    "kod": "101",
+    "nazwa": "TATUAŻ NA PRZEDRAMIENIU PRAWEJ RĘKI"
+  },
+  {
+    "idslznakszczegolny": 130,
+    "kod": "12",
+    "nazwa": "TATUAŻ NA SZYI"
+  },
+  {
+    "idslznakszczegolny": 136,
+    "kod": "6",
+    "nazwa": "TATUAŻ NA TWARZY"
+  },
+  {
+    "idslznakszczegolny": 134,
+    "kod": "8",
+    "nazwa": "TATUAŻ PO LEWEJ STRONIE TWARZY"
+  },
+  {
+    "idslznakszczegolny": 135,
+    "kod": "7",
+    "nazwa": "TATUAŻ PO PRAWEJ STRONIE TWARZY"
+  },
+  {
+    "idslznakszczegolny": 15,
+    "kod": "114",
+    "nazwa": "TATUAŻ-PRAWA DŁOŃ I LEWE PRZEDRAMIĘ"
+  },
+  {
+    "idslznakszczegolny": 26,
+    "kod": "125",
+    "nazwa": "TATUAŻ-PRAWA RĘKA"
+  },
+  {
+    "idslznakszczegolny": 18,
+    "kod": "117",
+    "nazwa": "TATUAŻ-PRAWE RAMIĘ"
+  },
+  {
+    "idslznakszczegolny": 53,
+    "kod": "89",
+    "nazwa": "UBYTEK LEWEJ NOGI"
+  },
+  {
+    "idslznakszczegolny": 54,
+    "kod": "88",
+    "nazwa": "UBYTEK PRAWEJ NOGI"
+  },
+  {
+    "idslznakszczegolny": 52,
+    "kod": "90",
+    "nazwa": "UBYTKI NÓG"
+  },
+  {
+    "idslznakszczegolny": 46,
+    "kod": "96",
+    "nazwa": "USZTYWNIENIE KRĘGOSŁUPA"
+  },
+  {
+    "idslznakszczegolny": 50,
+    "kod": "92",
+    "nazwa": "USZTYWNIENIE LEWEJ NOGI"
+  },
+  {
+    "idslznakszczegolny": 49,
+    "kod": "93",
+    "nazwa": "USZTYWNIENIE NÓG"
+  },
+  {
+    "idslznakszczegolny": 51,
+    "kod": "91",
+    "nazwa": "USZTYWNIENIE PRAWEJ NOGI"
+  },
+  {
+    "idslznakszczegolny": 122,
+    "kod": "20",
+    "nazwa": "UTRATA WIDZENIA (NIEDOWIDZENIE) LEWEGO OKA"
+  },
+  {
+    "idslznakszczegolny": 123,
+    "kod": "19",
+    "nazwa": "UTRATA WIDZENIA (NIEDOWIDZENIE) PRAWEGO OKA"
+  },
+  {
+    "idslznakszczegolny": 90,
+    "kod": "52",
+    "nazwa": "ZNAMIĘ (ZNAMIONA) NA LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 91,
+    "kod": "51",
+    "nazwa": "ZNAMIĘ (ZNAMIONA) NA PRAWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 131,
+    "kod": "11",
+    "nazwa": "ZNAMIĘ (ZNAMIONA) NA SZYI"
+  },
+  {
+    "idslznakszczegolny": 139,
+    "kod": "3",
+    "nazwa": "ZNAMIĘ (ZNAMIONA) NA TWARZY"
+  },
+  {
+    "idslznakszczegolny": 137,
+    "kod": "5",
+    "nazwa": "ZNAMIĘ (ZNAMIONA) PO LEWEJ STRONIE TWARZY"
+  },
+  {
+    "idslznakszczegolny": 138,
+    "kod": "4",
+    "nazwa": "ZNAMIĘ (ZNAMIONA) PO PRAWEJ STRONIE TWARZY"
+  },
+  {
+    "idslznakszczegolny": 89,
+    "kod": "53",
+    "nazwa": "ZNAMIONA NA DŁONIACH"
+  },
+  {
+    "idslznakszczegolny": 107,
+    "kod": "35",
+    "nazwa": "ZNIEKSZTAŁCENIE DOLNEJ WARGI"
+  },
+  {
+    "idslznakszczegolny": 108,
+    "kod": "34",
+    "nazwa": "ZNIEKSZTAŁCENIE GÓRNEJ WARGI"
+  },
+  {
+    "idslznakszczegolny": 102,
+    "kod": "40",
+    "nazwa": "ZNIEKSZTAŁCENIE LEWEGO UCHA"
+  },
+  {
+    "idslznakszczegolny": 113,
+    "kod": "29",
+    "nazwa": "ZNIEKSZTAŁCENIE LEWEJ POWIEKI"
+  },
+  {
+    "idslznakszczegolny": 105,
+    "kod": "37",
+    "nazwa": "ZNIEKSZTAŁCENIE NOSA"
+  },
+  {
+    "idslznakszczegolny": 78,
+    "kod": "64",
+    "nazwa": "ZNIEKSZTAŁCENIE PALCA (PALCÓW) LEWEJ DŁONI"
+  },
+  {
+    "idslznakszczegolny": 79,
+    "kod": "63",
+    "nazwa": "ZNIEKSZTAŁCENIE PALCA (PALCÓW) PRAWEJ DŁON"
+  },
+  {
+    "idslznakszczegolny": 77,
+    "kod": "65",
+    "nazwa": "ZNIEKSZTAŁCENIE PALCÓW DŁONI"
+  },
+  {
+    "idslznakszczegolny": 112,
+    "kod": "30",
+    "nazwa": "ZNIEKSZTAŁCENIE POWIEK"
+  },
+  {
+    "idslznakszczegolny": 31,
+    "kod": "130",
+    "nazwa": "ZNIEKSZTAŁCENIE PRAWEGO KCIUKA"
+  },
+  {
+    "idslznakszczegolny": 103,
+    "kod": "39",
+    "nazwa": "ZNIEKSZTAŁCENIE PRAWEGO UCHA"
+  },
+  {
+    "idslznakszczegolny": 114,
+    "kod": "28",
+    "nazwa": "ZNIEKSZTAŁCENIE PRAWEJ POWIEKI"
+  },
+  {
+    "idslznakszczegolny": 47,
+    "kod": "95",
+    "nazwa": "ZNIEKSZTAŁCENIE UKŁADU KOSTNEGO"
+  },
+  {
+    "idslznakszczegolny": 101,
+    "kod": "41",
+    "nazwa": "ZNIEKSZTAŁCENIE USZU"
+  },
+  {
+    "idslznakszczegolny": 106,
+    "kod": "36",
+    "nazwa": "ZNIEKSZTAŁCENIE WARG"
+  },
+  {
+    "idslznakszczegolny": 95,
+    "kod": "47",
+    "nazwa": "ZNIEKSZTAŁCENIE ŻUCHWY"
+  }
+]

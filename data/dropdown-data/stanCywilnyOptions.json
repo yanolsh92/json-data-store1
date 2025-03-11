@@ -1,0 +1,42 @@
+[
+  {
+    "idslstancywilny": 10,
+    "kod": "KWR",
+    "nazwa": "Kawaler"
+  },
+  {
+    "idslstancywilny": 9,
+    "kod": "MTA",
+    "nazwa": "Mężatka"
+  },
+  {
+    "idslstancywilny": 2,
+    "kod": "PNA",
+    "nazwa": "Panna"
+  },
+  {
+    "idslstancywilny": 5,
+    "kod": "RWA",
+    "nazwa": "Rozwiedziona"
+  },
+  {
+    "idslstancywilny": 6,
+    "kod": "RWY",
+    "nazwa": "Rozwiedziony"
+  },
+  {
+    "idslstancywilny": 11,
+    "kod": "WDA",
+    "nazwa": "Wdowa"
+  },
+  {
+    "idslstancywilny": 8,
+    "kod": "WDC",
+    "nazwa": "Wdowiec"
+  },
+  {
+    "idslstancywilny": 7,
+    "kod": "ZNY",
+    "nazwa": "Żonaty"
+  }
+]

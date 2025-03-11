@@ -1,0 +1,1953 @@
+[
+  {
+    "idslnarodowosc": 154,
+    "kod": "ABC",
+    "nazwa": "ABCHASKA"
+  },
+  {
+    "idslnarodowosc": 324,
+    "kod": "ACH",
+    "nazwa": "ACZIŃSKA"
+  },
+  {
+    "idslnarodowosc": 278,
+    "kod": "AJA",
+    "nazwa": "ADJA-AJA"
+  },
+  {
+    "idslnarodowosc": 308,
+    "kod": "ADJ",
+    "nazwa": "ADŻARSKA"
+  },
+  {
+    "idslnarodowosc": 133,
+    "kod": "AFG",
+    "nazwa": "AFGAŃSKA"
+  },
+  {
+    "idslnarodowosc": 373,
+    "kod": "AFR",
+    "nazwa": "AFRYKANERSKA"
+  },
+  {
+    "idslnarodowosc": 401,
+    "kod": "AKN",
+    "nazwa": "AKAŃSKA"
+  },
+  {
+    "idslnarodowosc": 238,
+    "kod": "AKI",
+    "nazwa": "AKIŃSKA"
+  },
+  {
+    "idslnarodowosc": 178,
+    "kod": "ALB",
+    "nazwa": "ALBAŃSKA"
+  },
+  {
+    "idslnarodowosc": 105,
+    "kod": "ALG",
+    "nazwa": "ALGIERSKA"
+  },
+  {
+    "idslnarodowosc": 418,
+    "kod": "ALT",
+    "nazwa": "AŁTAJSKA"
+  },
+  {
+    "idslnarodowosc": 7,
+    "kod": "ALZ",
+    "nazwa": "ALZACKA"
+  },
+  {
+    "idslnarodowosc": 93,
+    "kod": "AME",
+    "nazwa": "AMERYKAŃSKA"
+  },
+  {
+    "idslnarodowosc": 60,
+    "kod": "AHM",
+    "nazwa": "AMHARSKA"
+  },
+  {
+    "idslnarodowosc": 234,
+    "kod": "ANA",
+    "nazwa": "ANA"
+  },
+  {
+    "idslnarodowosc": 262,
+    "kod": "AND",
+    "nazwa": "ANDORAŃSKA"
+  },
+  {
+    "idslnarodowosc": 86,
+    "kod": "ANG",
+    "nazwa": "ANGIELSKA"
+  },
+  {
+    "idslnarodowosc": 183,
+    "kod": "$AN",
+    "nazwa": "/ANGOLA/"
+  },
+  {
+    "idslnarodowosc": 266,
+    "kod": "AIA",
+    "nazwa": "/ANGUILLA/"
+  },
+  {
+    "idslnarodowosc": 264,
+    "kod": "ATG",
+    "nazwa": "/ANTIGUA I BARBUDA/"
+  },
+  {
+    "idslnarodowosc": 20,
+    "kod": "ARB",
+    "nazwa": "ARABSKA"
+  },
+  {
+    "idslnarodowosc": 113,
+    "kod": "ARG",
+    "nazwa": "ARGENTYŃSKA"
+  },
+  {
+    "idslnarodowosc": 267,
+    "kod": "ABW",
+    "nazwa": "/ARUBA/"
+  },
+  {
+    "idslnarodowosc": 81,
+    "kod": "ASH",
+    "nazwa": "ASHANTI"
+  },
+  {
+    "idslnarodowosc": 319,
+    "kod": "ASM",
+    "nazwa": "ASSAMSKA"
+  },
+  {
+    "idslnarodowosc": 227,
+    "kod": "ASY",
+    "nazwa": "ASYRYJSKA"
+  },
+  {
+    "idslnarodowosc": 184,
+    "kod": "$AU",
+    "nazwa": "AUSTRALIJSKA"
+  },
+  {
+    "idslnarodowosc": 87,
+    "kod": "AUS",
+    "nazwa": "AUSTRIACKA"
+  },
+  {
+    "idslnarodowosc": 231,
+    "kod": "AWA",
+    "nazwa": "AWARSKA"
+  },
+  {
+    "idslnarodowosc": 33,
+    "kod": "AZE",
+    "nazwa": "AZERSKA"
+  },
+  {
+    "idslnarodowosc": 268,
+    "kod": "BHS",
+    "nazwa": "/BAHAMY/"
+  },
+  {
+    "idslnarodowosc": 269,
+    "kod": "BHR",
+    "nazwa": "/BAHRAJN/"
+  },
+  {
+    "idslnarodowosc": 243,
+    "kod": "BAM",
+    "nazwa": "BAMUN"
+  },
+  {
+    "idslnarodowosc": 185,
+    "kod": "$BA",
+    "nazwa": "/BANGLADESZ/"
+  },
+  {
+    "idslnarodowosc": 187,
+    "kod": "BAR",
+    "nazwa": "BARBADIAN"
+  },
+  {
+    "idslnarodowosc": 270,
+    "kod": "BRB",
+    "nazwa": "/BARBADOS/"
+  },
+  {
+    "idslnarodowosc": 8,
+    "kod": "BAS",
+    "nazwa": "BASKIJSKA"
+  },
+  {
+    "idslnarodowosc": 233,
+    "kod": "BSS",
+    "nazwa": "BASSAR"
+  },
+  {
+    "idslnarodowosc": 130,
+    "kod": "BSZ",
+    "nazwa": "BASZKIRSKA"
+  },
+  {
+    "idslnarodowosc": 322,
+    "kod": "BTC",
+    "nazwa": "BATACKA"
+  },
+  {
+    "idslnarodowosc": 327,
+    "kod": "BED",
+    "nazwa": "BEDUIŃSKA"
+  },
+  {
+    "idslnarodowosc": 186,
+    "kod": "$BE",
+    "nazwa": "BELGIJSKA"
+  },
+  {
+    "idslnarodowosc": 271,
+    "kod": "BLZ",
+    "nazwa": "/BELIZE/"
+  },
+  {
+    "idslnarodowosc": 329,
+    "kod": "BAL",
+    "nazwa": "BELUDŻI"
+  },
+  {
+    "idslnarodowosc": 30,
+    "kod": "BEN",
+    "nazwa": "BENGALSKA"
+  },
+  {
+    "idslnarodowosc": 188,
+    "kod": "$BN",
+    "nazwa": "/BENIN/"
+  },
+  {
+    "idslnarodowosc": 211,
+    "kod": "BER",
+    "nazwa": "BERBER"
+  },
+  {
+    "idslnarodowosc": 273,
+    "kod": "BMU",
+    "nazwa": "BERMUDZKA"
+  },
+  {
+    "idslnarodowosc": 168,
+    "kod": "BHU",
+    "nazwa": "/BHUTAN/"
+  },
+  {
+    "idslnarodowosc": 34,
+    "kod": "BIA",
+    "nazwa": "BIAŁORUSKA"
+  },
+  {
+    "idslnarodowosc": 165,
+    "kod": "BIH",
+    "nazwa": "BIHARSKA"
+  },
+  {
+    "idslnarodowosc": 134,
+    "kod": "BIR",
+    "nazwa": "BIRMAŃSKA"
+  },
+  {
+    "idslnarodowosc": 284,
+    "kod": "BOB",
+    "nazwa": "BOBO"
+  },
+  {
+    "idslnarodowosc": 114,
+    "kod": "BOL",
+    "nazwa": "BOLIWIJSKA"
+  },
+  {
+    "idslnarodowosc": 190,
+    "kod": "$BS",
+    "nazwa": "/BOŚNIA/"
+  },
+  {
+    "idslnarodowosc": 157,
+    "kod": "BOS",
+    "nazwa": "BOŚNIACKA"
+  },
+  {
+    "idslnarodowosc": 279,
+    "kod": "BWA",
+    "nazwa": "/BOTSWANA/"
+  },
+  {
+    "idslnarodowosc": 399,
+    "kod": "BOU",
+    "nazwa": "/BOUGAINVILLE/"
+  },
+  {
+    "idslnarodowosc": 115,
+    "kod": "BRA",
+    "nazwa": "BRAZYLIJSKA"
+  },
+  {
+    "idslnarodowosc": 9,
+    "kod": "BRE",
+    "nazwa": "BRETOŃSKA"
+  },
+  {
+    "idslnarodowosc": 280,
+    "kod": "BRN",
+    "nazwa": "/BRUNEI/"
+  },
+  {
+    "idslnarodowosc": 218,
+    "kod": "BRY",
+    "nazwa": "BRYTYJSKA"
+  },
+  {
+    "idslnarodowosc": 179,
+    "kod": "BUL",
+    "nazwa": "BUŁGARSKA"
+  },
+  {
+    "idslnarodowosc": 171,
+    "kod": "BRI",
+    "nazwa": "BURIACKA"
+  },
+  {
+    "idslnarodowosc": 282,
+    "kod": "BFA",
+    "nazwa": "/BURKINA FASO/"
+  },
+  {
+    "idslnarodowosc": 166,
+    "kod": "BUR",
+    "nazwa": "/BURUNDI/"
+  },
+  {
+    "idslnarodowosc": 416,
+    "kod": "CAU",
+    "nazwa": "CACHURSKA"
+  },
+  {
+    "idslnarodowosc": 221,
+    "kod": "CHC",
+    "nazwa": "CHAŁCHASKA"
+  },
+  {
+    "idslnarodowosc": 174,
+    "kod": "CHA",
+    "nazwa": "CHALDYJSKA"
+  },
+  {
+    "idslnarodowosc": 77,
+    "kod": "CHR",
+    "nazwa": "CHARCZIN"
+  },
+  {
+    "idslnarodowosc": 116,
+    "kod": "CHI",
+    "nazwa": "CHILIJSKA"
+  },
+  {
+    "idslnarodowosc": 180,
+    "kod": "CHN",
+    "nazwa": "CHIŃSKA"
+  },
+  {
+    "idslnarodowosc": 10,
+    "kod": "CHO",
+    "nazwa": "CHORWACKA"
+  },
+  {
+    "idslnarodowosc": 289,
+    "kod": "CUW",
+    "nazwa": "/CURACAO/"
+  },
+  {
+    "idslnarodowosc": 159,
+    "kod": "CYG",
+    "nazwa": "CYGAŃSKA"
+  },
+  {
+    "idslnarodowosc": 191,
+    "kod": "$CY",
+    "nazwa": "CYPRYJSKA"
+  },
+  {
+    "idslnarodowosc": 290,
+    "kod": "TCD",
+    "nazwa": "/CZAD/"
+  },
+  {
+    "idslnarodowosc": 83,
+    "kod": "CZN",
+    "nazwa": "CZANTU"
+  },
+  {
+    "idslnarodowosc": 13,
+    "kod": "CZA",
+    "nazwa": "CZARNOGÓRSKA"
+  },
+  {
+    "idslnarodowosc": 182,
+    "kod": "CZC",
+    "nazwa": "CZECZEŃSKA"
+  },
+  {
+    "idslnarodowosc": 132,
+    "kod": "CZR",
+    "nazwa": "CZERKIESKA"
+  },
+  {
+    "idslnarodowosc": 12,
+    "kod": "CZE",
+    "nazwa": "CZESKA"
+  },
+  {
+    "idslnarodowosc": 173,
+    "kod": "CZK",
+    "nazwa": "CZUKCZEŃSKA"
+  },
+  {
+    "idslnarodowosc": 131,
+    "kod": "CZU",
+    "nazwa": "CZUWASZSKA"
+  },
+  {
+    "idslnarodowosc": 325,
+    "kod": "DAY",
+    "nazwa": "DAJACKA"
+  },
+  {
+    "idslnarodowosc": 75,
+    "kod": "DAC",
+    "nazwa": "DARCHAT"
+  },
+  {
+    "idslnarodowosc": 170,
+    "kod": "DAR",
+    "nazwa": "DARGIJSKA"
+  },
+  {
+    "idslnarodowosc": 293,
+    "kod": "COD",
+    "nazwa": "/DEMOKRATYCZNA REPUBLIKA KONGO/"
+  },
+  {
+    "idslnarodowosc": 237,
+    "kod": "DIO",
+    "nazwa": "DIOULA-DIULA-DJULA-DYOULA-DYULA-JOOLA-JU(U)LA"
+  },
+  {
+    "idslnarodowosc": 357,
+    "kod": "DJE",
+    "nazwa": "DJERMA"
+  },
+  {
+    "idslnarodowosc": 294,
+    "kod": "DMA",
+    "nazwa": "/DOMINIKA/"
+  },
+  {
+    "idslnarodowosc": 117,
+    "kod": "DOM",
+    "nazwa": "DOMINIKAŃSKA"
+  },
+  {
+    "idslnarodowosc": 331,
+    "kod": "DRZ",
+    "nazwa": "DRUZYJSKA"
+  },
+  {
+    "idslnarodowosc": 88,
+    "kod": "DUN",
+    "nazwa": "DUŃSKA"
+  },
+  {
+    "idslnarodowosc": 74,
+    "kod": "DUR",
+    "nazwa": "DURBUT"
+  },
+  {
+    "idslnarodowosc": 169,
+    "kod": "$DZ",
+    "nazwa": "/DŻIBUTI/"
+  },
+  {
+    "idslnarodowosc": 216,
+    "kod": "EGI",
+    "nazwa": "EGIPSKA"
+  },
+  {
+    "idslnarodowosc": 118,
+    "kod": "EKW",
+    "nazwa": "EKWADORSKA"
+  },
+  {
+    "idslnarodowosc": 261,
+    "kod": "ERI",
+    "nazwa": "ERYTREJSKA"
+  },
+  {
+    "idslnarodowosc": 14,
+    "kod": "EST",
+    "nazwa": "ESTOŃSKA"
+  },
+  {
+    "idslnarodowosc": 390,
+    "kod": "SWZ",
+    "nazwa": "/ESWATINI/"
+  },
+  {
+    "idslnarodowosc": 106,
+    "kod": "ETI",
+    "nazwa": "ETIOPSKA"
+  },
+  {
+    "idslnarodowosc": 419,
+    "kod": "EVN",
+    "nazwa": "EWENCKA"
+  },
+  {
+    "idslnarodowosc": 409,
+    "kod": "FRO",
+    "nazwa": "FARERSKA"
+  },
+  {
+    "idslnarodowosc": 299,
+    "kod": "FJI",
+    "nazwa": "/FIDŻI/"
+  },
+  {
+    "idslnarodowosc": 210,
+    "kod": "FIL",
+    "nazwa": "FILIPIŃSKA"
+  },
+  {
+    "idslnarodowosc": 95,
+    "kod": "FIN",
+    "nazwa": "FIŃSKA"
+  },
+  {
+    "idslnarodowosc": 15,
+    "kod": "FLA",
+    "nazwa": "FLAMANDZKA"
+  },
+  {
+    "idslnarodowosc": 276,
+    "kod": "FON",
+    "nazwa": "FON"
+  },
+  {
+    "idslnarodowosc": 89,
+    "kod": "FRA",
+    "nazwa": "FRANCUSKA"
+  },
+  {
+    "idslnarodowosc": 16,
+    "kod": "FRY",
+    "nazwa": "FRYZYJSKA"
+  },
+  {
+    "idslnarodowosc": 277,
+    "kod": "FUL",
+    "nazwa": "FULBE-FULA-FULANI"
+  },
+  {
+    "idslnarodowosc": 301,
+    "kod": "GAB",
+    "nazwa": "/GABON/"
+  },
+  {
+    "idslnarodowosc": 17,
+    "kod": "GAL",
+    "nazwa": "GALICYJSKA"
+  },
+  {
+    "idslnarodowosc": 192,
+    "kod": "$GA",
+    "nazwa": "/GAMBIA/"
+  },
+  {
+    "idslnarodowosc": 193,
+    "kod": "$GH",
+    "nazwa": "/GHANA/"
+  },
+  {
+    "idslnarodowosc": 305,
+    "kod": "GIB",
+    "nazwa": "GIBRALTARSKA"
+  },
+  {
+    "idslnarodowosc": 242,
+    "kod": "GLA",
+    "nazwa": "GŁANDI"
+  },
+  {
+    "idslnarodowosc": 96,
+    "kod": "GRE",
+    "nazwa": "GRECKA"
+  },
+  {
+    "idslnarodowosc": 306,
+    "kod": "GRD",
+    "nazwa": "GRENADA"
+  },
+  {
+    "idslnarodowosc": 307,
+    "kod": "GRL",
+    "nazwa": "GRENLANDZKA"
+  },
+  {
+    "idslnarodowosc": 35,
+    "kod": "GRU",
+    "nazwa": "GRUZIŃSKA"
+  },
+  {
+    "idslnarodowosc": 226,
+    "kod": "GUD",
+    "nazwa": "GUDŻARACKA"
+  },
+  {
+    "idslnarodowosc": 309,
+    "kod": "GGY",
+    "nazwa": "/GUERNSEY/"
+  },
+  {
+    "idslnarodowosc": 119,
+    "kod": "GUJ",
+    "nazwa": "GUJAŃSKA"
+  },
+  {
+    "idslnarodowosc": 402,
+    "kod": "GUR",
+    "nazwa": "GUR"
+  },
+  {
+    "idslnarodowosc": 120,
+    "kod": "GWA",
+    "nazwa": "GWATEMALSKA"
+  },
+  {
+    "idslnarodowosc": 194,
+    "kod": "$GW",
+    "nazwa": "/GWINEA/"
+  },
+  {
+    "idslnarodowosc": 310,
+    "kod": "GNB",
+    "nazwa": "/GWINEA BISSAU/"
+  },
+  {
+    "idslnarodowosc": 311,
+    "kod": "GNQ",
+    "nazwa": "/GWINEA RÓWNIKOWA/"
+  },
+  {
+    "idslnarodowosc": 121,
+    "kod": "HAI",
+    "nazwa": "HAITAŃSKA"
+  },
+  {
+    "idslnarodowosc": 79,
+    "kod": "HAN",
+    "nazwa": "HAN"
+  },
+  {
+    "idslnarodowosc": 356,
+    "kod": "HAU",
+    "nazwa": "HAUSA"
+  },
+  {
+    "idslnarodowosc": 195,
+    "kod": "HZA",
+    "nazwa": "HAZARA"
+  },
+  {
+    "idslnarodowosc": 413,
+    "kod": "HAZ",
+    "nazwa": "HAZARSKA"
+  },
+  {
+    "idslnarodowosc": 52,
+    "kod": "HIN",
+    "nazwa": "HINDUSKA"
+  },
+  {
+    "idslnarodowosc": 97,
+    "kod": "HIS",
+    "nazwa": "HISZPAŃSKA"
+  },
+  {
+    "idslnarodowosc": 90,
+    "kod": "HOL",
+    "nazwa": "HOLENDERSKA"
+  },
+  {
+    "idslnarodowosc": 122,
+    "kod": "HON",
+    "nazwa": "HONDURASKA"
+  },
+  {
+    "idslnarodowosc": 312,
+    "kod": "HKG",
+    "nazwa": "/HONG KONG/"
+  },
+  {
+    "idslnarodowosc": 286,
+    "kod": "HUI",
+    "nazwa": "HUI"
+  },
+  {
+    "idslnarodowosc": 359,
+    "kod": "IBI",
+    "nazwa": "IBIBIO"
+  },
+  {
+    "idslnarodowosc": 82,
+    "kod": "IGB",
+    "nazwa": "IGBO"
+  },
+  {
+    "idslnarodowosc": 360,
+    "kod": "IJW",
+    "nazwa": "IJAW"
+  },
+  {
+    "idslnarodowosc": 196,
+    "kod": "$ID",
+    "nazwa": "/INDIE/"
+  },
+  {
+    "idslnarodowosc": 135,
+    "kod": "IND",
+    "nazwa": "INDONEZYJSKA"
+  },
+  {
+    "idslnarodowosc": 222,
+    "kod": "ING",
+    "nazwa": "INGUSKA"
+  },
+  {
+    "idslnarodowosc": 197,
+    "kod": "$IN",
+    "nazwa": "/INNA/"
+  },
+  {
+    "idslnarodowosc": 56,
+    "kod": "IRA",
+    "nazwa": "IRACKA"
+  },
+  {
+    "idslnarodowosc": 198,
+    "kod": "$IK",
+    "nazwa": "/IRAK/"
+  },
+  {
+    "idslnarodowosc": 199,
+    "kod": "$IR",
+    "nazwa": "IRAŃSKA - /IRAN/"
+  },
+  {
+    "idslnarodowosc": 98,
+    "kod": "IRL",
+    "nazwa": "IRLANDZKA"
+  },
+  {
+    "idslnarodowosc": 236,
+    "kod": "ISH",
+    "nazwa": "ISHAKIRI"
+  },
+  {
+    "idslnarodowosc": 99,
+    "kod": "ISL",
+    "nazwa": "ISLANDZKA"
+  },
+  {
+    "idslnarodowosc": 330,
+    "kod": "ISR",
+    "nazwa": "/IZRAEL/"
+  },
+  {
+    "idslnarodowosc": 420,
+    "kod": "SAH",
+    "nazwa": "JAKUCKA (SAKHA)"
+  },
+  {
+    "idslnarodowosc": 200,
+    "kod": "$JA",
+    "nazwa": "/JAMAJKA/"
+  },
+  {
+    "idslnarodowosc": 137,
+    "kod": "JAP",
+    "nazwa": "JAPOŃSKA"
+  },
+  {
+    "idslnarodowosc": 320,
+    "kod": "JAV",
+    "nazwa": "JAWAJSKA"
+  },
+  {
+    "idslnarodowosc": 201,
+    "kod": "$JE",
+    "nazwa": "/JEMEN/"
+  },
+  {
+    "idslnarodowosc": 332,
+    "kod": "JER",
+    "nazwa": "/JERSEY/"
+  },
+  {
+    "idslnarodowosc": 304,
+    "kod": "JOL",
+    "nazwa": "JOLA"
+  },
+  {
+    "idslnarodowosc": 202,
+    "kod": "$JO",
+    "nazwa": "JORDAŃSKA /JORDANIA/"
+  },
+  {
+    "idslnarodowosc": 275,
+    "kod": "YOR",
+    "nazwa": "JORUBA"
+  },
+  {
+    "idslnarodowosc": 209,
+    "kod": "KAB",
+    "nazwa": "KABARDYŃSKA"
+  },
+  {
+    "idslnarodowosc": 333,
+    "kod": "CAY",
+    "nazwa": "/KAJMANY/"
+  },
+  {
+    "idslnarodowosc": 129,
+    "kod": "KAL",
+    "nazwa": "KAŁMYCKA"
+  },
+  {
+    "idslnarodowosc": 138,
+    "kod": "KAM",
+    "nazwa": "KAMBODŻAŃSKA"
+  },
+  {
+    "idslnarodowosc": 161,
+    "kod": "KMR",
+    "nazwa": "KAMERUŃSKA"
+  },
+  {
+    "idslnarodowosc": 363,
+    "kod": "KNK",
+    "nazwa": "KANACKA"
+  },
+  {
+    "idslnarodowosc": 123,
+    "kod": "CAN",
+    "nazwa": "KANADYJSKA"
+  },
+  {
+    "idslnarodowosc": 316,
+    "kod": "KAN",
+    "nazwa": "KANNADYDZKA"
+  },
+  {
+    "idslnarodowosc": 281,
+    "kod": "CAR",
+    "nazwa": "KARAIBSKA"
+  },
+  {
+    "idslnarodowosc": 156,
+    "kod": "KRA",
+    "nazwa": "KARAIMSKA"
+  },
+  {
+    "idslnarodowosc": 18,
+    "kod": "KAR",
+    "nazwa": "KARELSKA"
+  },
+  {
+    "idslnarodowosc": 76,
+    "kod": "KAS",
+    "nazwa": "KASZMIRSKA"
+  },
+  {
+    "idslnarodowosc": 19,
+    "kod": "KAT",
+    "nazwa": "KATALOŃSKA"
+  },
+  {
+    "idslnarodowosc": 334,
+    "kod": "QAT",
+    "nazwa": "/KATAR/"
+  },
+  {
+    "idslnarodowosc": 36,
+    "kod": "KAZ",
+    "nazwa": "KAZACHSKA"
+  },
+  {
+    "idslnarodowosc": 62,
+    "kod": "$KE",
+    "nazwa": "/KENIA/"
+  },
+  {
+    "idslnarodowosc": 244,
+    "kod": "KEN",
+    "nazwa": "KENIJSKA"
+  },
+  {
+    "idslnarodowosc": 318,
+    "kod": "MAL",
+    "nazwa": "KERALSKA (MALAYALAM)"
+  },
+  {
+    "idslnarodowosc": 223,
+    "kod": "KIN",
+    "nazwa": "KINH"
+  },
+  {
+    "idslnarodowosc": 37,
+    "kod": "KIR",
+    "nazwa": "KIRGISKA"
+  },
+  {
+    "idslnarodowosc": 241,
+    "kod": "KIS",
+    "nazwa": "KISTYŃSKA"
+  },
+  {
+    "idslnarodowosc": 155,
+    "kod": "KME",
+    "nazwa": "KMERSKA"
+  },
+  {
+    "idslnarodowosc": 124,
+    "kod": "KOL",
+    "nazwa": "KOLUMBIJSKA"
+  },
+  {
+    "idslnarodowosc": 412,
+    "kod": "KOM",
+    "nazwa": "KOMI"
+  },
+  {
+    "idslnarodowosc": 336,
+    "kod": "COM",
+    "nazwa": "/KOMORY/"
+  },
+  {
+    "idslnarodowosc": 107,
+    "kod": "KON",
+    "nazwa": "KONGIJSKA"
+  },
+  {
+    "idslnarodowosc": 181,
+    "kod": "KRE",
+    "nazwa": "KOREAŃSKA"
+  },
+  {
+    "idslnarodowosc": 338,
+    "kod": "COR",
+    "nazwa": "/KOREA PŁD./"
+  },
+  {
+    "idslnarodowosc": 337,
+    "kod": "PRK",
+    "nazwa": "/KOREA PŁN./"
+  },
+  {
+    "idslnarodowosc": 21,
+    "kod": "KOR",
+    "nazwa": "KORSYKAŃSKA"
+  },
+  {
+    "idslnarodowosc": 339,
+    "kod": "KSV",
+    "nazwa": "/KOSOWO/"
+  },
+  {
+    "idslnarodowosc": 125,
+    "kod": "KOS",
+    "nazwa": "KOSTARYKAŃSKA"
+  },
+  {
+    "idslnarodowosc": 235,
+    "kod": "KOT",
+    "nazwa": "KOTOKOLI"
+  },
+  {
+    "idslnarodowosc": 272,
+    "kod": "CRL",
+    "nazwa": "KREOLSKA"
+  },
+  {
+    "idslnarodowosc": 45,
+    "kod": "KUB",
+    "nazwa": "KUBAŃSKA"
+  },
+  {
+    "idslnarodowosc": 73,
+    "kod": "KUM",
+    "nazwa": "KUMYCKA"
+  },
+  {
+    "idslnarodowosc": 29,
+    "kod": "KUR",
+    "nazwa": "KURDYJSKA"
+  },
+  {
+    "idslnarodowosc": 63,
+    "kod": "$KU",
+    "nazwa": "/KUWEJT/"
+  },
+  {
+    "idslnarodowosc": 239,
+    "kod": "LAK",
+    "nazwa": "LAKIŃSKA"
+  },
+  {
+    "idslnarodowosc": 139,
+    "kod": "LAO",
+    "nazwa": "LAOTAŃSKA"
+  },
+  {
+    "idslnarodowosc": 38,
+    "kod": "LAP",
+    "nazwa": "LAPOŃSKA"
+  },
+  {
+    "idslnarodowosc": 340,
+    "kod": "LSO",
+    "nazwa": "/LESOTHO/"
+  },
+  {
+    "idslnarodowosc": 51,
+    "kod": "LEZ",
+    "nazwa": "LEZGIŃSKA"
+  },
+  {
+    "idslnarodowosc": 64,
+    "kod": "$LI",
+    "nazwa": "/LIBAN/"
+  },
+  {
+    "idslnarodowosc": 59,
+    "kod": "LIB",
+    "nazwa": "LIBAŃSKA"
+  },
+  {
+    "idslnarodowosc": 65,
+    "kod": "$LB",
+    "nazwa": "/LIBERIA/"
+  },
+  {
+    "idslnarodowosc": 212,
+    "kod": "LBR",
+    "nazwa": "LIBERYJSKA"
+  },
+  {
+    "idslnarodowosc": 66,
+    "kod": "$LA",
+    "nazwa": "/LIBIA/"
+  },
+  {
+    "idslnarodowosc": 341,
+    "kod": "LIE",
+    "nazwa": "/LIECHTENSTEIN/"
+  },
+  {
+    "idslnarodowosc": 39,
+    "kod": "LIT",
+    "nazwa": "LITEWSKA"
+  },
+  {
+    "idslnarodowosc": 40,
+    "kod": "LOT",
+    "nazwa": "ŁOTEWSKA"
+  },
+  {
+    "idslnarodowosc": 291,
+    "kod": "LUB",
+    "nazwa": "LUBA"
+  },
+  {
+    "idslnarodowosc": 220,
+    "kod": "LUK",
+    "nazwa": "LUKSEMBURSKA"
+  },
+  {
+    "idslnarodowosc": 328,
+    "kod": "LUR",
+    "nazwa": "LURYJSKA"
+  },
+  {
+    "idslnarodowosc": 6,
+    "kod": "LUZ",
+    "nazwa": "ŁUŻYCKA"
+  },
+  {
+    "idslnarodowosc": 22,
+    "kod": "MKD",
+    "nazwa": "MACEDOŃSKA"
+  },
+  {
+    "idslnarodowosc": 342,
+    "kod": "MYT",
+    "nazwa": "/MAJOTTA/"
+  },
+  {
+    "idslnarodowosc": 343,
+    "kod": "MAC",
+    "nazwa": "/MAKAU/"
+  },
+  {
+    "idslnarodowosc": 346,
+    "kod": "MYS",
+    "nazwa": "MALAJSKA (MALEZYJSKA)"
+  },
+  {
+    "idslnarodowosc": 344,
+    "kod": "MWI",
+    "nazwa": "/MALAWI/"
+  },
+  {
+    "idslnarodowosc": 240,
+    "kod": "MA ",
+    "nazwa": "MAŁCHASTYŃSKA"
+  },
+  {
+    "idslnarodowosc": 345,
+    "kod": "MDV",
+    "nazwa": "MALEDIWSKA"
+  },
+  {
+    "idslnarodowosc": 1,
+    "kod": "MAG",
+    "nazwa": "MALGASKA"
+  },
+  {
+    "idslnarodowosc": 67,
+    "kod": "$MA",
+    "nazwa": "/MALI/"
+  },
+  {
+    "idslnarodowosc": 230,
+    "kod": "MLI",
+    "nazwa": "MALINKE"
+  },
+  {
+    "idslnarodowosc": 403,
+    "kod": "MAE",
+    "nazwa": "MANDE-MANDINGO"
+  },
+  {
+    "idslnarodowosc": 302,
+    "kod": "MAI",
+    "nazwa": "MANDINKA"
+  },
+  {
+    "idslnarodowosc": 287,
+    "kod": "MAN",
+    "nazwa": "MANDŻURSKA"
+  },
+  {
+    "idslnarodowosc": 405,
+    "kod": "IMN",
+    "nazwa": "MANX"
+  },
+  {
+    "idslnarodowosc": 364,
+    "kod": "MAO",
+    "nazwa": "MAORYSKA"
+  },
+  {
+    "idslnarodowosc": 314,
+    "kod": "MAR",
+    "nazwa": "MARACKA"
+  },
+  {
+    "idslnarodowosc": 164,
+    "kod": "MRE",
+    "nazwa": "MAREHAN"
+  },
+  {
+    "idslnarodowosc": 347,
+    "kod": "MNP",
+    "nazwa": "/MARIANY PÓŁNOCNE/"
+  },
+  {
+    "idslnarodowosc": 68,
+    "kod": "$MR",
+    "nazwa": "/MAROKO/"
+  },
+  {
+    "idslnarodowosc": 348,
+    "kod": "MTQ",
+    "nazwa": "/MARTYNIKA/"
+  },
+  {
+    "idslnarodowosc": 217,
+    "kod": "MRA",
+    "nazwa": "MARYJSKA"
+  },
+  {
+    "idslnarodowosc": 69,
+    "kod": "$MU",
+    "nazwa": "/MAURETANIA/"
+  },
+  {
+    "idslnarodowosc": 224,
+    "kod": "MET",
+    "nazwa": "MAURETAŃSKA"
+  },
+  {
+    "idslnarodowosc": 175,
+    "kod": "MAU",
+    "nazwa": "MAURYTYJSKA"
+  },
+  {
+    "idslnarodowosc": 23,
+    "kod": "MEK",
+    "nazwa": "MEKSYKAŃSKA"
+  },
+  {
+    "idslnarodowosc": 300,
+    "kod": "PAC",
+    "nazwa": "MIESZKANIEC WYSP PACYFIKU"
+  },
+  {
+    "idslnarodowosc": 349,
+    "kod": "FSM",
+    "nazwa": "MIKRONEZYJSKA"
+  },
+  {
+    "idslnarodowosc": 232,
+    "kod": "MIN",
+    "nazwa": "MINA"
+  },
+  {
+    "idslnarodowosc": 350,
+    "kod": "MMR",
+    "nazwa": "/MJANMA/"
+  },
+  {
+    "idslnarodowosc": 41,
+    "kod": "MOL",
+    "nazwa": "MOŁDAWSKA"
+  },
+  {
+    "idslnarodowosc": 225,
+    "kod": "MOM",
+    "nazwa": "MOMO"
+  },
+  {
+    "idslnarodowosc": 351,
+    "kod": "MCO",
+    "nazwa": "MONEGASKA"
+  },
+  {
+    "idslnarodowosc": 292,
+    "kod": "MOO",
+    "nazwa": "MONGO"
+  },
+  {
+    "idslnarodowosc": 48,
+    "kod": "MON",
+    "nazwa": "MONGOLSKA"
+  },
+  {
+    "idslnarodowosc": 352,
+    "kod": "MSR",
+    "nazwa": "/MONTSERRAT/"
+  },
+  {
+    "idslnarodowosc": 417,
+    "kod": "MRD",
+    "nazwa": "MORDWIŃSKA"
+  },
+  {
+    "idslnarodowosc": 283,
+    "kod": "MSS",
+    "nazwa": "MOSSI"
+  },
+  {
+    "idslnarodowosc": 70,
+    "kod": "$MO",
+    "nazwa": "/MOZAMBIK/"
+  },
+  {
+    "idslnarodowosc": 167,
+    "kod": "MUR",
+    "nazwa": "MURUNDI"
+  },
+  {
+    "idslnarodowosc": 353,
+    "kod": "NAM",
+    "nazwa": "NAMIBIJSKA"
+  },
+  {
+    "idslnarodowosc": 354,
+    "kod": "NRU",
+    "nazwa": "/NAURU/"
+  },
+  {
+    "idslnarodowosc": 376,
+    "kod": "NDE",
+    "nazwa": "NDEBELE"
+  },
+  {
+    "idslnarodowosc": 140,
+    "kod": "NEP",
+    "nazwa": "NEPALSKA"
+  },
+  {
+    "idslnarodowosc": 91,
+    "kod": "NIE",
+    "nazwa": "NIEMIECKA"
+  },
+  {
+    "idslnarodowosc": 422,
+    "kod": "YRK",
+    "nazwa": "NIENIECKA (SAMOJEDZKA)"
+  },
+  {
+    "idslnarodowosc": 85,
+    "kod": "NEO",
+    "nazwa": "NIEOKREŚLONA"
+  },
+  {
+    "idslnarodowosc": 55,
+    "kod": "NZA",
+    "nazwa": "NIEZNANA"
+  },
+  {
+    "idslnarodowosc": 355,
+    "kod": "NER",
+    "nazwa": "/NIGER/"
+  },
+  {
+    "idslnarodowosc": 71,
+    "kod": "$NI",
+    "nazwa": "/NIGERIA/"
+  },
+  {
+    "idslnarodowosc": 219,
+    "kod": "NIG",
+    "nazwa": "NIGERYJSKA"
+  },
+  {
+    "idslnarodowosc": 142,
+    "kod": "$NK",
+    "nazwa": "NIKARAGUAŃSKA"
+  },
+  {
+    "idslnarodowosc": 362,
+    "kod": "NIU",
+    "nazwa": "/NIUE/"
+  },
+  {
+    "idslnarodowosc": 101,
+    "kod": "NOR",
+    "nazwa": "NORWESKA"
+  },
+  {
+    "idslnarodowosc": 143,
+    "kod": "$NZ",
+    "nazwa": "NOWOZELANDZKA"
+  },
+  {
+    "idslnarodowosc": 317,
+    "kod": "ORI",
+    "nazwa": "ODIA-ODIYA"
+  },
+  {
+    "idslnarodowosc": 365,
+    "kod": "OMN",
+    "nazwa": "/OMAN/"
+  },
+  {
+    "idslnarodowosc": 42,
+    "kod": "ORM",
+    "nazwa": "ORMIAŃSKA"
+  },
+  {
+    "idslnarodowosc": 215,
+    "kod": "ORO",
+    "nazwa": "OROMO"
+  },
+  {
+    "idslnarodowosc": 160,
+    "kod": "OSE",
+    "nazwa": "OSETYŃSKA"
+  },
+  {
+    "idslnarodowosc": 80,
+    "kod": "OSH",
+    "nazwa": "OSHE"
+  },
+  {
+    "idslnarodowosc": 141,
+    "kod": "PAK",
+    "nazwa": "PAKISTAŃSKA"
+  },
+  {
+    "idslnarodowosc": 368,
+    "kod": "PLW",
+    "nazwa": "/PALAU/"
+  },
+  {
+    "idslnarodowosc": 28,
+    "kod": "PAL",
+    "nazwa": "PALESTYŃSKA"
+  },
+  {
+    "idslnarodowosc": 144,
+    "kod": "$PA",
+    "nazwa": "/PANAMA/"
+  },
+  {
+    "idslnarodowosc": 369,
+    "kod": "PNG",
+    "nazwa": "/PAPUA-NOWA GWINEA/"
+  },
+  {
+    "idslnarodowosc": 371,
+    "kod": "PAR",
+    "nazwa": "PARAGWAJSKA"
+  },
+  {
+    "idslnarodowosc": 213,
+    "kod": "PAS",
+    "nazwa": "PASZTUŃSKA"
+  },
+  {
+    "idslnarodowosc": 61,
+    "kod": "PEN",
+    "nazwa": "PENDŻABSKA"
+  },
+
+  {
+    "idslnarodowosc": 32,
+    "kod": "PRS",
+    "nazwa": "PERSKA"
+  },
+  {
+    "idslnarodowosc": 24,
+    "kod": "PER",
+    "nazwa": "PERUWIAŃSKA"
+  },
+  {
+    "idslnarodowosc": 370,
+    "kod": "PCN",
+    "nazwa": "/PITCAIRN/"
+  },
+  {
+    "idslnarodowosc": 372,
+    "kod": "PYF",
+    "nazwa": "POLINEZYJSKA"
+  },
+  {
+    "idslnarodowosc": 94,
+    "kod": "POL",
+    "nazwa": "POLSKA"
+  },
+  {
+    "idslnarodowosc": 145,
+    "kod": "$PR",
+    "nazwa": "PORTORYKAŃSKA"
+  },
+  {
+    "idslnarodowosc": 102,
+    "kod": "POR",
+    "nazwa": "PORTUGALSKA"
+  },
+  {
+    "idslnarodowosc": 146,
+    "kod": "$RP",
+    "nazwa": "/REPUBLIKA POŁUDNIOWEJ AFRYKI/"
+  },
+  {
+    "idslnarodowosc": 378,
+    "kod": "CAF",
+    "nazwa": "/REPUBLIKA ŚRODKOWEJ AFRYKI/"
+  },
+  {
+    "idslnarodowosc": 379,
+    "kod": "CPV",
+    "nazwa": "/REPUBLIKA ZIELONEGO PRZYLĄDKA/"
+  },
+  {
+    "idslnarodowosc": 380,
+    "kod": "REU",
+    "nazwa": "/REUNION/"
+  },
+  {
+    "idslnarodowosc": 11,
+    "kod": "ROM",
+    "nazwa": "ROMSKA"
+  },
+  {
+    "idslnarodowosc": 128,
+    "kod": "ROS",
+    "nazwa": "ROSYJSKA"
+  },
+  {
+    "idslnarodowosc": 46,
+    "kod": "RUM",
+    "nazwa": "RUMUŃSKA"
+  },
+  {
+    "idslnarodowosc": 415,
+    "kod": "RUT",
+    "nazwa": "RUTULSKA"
+  },
+  {
+    "idslnarodowosc": 57,
+    "kod": "RWA",
+    "nazwa": "RWANDYJSKA"
+  },
+  {
+    "idslnarodowosc": 384,
+    "kod": "BLM",
+    "nazwa": "/SAINT-BARTHÉLEMY/"
+  },
+  {
+    "idslnarodowosc": 381,
+    "kod": "KNA",
+    "nazwa": "/SAINT KITTS I NEVIS/"
+  },
+  {
+    "idslnarodowosc": 382,
+    "kod": "LCA",
+    "nazwa": "/SAINT LUCIA/"
+  },
+  {
+    "idslnarodowosc": 383,
+    "kod": "VCT",
+    "nazwa": "/SAINT VINCENT I GRENADYNY/"
+  },
+  {
+    "idslnarodowosc": 25,
+    "kod": "SAL",
+    "nazwa": "SALWADORSKA"
+  },
+  {
+    "idslnarodowosc": 385,
+    "kod": "WSM",
+    "nazwa": "SAMOAŃSKA"
+  },
+  {
+    "idslnarodowosc": 386,
+    "kod": "SMR",
+    "nazwa": "/SAN MARINO/"
+  },
+  {
+    "idslnarodowosc": 78,
+    "kod": "SAR",
+    "nazwa": "SARTULSKA"
+  },
+  {
+    "idslnarodowosc": 265,
+    "kod": "SAU",
+    "nazwa": "SAUDYJSKA"
+  },
+  {
+    "idslnarodowosc": 147,
+    "kod": "$SE",
+    "nazwa": "/SENEGAL/"
+  },
+  {
+    "idslnarodowosc": 228,
+    "kod": "SEN",
+    "nazwa": "SENEGALSKA"
+  },
+  {
+    "idslnarodowosc": 108,
+    "kod": "SER",
+    "nazwa": "SERBSKA"
+  },
+  {
+    "idslnarodowosc": 387,
+    "kod": "SYC",
+    "nazwa": "/SESZELE/"
+  },
+  {
+    "idslnarodowosc": 31,
+    "kod": "SHO",
+    "nazwa": "SHONA"
+  },
+  {
+    "idslnarodowosc": 298,
+    "kod": "SID",
+    "nazwa": "SIDAMA"
+  },
+  {
+    "idslnarodowosc": 148,
+    "kod": "$SI",
+    "nazwa": "/SIERRA LEONE/"
+  },
+  {
+    "idslnarodowosc": 53,
+    "kod": "SIK",
+    "nazwa": "SIKHIJSKA"
+  },
+  {
+    "idslnarodowosc": 366,
+    "kod": "SDH",
+    "nazwa": "SINDHI"
+  },
+  {
+    "idslnarodowosc": 388,
+    "kod": "SGP",
+    "nazwa": "SINGAPURSKA"
+  },
+  {
+    "idslnarodowosc": 109,
+    "kod": "SLO",
+    "nazwa": "SŁOWACKA"
+  },
+  {
+    "idslnarodowosc": 208,
+    "kod": "SOW",
+    "nazwa": "SŁOWEŃSKA"
+  },
+  {
+    "idslnarodowosc": 2,
+    "kod": "SOM",
+    "nazwa": "SOMALIJSKA"
+  },
+  {
+    "idslnarodowosc": 149,
+    "kod": "$SL",
+    "nazwa": "/SRI LANKA/"
+  },
+  {
+    "idslnarodowosc": 391,
+    "kod": "SSD",
+    "nazwa": "/SUDAN POŁUDNIOWY/"
+  },
+  {
+    "idslnarodowosc": 3,
+    "kod": "SUD",
+    "nazwa": "SUDAŃSKA"
+  },
+  {
+    "idslnarodowosc": 321,
+    "kod": "SUN",
+    "nazwa": "SUNDAJSKA"
+  },
+  {
+    "idslnarodowosc": 392,
+    "kod": "SUR",
+    "nazwa": "SURINAMSKA"
+  },
+  {
+    "idslnarodowosc": 163,
+    "kod": "SYN",
+    "nazwa": "SYNGALEZKA"
+  },
+  {
+    "idslnarodowosc": 176,
+    "kod": "SYR",
+    "nazwa": "SYRYJSKA"
+  },
+  {
+    "idslnarodowosc": 110,
+    "kod": "SZK",
+    "nazwa": "SZKOCKA"
+  },
+  {
+    "idslnarodowosc": 150,
+    "kod": "$SZ",
+    "nazwa": "SZWAJCARSKA"
+  },
+  {
+    "idslnarodowosc": 92,
+    "kod": "SZW",
+    "nazwa": "SZWEDZKA"
+  },
+  {
+    "idslnarodowosc": 43,
+    "kod": "TAD",
+    "nazwa": "TADŻYCKA"
+  },
+  {
+    "idslnarodowosc": 151,
+    "kod": "$TA",
+    "nazwa": "/TAJLANDIA/"
+  },
+  {
+    "idslnarodowosc": 50,
+    "kod": "TAJ",
+    "nazwa": "TAJSKA"
+  },
+  {
+    "idslnarodowosc": 152,
+    "kod": "$TJ",
+    "nazwa": "/TAJWAN/"
+  },
+  {
+    "idslnarodowosc": 229,
+    "kod": "TAL",
+    "nazwa": "TAŁYSKA"
+  },
+  {
+    "idslnarodowosc": 54,
+    "kod": "TAM",
+    "nazwa": "TAMILSKA"
+  },
+  {
+    "idslnarodowosc": 4,
+    "kod": "TAN",
+    "nazwa": "TANZAŃSKA"
+  },
+  {
+    "idslnarodowosc": 44,
+    "kod": "TAT",
+    "nazwa": "TATARSKA"
+  },
+  {
+    "idslnarodowosc": 315,
+    "kod": "TEL",
+    "nazwa": "TELUGU"
+  },
+  {
+    "idslnarodowosc": 295,
+    "kod": "TGE",
+    "nazwa": "TIGRE"
+  },
+  {
+    "idslnarodowosc": 296,
+    "kod": "TGR",
+    "nazwa": "TIGRIJSKA"
+  },
+  {
+    "idslnarodowosc": 393,
+    "kod": "TMR",
+    "nazwa": "TIMORAŃSKA"
+  },
+  {
+    "idslnarodowosc": 361,
+    "kod": "TIV",
+    "nazwa": "TIV-TIIV"
+  },
+  {
+    "idslnarodowosc": 153,
+    "kod": "$TO",
+    "nazwa": "/TOGO/"
+  },
+  {
+    "idslnarodowosc": 394,
+    "kod": "TKL",
+    "nazwa": "/TOKELAU/"
+  },
+  {
+    "idslnarodowosc": 204,
+    "kod": "$TR",
+    "nazwa": "/TRYNIDAD/"
+  },
+  {
+    "idslnarodowosc": 377,
+    "kod": "TSW",
+    "nazwa": "TSWANA"
+  },
+  {
+    "idslnarodowosc": 358,
+    "kod": "TUA",
+    "nazwa": "TUARESKA"
+  },
+  {
+    "idslnarodowosc": 5,
+    "kod": "TUN",
+    "nazwa": "TUNEZYJSKA"
+  },
+  {
+    "idslnarodowosc": 177,
+    "kod": "TUR",
+    "nazwa": "TURECKA"
+  },
+  {
+    "idslnarodowosc": 162,
+    "kod": "TRK",
+    "nazwa": "TURKMEŃSKA"
+  },
+  {
+    "idslnarodowosc": 326,
+    "kod": "TUK",
+    "nazwa": "TURKOMAŃSKA"
+  },
+  {
+    "idslnarodowosc": 395,
+    "kod": "TCA",
+    "nazwa": "/TURKS I CAICOS/"
+  },
+  {
+    "idslnarodowosc": 396,
+    "kod": "TUV",
+    "nazwa": "/TUVALU/"
+  },
+  {
+    "idslnarodowosc": 421,
+    "kod": "TYV",
+    "nazwa": "TUWIŃSKA"
+  },
+  {
+    "idslnarodowosc": 172,
+    "kod": "TYB",
+    "nazwa": "TYBETAŃSKA"
+  },
+  {
+    "idslnarodowosc": 72,
+    "kod": "UDM",
+    "nazwa": "UDMURCKA"
+  },
+  {
+    "idslnarodowosc": 397,
+    "kod": "UGA",
+    "nazwa": "/UGANDA/"
+  },
+  {
+    "idslnarodowosc": 285,
+    "kod": "UYG",
+    "nazwa": "UJGURSKA"
+  },
+  {
+    "idslnarodowosc": 126,
+    "kod": "UKR",
+    "nazwa": "UKRAIŃSKA"
+  },
+  {
+    "idslnarodowosc": 26,
+    "kod": "URU",
+    "nazwa": "URUGWAJSKA"
+  },
+  {
+    "idslnarodowosc": 127,
+    "kod": "UZB",
+    "nazwa": "UZBECKA"
+  },
+  {
+    "idslnarodowosc": 398,
+    "kod": "VUT",
+    "nazwa": "/VANUATU/"
+  },
+  {
+    "idslnarodowosc": 111,
+    "kod": "WAL",
+    "nazwa": "WALIJSKA"
+  },
+  {
+    "idslnarodowosc": 400,
+    "kod": "WLF",
+    "nazwa": "/WALLIS I FUTUNA/"
+  },
+  {
+    "idslnarodowosc": 112,
+    "kod": "WLN",
+    "nazwa": "WALOŃSKA"
+  },
+  {
+    "idslnarodowosc": 103,
+    "kod": "WEG",
+    "nazwa": "WĘGIERSKA"
+  },
+  {
+    "idslnarodowosc": 27,
+    "kod": "WEN",
+    "nazwa": "WENEZUELSKA"
+  },
+  {
+    "idslnarodowosc": 47,
+    "kod": "WIE",
+    "nazwa": "WIETNAMSKA"
+  },
+  {
+    "idslnarodowosc": 104,
+    "kod": "WLO",
+    "nazwa": "WŁOSKA"
+  },
+  {
+    "idslnarodowosc": 303,
+    "kod": "WOL",
+    "nazwa": "WOLOF"
+  },
+  {
+    "idslnarodowosc": 404,
+    "kod": "CIV",
+    "nazwa": "/WYBRZEŻE KOŚCI SŁONIOWEJ/"
+  },
+  {
+    "idslnarodowosc": 406,
+    "kod": "COK",
+    "nazwa": "/WYSPY COOKA/"
+  },
+  {
+    "idslnarodowosc": 407,
+    "kod": "VIR",
+    "nazwa": "/WYSPY DZIEWICZE STANÓW ZJEDNOCZONYCH/"
+  },
+  {
+    "idslnarodowosc": 408,
+    "kod": "MHL",
+    "nazwa": "/WYSPY MARSHALLA/"
+  },
+  {
+    "idslnarodowosc": 410,
+    "kod": "SLB",
+    "nazwa": "/WYSPY SALOMONA/"
+  },
+  {
+    "idslnarodowosc": 411,
+    "kod": "STP",
+    "nazwa": "/WYSPY ŚWIĘTEGO TOMASZA I KSIĄŻĘCA/"
+  },
+  {
+    "idslnarodowosc": 375,
+    "kod": "XHO",
+    "nazwa": "XHOSA"
+  },
+  {
+    "idslnarodowosc": 288,
+    "kod": "YIN",
+    "nazwa": "YI-NUOSU"
+  },
+  {
+    "idslnarodowosc": 205,
+    "kod": "$ZA",
+    "nazwa": "/ZAIR/"
+  },
+  {
+    "idslnarodowosc": 58,
+    "kod": "ZAI",
+    "nazwa": "ZAIRSKA"
+  },
+  {
+    "idslnarodowosc": 158,
+    "kod": "ZAM",
+    "nazwa": "ZAMBIJSKA"
+  },
+  {
+    "idslnarodowosc": 207,
+    "kod": "$ZI",
+    "nazwa": "/ZIMBABWE/"
+  },
+  {
+    "idslnarodowosc": 374,
+    "kod": "ZUL",
+    "nazwa": "ZULUSKA"
+  },
+  {
+    "idslnarodowosc": 136,
+    "kod": "ZYD",
+    "nazwa": "ŻYDOWSKA"
+  }
+]

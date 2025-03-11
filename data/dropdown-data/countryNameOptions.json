@@ -1,0 +1,1267 @@
+[
+  {
+    "idslkraj": 5,
+    "kod": "AF ",
+    "nazwa": "AFGANISTAN"
+  },
+  {
+    "idslkraj": 8,
+    "kod": "AL ",
+    "nazwa": "ALBANIA"
+  },
+  {
+    "idslkraj": 61,
+    "kod": "DZ ",
+    "nazwa": "ALGIERIA"
+  },
+  {
+    "idslkraj": 3,
+    "kod": "AD ",
+    "nazwa": "ANDORA"
+  },
+  {
+    "idslkraj": 11,
+    "kod": "AO ",
+    "nazwa": "ANGOLA"
+  },
+  {
+    "idslkraj": 7,
+    "kod": "AI ",
+    "nazwa": "ANGUILLA"
+  },
+  {
+    "idslkraj": 12,
+    "kod": "AQ ",
+    "nazwa": "ANTARKTYDA"
+  },
+  {
+    "idslkraj": 6,
+    "kod": "AG ",
+    "nazwa": "ANTIGUA I BARBUDA"
+  },
+  {
+    "idslkraj": 10,
+    "kod": "AN ",
+    "nazwa": "ANTYLE HOLENDERSKIE"
+  },
+  {
+    "idslkraj": 181,
+    "kod": "SA ",
+    "nazwa": "ARABIA SAUDYJSKA"
+  },
+  {
+    "idslkraj": 13,
+    "kod": "AR ",
+    "nazwa": "ARGENTYNA"
+  },
+  {
+    "idslkraj": 9,
+    "kod": "AM ",
+    "nazwa": "ARMENIA"
+  },
+  {
+    "idslkraj": 240,
+    "kod": "AW ",
+    "nazwa": "ARUBA"
+  },
+  {
+    "idslkraj": 16,
+    "kod": "AU ",
+    "nazwa": "AUSTRALIA"
+  },
+  {
+    "idslkraj": 15,
+    "kod": "AT ",
+    "nazwa": "AUSTRIA"
+  },
+  {
+    "idslkraj": 17,
+    "kod": "AZ ",
+    "nazwa": "AZERBEJDŻAN"
+  },
+  {
+    "idslkraj": 32,
+    "kod": "BS ",
+    "nazwa": "BAHAMY"
+  },
+  {
+    "idslkraj": 24,
+    "kod": "BH ",
+    "nazwa": "BAHRAJN"
+  },
+  {
+    "idslkraj": 20,
+    "kod": "BD ",
+    "nazwa": "BANGLADESZ"
+  },
+  {
+    "idslkraj": 19,
+    "kod": "BB ",
+    "nazwa": "BARBADOS"
+  },
+  {
+    "idslkraj": 50,
+    "kod": "CS ",
+    "nazwa": "/B. CZECHOSŁOWACJA/"
+  },
+  {
+    "idslkraj": 21,
+    "kod": "BE ",
+    "nazwa": "BELGIA"
+  },
+  {
+    "idslkraj": 37,
+    "kod": "BZ ",
+    "nazwa": "BELIZE"
+  },
+  {
+    "idslkraj": 26,
+    "kod": "BJ ",
+    "nazwa": "BENIN"
+  },
+  {
+    "idslkraj": 27,
+    "kod": "BM ",
+    "nazwa": "BERMUDY"
+  },
+  {
+    "idslkraj": 30,
+    "kod": "BP ",
+    "nazwa": "BEZ OBYWATELSTWA"
+  },
+  {
+    "idslkraj": 33,
+    "kod": "BT ",
+    "nazwa": "BHUTAN"
+  },
+  {
+    "idslkraj": 241,
+    "kod": "BY ",
+    "nazwa": "BIAŁORUŚ"
+  },
+  {
+    "idslkraj": 29,
+    "kod": "BO ",
+    "nazwa": "BOLIWIA"
+  },
+  {
+    "idslkraj": 282,
+    "kod": "BQ",
+    "nazwa": "BONAIRE, SINT EUSTATIUS I SABA"
+  },
+  {
+    "idslkraj": 18,
+    "kod": "BA ",
+    "nazwa": "BOŚNIA I HERCEGOWINA"
+  },
+  {
+    "idslkraj": 36,
+    "kod": "BW ",
+    "nazwa": "BOTSWANA"
+  },
+  {
+    "idslkraj": 31,
+    "kod": "BR ",
+    "nazwa": "BRAZYLIA"
+  },
+  {
+    "idslkraj": 28,
+    "kod": "BN ",
+    "nazwa": "BRUNEI"
+  },
+  {
+    "idslkraj": 103,
+    "kod": "IO ",
+    "nazwa": "BRYTYJSKIE TERYTORIUM OCEANU INDYJSKIEGO"
+  },
+  {
+    "idslkraj": 224,
+    "kod": "VG ",
+    "nazwa": "BRYTYJSKIE WYSPY DZIEWICZE"
+  },
+  {
+    "idslkraj": 23,
+    "kod": "BG ",
+    "nazwa": "BUŁGARIA"
+  },
+  {
+    "idslkraj": 22,
+    "kod": "BF ",
+    "nazwa": "BURKINA FASO (D. GÓRNA WOLTA)"
+  },
+  {
+    "idslkraj": 25,
+    "kod": "BI ",
+    "nazwa": "BURUNDI"
+  },
+  {
+    "idslkraj": 2,
+    "kod": "$ZS",
+    "nazwa": "/B. ZSRR/"
+  },
+  {
+    "idslkraj": 45,
+    "kod": "CL ",
+    "nazwa": "CHILE"
+  },
+  {
+    "idslkraj": 47,
+    "kod": "CN ",
+    "nazwa": "CHINY"
+  },
+  {
+    "idslkraj": 96,
+    "kod": "HR ",
+    "nazwa": "CHORWACJA"
+  },
+  {
+    "idslkraj": 283,
+    "kod": "CW",
+    "nazwa": "CURACAO"
+  },
+  {
+    "idslkraj": 54,
+    "kod": "CY ",
+    "nazwa": "CYPR"
+  },
+  {
+    "idslkraj": 200,
+    "kod": "TD ",
+    "nazwa": "CZAD"
+  },
+  {
+    "idslkraj": 248,
+    "kod": "ME ",
+    "nazwa": "CZARNOGÓRA"
+  },
+  {
+    "idslkraj": 55,
+    "kod": "CZ ",
+    "nazwa": "CZECHY"
+  },
+  {
+    "idslkraj": 217,
+    "kod": "UM ",
+    "nazwa": "DALEKIE WYSPY MNIEJSZE STANÓW ZJEDNOCZONYCH"
+  },
+  {
+    "idslkraj": 58,
+    "kod": "DK ",
+    "nazwa": "DANIA"
+  },
+  {
+    "idslkraj": 251,
+    "kod": "CD ",
+    "nazwa": "DEMOKRATYCZNA REPUBLIKA KONGA"
+  },
+  {
+    "idslkraj": 59,
+    "kod": "DM ",
+    "nazwa": "DOMINIKA"
+  },
+  {
+    "idslkraj": 60,
+    "kod": "DO ",
+    "nazwa": "DOMINIKANA"
+  },
+  {
+    "idslkraj": 57,
+    "kod": "DJ ",
+    "nazwa": "DŻIBUTI"
+  },
+  {
+    "idslkraj": 64,
+    "kod": "EG ",
+    "nazwa": "EGIPT"
+  },
+  {
+    "idslkraj": 62,
+    "kod": "EC ",
+    "nazwa": "EKWADOR"
+  },
+  {
+    "idslkraj": 66,
+    "kod": "ER ",
+    "nazwa": "ERYTREA"
+  },
+  {
+    "idslkraj": 63,
+    "kod": "EE ",
+    "nazwa": "ESTONIA"
+  },
+  {
+    "idslkraj": 199,
+    "kod": "SZ ",
+    "nazwa": "ESWATINI (SWAZI)"
+  },
+  {
+    "idslkraj": 68,
+    "kod": "ET ",
+    "nazwa": "ETIOPIA"
+  },
+  {
+    "idslkraj": 71,
+    "kod": "FK ",
+    "nazwa": "FALKLANDY (MALWINY)"
+  },
+  {
+    "idslkraj": 70,
+    "kod": "FJ ",
+    "nazwa": "FIDŻI"
+  },
+  {
+    "idslkraj": 168,
+    "kod": "PH ",
+    "nazwa": "FILIPINY"
+  },
+  {
+    "idslkraj": 69,
+    "kod": "FI ",
+    "nazwa": "FINLANDIA"
+  },
+  {
+    "idslkraj": 74,
+    "kod": "FR ",
+    "nazwa": "FRANCJA"
+  },
+  {
+    "idslkraj": 201,
+    "kod": "TF ",
+    "nazwa": "FRANCUSKIE TERYTORIA POŁUDNIOWE I ANTARKTYCZNE"
+  },
+  {
+    "idslkraj": 75,
+    "kod": "FX ",
+    "nazwa": "FRANCUSKIE TERYTORIUM ZAMORSKIE"
+  },
+  {
+    "idslkraj": 242,
+    "kod": "GA ",
+    "nazwa": "GABON"
+  },
+  {
+    "idslkraj": 83,
+    "kod": "GM ",
+    "nazwa": "GAMBIA"
+  },
+  {
+    "idslkraj": 88,
+    "kod": "GS ",
+    "nazwa": "GEORGIA POŁUDNIOWA I SANDWICH POŁUDNIOWY"
+  },
+  {
+    "idslkraj": 80,
+    "kod": "GH ",
+    "nazwa": "GHANA"
+  },
+  {
+    "idslkraj": 81,
+    "kod": "GI ",
+    "nazwa": "GIBRALTAR"
+  },
+  {
+    "idslkraj": 87,
+    "kod": "GR ",
+    "nazwa": "GRECJA"
+  },
+  {
+    "idslkraj": 77,
+    "kod": "GD ",
+    "nazwa": "GRENADA"
+  },
+  {
+    "idslkraj": 82,
+    "kod": "GL ",
+    "nazwa": "GRENLANDIA"
+  },
+  {
+    "idslkraj": 78,
+    "kod": "GE ",
+    "nazwa": "GRUZJA"
+  },
+  {
+    "idslkraj": 90,
+    "kod": "GU ",
+    "nazwa": "GUAM"
+  },
+  {
+    "idslkraj": 92,
+    "kod": "GY ",
+    "nazwa": "GUJANA"
+  },
+  {
+    "idslkraj": 79,
+    "kod": "GF ",
+    "nazwa": "GUJANA FRANCUSKA"
+  },
+  {
+    "idslkraj": 85,
+    "kod": "GP ",
+    "nazwa": "GWADELUPA"
+  },
+  {
+    "idslkraj": 89,
+    "kod": "GT ",
+    "nazwa": "GWATEMALA"
+  },
+  {
+    "idslkraj": 84,
+    "kod": "GN ",
+    "nazwa": "GWINEA"
+  },
+  {
+    "idslkraj": 91,
+    "kod": "GW ",
+    "nazwa": "GWINEA BISSAU"
+  },
+  {
+    "idslkraj": 86,
+    "kod": "GQ ",
+    "nazwa": "GWINEA RÓWNIKOWA"
+  },
+  {
+    "idslkraj": 97,
+    "kod": "HT ",
+    "nazwa": "HAITI"
+  },
+  {
+    "idslkraj": 67,
+    "kod": "ES ",
+    "nazwa": "HISZPANIA"
+  },
+  {
+    "idslkraj": 158,
+    "kod": "NL ",
+    "nazwa": "HOLANDIA"
+  },
+  {
+    "idslkraj": 95,
+    "kod": "HN ",
+    "nazwa": "HONDURAS"
+  },
+  {
+    "idslkraj": 93,
+    "kod": "HK ",
+    "nazwa": "HONGKONG"
+  },
+  {
+    "idslkraj": 102,
+    "kod": "IN ",
+    "nazwa": "INDIE"
+  },
+  {
+    "idslkraj": 99,
+    "kod": "ID ",
+    "nazwa": "INDONEZJA"
+  },
+  {
+    "idslkraj": 104,
+    "kod": "IQ ",
+    "nazwa": "IRAK"
+  },
+  {
+    "idslkraj": 105,
+    "kod": "IR ",
+    "nazwa": "IRAN"
+  },
+  {
+    "idslkraj": 100,
+    "kod": "IE ",
+    "nazwa": "IRLANDIA"
+  },
+  {
+    "idslkraj": 106,
+    "kod": "IS ",
+    "nazwa": "ISLANDIA"
+  },
+  {
+    "idslkraj": 101,
+    "kod": "IL ",
+    "nazwa": "IZRAEL"
+  },
+  {
+    "idslkraj": 108,
+    "kod": "JM ",
+    "nazwa": "JAMAJKA"
+  },
+  {
+    "idslkraj": 243,
+    "kod": "JP ",
+    "nazwa": "JAPONIA"
+  },
+  {
+    "idslkraj": 231,
+    "kod": "YE ",
+    "nazwa": "JEMEN"
+  },
+  {
+    "idslkraj": 109,
+    "kod": "JO ",
+    "nazwa": "JORDANIA"
+  },
+  {
+    "idslkraj": 233,
+    "kod": "YU ",
+    "nazwa": "JUGOSŁAWIA"
+  },
+  {
+    "idslkraj": 119,
+    "kod": "KY ",
+    "nazwa": "KAJMANY"
+  },
+  {
+    "idslkraj": 112,
+    "kod": "KH ",
+    "nazwa": "KAMBODŻA"
+  },
+  {
+    "idslkraj": 46,
+    "kod": "CM ",
+    "nazwa": "KAMERUN"
+  },
+  {
+    "idslkraj": 38,
+    "kod": "CA ",
+    "nazwa": "KANADA"
+  },
+  {
+    "idslkraj": 176,
+    "kod": "QA ",
+    "nazwa": "KATAR"
+  },
+  {
+    "idslkraj": 120,
+    "kod": "KZ ",
+    "nazwa": "KAZACHSTAN"
+  },
+  {
+    "idslkraj": 110,
+    "kod": "KE ",
+    "nazwa": "KENIA"
+  },
+  {
+    "idslkraj": 111,
+    "kod": "KG ",
+    "nazwa": "KIRGISTAN"
+  },
+  {
+    "idslkraj": 113,
+    "kod": "KI ",
+    "nazwa": "KIRIBATI"
+  },
+  {
+    "idslkraj": 48,
+    "kod": "CO ",
+    "nazwa": "KOLUMBIA"
+  },
+  {
+    "idslkraj": 114,
+    "kod": "KM ",
+    "nazwa": "KOMORY"
+  },
+  {
+    "idslkraj": 41,
+    "kod": "CG ",
+    "nazwa": "KONGO"
+  },
+  {
+    "idslkraj": 116,
+    "kod": "KP ",
+    "nazwa": "KOREA PÓŁNOCNA"
+  },
+  {
+    "idslkraj": 117,
+    "kod": "KR ",
+    "nazwa": "KOREA POŁUDNIOWA"
+  },
+  {
+    "idslkraj": 250,
+    "kod": "KV ",
+    "nazwa": "KOSOWO"
+  },
+  {
+    "idslkraj": 49,
+    "kod": "CR ",
+    "nazwa": "KOSTARYKA"
+  },
+  {
+    "idslkraj": 51,
+    "kod": "CU ",
+    "nazwa": "KUBA"
+  },
+  {
+    "idslkraj": 118,
+    "kod": "KW ",
+    "nazwa": "KUWEJT"
+  },
+  {
+    "idslkraj": 121,
+    "kod": "LA ",
+    "nazwa": "LAOS"
+  },
+  {
+    "idslkraj": 127,
+    "kod": "LS ",
+    "nazwa": "LESOTHO"
+  },
+  {
+    "idslkraj": 122,
+    "kod": "LB ",
+    "nazwa": "LIBAN"
+  },
+  {
+    "idslkraj": 126,
+    "kod": "LR ",
+    "nazwa": "LIBERIA"
+  },
+  {
+    "idslkraj": 131,
+    "kod": "LY ",
+    "nazwa": "LIBIA"
+  },
+  {
+    "idslkraj": 124,
+    "kod": "LI ",
+    "nazwa": "LIECHTENSTEIN"
+  },
+  {
+    "idslkraj": 128,
+    "kod": "LT ",
+    "nazwa": "LITWA"
+  },
+  {
+    "idslkraj": 130,
+    "kod": "LV ",
+    "nazwa": "ŁOTWA"
+  },
+  {
+    "idslkraj": 129,
+    "kod": "LU ",
+    "nazwa": "LUKSEMBURG"
+  },
+  {
+    "idslkraj": 262,
+    "kod": "MK",
+    "nazwa": "MACEDONIA PÓŁNOCNA"
+  },
+  {
+    "idslkraj": 135,
+    "kod": "MG ",
+    "nazwa": "MADAGASKAR"
+  },
+  {
+    "idslkraj": 232,
+    "kod": "YT ",
+    "nazwa": "MAJOTTA"
+  },
+  {
+    "idslkraj": 140,
+    "kod": "MO ",
+    "nazwa": "MAKAU"
+  },
+  {
+    "idslkraj": 148,
+    "kod": "MW ",
+    "nazwa": "MALAWI"
+  },
+  {
+    "idslkraj": 147,
+    "kod": "MV ",
+    "nazwa": "MALEDIWY"
+  },
+  {
+    "idslkraj": 150,
+    "kod": "MY ",
+    "nazwa": "MALEZJA"
+  },
+  {
+    "idslkraj": 138,
+    "kod": "ML ",
+    "nazwa": "MALI"
+  },
+  {
+    "idslkraj": 145,
+    "kod": "MT ",
+    "nazwa": "MALTA"
+  },
+  {
+    "idslkraj": 141,
+    "kod": "MP ",
+    "nazwa": "MARIANY PÓŁNOCNE"
+  },
+  {
+    "idslkraj": 132,
+    "kod": "MA ",
+    "nazwa": "MAROKO"
+  },
+  {
+    "idslkraj": 142,
+    "kod": "MQ ",
+    "nazwa": "MARTYNIKA"
+  },
+  {
+    "idslkraj": 143,
+    "kod": "MR ",
+    "nazwa": "MAURETANIA"
+  },
+  {
+    "idslkraj": 146,
+    "kod": "MU ",
+    "nazwa": "MAURITIUS"
+  },
+  {
+    "idslkraj": 149,
+    "kod": "MX ",
+    "nazwa": "MEKSYK"
+  },
+  {
+    "idslkraj": 72,
+    "kod": "FM ",
+    "nazwa": "MIKRONEZJA (SFEDEROWANE STANY)"
+  },
+  {
+    "idslkraj": 34,
+    "kod": "BU ",
+    "nazwa": "MJANMA"
+  },
+  {
+    "idslkraj": 261,
+    "kod": "MD ",
+    "nazwa": "MOŁDAWIA"
+  },
+  {
+    "idslkraj": 133,
+    "kod": "MC ",
+    "nazwa": "MONAKO"
+  },
+  {
+    "idslkraj": 139,
+    "kod": "MN ",
+    "nazwa": "MONGOLIA"
+  },
+  {
+    "idslkraj": 144,
+    "kod": "MS ",
+    "nazwa": "MONTSERRAT"
+  },
+  {
+    "idslkraj": 151,
+    "kod": "MZ ",
+    "nazwa": "MOZAMBIK"
+  },
+  {
+    "idslkraj": 152,
+    "kod": "NA ",
+    "nazwa": "NAMIBIA"
+  },
+  {
+    "idslkraj": 160,
+    "kod": "NR ",
+    "nazwa": "NAURU"
+  },
+  {
+    "idslkraj": 159,
+    "kod": "NP ",
+    "nazwa": "NEPAL"
+  },
+  {
+    "idslkraj": 56,
+    "kod": "DE ",
+    "nazwa": "NIEMCY"
+  },
+  {
+    "idslkraj": 1,
+    "kod": "$BD",
+    "nazwa": "NIEOKREŚLONY"
+  },
+  {
+    "idslkraj": 154,
+    "kod": "NE ",
+    "nazwa": "NIGER"
+  },
+  {
+    "idslkraj": 156,
+    "kod": "NG ",
+    "nazwa": "NIGERIA"
+  },
+  {
+    "idslkraj": 157,
+    "kod": "NI ",
+    "nazwa": "NIKARAGUA"
+  },
+  {
+    "idslkraj": 162,
+    "kod": "NU ",
+    "nazwa": "NIUE"
+  },
+  {
+    "idslkraj": 155,
+    "kod": "NF ",
+    "nazwa": "NORFOLK"
+  },
+  {
+    "idslkraj": 244,
+    "kod": "NO ",
+    "nazwa": "NORWEGIA"
+  },
+  {
+    "idslkraj": 153,
+    "kod": "NC ",
+    "nazwa": "NOWA KALEDONIA"
+  },
+  {
+    "idslkraj": 245,
+    "kod": "NZ ",
+    "nazwa": "NOWA ZELANDIA"
+  },
+  {
+    "idslkraj": 163,
+    "kod": "OM ",
+    "nazwa": "OMAN"
+  },
+  {
+    "idslkraj": 246,
+    "kod": "XY ",
+    "nazwa": "ORGANIZACJA NARODÓW ZJEDNOCZONYCH"
+  },
+  {
+    "idslkraj": 169,
+    "kod": "PK ",
+    "nazwa": "PAKISTAN"
+  },
+  {
+    "idslkraj": 174,
+    "kod": "PW ",
+    "nazwa": "PALAU (BELAU)"
+  },
+  {
+    "idslkraj": 284,
+    "kod": "PS",
+    "nazwa": "PALESTYNA"
+  },
+  {
+    "idslkraj": 164,
+    "kod": "PA ",
+    "nazwa": "PANAMA"
+  },
+  {
+    "idslkraj": 167,
+    "kod": "PG ",
+    "nazwa": "PAPUA - NOWA GWINEA"
+  },
+  {
+    "idslkraj": 175,
+    "kod": "PY ",
+    "nazwa": "PARAGWAJ"
+  },
+  {
+    "idslkraj": 165,
+    "kod": "PE ",
+    "nazwa": "PERU"
+  },
+  {
+    "idslkraj": 171,
+    "kod": "PN ",
+    "nazwa": "PITCAIRN"
+  },
+  {
+    "idslkraj": 166,
+    "kod": "PF ",
+    "nazwa": "POLINEZJA FRANCUSKA"
+  },
+  {
+    "idslkraj": 170,
+    "kod": "PL ",
+    "nazwa": "POLSKA"
+  },
+  {
+    "idslkraj": 172,
+    "kod": "PR ",
+    "nazwa": "PORTORYKO"
+  },
+  {
+    "idslkraj": 173,
+    "kod": "PT ",
+    "nazwa": "PORTUGALIA"
+  },
+  {
+    "idslkraj": 40,
+    "kod": "CF ",
+    "nazwa": "REPUBLIKA ŚRODKOWOAFRYKAŃSKA"
+  },
+  {
+    "idslkraj": 52,
+    "kod": "CV ",
+    "nazwa": "REPUBLIKA ZIELONEGO PRZYLĄDKA"
+  },
+  {
+    "idslkraj": 177,
+    "kod": "RE ",
+    "nazwa": "REUNION"
+  },
+  {
+    "idslkraj": 179,
+    "kod": "RU ",
+    "nazwa": "ROSJA"
+  },
+  {
+    "idslkraj": 234,
+    "kod": "ZA ",
+    "nazwa": "RPA"
+  },
+  {
+    "idslkraj": 178,
+    "kod": "RO ",
+    "nazwa": "RUMUNIA"
+  },
+  {
+    "idslkraj": 180,
+    "kod": "RW ",
+    "nazwa": "RWANDA"
+  },
+  {
+    "idslkraj": 65,
+    "kod": "EH ",
+    "nazwa": "SAHARA ZACHODNIA"
+  },
+  {
+    "idslkraj": 115,
+    "kod": "KN ",
+    "nazwa": "SAINT KITTS I NEVIS"
+  },
+  {
+    "idslkraj": 123,
+    "kod": "LC ",
+    "nazwa": "SAINT LUCIA"
+  },
+  {
+    "idslkraj": 285,
+    "kod": "MF",
+    "nazwa": "SAINT MARTIN (CZĘŚĆ FRANCUSKA)"
+  },
+  {
+    "idslkraj": 222,
+    "kod": "VC ",
+    "nazwa": "SAINT VINCENT I GRENADYNY"
+  },
+  {
+    "idslkraj": 197,
+    "kod": "SV ",
+    "nazwa": "SALWADOR"
+  },
+  {
+    "idslkraj": 14,
+    "kod": "AS ",
+    "nazwa": "SAMOA AMERYKAŃSKIE"
+  },
+  {
+    "idslkraj": 229,
+    "kod": "WS ",
+    "nazwa": "SAMOA ZACHODNIE"
+  },
+  {
+    "idslkraj": 192,
+    "kod": "SM ",
+    "nazwa": "SAN MARINO"
+  },
+  {
+    "idslkraj": 193,
+    "kod": "SN ",
+    "nazwa": "SENEGAL"
+  },
+  {
+    "idslkraj": 249,
+    "kod": "YU ",
+    "nazwa": "SERBIA"
+  },
+  {
+    "idslkraj": 183,
+    "kod": "SC ",
+    "nazwa": "SESZELE"
+  },
+  {
+    "idslkraj": 191,
+    "kod": "SL ",
+    "nazwa": "SIERRA LEONE"
+  },
+  {
+    "idslkraj": 186,
+    "kod": "SG ",
+    "nazwa": "SINGAPUR"
+  },
+  {
+    "idslkraj": 286,
+    "kod": "SX",
+    "nazwa": "SINT MAARTEN (CZĘŚĆ NIDERLANDZKA)"
+  },
+  {
+    "idslkraj": 190,
+    "kod": "SK ",
+    "nazwa": "SŁOWACJA"
+  },
+  {
+    "idslkraj": 188,
+    "kod": "SI ",
+    "nazwa": "SŁOWENIA"
+  },
+  {
+    "idslkraj": 194,
+    "kod": "SO ",
+    "nazwa": "SOMALIA"
+  },
+  {
+    "idslkraj": 125,
+    "kod": "LK ",
+    "nazwa": "SRI LANKA"
+  },
+  {
+    "idslkraj": 218,
+    "kod": "US ",
+    "nazwa": "STANY ZJEDNOCZONE AMERYKI"
+  },
+  {
+    "idslkraj": 184,
+    "kod": "SD ",
+    "nazwa": "SUDAN"
+  },
+  {
+    "idslkraj": 287,
+    "kod": "SS",
+    "nazwa": "SUDAN POŁUDNIOWY"
+  },
+  {
+    "idslkraj": 195,
+    "kod": "SR ",
+    "nazwa": "SURINAM"
+  },
+  {
+    "idslkraj": 189,
+    "kod": "SJ ",
+    "nazwa": "SVALBARD I JAN MAYEN"
+  },
+  {
+    "idslkraj": 198,
+    "kod": "SY ",
+    "nazwa": "SYRIA"
+  },
+  {
+    "idslkraj": 42,
+    "kod": "CH ",
+    "nazwa": "SZWAJCARIA"
+  },
+  {
+    "idslkraj": 185,
+    "kod": "SE ",
+    "nazwa": "SZWECJA"
+  },
+  {
+    "idslkraj": 204,
+    "kod": "TJ ",
+    "nazwa": "TADŻYKISTAN"
+  },
+  {
+    "idslkraj": 203,
+    "kod": "TH ",
+    "nazwa": "TAJLANDIA"
+  },
+  {
+    "idslkraj": 213,
+    "kod": "TW ",
+    "nazwa": "TAJWAN"
+  },
+  {
+    "idslkraj": 214,
+    "kod": "TZ ",
+    "nazwa": "TANZANIA"
+  },
+  {
+    "idslkraj": 209,
+    "kod": "TP ",
+    "nazwa": "TIMOR WSCHODNI"
+  },
+  {
+    "idslkraj": 202,
+    "kod": "TG ",
+    "nazwa": "TOGO"
+  },
+  {
+    "idslkraj": 205,
+    "kod": "TK ",
+    "nazwa": "TOKELAU"
+  },
+  {
+    "idslkraj": 208,
+    "kod": "TO ",
+    "nazwa": "TONGA"
+  },
+  {
+    "idslkraj": 211,
+    "kod": "TT ",
+    "nazwa": "TRYNIDAD I TOBAGO"
+  },
+  {
+    "idslkraj": 207,
+    "kod": "TN ",
+    "nazwa": "TUNEZJA"
+  },
+  {
+    "idslkraj": 210,
+    "kod": "TR ",
+    "nazwa": "TURCJA"
+  },
+  {
+    "idslkraj": 206,
+    "kod": "TM ",
+    "nazwa": "TURKMENISTAN"
+  },
+  {
+    "idslkraj": 247,
+    "kod": "TC ",
+    "nazwa": "TURKS I CAICOS"
+  },
+  {
+    "idslkraj": 212,
+    "kod": "TV ",
+    "nazwa": "TUVALU"
+  },
+  {
+    "idslkraj": 216,
+    "kod": "UG ",
+    "nazwa": "UGANDA"
+  },
+  {
+    "idslkraj": 215,
+    "kod": "UA ",
+    "nazwa": "UKRAINA"
+  },
+  {
+    "idslkraj": 219,
+    "kod": "UY ",
+    "nazwa": "URUGWAJ"
+  },
+  {
+    "idslkraj": 220,
+    "kod": "UZ ",
+    "nazwa": "UZBEKISTAN"
+  },
+  {
+    "idslkraj": 227,
+    "kod": "VU ",
+    "nazwa": "VANUATU"
+  },
+  {
+    "idslkraj": 228,
+    "kod": "WF ",
+    "nazwa": "WALLIS I FORTUNA"
+  },
+  {
+    "idslkraj": 221,
+    "kod": "VA ",
+    "nazwa": "WATYKAN"
+  },
+  {
+    "idslkraj": 98,
+    "kod": "HU ",
+    "nazwa": "WĘGRY"
+  },
+  {
+    "idslkraj": 223,
+    "kod": "VE ",
+    "nazwa": "WENEZUELA"
+  },
+  {
+    "idslkraj": 76,
+    "kod": "GB ",
+    "nazwa": "WIELKA BRYTANIA"
+  },
+  {
+    "idslkraj": 226,
+    "kod": "VN ",
+    "nazwa": "WIETNAM"
+  },
+  {
+    "idslkraj": 107,
+    "kod": "IT ",
+    "nazwa": "WŁOCHY"
+  },
+  {
+    "idslkraj": 43,
+    "kod": "CI ",
+    "nazwa": "WYBRZEŻE KOŚCI SŁONIOWEJ"
+  },
+  {
+    "idslkraj": 35,
+    "kod": "BV ",
+    "nazwa": "WYSPA BOUVETA"
+  },
+  {
+    "idslkraj": 53,
+    "kod": "CX ",
+    "nazwa": "WYSPA BOŻEGO NARODZENIA"
+  },
+  {
+    "idslkraj": 44,
+    "kod": "CK ",
+    "nazwa": "WYSPY COOKA"
+  },
+  {
+    "idslkraj": 225,
+    "kod": "VI ",
+    "nazwa": "WYSPY DZIEWICZE STANÓW ZJEDNOCZONYCH"
+  },
+  {
+    "idslkraj": 94,
+    "kod": "HM ",
+    "nazwa": "WYSPY HEARD I MCDONALDA"
+  },
+  {
+    "idslkraj": 39,
+    "kod": "CC ",
+    "nazwa": "WYSPY KOKOSOWE"
+  },
+  {
+    "idslkraj": 136,
+    "kod": "MH ",
+    "nazwa": "WYSPY MARSHALLA"
+  },
+  {
+    "idslkraj": 73,
+    "kod": "FO ",
+    "nazwa": "WYSPY OWCZE"
+  },
+  {
+    "idslkraj": 182,
+    "kod": "SB ",
+    "nazwa": "WYSPY SALOMONA"
+  },
+  {
+    "idslkraj": 196,
+    "kod": "ST ",
+    "nazwa": "WYSPY ŚWIĘTEGO TOMASZA I KSIĄŻĘCA"
+  },
+  {
+    "idslkraj": 187,
+    "kod": "SH ",
+    "nazwa": "WYSPY ŚWIĘTEJ HELENY, WNIEBOWSTĄPIENIA I TRISTAN DA CUNHA"
+  },
+  {
+    "idslkraj": 235,
+    "kod": "ZK ",
+    "nazwa": "ZAKON KAWALERÓW MALTAŃSKICH"
+  },
+  {
+    "idslkraj": 236,
+    "kod": "ZM ",
+    "nazwa": "ZAMBIA"
+  },
+  {
+    "idslkraj": 238,
+    "kod": "ZW ",
+    "nazwa": "ZIMBABWE"
+  },
+  {
+    "idslkraj": 4,
+    "kod": "AE ",
+    "nazwa": "ZJEDNOCZONE EMIRATY ARABSKIE"
+  }
+]

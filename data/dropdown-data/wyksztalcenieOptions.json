@@ -1,0 +1,47 @@
+[
+  {
+    "idslwyksztalcenie": 4,
+    "kod": "009",
+    "nazwa": "BRAK WYKSZTAŁCENIA"
+  },
+  {
+    "idslwyksztalcenie": 1,
+    "kod": "008",
+    "nazwa": "NIEPEŁNE PODSTAWOWE"
+  },
+  {
+    "idslwyksztalcenie": 5,
+    "kod": "005",
+    "nazwa": "NIEPEŁNE ŚREDNIE"
+  },
+  {
+    "idslwyksztalcenie": 10,
+    "kod": "002",
+    "nazwa": "NIEPEŁNE WYŻSZE"
+  },
+  {
+    "idslwyksztalcenie": 2,
+    "kod": "007",
+    "nazwa": "PODSTAWOWE"
+  },
+  {
+    "idslwyksztalcenie": 7,
+    "kod": "004",
+    "nazwa": "ŚREDNIE OGÓLNE"
+  },
+  {
+    "idslwyksztalcenie": 8,
+    "kod": "003",
+    "nazwa": "ŚREDNIE ZAWODOWE"
+  },
+  {
+    "idslwyksztalcenie": 9,
+    "kod": "001",
+    "nazwa": "WYŻSZE"
+  },
+  {
+    "idslwyksztalcenie": 6,
+    "kod": "006",
+    "nazwa": "ZAWODOWE"
+  }
+]

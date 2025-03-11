@@ -1,0 +1,27 @@
+[
+  {
+    "idslpodstawapobytu": 4,
+    "kod": "04",
+    "nazwa": "DOKUMENT UPRAWNIAJĄCY DO WJAZDU I POBYTU WYDANY PRZEZ INNE PAŃSTWO OBSZARU SCHENGEN"
+  },
+  {
+    "idslpodstawapobytu": 21,
+    "kod": "05",
+    "nazwa": "INNA"
+  },
+  {
+    "idslpodstawapobytu": 1,
+    "kod": "01",
+    "nazwa": "RUCH BEZWIZOWY"
+  },
+  {
+    "idslpodstawapobytu": 2,
+    "kod": "02",
+    "nazwa": "WIZA"
+  },
+  {
+    "idslpodstawapobytu": 3,
+    "kod": "03",
+    "nazwa": "ZEZWOLENIE NA POBYT CZASOWY"
+  }
+]

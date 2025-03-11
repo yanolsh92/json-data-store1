@@ -1,0 +1,1332 @@
+[
+  {
+    "idslobywatelstwo": 72,
+    "kod": "AFG",
+    "nazwa": "AFGANISTAN"
+  },
+  {
+    "idslobywatelstwo": 333,
+    "kod": "UNA",
+    "nazwa": "AGENCJA WYSPECJALIZOWANA ONZ"
+  },
+  {
+    "idslobywatelstwo": 74,
+    "kod": "ALB",
+    "nazwa": "ALBANIA"
+  },
+  {
+    "idslobywatelstwo": 102,
+    "kod": "DZA",
+    "nazwa": "ALGIERIA"
+  },
+  {
+    "idslobywatelstwo": 75,
+    "kod": "AND",
+    "nazwa": "ANDORA"
+  },
+  {
+    "idslobywatelstwo": 73,
+    "kod": "AGO",
+    "nazwa": "ANGOLA"
+  },
+  {
+    "idslobywatelstwo": 193,
+    "kod": "AIA",
+    "nazwa": "ANGUILLA"
+  },
+  {
+    "idslobywatelstwo": 194,
+    "kod": "ATA",
+    "nazwa": "ANTARKTYDA"
+  },
+  {
+    "idslobywatelstwo": 79,
+    "kod": "ATG",
+    "nazwa": "ANTIGUA I BARBUDA"
+  },
+  {
+    "idslobywatelstwo": 67,
+    "kod": "SAU",
+    "nazwa": "ARABIA SAUDYJSKA"
+  },
+  {
+    "idslobywatelstwo": 77,
+    "kod": "ARG",
+    "nazwa": "ARGENTYNA"
+  },
+  {
+    "idslobywatelstwo": 78,
+    "kod": "ARM",
+    "nazwa": "ARMENIA"
+  },
+  {
+    "idslobywatelstwo": 196,
+    "kod": "ABW",
+    "nazwa": "ARUBA"
+  },
+  {
+    "idslobywatelstwo": 80,
+    "kod": "AUS",
+    "nazwa": "AUSTRALIA"
+  },
+  {
+    "idslobywatelstwo": 81,
+    "kod": "AUT",
+    "nazwa": "AUSTRIA"
+  },
+  {
+    "idslobywatelstwo": 82,
+    "kod": "AZE",
+    "nazwa": "AZERBEJDŻAN"
+  },
+  {
+    "idslobywatelstwo": 4,
+    "kod": "BHS",
+    "nazwa": "BAHAMY"
+  },
+  {
+    "idslobywatelstwo": 3,
+    "kod": "BHR",
+    "nazwa": "BAHRAJN"
+  },
+  {
+    "idslobywatelstwo": 1,
+    "kod": "BGD",
+    "nazwa": "BANGLADESZ"
+  },
+  {
+    "idslobywatelstwo": 87,
+    "kod": "BRB",
+    "nazwa": "BARBADOS"
+  },
+  {
+    "idslobywatelstwo": 84,
+    "kod": "BEL",
+    "nazwa": "BELGIA"
+  },
+  {
+    "idslobywatelstwo": 7,
+    "kod": "BLZ",
+    "nazwa": "BELIZE"
+  },
+  {
+    "idslobywatelstwo": 85,
+    "kod": "BEN",
+    "nazwa": "BENIN"
+  },
+  {
+    "idslobywatelstwo": 197,
+    "kod": "BMU",
+    "nazwa": "BERMUDY"
+  },
+  {
+    "idslobywatelstwo": 185,
+    "kod": "XXA",
+    "nazwa": "BEZ OBYWATELSTWA"
+  },
+  {
+    "idslobywatelstwo": 89,
+    "kod": "BTN",
+    "nazwa": "BHUTAN"
+  },
+  {
+    "idslobywatelstwo": 6,
+    "kod": "BLR",
+    "nazwa": "BIAŁORUŚ"
+  },
+  {
+    "idslobywatelstwo": 8,
+    "kod": "BOL",
+    "nazwa": "BOLIWIA"
+  },
+  {
+    "idslobywatelstwo": 301,
+    "kod": "BES",
+    "nazwa": "BONAIRE, SINT EUSTATIUS I SABA"
+  },
+  {
+    "idslobywatelstwo": 5,
+    "kod": "BIH",
+    "nazwa": "BOŚNIA I HERCEGOWINA"
+  },
+  {
+    "idslobywatelstwo": 90,
+    "kod": "BWA",
+    "nazwa": "BOTSWANA"
+  },
+  {
+    "idslobywatelstwo": 9,
+    "kod": "BRA",
+    "nazwa": "BRAZYLIA"
+  },
+  {
+    "idslobywatelstwo": 88,
+    "kod": "BRN",
+    "nazwa": "BRUNEI"
+  },
+  {
+    "idslobywatelstwo": 331,
+    "kod": "GBP",
+    "nazwa": "BRYTYJSKA OSOBA CHRONIONA"
+  },
+  {
+    "idslobywatelstwo": 328,
+    "kod": "GBD",
+    "nazwa": "BRYTYJSKIE TERYTORIA ZALEŻNE"
+  },
+  {
+    "idslobywatelstwo": 192,
+    "kod": "IOT",
+    "nazwa": "BRYTYJSKIE TERYTORIUM OCEANU INDYJSKIEGO"
+  },
+  {
+    "idslobywatelstwo": 230,
+    "kod": "VGB",
+    "nazwa": "BRYTYJSKIE WYSPY DZIEWICZE"
+  },
+  {
+    "idslobywatelstwo": 330,
+    "kod": "GBO",
+    "nazwa": "BRYTYJSKI OBYWATEL ZA GRANICĄ"
+  },
+  {
+    "idslobywatelstwo": 2,
+    "kod": "BGR",
+    "nazwa": "BUŁGARIA"
+  },
+  {
+    "idslobywatelstwo": 86,
+    "kod": "BFA",
+    "nazwa": "BURKINA FASO"
+  },
+  {
+    "idslobywatelstwo": 83,
+    "kod": "BDI",
+    "nazwa": "BURUNDI"
+  },
+  {
+    "idslobywatelstwo": 94,
+    "kod": "CHL",
+    "nazwa": "CHILE"
+  },
+  {
+    "idslobywatelstwo": 95,
+    "kod": "CHN",
+    "nazwa": "CHINY"
+  },
+  {
+    "idslobywatelstwo": 30,
+    "kod": "HRV",
+    "nazwa": "CHORWACJA"
+  },
+  {
+    "idslobywatelstwo": 327,
+    "kod": "CUW",
+    "nazwa": "CURACAO"
+  },
+  {
+    "idslobywatelstwo": 17,
+    "kod": "CYP",
+    "nazwa": "CYPR"
+  },
+  {
+    "idslobywatelstwo": 141,
+    "kod": "TCD",
+    "nazwa": "CZAD"
+  },
+  {
+    "idslobywatelstwo": 253,
+    "kod": "MNE",
+    "nazwa": "CZARNOGÓRA"
+  },
+  {
+    "idslobywatelstwo": 96,
+    "kod": "CZE",
+    "nazwa": "CZECHY"
+  },
+  {
+    "idslobywatelstwo": 335,
+    "kod": "CRC",
+    "nazwa": "CZERWONY KRZYŻ"
+  },
+  {
+    "idslobywatelstwo": 210,
+    "kod": "UMI",
+    "nazwa": "DALEKIE WYSPY MNIEJSZE STANÓW ZJEDNOCZONYCH"
+  },
+  {
+    "idslobywatelstwo": 100,
+    "kod": "DNK",
+    "nazwa": "DANIA"
+  },
+  {
+    "idslobywatelstwo": 258,
+    "kod": "COD",
+    "nazwa": "DEMOKRATYCZNA REPUBLIKA KONGA"
+  },
+  {
+    "idslobywatelstwo": 99,
+    "kod": "DMA",
+    "nazwa": "DOMINIKA"
+  },
+  {
+    "idslobywatelstwo": 101,
+    "kod": "DOM",
+    "nazwa": "DOMINIKANA"
+  },
+  {
+    "idslobywatelstwo": 98,
+    "kod": "DJI",
+    "nazwa": "DŻIBUTI"
+  },
+  {
+    "idslobywatelstwo": 104,
+    "kod": "EGY",
+    "nazwa": "EGIPT"
+  },
+  {
+    "idslobywatelstwo": 103,
+    "kod": "ECU",
+    "nazwa": "EKWADOR"
+  },
+  {
+    "idslobywatelstwo": 18,
+    "kod": "ERI",
+    "nazwa": "ERYTREA"
+  },
+  {
+    "idslobywatelstwo": 20,
+    "kod": "EST",
+    "nazwa": "ESTONIA"
+  },
+  {
+    "idslobywatelstwo": 402,
+    "kod": "SWZ",
+    "nazwa": "ESWATINI"
+  },
+  {
+    "idslobywatelstwo": 21,
+    "kod": "ETH",
+    "nazwa": "ETIOPIA"
+  },
+  {
+    "idslobywatelstwo": 198,
+    "kod": "FLK",
+    "nazwa": "FALKLANDY (MALWINY)"
+  },
+  {
+    "idslobywatelstwo": 23,
+    "kod": "FJI",
+    "nazwa": "FIDŻI"
+  },
+  {
+    "idslobywatelstwo": 161,
+    "kod": "PHL",
+    "nazwa": "FILIPINY"
+  },
+  {
+    "idslobywatelstwo": 22,
+    "kod": "FIN",
+    "nazwa": "FINLANDIA"
+  },
+  {
+    "idslobywatelstwo": 24,
+    "kod": "FRA",
+    "nazwa": "FRANCJA"
+  },
+  {
+    "idslobywatelstwo": 199,
+    "kod": "ATF",
+    "nazwa": "FRANCUSKIE TERYTORIA POŁUDNIOWE I ANTARKTYCZNE"
+  },
+  {
+    "idslobywatelstwo": 26,
+    "kod": "GAB",
+    "nazwa": "GABON"
+  },
+  {
+    "idslobywatelstwo": 108,
+    "kod": "GMB",
+    "nazwa": "GAMBIA"
+  },
+  {
+    "idslobywatelstwo": 235,
+    "kod": "SGS",
+    "nazwa": "GEORGIA POŁUDNIOWA I SANDWICH POŁUDNIOWY"
+  },
+  {
+    "idslobywatelstwo": 106,
+    "kod": "GHA",
+    "nazwa": "GHANA"
+  },
+  {
+    "idslobywatelstwo": 201,
+    "kod": "GIB",
+    "nazwa": "GIBRALTAR"
+  },
+  {
+    "idslobywatelstwo": 111,
+    "kod": "GRC",
+    "nazwa": "GRECJA"
+  },
+  {
+    "idslobywatelstwo": 112,
+    "kod": "GRD",
+    "nazwa": "GRENADA"
+  },
+  {
+    "idslobywatelstwo": 202,
+    "kod": "GRL",
+    "nazwa": "GRENLANDIA"
+  },
+  {
+    "idslobywatelstwo": 105,
+    "kod": "GEO",
+    "nazwa": "GRUZJA"
+  },
+  {
+    "idslobywatelstwo": 203,
+    "kod": "GUM",
+    "nazwa": "GUAM"
+  },
+  {
+    "idslobywatelstwo": 303,
+    "kod": "GGY",
+    "nazwa": "GUERNSEY"
+  },
+  {
+    "idslobywatelstwo": 28,
+    "kod": "GUY",
+    "nazwa": "GUJANA"
+  },
+  {
+    "idslobywatelstwo": 204,
+    "kod": "GUF",
+    "nazwa": "GUJANA FRANCUSKA"
+  },
+  {
+    "idslobywatelstwo": 205,
+    "kod": "GLP",
+    "nazwa": "GWADELUPA"
+  },
+  {
+    "idslobywatelstwo": 27,
+    "kod": "GTM",
+    "nazwa": "GWATEMALA"
+  },
+  {
+    "idslobywatelstwo": 107,
+    "kod": "GIN",
+    "nazwa": "GWINEA"
+  },
+  {
+    "idslobywatelstwo": 109,
+    "kod": "GNB",
+    "nazwa": "GWINEA BISSAU"
+  },
+  {
+    "idslobywatelstwo": 110,
+    "kod": "GNQ",
+    "nazwa": "GWINEA RÓWNIKOWA"
+  },
+  {
+    "idslobywatelstwo": 31,
+    "kod": "HTI",
+    "nazwa": "HAITI"
+  },
+  {
+    "idslobywatelstwo": 19,
+    "kod": "ESP",
+    "nazwa": "HISZPANIA"
+  },
+  {
+    "idslobywatelstwo": 29,
+    "kod": "HND",
+    "nazwa": "HONDURAS"
+  },
+  {
+    "idslobywatelstwo": 325,
+    "kod": "HKG",
+    "nazwa": "HONGKONG"
+  },
+  {
+    "idslobywatelstwo": 326,
+    "kod": "HKG",
+    "nazwa": "HONGKONG (CHINY)"
+  },
+  {
+    "idslobywatelstwo": 34,
+    "kod": "IND",
+    "nazwa": "INDIE"
+  },
+  {
+    "idslobywatelstwo": 33,
+    "kod": "IDN",
+    "nazwa": "INDONEZJA"
+  },
+  {
+    "idslobywatelstwo": 114,
+    "kod": "IRQ",
+    "nazwa": "IRAK"
+  },
+  {
+    "idslobywatelstwo": 113,
+    "kod": "IRN",
+    "nazwa": "IRAN"
+  },
+  {
+    "idslobywatelstwo": 244,
+    "kod": "IRL",
+    "nazwa": "IRLANDIA"
+  },
+  {
+    "idslobywatelstwo": 115,
+    "kod": "ISL",
+    "nazwa": "ISLANDIA"
+  },
+  {
+    "idslobywatelstwo": 116,
+    "kod": "ISR",
+    "nazwa": "IZRAEL"
+  },
+  {
+    "idslobywatelstwo": 118,
+    "kod": "JAM",
+    "nazwa": "JAMAJKA"
+  },
+  {
+    "idslobywatelstwo": 120,
+    "kod": "JPN",
+    "nazwa": "JAPONIA"
+  },
+  {
+    "idslobywatelstwo": 187,
+    "kod": "YEM",
+    "nazwa": "JEMEN"
+  },
+  {
+    "idslobywatelstwo": 304,
+    "kod": "JEY",
+    "nazwa": "JERSEY"
+  },
+  {
+    "idslobywatelstwo": 119,
+    "kod": "JOR",
+    "nazwa": "JORDANIA"
+  },
+  {
+    "idslobywatelstwo": 207,
+    "kod": "CYM",
+    "nazwa": "KAJMANY"
+  },
+  {
+    "idslobywatelstwo": 37,
+    "kod": "KHM",
+    "nazwa": "KAMBODŻA"
+  },
+  {
+    "idslobywatelstwo": 243,
+    "kod": "CMR",
+    "nazwa": "KAMERUN"
+  },
+  {
+    "idslobywatelstwo": 92,
+    "kod": "CAN",
+    "nazwa": "KANADA"
+  },
+  {
+    "idslobywatelstwo": 63,
+    "kod": "QAT",
+    "nazwa": "KATAR"
+  },
+  {
+    "idslobywatelstwo": 121,
+    "kod": "KAZ",
+    "nazwa": "KAZACHSTAN"
+  },
+  {
+    "idslobywatelstwo": 35,
+    "kod": "KEN",
+    "nazwa": "KENIA"
+  },
+  {
+    "idslobywatelstwo": 36,
+    "kod": "KGZ",
+    "nazwa": "KIRGISTAN"
+  },
+  {
+    "idslobywatelstwo": 38,
+    "kod": "KIR",
+    "nazwa": "KIRIBATI"
+  },
+  {
+    "idslobywatelstwo": 12,
+    "kod": "COL",
+    "nazwa": "KOLUMBIA"
+  },
+  {
+    "idslobywatelstwo": 13,
+    "kod": "COM",
+    "nazwa": "KOMORY"
+  },
+  {
+    "idslobywatelstwo": 11,
+    "kod": "COG",
+    "nazwa": "KONGO"
+  },
+  {
+    "idslobywatelstwo": 259,
+    "kod": "PRK",
+    "nazwa": "KOREA PÓŁNOCNA"
+  },
+  {
+    "idslobywatelstwo": 40,
+    "kod": "KOR",
+    "nazwa": "KOREA POŁUDNIOWA"
+  },
+  {
+    "idslobywatelstwo": 261,
+    "kod": "XXK",
+    "nazwa": "KOSOWO"
+  },
+  {
+    "idslobywatelstwo": 15,
+    "kod": "CRI",
+    "nazwa": "KOSTARYKA"
+  },
+  {
+    "idslobywatelstwo": 16,
+    "kod": "CUB",
+    "nazwa": "KUBA"
+  },
+  {
+    "idslobywatelstwo": 41,
+    "kod": "KWT",
+    "nazwa": "KUWEJT"
+  },
+  {
+    "idslobywatelstwo": 42,
+    "kod": "LAO",
+    "nazwa": "LAOS"
+  },
+  {
+    "idslobywatelstwo": 127,
+    "kod": "LSO",
+    "nazwa": "LESOTHO"
+  },
+  {
+    "idslobywatelstwo": 43,
+    "kod": "LBN",
+    "nazwa": "LIBAN"
+  },
+  {
+    "idslobywatelstwo": 122,
+    "kod": "LBR",
+    "nazwa": "LIBERIA"
+  },
+  {
+    "idslobywatelstwo": 314,
+    "kod": "LBY",
+    "nazwa": "LIBIA"
+  },
+  {
+    "idslobywatelstwo": 125,
+    "kod": "LIE",
+    "nazwa": "LIECHTENSTEIN"
+  },
+  {
+    "idslobywatelstwo": 128,
+    "kod": "LTU",
+    "nazwa": "LITWA"
+  },
+  {
+    "idslobywatelstwo": 130,
+    "kod": "LVA",
+    "nazwa": "ŁOTWA"
+  },
+  {
+    "idslobywatelstwo": 129,
+    "kod": "LUX",
+    "nazwa": "LUKSEMBURG"
+  },
+  {
+    "idslobywatelstwo": 422,
+    "kod": "MK",
+    "nazwa": "MACEDONIA PÓŁNOCNA"
+  },
+  {
+    "idslobywatelstwo": 48,
+    "kod": "MDG",
+    "nazwa": "MADAGASKAR"
+  },
+  {
+    "idslobywatelstwo": 249,
+    "kod": "MYT",
+    "nazwa": "MAJOTTA"
+  },
+  {
+    "idslobywatelstwo": 361,
+    "kod": "MAC",
+    "nazwa": "MAKAU (CHINY)"
+  },
+  {
+    "idslobywatelstwo": 155,
+    "kod": "MWI",
+    "nazwa": "MALAWI"
+  },
+  {
+    "idslobywatelstwo": 49,
+    "kod": "MDV",
+    "nazwa": "MALEDIWY"
+  },
+  {
+    "idslobywatelstwo": 156,
+    "kod": "MYS",
+    "nazwa": "MALEZJA"
+  },
+  {
+    "idslobywatelstwo": 52,
+    "kod": "MLI",
+    "nazwa": "MALI"
+  },
+  {
+    "idslobywatelstwo": 247,
+    "kod": "MLT",
+    "nazwa": "MALTA"
+  },
+  {
+    "idslobywatelstwo": 208,
+    "kod": "MNP",
+    "nazwa": "MARIANY PÓŁNOCNE"
+  },
+  {
+    "idslobywatelstwo": 45,
+    "kod": "MAR",
+    "nazwa": "MAROKO"
+  },
+  {
+    "idslobywatelstwo": 209,
+    "kod": "MTQ",
+    "nazwa": "MARTYNIKA"
+  },
+  {
+    "idslobywatelstwo": 134,
+    "kod": "MRT",
+    "nazwa": "MAURETANIA"
+  },
+  {
+    "idslobywatelstwo": 154,
+    "kod": "MUS",
+    "nazwa": "MAURITIUS"
+  },
+  {
+    "idslobywatelstwo": 50,
+    "kod": "MEX",
+    "nazwa": "MEKSYK"
+  },
+  {
+    "idslobywatelstwo": 341,
+    "kod": "TWN",
+    "nazwa": "MIESZKANIEC TAJWANU"
+  },
+  {
+    "idslobywatelstwo": 25,
+    "kod": "FSM",
+    "nazwa": "MIKRONEZJA"
+  },
+  {
+    "idslobywatelstwo": 255,
+    "kod": "UNK",
+    "nazwa": "MISJA TYMCZASOWEJ ADMINISTRACJI ONZ W KOSOWIE"
+  },
+  {
+    "idslobywatelstwo": 131,
+    "kod": "MMR",
+    "nazwa": "MJANMA/BIRMA"
+  },
+  {
+    "idslobywatelstwo": 281,
+    "kod": "MDA",
+    "nazwa": "MOŁDAWIA"
+  },
+  {
+    "idslobywatelstwo": 46,
+    "kod": "MCO",
+    "nazwa": "MONAKO"
+  },
+  {
+    "idslobywatelstwo": 132,
+    "kod": "MNG",
+    "nazwa": "MONGOLIA"
+  },
+  {
+    "idslobywatelstwo": 211,
+    "kod": "MSR",
+    "nazwa": "MONTSERRAT"
+  },
+  {
+    "idslobywatelstwo": 133,
+    "kod": "MOZ",
+    "nazwa": "MOZAMBIK"
+  },
+  {
+    "idslobywatelstwo": 157,
+    "kod": "NAM",
+    "nazwa": "NAMIBIA"
+  },
+  {
+    "idslobywatelstwo": 329,
+    "kod": "GBN",
+    "nazwa": "NARODOWOŚĆ BRYTYJSKA (ZA GRANICĄ)"
+  },
+  {
+    "idslobywatelstwo": 59,
+    "kod": "NRU",
+    "nazwa": "NAURU"
+  },
+  {
+    "idslobywatelstwo": 58,
+    "kod": "NPL",
+    "nazwa": "NEPAL"
+  },
+  {
+    "idslobywatelstwo": 383,
+    "kod": "NLD",
+    "nazwa": "NIDERLANDY"
+  },
+  {
+    "idslobywatelstwo": 97,
+    "kod": "DEU",
+    "nazwa": "NIEMCY"
+  },
+  {
+    "idslobywatelstwo": 186,
+    "kod": "XXX",
+    "nazwa": "NIEOKREŚLONE"
+  },
+  {
+    "idslobywatelstwo": 53,
+    "kod": "NER",
+    "nazwa": "NIGER"
+  },
+  {
+    "idslobywatelstwo": 54,
+    "kod": "NGA",
+    "nazwa": "NIGERIA"
+  },
+  {
+    "idslobywatelstwo": 55,
+    "kod": "NIC",
+    "nazwa": "NIKARAGUA"
+  },
+  {
+    "idslobywatelstwo": 212,
+    "kod": "NIU",
+    "nazwa": "NIUE"
+  },
+  {
+    "idslobywatelstwo": 228,
+    "kod": "NFK",
+    "nazwa": "NORFOLK"
+  },
+  {
+    "idslobywatelstwo": 57,
+    "kod": "NOR",
+    "nazwa": "NORWEGIA"
+  },
+  {
+    "idslobywatelstwo": 213,
+    "kod": "NCL",
+    "nazwa": "NOWA KALEDONIA"
+  },
+  {
+    "idslobywatelstwo": 60,
+    "kod": "NZL",
+    "nazwa": "NOWA ZELANDIA"
+  },
+  {
+    "idslobywatelstwo": 61,
+    "kod": "OMN",
+    "nazwa": "OMAN"
+  },
+  {
+    "idslobywatelstwo": 214,
+    "kod": "UNO",
+    "nazwa": "ORGANIZACJA NARODÓW ZJEDNOCZONYCH"
+  },
+  {
+    "idslobywatelstwo": 158,
+    "kod": "PAK",
+    "nazwa": "PAKISTAN"
+  },
+  {
+    "idslobywatelstwo": 248,
+    "kod": "PLW",
+    "nazwa": "PALAU (BELAU)"
+  },
+  {
+    "idslobywatelstwo": 257,
+    "kod": "PSE",
+    "nazwa": "PALESTYNA"
+  },
+  {
+    "idslobywatelstwo": 159,
+    "kod": "PAN",
+    "nazwa": "PANAMA"
+  },
+  {
+    "idslobywatelstwo": 162,
+    "kod": "PNG",
+    "nazwa": "PAPUA-NOWA GWINEA"
+  },
+  {
+    "idslobywatelstwo": 62,
+    "kod": "PRY",
+    "nazwa": "PARAGWAJ"
+  },
+  {
+    "idslobywatelstwo": 160,
+    "kod": "PER",
+    "nazwa": "PERU"
+  },
+  {
+    "idslobywatelstwo": 215,
+    "kod": "PCN",
+    "nazwa": "PITCAIRN"
+  },
+  {
+    "idslobywatelstwo": 332,
+    "kod": "GBS",
+    "nazwa": "PODMIOT BRYTYJSKI"
+  },
+  {
+    "idslobywatelstwo": 216,
+    "kod": "PYF",
+    "nazwa": "POLINEZJA FRANCUSKA"
+  },
+  {
+    "idslobywatelstwo": 163,
+    "kod": "POL",
+    "nazwa": "POLSKA"
+  },
+  {
+    "idslobywatelstwo": 217,
+    "kod": "PRI",
+    "nazwa": "PORTORYKO"
+  },
+  {
+    "idslobywatelstwo": 165,
+    "kod": "PRT",
+    "nazwa": "PORTUGALIA"
+  },
+  {
+    "idslobywatelstwo": 382,
+    "kod": "MKD",
+    "nazwa": "REPUBLIKA MACEDONII PÓŁNOCNEJ"
+  },
+  {
+    "idslobywatelstwo": 91,
+    "kod": "CAF",
+    "nazwa": "REPUBLIKA ŚRODKOWOAFRYKAŃSKA"
+  },
+  {
+    "idslobywatelstwo": 14,
+    "kod": "CPV",
+    "nazwa": "REPUBLIKA ZIELONEGO PRZYLĄDKA"
+  },
+  {
+    "idslobywatelstwo": 218,
+    "kod": "REU",
+    "nazwa": "REUNION"
+  },
+  {
+    "idslobywatelstwo": 65,
+    "kod": "RUS",
+    "nazwa": "ROSJA"
+  },
+  {
+    "idslobywatelstwo": 188,
+    "kod": "ZAF",
+    "nazwa": "RPA"
+  },
+  {
+    "idslobywatelstwo": 64,
+    "kod": "ROU",
+    "nazwa": "RUMUNIA"
+  },
+  {
+    "idslobywatelstwo": 66,
+    "kod": "RWA",
+    "nazwa": "RWANDA"
+  },
+  {
+    "idslobywatelstwo": 219,
+    "kod": "ESH",
+    "nazwa": "SAHARA ZACHODNIA"
+  },
+  {
+    "idslobywatelstwo": 306,
+    "kod": "BLM",
+    "nazwa": "SAINT-BARTHÉLEMY"
+  },
+  {
+    "idslobywatelstwo": 39,
+    "kod": "KNA",
+    "nazwa": "SAINT KITTS I NEVIS"
+  },
+  {
+    "idslobywatelstwo": 124,
+    "kod": "LCA",
+    "nazwa": "SAINT LUCIA"
+  },
+  {
+    "idslobywatelstwo": 307,
+    "kod": "MAF",
+    "nazwa": "SAINT-MARTIN (CZĘŚĆ FRANCUSKA)"
+  },
+  {
+    "idslobywatelstwo": 260,
+    "kod": "SPM",
+    "nazwa": "SAINT-PIERRE I MIQUELON"
+  },
+  {
+    "idslobywatelstwo": 150,
+    "kod": "VCT",
+    "nazwa": "SAINT VINCENT I GRENADYNY"
+  },
+  {
+    "idslobywatelstwo": 169,
+    "kod": "SLV",
+    "nazwa": "SALWADOR"
+  },
+  {
+    "idslobywatelstwo": 184,
+    "kod": "WSM",
+    "nazwa": "SAMOA"
+  },
+  {
+    "idslobywatelstwo": 221,
+    "kod": "ASM",
+    "nazwa": "SAMOA AMERYKAŃSKIE"
+  },
+  {
+    "idslobywatelstwo": 170,
+    "kod": "SMR",
+    "nazwa": "SAN MARINO"
+  },
+  {
+    "idslobywatelstwo": 68,
+    "kod": "SEN",
+    "nazwa": "SENEGAL"
+  },
+  {
+    "idslobywatelstwo": 252,
+    "kod": "SRB",
+    "nazwa": "SERBIA"
+  },
+  {
+    "idslobywatelstwo": 139,
+    "kod": "SYC",
+    "nazwa": "SESZELE"
+  },
+  {
+    "idslobywatelstwo": 168,
+    "kod": "SLE",
+    "nazwa": "SIERRA LEONE"
+  },
+  {
+    "idslobywatelstwo": 135,
+    "kod": "SGP",
+    "nazwa": "SINGAPUR"
+  },
+  {
+    "idslobywatelstwo": 302,
+    "kod": "SXM",
+    "nazwa": "SINT MAARTEN (CZĘŚĆ HOLENDERSKA)"
+  },
+  {
+    "idslobywatelstwo": 174,
+    "kod": "SVK",
+    "nazwa": "SŁOWACJA"
+  },
+  {
+    "idslobywatelstwo": 136,
+    "kod": "SVN",
+    "nazwa": "SŁOWENIA"
+  },
+  {
+    "idslobywatelstwo": 171,
+    "kod": "SOM",
+    "nazwa": "SOMALIA"
+  },
+  {
+    "idslobywatelstwo": 126,
+    "kod": "LKA",
+    "nazwa": "SRI LANKA"
+  },
+  {
+    "idslobywatelstwo": 147,
+    "kod": "USA",
+    "nazwa": "STANY ZJEDNOCZONE"
+  },
+  {
+    "idslobywatelstwo": 311,
+    "kod": "SDN",
+    "nazwa": "SUDAN"
+  },
+  {
+    "idslobywatelstwo": 312,
+    "kod": "SSD",
+    "nazwa": "SUDAN POŁUDNIOWY"
+  },
+  {
+    "idslobywatelstwo": 173,
+    "kod": "SUR",
+    "nazwa": "SURINAM"
+  },
+  {
+    "idslobywatelstwo": 223,
+    "kod": "SJM",
+    "nazwa": "SVALBARD I JAN MAYEN"
+  },
+  {
+    "idslobywatelstwo": 140,
+    "kod": "SYR",
+    "nazwa": "SYRIA"
+  },
+  {
+    "idslobywatelstwo": 93,
+    "kod": "CHE",
+    "nazwa": "SZWAJCARIA"
+  },
+  {
+    "idslobywatelstwo": 137,
+    "kod": "SWE",
+    "nazwa": "SZWECJA"
+  },
+  {
+    "idslobywatelstwo": 144,
+    "kod": "TJK",
+    "nazwa": "TADŻYKISTAN"
+  },
+  {
+    "idslobywatelstwo": 143,
+    "kod": "THA",
+    "nazwa": "TAJLANDIA"
+  },
+  {
+    "idslobywatelstwo": 182,
+    "kod": "TZA",
+    "nazwa": "TANZANIA"
+  },
+  {
+    "idslobywatelstwo": 224,
+    "kod": "TLS",
+    "nazwa": "TIMOR WSCHODNI"
+  },
+  {
+    "idslobywatelstwo": 142,
+    "kod": "TGO",
+    "nazwa": "TOGO"
+  },
+  {
+    "idslobywatelstwo": 225,
+    "kod": "TKL",
+    "nazwa": "TOKELAU"
+  },
+  {
+    "idslobywatelstwo": 176,
+    "kod": "TON",
+    "nazwa": "TONGA"
+  },
+  {
+    "idslobywatelstwo": 177,
+    "kod": "TTO",
+    "nazwa": "TRYNIDAD I TOBAGO"
+  },
+  {
+    "idslobywatelstwo": 178,
+    "kod": "TUN",
+    "nazwa": "TUNEZJA"
+  },
+  {
+    "idslobywatelstwo": 179,
+    "kod": "TUR",
+    "nazwa": "TURCJA"
+  },
+  {
+    "idslobywatelstwo": 175,
+    "kod": "TKM",
+    "nazwa": "TURKMENISTAN"
+  },
+  {
+    "idslobywatelstwo": 236,
+    "kod": "TCA",
+    "nazwa": "TURKS I CAICOS"
+  },
+  {
+    "idslobywatelstwo": 180,
+    "kod": "TUV",
+    "nazwa": "TUVALU"
+  },
+  {
+    "idslobywatelstwo": 183,
+    "kod": "UGA",
+    "nazwa": "UGANDA"
+  },
+  {
+    "idslobywatelstwo": 145,
+    "kod": "UKR",
+    "nazwa": "UKRAINA"
+  },
+  {
+    "idslobywatelstwo": 334,
+    "kod": "UNR",
+    "nazwa": "UNHCR"
+  },
+  {
+    "idslobywatelstwo": 381,
+    "kod": "UE",
+    "nazwa": "UNIA EUROPEJSKA"
+  },
+  {
+    "idslobywatelstwo": 146,
+    "kod": "URY",
+    "nazwa": "URUGWAJ"
+  },
+  {
+    "idslobywatelstwo": 148,
+    "kod": "UZB",
+    "nazwa": "UZBEKISTAN"
+  },
+  {
+    "idslobywatelstwo": 153,
+    "kod": "VUT",
+    "nazwa": "VANUATU"
+  },
+  {
+    "idslobywatelstwo": 237,
+    "kod": "WLF",
+    "nazwa": "WALLIS I FUTUNA"
+  },
+  {
+    "idslobywatelstwo": 149,
+    "kod": "VAT",
+    "nazwa": "WATYKAN"
+  },
+  {
+    "idslobywatelstwo": 32,
+    "kod": "HUN",
+    "nazwa": "WĘGRY"
+  },
+  {
+    "idslobywatelstwo": 151,
+    "kod": "VEN",
+    "nazwa": "WENEZUELA"
+  },
+  {
+    "idslobywatelstwo": 246,
+    "kod": "GBR",
+    "nazwa": "WIELKA BRYTANIA"
+  },
+  {
+    "idslobywatelstwo": 152,
+    "kod": "VNM",
+    "nazwa": "WIETNAM"
+  },
+  {
+    "idslobywatelstwo": 117,
+    "kod": "ITA",
+    "nazwa": "WŁOCHY"
+  },
+  {
+    "idslobywatelstwo": 10,
+    "kod": "CIV",
+    "nazwa": "WYBRZEŻE KOŚCI SŁONIOWEJ"
+  },
+  {
+    "idslobywatelstwo": 226,
+    "kod": "BVT",
+    "nazwa": "WYSPA BOUVETA"
+  },
+  {
+    "idslobywatelstwo": 227,
+    "kod": "CXR",
+    "nazwa": "WYSPA BOŻEGO NARODZENIA"
+  },
+  {
+    "idslobywatelstwo": 308,
+    "kod": "IMN",
+    "nazwa": "WYSPA MAN"
+  },
+  {
+    "idslobywatelstwo": 220,
+    "kod": "SHN",
+    "nazwa": "WYSPA ŚWIĘTEJ HELENY, WYSPA WNIEBOWSTĄPIENIA I TRISTAN DA CUNHA"
+  },
+  {
+    "idslobywatelstwo": 309,
+    "kod": "ALA",
+    "nazwa": "WYSPY ALANDZKIE"
+  },
+  {
+    "idslobywatelstwo": 229,
+    "kod": "COK",
+    "nazwa": "WYSPY COOKA"
+  },
+  {
+    "idslobywatelstwo": 231,
+    "kod": "VIR",
+    "nazwa": "WYSPY DZIEWICZE STANÓW ZJEDNOCZONYCH"
+  },
+  {
+    "idslobywatelstwo": 232,
+    "kod": "HMD",
+    "nazwa": "WYSPY HEARD I MCDONALDA"
+  },
+  {
+    "idslobywatelstwo": 233,
+    "kod": "CCK",
+    "nazwa": "WYSPY KOKOSOWE"
+  },
+  {
+    "idslobywatelstwo": 51,
+    "kod": "MHL",
+    "nazwa": "WYSPY MARSHALLA"
+  },
+  {
+    "idslobywatelstwo": 234,
+    "kod": "FRO",
+    "nazwa": "WYSPY OWCZE"
+  },
+  {
+    "idslobywatelstwo": 167,
+    "kod": "SLB",
+    "nazwa": "WYSPY SALOMONA"
+  },
+  {
+    "idslobywatelstwo": 172,
+    "kod": "STP",
+    "nazwa": "WYSPY ŚWIĘTEGO TOMASZA I KSIĄŻĘCA"
+  },
+  {
+    "idslobywatelstwo": 238,
+    "kod": "ZKM",
+    "nazwa": "ZAKON KAWALERÓW MALTAŃSKICH"
+  },
+  {
+    "idslobywatelstwo": 190,
+    "kod": "ZMB",
+    "nazwa": "ZAMBIA"
+  },
+  {
+    "idslobywatelstwo": 191,
+    "kod": "ZWE",
+    "nazwa": "ZIMBABWE"
+  },
+  {
+    "idslobywatelstwo": 76,
+    "kod": "ARE",
+    "nazwa": "ZJEDNOCZONE EMIRATY ARABSKIE"
+  }
+]

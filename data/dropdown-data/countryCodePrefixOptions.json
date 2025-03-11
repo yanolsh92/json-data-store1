@@ -1,0 +1,1352 @@
+[
+  {
+    "idslmoskodkraju": 244,
+    "kod": "+93",
+    "nazwa": "Afganistan"
+  },
+  {
+    "idslmoskodkraju": 107,
+    "kod": "+355",
+    "nazwa": "Albania"
+  },
+  {
+    "idslmoskodkraju": 34,
+    "kod": "+213",
+    "nazwa": "Algieria"
+  },
+  {
+    "idslmoskodkraju": 119,
+    "kod": "+376",
+    "nazwa": "Andora"
+  },
+  {
+    "idslmoskodkraju": 61,
+    "kod": "+244",
+    "nazwa": "Angola"
+  },
+  {
+    "idslmoskodkraju": 6,
+    "kod": "+1 264",
+    "nazwa": "Anguilla"
+  },
+  {
+    "idslmoskodkraju": 7,
+    "kod": "+1 268",
+    "nazwa": "Antigua i Barbuda"
+  },
+  {
+    "idslmoskodkraju": 254,
+    "kod": "+966",
+    "nazwa": "Arabia Saudyjska"
+  },
+  {
+    "idslmoskodkraju": 155,
+    "kod": "+54",
+    "nazwa": "Argentyna"
+  },
+  {
+    "idslmoskodkraju": 117,
+    "kod": "+374",
+    "nazwa": "Armenia"
+  },
+  {
+    "idslmoskodkraju": 91,
+    "kod": "+297",
+    "nazwa": "Aruba"
+  },
+  {
+    "idslmoskodkraju": 187,
+    "kod": "+61",
+    "nazwa": "Australia"
+  },
+  {
+    "idslmoskodkraju": 196,
+    "kod": "+672 1",
+    "nazwa": "Australijskie Terytoria Antarktyczne"
+  },
+  {
+    "idslmoskodkraju": 132,
+    "kod": "+43",
+    "nazwa": "Austria"
+  },
+  {
+    "idslmoskodkraju": 267,
+    "kod": "+994",
+    "nazwa": "Azerbejdżan"
+  },
+  {
+    "idslmoskodkraju": 4,
+    "kod": "+1 242",
+    "nazwa": "Bahamy"
+  },
+  {
+    "idslmoskodkraju": 259,
+    "kod": "+973",
+    "nazwa": "Bahrajn"
+  },
+  {
+    "idslmoskodkraju": 229,
+    "kod": "+880",
+    "nazwa": "Bangladesz"
+  },
+  {
+    "idslmoskodkraju": 5,
+    "kod": "+1 246",
+    "nazwa": "Barbados"
+  },
+  {
+    "idslmoskodkraju": 96,
+    "kod": "+32",
+    "nazwa": "Belgia"
+  },
+  {
+    "idslmoskodkraju": 162,
+    "kod": "+501",
+    "nazwa": "Belize"
+  },
+  {
+    "idslmoskodkraju": 46,
+    "kod": "+229",
+    "nazwa": "Benin"
+  },
+  {
+    "idslmoskodkraju": 11,
+    "kod": "+1 441",
+    "nazwa": "Bermudy"
+  },
+  {
+    "idslmoskodkraju": 261,
+    "kod": "+975",
+    "nazwa": "Bhutan"
+  },
+  {
+    "idslmoskodkraju": 118,
+    "kod": "+375",
+    "nazwa": "Białoruś"
+  },
+  {
+    "idslmoskodkraju": 174,
+    "kod": "+591",
+    "nazwa": "Boliwia"
+  },
+  {
+    "idslmoskodkraju": 184,
+    "kod": "+599 7",
+    "nazwa": "Bonaire"
+  },
+  {
+    "idslmoskodkraju": 128,
+    "kod": "+387",
+    "nazwa": "Bośnia i Hercegowina"
+  },
+  {
+    "idslmoskodkraju": 85,
+    "kod": "+267",
+    "nazwa": "Botswana"
+  },
+  {
+    "idslmoskodkraju": 156,
+    "kod": "+55",
+    "nazwa": "Brazylia"
+  },
+  {
+    "idslmoskodkraju": 198,
+    "kod": "+673",
+    "nazwa": "Brunei"
+  },
+  {
+    "idslmoskodkraju": 63,
+    "kod": "+246",
+    "nazwa": "Brytyjskie Terytorium Oceanu Indyjskiego"
+  },
+  {
+    "idslmoskodkraju": 8,
+    "kod": "+1 284",
+    "nazwa": "Brytyjskie Wyspy Dziewicze"
+  },
+  {
+    "idslmoskodkraju": 112,
+    "kod": "+359",
+    "nazwa": "Bułgaria"
+  },
+  {
+    "idslmoskodkraju": 43,
+    "kod": "+226",
+    "nazwa": "Burkina Faso"
+  },
+  {
+    "idslmoskodkraju": 74,
+    "kod": "+257",
+    "nazwa": "Burundi"
+  },
+  {
+    "idslmoskodkraju": 157,
+    "kod": "+56",
+    "nazwa": "Chile"
+  },
+  {
+    "idslmoskodkraju": 222,
+    "kod": "+86",
+    "nazwa": "Chiny"
+  },
+  {
+    "idslmoskodkraju": 126,
+    "kod": "+385",
+    "nazwa": "Chorwacja"
+  },
+  {
+    "idslmoskodkraju": 185,
+    "kod": "+599 9",
+    "nazwa": "Curaçao"
+  },
+  {
+    "idslmoskodkraju": 109,
+    "kod": "+357",
+    "nazwa": "Cypr"
+  },
+  {
+    "idslmoskodkraju": 52,
+    "kod": "+235",
+    "nazwa": "Czad"
+  },
+  {
+    "idslmoskodkraju": 124,
+    "kod": "+382",
+    "nazwa": "Czarnogóra"
+  },
+  {
+    "idslmoskodkraju": 149,
+    "kod": "+420",
+    "nazwa": "Czechy"
+  },
+  {
+    "idslmoskodkraju": 143,
+    "kod": "+45",
+    "nazwa": "Dania"
+  },
+  {
+    "idslmoskodkraju": 60,
+    "kod": "+243",
+    "nazwa": "Demokratyczna Republika Kongo"
+  },
+  {
+    "idslmoskodkraju": 20,
+    "kod": "+1 767",
+    "nazwa": "Dominika"
+  },
+  {
+    "idslmoskodkraju": 23,
+    "kod": "+1 809",
+    "nazwa": "Dominikana"
+  },
+  {
+    "idslmoskodkraju": 24,
+    "kod": "+1 829",
+    "nazwa": "Dominikana"
+  },
+  {
+    "idslmoskodkraju": 25,
+    "kod": "+1 849",
+    "nazwa": "Dominikana"
+  },
+  {
+    "idslmoskodkraju": 70,
+    "kod": "+253",
+    "nazwa": "Dżibuti"
+  },
+  {
+    "idslmoskodkraju": 30,
+    "kod": "+20",
+    "nazwa": "Egipt"
+  },
+  {
+    "idslmoskodkraju": 176,
+    "kod": "+593",
+    "nazwa": "Ekwador"
+  },
+  {
+    "idslmoskodkraju": 232,
+    "kod": "+881 2",
+    "nazwa": "Ellipso (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 233,
+    "kod": "+881 3",
+    "nazwa": "Ellipso (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 238,
+    "kod": "+882 13",
+    "nazwa": "EMSAT (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 90,
+    "kod": "+291",
+    "nazwa": "Erytrea"
+  },
+  {
+    "idslmoskodkraju": 115,
+    "kod": "+372",
+    "nazwa": "Estonia"
+  },
+  {
+    "idslmoskodkraju": 86,
+    "kod": "+268",
+    "nazwa": "Eswatini"
+  },
+  {
+    "idslmoskodkraju": 68,
+    "kod": "+251",
+    "nazwa": "Etiopia"
+  },
+  {
+    "idslmoskodkraju": 160,
+    "kod": "+500",
+    "nazwa": "Falkandy (Malwiny)"
+  },
+  {
+    "idslmoskodkraju": 204,
+    "kod": "+679",
+    "nazwa": "Fidżi"
+  },
+  {
+    "idslmoskodkraju": 191,
+    "kod": "+63",
+    "nazwa": "Filipiny"
+  },
+  {
+    "idslmoskodkraju": 110,
+    "kod": "+358",
+    "nazwa": "Finlandia"
+  },
+  {
+    "idslmoskodkraju": 97,
+    "kod": "+33",
+    "nazwa": "Francja"
+  },
+  {
+    "idslmoskodkraju": 58,
+    "kod": "+241",
+    "nazwa": "Gabon"
+  },
+  {
+    "idslmoskodkraju": 37,
+    "kod": "+220",
+    "nazwa": "Gambia"
+  },
+  {
+    "idslmoskodkraju": 161,
+    "kod": "+500",
+    "nazwa": "Georgia Południowa i Sandwich Południowy"
+  },
+  {
+    "idslmoskodkraju": 50,
+    "kod": "+233",
+    "nazwa": "Ghana"
+  },
+  {
+    "idslmoskodkraju": 102,
+    "kod": "+350",
+    "nazwa": "Gibraltar"
+  },
+  {
+    "idslmoskodkraju": 236,
+    "kod": "+881 8",
+    "nazwa": "Globalstar (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 237,
+    "kod": "+881 9",
+    "nazwa": "Globalstar (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 94,
+    "kod": "+30",
+    "nazwa": "Grecja"
+  },
+  {
+    "idslmoskodkraju": 12,
+    "kod": "+1 473",
+    "nazwa": "Grenada"
+  },
+  {
+    "idslmoskodkraju": 93,
+    "kod": "+299",
+    "nazwa": "Grenlandia"
+  },
+  {
+    "idslmoskodkraju": 268,
+    "kod": "+995",
+    "nazwa": "Gruzja"
+  },
+  {
+    "idslmoskodkraju": 16,
+    "kod": "+1 671",
+    "nazwa": "Guam"
+  },
+  {
+    "idslmoskodkraju": 134,
+    "kod": "+44 1481",
+    "nazwa": "Guernsey"
+  },
+  {
+    "idslmoskodkraju": 139,
+    "kod": "+44 7781",
+    "nazwa": "Guernsey"
+  },
+  {
+    "idslmoskodkraju": 140,
+    "kod": "+44 7839",
+    "nazwa": "Guernsey"
+  },
+  {
+    "idslmoskodkraju": 141,
+    "kod": "+44 7911",
+    "nazwa": "Guernsey"
+  },
+  {
+    "idslmoskodkraju": 175,
+    "kod": "+592",
+    "nazwa": "Gujana"
+  },
+  {
+    "idslmoskodkraju": 177,
+    "kod": "+594",
+    "nazwa": "Gujana Francuska"
+  },
+  {
+    "idslmoskodkraju": 172,
+    "kod": "+590",
+    "nazwa": "Gwadelupa"
+  },
+  {
+    "idslmoskodkraju": 163,
+    "kod": "+502",
+    "nazwa": "Gwatemala"
+  },
+  {
+    "idslmoskodkraju": 41,
+    "kod": "+224",
+    "nazwa": "Gwinea"
+  },
+  {
+    "idslmoskodkraju": 62,
+    "kod": "+245",
+    "nazwa": "Gwinea-Bissau"
+  },
+  {
+    "idslmoskodkraju": 57,
+    "kod": "+240",
+    "nazwa": "Gwinea Równikowa"
+  },
+  {
+    "idslmoskodkraju": 170,
+    "kod": "+509",
+    "nazwa": "Haiti"
+  },
+  {
+    "idslmoskodkraju": 98,
+    "kod": "+34",
+    "nazwa": "Hiszpania"
+  },
+  {
+    "idslmoskodkraju": 165,
+    "kod": "+504",
+    "nazwa": "Honduras"
+  },
+  {
+    "idslmoskodkraju": 224,
+    "kod": "+852",
+    "nazwa": "Hongkong"
+  },
+  {
+    "idslmoskodkraju": 230,
+    "kod": "+881 0",
+    "nazwa": "ICO Global (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 231,
+    "kod": "+881 1",
+    "nazwa": "ICO Global (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 242,
+    "kod": "+91",
+    "nazwa": "Indie"
+  },
+  {
+    "idslmoskodkraju": 190,
+    "kod": "+62",
+    "nazwa": "Indonezja"
+  },
+  {
+    "idslmoskodkraju": 228,
+    "kod": "+870",
+    "nazwa": "Inmarsat SNAC"
+  },
+  {
+    "idslmoskodkraju": 252,
+    "kod": "+964",
+    "nazwa": "Irak"
+  },
+  {
+    "idslmoskodkraju": 247,
+    "kod": "+98",
+    "nazwa": "Iran"
+  },
+  {
+    "idslmoskodkraju": 234,
+    "kod": "+881 6",
+    "nazwa": "Iridium (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 235,
+    "kod": "+881 7",
+    "nazwa": "Iridium (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 105,
+    "kod": "+353",
+    "nazwa": "Irlandia"
+  },
+  {
+    "idslmoskodkraju": 106,
+    "kod": "+354",
+    "nazwa": "Islandia"
+  },
+  {
+    "idslmoskodkraju": 258,
+    "kod": "+972",
+    "nazwa": "Izrael"
+  },
+  {
+    "idslmoskodkraju": 28,
+    "kod": "+1 876",
+    "nazwa": "Jamajka"
+  },
+  {
+    "idslmoskodkraju": 147,
+    "kod": "+47 79",
+    "nazwa": "Jan Mayen"
+  },
+  {
+    "idslmoskodkraju": 219,
+    "kod": "+81",
+    "nazwa": "Japonia"
+  },
+  {
+    "idslmoskodkraju": 255,
+    "kod": "+967",
+    "nazwa": "Jemen"
+  },
+  {
+    "idslmoskodkraju": 135,
+    "kod": "+44 1534",
+    "nazwa": "Jersey"
+  },
+  {
+    "idslmoskodkraju": 250,
+    "kod": "+962",
+    "nazwa": "Jordania"
+  },
+  {
+    "idslmoskodkraju": 10,
+    "kod": "+1 345",
+    "nazwa": "Kajmany"
+  },
+  {
+    "idslmoskodkraju": 226,
+    "kod": "+855",
+    "nazwa": "Kambodża"
+  },
+  {
+    "idslmoskodkraju": 54,
+    "kod": "+237",
+    "nazwa": "Kamerun"
+  },
+  {
+    "idslmoskodkraju": 2,
+    "kod": "+1",
+    "nazwa": "Kanada"
+  },
+  {
+    "idslmoskodkraju": 260,
+    "kod": "+974",
+    "nazwa": "Katar"
+  },
+  {
+    "idslmoskodkraju": 218,
+    "kod": "+7 7",
+    "nazwa": "Kazachstan"
+  },
+  {
+    "idslmoskodkraju": 71,
+    "kod": "+254",
+    "nazwa": "Kenia"
+  },
+  {
+    "idslmoskodkraju": 269,
+    "kod": "+996",
+    "nazwa": "Kirgistan"
+  },
+  {
+    "idslmoskodkraju": 210,
+    "kod": "+686",
+    "nazwa": "Kiribati"
+  },
+  {
+    "idslmoskodkraju": 158,
+    "kod": "+57",
+    "nazwa": "Kolumbia"
+  },
+  {
+    "idslmoskodkraju": 87,
+    "kod": "+269",
+    "nazwa": "Komory"
+  },
+  {
+    "idslmoskodkraju": 59,
+    "kod": "+242",
+    "nazwa": "Kongo"
+  },
+  {
+    "idslmoskodkraju": 223,
+    "kod": "+850",
+    "nazwa": "Korea Północna"
+  },
+  {
+    "idslmoskodkraju": 220,
+    "kod": "+82",
+    "nazwa": "Korea Południowa"
+  },
+  {
+    "idslmoskodkraju": 125,
+    "kod": "+383",
+    "nazwa": "Kosowo"
+  },
+  {
+    "idslmoskodkraju": 167,
+    "kod": "+506",
+    "nazwa": "Kostaryka"
+  },
+  {
+    "idslmoskodkraju": 154,
+    "kod": "+53",
+    "nazwa": "Kuba"
+  },
+  {
+    "idslmoskodkraju": 253,
+    "kod": "+965",
+    "nazwa": "Kuwejt"
+  },
+  {
+    "idslmoskodkraju": 227,
+    "kod": "+856",
+    "nazwa": "Laos"
+  },
+  {
+    "idslmoskodkraju": 84,
+    "kod": "+266",
+    "nazwa": "Lesoto"
+  },
+  {
+    "idslmoskodkraju": 249,
+    "kod": "+961",
+    "nazwa": "Liban"
+  },
+  {
+    "idslmoskodkraju": 48,
+    "kod": "+231",
+    "nazwa": "Liberia"
+  },
+  {
+    "idslmoskodkraju": 36,
+    "kod": "+218",
+    "nazwa": "Libia"
+  },
+  {
+    "idslmoskodkraju": 151,
+    "kod": "+423",
+    "nazwa": "Liechtenstein"
+  },
+  {
+    "idslmoskodkraju": 113,
+    "kod": "+370",
+    "nazwa": "Litwa"
+  },
+  {
+    "idslmoskodkraju": 114,
+    "kod": "+371",
+    "nazwa": "Łotwa"
+  },
+  {
+    "idslmoskodkraju": 104,
+    "kod": "+352",
+    "nazwa": "Luksemburg"
+  },
+  {
+    "idslmoskodkraju": 129,
+    "kod": "+389",
+    "nazwa": "Macedonia Północna"
+  },
+  {
+    "idslmoskodkraju": 77,
+    "kod": "+261",
+    "nazwa": "Madagaskar"
+  },
+  {
+    "idslmoskodkraju": 79,
+    "kod": "+262 269",
+    "nazwa": "Majotta"
+  },
+  {
+    "idslmoskodkraju": 80,
+    "kod": "+262 639",
+    "nazwa": "Majotta"
+  },
+  {
+    "idslmoskodkraju": 225,
+    "kod": "+853",
+    "nazwa": "Makao"
+  },
+  {
+    "idslmoskodkraju": 83,
+    "kod": "+265",
+    "nazwa": "Malawi"
+  },
+  {
+    "idslmoskodkraju": 248,
+    "kod": "+960",
+    "nazwa": "Malediwy"
+  },
+  {
+    "idslmoskodkraju": 186,
+    "kod": "+60",
+    "nazwa": "Malezja"
+  },
+  {
+    "idslmoskodkraju": 40,
+    "kod": "+223",
+    "nazwa": "Mali"
+  },
+  {
+    "idslmoskodkraju": 108,
+    "kod": "+356",
+    "nazwa": "Malta"
+  },
+  {
+    "idslmoskodkraju": 15,
+    "kod": "+1 670",
+    "nazwa": "Mariany Północne"
+  },
+  {
+    "idslmoskodkraju": 33,
+    "kod": "+212",
+    "nazwa": "Maroko"
+  },
+  {
+    "idslmoskodkraju": 179,
+    "kod": "+596",
+    "nazwa": "Martynika"
+  },
+  {
+    "idslmoskodkraju": 39,
+    "kod": "+222",
+    "nazwa": "Mauretania"
+  },
+  {
+    "idslmoskodkraju": 47,
+    "kod": "+230",
+    "nazwa": "Mauritius"
+  },
+  {
+    "idslmoskodkraju": 153,
+    "kod": "+52",
+    "nazwa": "Meksyk"
+  },
+  {
+    "idslmoskodkraju": 215,
+    "kod": "+691",
+    "nazwa": "Mikronezja (Sfederowane Państwa)"
+  },
+  {
+    "idslmoskodkraju": 246,
+    "kod": "+95",
+    "nazwa": "Mjanma"
+  },
+  {
+    "idslmoskodkraju": 116,
+    "kod": "+373",
+    "nazwa": "Mołdawia"
+  },
+  {
+    "idslmoskodkraju": 120,
+    "kod": "+377",
+    "nazwa": "Monako"
+  },
+  {
+    "idslmoskodkraju": 262,
+    "kod": "+976",
+    "nazwa": "Mongolia"
+  },
+  {
+    "idslmoskodkraju": 14,
+    "kod": "+1 664",
+    "nazwa": "Montserrat"
+  },
+  {
+    "idslmoskodkraju": 75,
+    "kod": "+258",
+    "nazwa": "Mozambik"
+  },
+  {
+    "idslmoskodkraju": 82,
+    "kod": "+264",
+    "nazwa": "Namibia"
+  },
+  {
+    "idslmoskodkraju": 199,
+    "kod": "+674",
+    "nazwa": "Nauru"
+  },
+  {
+    "idslmoskodkraju": 263,
+    "kod": "+977",
+    "nazwa": "Nepal"
+  },
+  {
+    "idslmoskodkraju": 95,
+    "kod": "+31",
+    "nazwa": "Niderlandy"
+  },
+  {
+    "idslmoskodkraju": 148,
+    "kod": "+49",
+    "nazwa": "Niemcy"
+  },
+  {
+    "idslmoskodkraju": 44,
+    "kod": "+227",
+    "nazwa": "Niger"
+  },
+  {
+    "idslmoskodkraju": 51,
+    "kod": "+234",
+    "nazwa": "Nigeria"
+  },
+  {
+    "idslmoskodkraju": 166,
+    "kod": "+505",
+    "nazwa": "Nikaragua"
+  },
+  {
+    "idslmoskodkraju": 208,
+    "kod": "+683",
+    "nazwa": "Niue"
+  },
+  {
+    "idslmoskodkraju": 197,
+    "kod": "+672 3",
+    "nazwa": "Norfolk"
+  },
+  {
+    "idslmoskodkraju": 145,
+    "kod": "+47",
+    "nazwa": "Norwegia"
+  },
+  {
+    "idslmoskodkraju": 211,
+    "kod": "+687",
+    "nazwa": "Nowa Kaledonia"
+  },
+  {
+    "idslmoskodkraju": 192,
+    "kod": "+64",
+    "nazwa": "Nowa Zelandia"
+  },
+  {
+    "idslmoskodkraju": 256,
+    "kod": "+968",
+    "nazwa": "Oman"
+  },
+  {
+    "idslmoskodkraju": 243,
+    "kod": "+92",
+    "nazwa": "Pakistan"
+  },
+  {
+    "idslmoskodkraju": 205,
+    "kod": "+680",
+    "nazwa": "Palau"
+  },
+  {
+    "idslmoskodkraju": 257,
+    "kod": "+970",
+    "nazwa": "Palestyna"
+  },
+  {
+    "idslmoskodkraju": 168,
+    "kod": "+507",
+    "nazwa": "Panama"
+  },
+  {
+    "idslmoskodkraju": 200,
+    "kod": "+675",
+    "nazwa": "Papua-Nowa Gwinea"
+  },
+  {
+    "idslmoskodkraju": 178,
+    "kod": "+595",
+    "nazwa": "Paragwaj"
+  },
+  {
+    "idslmoskodkraju": 152,
+    "kod": "+51",
+    "nazwa": "Peru"
+  },
+  {
+    "idslmoskodkraju": 213,
+    "kod": "+689",
+    "nazwa": "Polinezja Francuska"
+  },
+  {
+    "idslmoskodkraju": 1,
+    "kod": "+48",
+    "nazwa": "Polska"
+  },
+  {
+    "idslmoskodkraju": 22,
+    "kod": "+1 787",
+    "nazwa": "Portoryko"
+  },
+  {
+    "idslmoskodkraju": 29,
+    "kod": "+1 939",
+    "nazwa": "Portoryko"
+  },
+  {
+    "idslmoskodkraju": 103,
+    "kod": "+351",
+    "nazwa": "Portugalia"
+  },
+  {
+    "idslmoskodkraju": 31,
+    "kod": "+27",
+    "nazwa": "Republika Południowej Afryki"
+  },
+  {
+    "idslmoskodkraju": 53,
+    "kod": "+236",
+    "nazwa": "Republika Środkowoafrykańska"
+  },
+  {
+    "idslmoskodkraju": 78,
+    "kod": "+262",
+    "nazwa": "Réunion"
+  },
+  {
+    "idslmoskodkraju": 217,
+    "kod": "+7",
+    "nazwa": "Rosja"
+  },
+  {
+    "idslmoskodkraju": 130,
+    "kod": "+40",
+    "nazwa": "Rumunia"
+  },
+  {
+    "idslmoskodkraju": 67,
+    "kod": "+250",
+    "nazwa": "Rwanda"
+  },
+  {
+    "idslmoskodkraju": 183,
+    "kod": "+599 4",
+    "nazwa": "Saba"
+  },
+  {
+    "idslmoskodkraju": 173,
+    "kod": "+590",
+    "nazwa": "Saint Barthélemy"
+  },
+  {
+    "idslmoskodkraju": 27,
+    "kod": "+1 869",
+    "nazwa": "Saint Kitts i Nevis"
+  },
+  {
+    "idslmoskodkraju": 19,
+    "kod": "+1 758",
+    "nazwa": "Saint Lucia"
+  },
+  {
+    "idslmoskodkraju": 171,
+    "kod": "+590",
+    "nazwa": "Saint Martin (część francuska)"
+  },
+  {
+    "idslmoskodkraju": 169,
+    "kod": "+508",
+    "nazwa": "Saint Pierre i Miquelon"
+  },
+  {
+    "idslmoskodkraju": 21,
+    "kod": "+1 784",
+    "nazwa": "Saint Vincent i Grenadyny"
+  },
+  {
+    "idslmoskodkraju": 164,
+    "kod": "+503",
+    "nazwa": "Salwador"
+  },
+  {
+    "idslmoskodkraju": 209,
+    "kod": "+685",
+    "nazwa": "Samoa"
+  },
+  {
+    "idslmoskodkraju": 17,
+    "kod": "+1 684",
+    "nazwa": "Samoa Amerykańskie"
+  },
+  {
+    "idslmoskodkraju": 121,
+    "kod": "+378",
+    "nazwa": "San Marino"
+  },
+  {
+    "idslmoskodkraju": 38,
+    "kod": "+221",
+    "nazwa": "Senegal"
+  },
+  {
+    "idslmoskodkraju": 123,
+    "kod": "+381",
+    "nazwa": "Serbia"
+  },
+  {
+    "idslmoskodkraju": 65,
+    "kod": "+248",
+    "nazwa": "Seszele"
+  },
+  {
+    "idslmoskodkraju": 49,
+    "kod": "+232",
+    "nazwa": "Sierra Leone"
+  },
+  {
+    "idslmoskodkraju": 193,
+    "kod": "+65",
+    "nazwa": "Singapur"
+  },
+  {
+    "idslmoskodkraju": 182,
+    "kod": "+599 3",
+    "nazwa": "Sint Eustatius"
+  },
+  {
+    "idslmoskodkraju": 18,
+    "kod": "+1 721",
+    "nazwa": "Sint Maarten (część niderlandzka)"
+  },
+  {
+    "idslmoskodkraju": 150,
+    "kod": "+421",
+    "nazwa": "Słowacja"
+  },
+  {
+    "idslmoskodkraju": 127,
+    "kod": "+386",
+    "nazwa": "Słowenia"
+  },
+  {
+    "idslmoskodkraju": 69,
+    "kod": "+252",
+    "nazwa": "Somalia"
+  },
+  {
+    "idslmoskodkraju": 245,
+    "kod": "+94",
+    "nazwa": "Sri Lanka"
+  },
+  {
+    "idslmoskodkraju": 3,
+    "kod": "+1 ",
+    "nazwa": "Stany Zjednoczone"
+  },
+  {
+    "idslmoskodkraju": 66,
+    "kod": "+249",
+    "nazwa": "Sudan"
+  },
+  {
+    "idslmoskodkraju": 32,
+    "kod": "+211",
+    "nazwa": "Sudan Południowy"
+  },
+  {
+    "idslmoskodkraju": 180,
+    "kod": "+597",
+    "nazwa": "Surinam"
+  },
+  {
+    "idslmoskodkraju": 146,
+    "kod": "+47 79",
+    "nazwa": "Svalbard"
+  },
+  {
+    "idslmoskodkraju": 251,
+    "kod": "+963",
+    "nazwa": "Syria"
+  },
+  {
+    "idslmoskodkraju": 131,
+    "kod": "+41",
+    "nazwa": "Szwajcaria"
+  },
+  {
+    "idslmoskodkraju": 144,
+    "kod": "+46",
+    "nazwa": "Szwecja"
+  },
+  {
+    "idslmoskodkraju": 265,
+    "kod": "+992",
+    "nazwa": "Tadżykistan"
+  },
+  {
+    "idslmoskodkraju": 194,
+    "kod": "+66",
+    "nazwa": "Tajlandia"
+  },
+  {
+    "idslmoskodkraju": 240,
+    "kod": "+886",
+    "nazwa": "Tajwan"
+  },
+  {
+    "idslmoskodkraju": 72,
+    "kod": "+255",
+    "nazwa": "Tanzania"
+  },
+  {
+    "idslmoskodkraju": 239,
+    "kod": "+882 16",
+    "nazwa": "Thuraya (serwis satelitarny)"
+  },
+  {
+    "idslmoskodkraju": 195,
+    "kod": "+670",
+    "nazwa": "Timor Wschodni"
+  },
+  {
+    "idslmoskodkraju": 45,
+    "kod": "+228",
+    "nazwa": "Togo"
+  },
+  {
+    "idslmoskodkraju": 214,
+    "kod": "+690",
+    "nazwa": "Tokelau"
+  },
+  {
+    "idslmoskodkraju": 201,
+    "kod": "+676",
+    "nazwa": "Tonga"
+  },
+  {
+    "idslmoskodkraju": 89,
+    "kod": "+290 8",
+    "nazwa": "Tristan da Cunha"
+  },
+  {
+    "idslmoskodkraju": 26,
+    "kod": "+1 868",
+    "nazwa": "Trynidad i Tobago"
+  },
+  {
+    "idslmoskodkraju": 35,
+    "kod": "+216",
+    "nazwa": "Tunezja"
+  },
+  {
+    "idslmoskodkraju": 241,
+    "kod": "+90",
+    "nazwa": "Turcja"
+  },
+  {
+    "idslmoskodkraju": 266,
+    "kod": "+993",
+    "nazwa": "Turkmenia"
+  },
+  {
+    "idslmoskodkraju": 212,
+    "kod": "+688",
+    "nazwa": "Tuvalu"
+  },
+  {
+    "idslmoskodkraju": 73,
+    "kod": "+256",
+    "nazwa": "Uganda"
+  },
+  {
+    "idslmoskodkraju": 122,
+    "kod": "+380",
+    "nazwa": "Ukraina"
+  },
+  {
+    "idslmoskodkraju": 181,
+    "kod": "+598",
+    "nazwa": "Urugwaj"
+  },
+  {
+    "idslmoskodkraju": 270,
+    "kod": "+998",
+    "nazwa": "Uzbekistan"
+  },
+  {
+    "idslmoskodkraju": 203,
+    "kod": "+678",
+    "nazwa": "Vanuatu"
+  },
+  {
+    "idslmoskodkraju": 206,
+    "kod": "+681",
+    "nazwa": "Wallis i Futuna"
+  },
+  {
+    "idslmoskodkraju": 101,
+    "kod": "+39 06 698",
+    "nazwa": "Watykan"
+  },
+  {
+    "idslmoskodkraju": 99,
+    "kod": "+36",
+    "nazwa": "Węgry"
+  },
+  {
+    "idslmoskodkraju": 159,
+    "kod": "+58",
+    "nazwa": "Wenezuela"
+  },
+  {
+    "idslmoskodkraju": 133,
+    "kod": "+44",
+    "nazwa": "Wielka Brytania"
+  },
+  {
+    "idslmoskodkraju": 221,
+    "kod": "+84",
+    "nazwa": "Wietnam"
+  },
+  {
+    "idslmoskodkraju": 100,
+    "kod": "+39",
+    "nazwa": "Włochy"
+  },
+  {
+    "idslmoskodkraju": 42,
+    "kod": "+225",
+    "nazwa": "Wybrzeże Kości Słoniowej"
+  },
+  {
+    "idslmoskodkraju": 136,
+    "kod": "+44 1624",
+    "nazwa": "Wyspa Man"
+  },
+  {
+    "idslmoskodkraju": 137,
+    "kod": "+44 7524",
+    "nazwa": "Wyspa Man"
+  },
+  {
+    "idslmoskodkraju": 138,
+    "kod": "+44 7624",
+    "nazwa": "Wyspa Man"
+  },
+  {
+    "idslmoskodkraju": 142,
+    "kod": "+44 7924",
+    "nazwa": "Wyspa Man"
+  },
+  {
+    "idslmoskodkraju": 88,
+    "kod": "+290",
+    "nazwa": "Wyspa Św. Heleny"
+  },
+  {
+    "idslmoskodkraju": 64,
+    "kod": "+247",
+    "nazwa": "Wyspa Wniebowstąpienia"
+  },
+  {
+    "idslmoskodkraju": 111,
+    "kod": "+358 18",
+    "nazwa": "Wyspy Alandzkie"
+  },
+  {
+    "idslmoskodkraju": 189,
+    "kod": "+61 89164",
+    "nazwa": "Wyspy Bożego Narodzenia"
+  },
+  {
+    "idslmoskodkraju": 207,
+    "kod": "+682",
+    "nazwa": "Wyspy Cooka"
+  },
+  {
+    "idslmoskodkraju": 9,
+    "kod": "+1 340",
+    "nazwa": "Wyspy Dziewicze Stanów Zjednoczonych"
+  },
+  {
+    "idslmoskodkraju": 188,
+    "kod": "+61 89162",
+    "nazwa": "Wyspy Kokosowe"
+  },
+  {
+    "idslmoskodkraju": 216,
+    "kod": "+692",
+    "nazwa": "Wyspy Marshalla"
+  },
+  {
+    "idslmoskodkraju": 92,
+    "kod": "+298",
+    "nazwa": "Wyspy Owcze"
+  },
+  {
+    "idslmoskodkraju": 202,
+    "kod": "+677",
+    "nazwa": "Wyspy Salomona"
+  },
+  {
+    "idslmoskodkraju": 56,
+    "kod": "+239",
+    "nazwa": "Wyspy Świętego Tomasza i Książęca"
+  },
+  {
+    "idslmoskodkraju": 13,
+    "kod": "+1 649",
+    "nazwa": "Wyspy Turks i Caicos"
+  },
+  {
+    "idslmoskodkraju": 55,
+    "kod": "+238",
+    "nazwa": "Wyspy Zielonego Przylądka"
+  },
+  {
+    "idslmoskodkraju": 76,
+    "kod": "+260",
+    "nazwa": "Zambia"
+  },
+  {
+    "idslmoskodkraju": 81,
+    "kod": "+263",
+    "nazwa": "Zimbabwe"
+  },
+  {
+    "idslmoskodkraju": 264,
+    "kod": "+977",
+    "nazwa": "Zjednoczone Emiraty Arabskie"
+  }
+]
